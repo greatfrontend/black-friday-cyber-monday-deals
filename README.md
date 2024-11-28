@@ -71,8 +71,7 @@ A curated list of Black Friday and Cyber Monday deals tailored for developers! F
 | [Zero To Mastery](https://zerotomastery.io/courses/) | The most up-to-date tech courses online. | **BFCM24** - 58% off on annual membership | Ends Dec 2 |
 | [Design Course](https://designcourse.com/) | Learn UI/UX or CSS | **BF50** - 50% off | - |
 | [Scrimba](https://scrimba.com/home) | A place to level up your coding skills and build awesome projects | 30% off on yearly plan | Ends Dec 2 |
-| [Design for Developers](https://www.enhanceui.com/) | Learn design as a developer to improve
-your UI, UX, to make apps and websites look great! | **BLACKFRIDAY24** | - |
+| [Design for Developers](https://www.enhanceui.com/) | Learn design as a developer to improve your UI, UX, to make apps and websites look great! | **BLACKFRIDAY24** | - |
 | [Code With Mosh](https://codewithmosh.com/) | High-quality video courses on programming, web development, and software engineering fundamentals | 50% off annual subscription | Ends Nov 30 |
 | [ACADEMIND](https://academind.com/) | Detailed and beginner-friendly courses on web development, JavaScript, React, and more | 40% off | Ends Dec 3 |
 | [codecourse](https://codecourse.com/) | The most practical screencasts for developers | **BLACKFRIDAY2024** - 50% off | Ends Dec 1 |
