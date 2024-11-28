@@ -25,6 +25,7 @@ A curated list of Black Friday and Cyber Monday deals tailored for developers! F
 | [Tower](https://www.git-tower.com/mac) | The most powerful Git client for Mac and Windows | 30% off | Ends Nov 29 |
 | [LocalCan](https://www.localcan.com/) | Develop apps with Public URLs and .local domains | **BF25** - 25% off | - |
 | [lineicons](https://lineicons.com/) | 5300+ line icons for designers and developers with Pro CDN, multiple variations, an icon editor, and more. Available in WebFont, SVG, React, Vue and Figma files | **BLFCM2024** - 40% off | Ends Nov 29 |
+| [Iconbuddy](https://iconbuddy.com/pricing) | Unlock unlimited icon search and plugin access, for lifetime | $100 off for first 200 users | - |
 | [DeployHQ](https://www.deployhq.com/) | DeployHQ automates deploying projects from Git, SVN, and Mercurial repositories. It simplifies the process of getting code from a repository onto a server, making it easier for developers | **BLACKFRIDAY50** - 50% off | - |
 | [Proxyman](https://proxyman.io/) | Best-in-class native macOS app to capture, decrypt, and mock your HTTP(s) requests/ responses with powerful debugging tools | **BLACKFRIDAY2024** - 30% off | - |
 | [Hoverify](https://tryhoverify.com/) | All-in-one browser extension with tools to enhance your web development experience and take your productivity to the next level | 30% off | - |
@@ -36,7 +37,11 @@ A curated list of Black Friday and Cyber Monday deals tailored for developers! F
 | [Azimutt](https://azimutt.app) | The best database visualization for teams with large databases | **BF24** - 50% off | - |
 | [Static.app](https://static.app/) | Static website hosting - One-click hosting solution for your static website | **BLACK24** - 30% off | - |
 | [Pulsetic](https://static.app/) | Get website downtime alerts by phone call, SMS, email or Slack if your website is down. Create beautiful status pages & incident management reports and keep your visitors updated | **BLACK24** - 30% off | - |
-| [Aptakube](https://aptakube.com/) | Kubernetes GUI: Multi-Cluster, Modern. Lightweight. Multi-Cluster. Works on Windows, macOS and Linux. | **BLACKFRIDAY2024** - 30% off | Ends Dec 2 |
+| [Aptakube](https://aptakube.com/) | Kubernetes GUI: Multi-Cluster, Modern. Lightweight. Multi-Cluster. Works on Windows, macOS and Linux | **BLACKFRIDAY2024** - 30% off | Ends Dec 2 |
+| [ScreenshotOne](https://screenshotone.com/) | The best screenshot API for developers | **BLACKFRIDAY2024** - 25% off | - |
+| [Checkbot](https://www.checkbot.io/) | Checkbot finds SEO, speed & security problems before your website visitors do | **NOV24** - 50% off | Ends Dec 1 |
+| [Small Hours](https://www.checkbot.io/) | AI powered automated root cause analysis - minimize downtime, maximize efficiency | **BLACKFRIDAY24** - 50% off on startup and enterprise plans | - |
+| [SkyImage](https://skymage.daudau.cc/) | Resize and crop images for developers. Optimize and transform your images with the best performance and quality on the sky | **BlACKFRIDAY** - 50% off | - |
 
 ## 💅 Boilerplates, Starter-Kit, Templates
 
@@ -44,7 +49,8 @@ A curated list of Black Friday and Cyber Monday deals tailored for developers! F
 | :-|:-|:-|:-|
 | [TailwindUI](https://tailwindui.com/) | Includes access to all 500+ components and templates available in Tailwind UI today, plus all future updates | Over 30% off - TailwindUI & RefactoringUI | Ends on Dec 2 |
 | [Cruip](https://cruip.com/) | Beautifully designed Tailwind CSS templates for your next project. | Get All templates for $69 (55% off) | - |
-| [Aceternity UI Pro](https://pro.aceternity.com/) | Beautiful Tailwind CSS and Framer Motion Components, built with Next.js and TypeScript. | **BLACKFRIDAY30** - 30% off on lifetime plan | - |
+| [Aceternity UI Pro](https://pro.aceternity.com/) | Beautiful Tailwind CSS and Framer Motion Components, built with Next.js and TypeScript | **BLACKFRIDAY2024** - 30% off | - |
+| [daisyUI](https://daisyui.com/store/) | Official templates made by daisyUI | **BLACKFRIDAY30** - 30% off on lifetime plan | Ends Dec 1 |
 | [Next.js Templates](https://nextjs-templates.com/) | Next.js Templates for Your Upcoming Projects | **BFCM2024** - 50% off | - |
 | [TailsGrid](https://tailgrids.com/) | Tailwind CSS UI Components, Blocks and Templates | **BLFCM2024** - 40% off | Ends on Nov 29 |
 | [Tailkit](https://tailkit.com/) | Carefully crafted, easy to customize, fully responsive Tailwind components, templates and tools for all your Tailwind CSS based projects | **BLACKFRIDAY2024** - Up to 50% off for a limited number of licenses | Ends on Dec 3 |
@@ -57,14 +63,16 @@ A curated list of Black Friday and Cyber Monday deals tailored for developers! F
 | [SuperSaaS](https://supersaas.dev/) | The Simple, Fast & Smart Nuxt 3 Fullstack Kit | $99 only discount applied already | - |
 | [SaaS Bold](https://saasbold.com/) | SaaSBold is a full-stack, production ready Next.js SaaS boilerplate and starter kit. Tailored for optimal developer experience, front and back-end functionality, integrations and more | **BLFCM2024** - Upto 60% off | - |
 | [TailAdmin](https://tailadmin.com/) | Open-Source Tailwind CSS Admin Dashboard Template | **BLFCM2024** - Upto 40% off | - |
+| [FormBold](https://formbold.com/) | A complete web form solution that includes a form API, backend, and builder. Get website form submissions directly to your inbox, Slack, Sheet, Notion, Telegram and more | **BLFCM2024** - 40% off | Ends Dec 3 |
 | [NextAdmin](https://nextadmin.co/) | Next.js Admin Dashboard Templates and Components | **BLFCM2024** - Upto 40% off | - |
 | [LaunchFast](https://nextadmin.co/) | Production-Ready SaaS Starter Kits in Astro, Svelte, and Next.js | **BLACKFRIDAY2024** - 25% off | - |
 | [ChromeKit](https://www.chromekit.dev/) | The Chrome extension boilerplate with all you need to build and launch your extension fast with ReactJS, TailwindCSS & Vite | **BLACKFRIDAY2024** - 30% off | - |
 | [Web3Templates](https://web3templates.com/) | Fast & SEO optimized website template built with Next.js, Astro, Tailwind CSS and Sanity CMS | **BLACKFRIDAY** - 30% off | Ends Dec 5 |
 | [UIDeck](https://uideck.com/) | 100+ High-quality templates, landing pages, and UI kits for startups and SaaS businesses | **BLFCM2024** - 50% off | Ends Nov 29 |
 | [Gravity](https://usegravity.app/) | The SaaS boilerplate that handles the complex, boring code like payments and authentication, while you build fun features that generate revenue | **BLACKFRIDAY24** - 30% off | - |
-| [OxbowUI](https://oxbowui.com/) | Beautifully crafted with Tailwind CSS and Alpine JS — Simple & easy to customise | 70% off | Ends Dec 2 |
-| [OxbowUI](https://oxbowui.com/) | Beautifully crafted with Tailwind CSS and Alpine JS — Simple & easy to customise | 70% off | Ends Dec 2 |
+| [OxbowUI](https://oxbowui.com/) | Beautifully crafted with Tailwind CSS and Alpine JS — Simple & easy to customize | 70% off | Ends Dec 2 |
+| [ZexaNext](https://next.zexa.app/) | The Simple, Speedy & Efficient, Next.js Boilerplate | 70% off | - |
+| [WrapPixel](https://www.wrappixel.com/blackfriday/) | Best Angular, React, Vuejs, Next Js, Nuxt, Bootstrap Admin Dashboard Templates. | 95% off | - |
 
 ## 🎓 Interview Preparation
 
@@ -96,8 +104,11 @@ A curated list of Black Friday and Cyber Monday deals tailored for developers! F
 | [ACADEMIND](https://academind.com/) | Detailed and beginner-friendly courses on web development, JavaScript, React, and more | 40% off | Ends Dec 3 |
 | [codecourse](https://codecourse.com/) | The most practical screencasts for developers | **BLACKFRIDAY2024** - 50% off | Ends Dec 1 |
 | [UTWC](https://technicalwriting.online/) | Learn how to transform writing into a powerful tool that drives awareness to your products, earns you money, and brings you new opportunities | **BF2024** | Ends Nov 29 |
+| [Laracasts](https://technicalwriting.online/) | Master Laravel with comprehensive screencasts and practical learning paths | 50% off | - |
 | [React- Road to Enterprise](https://theroadtoenterprise.com/books/react-the-road-to-enterprise/typescript?discount_coupon=BLACKFRIDAY) | Take your skills to the next level and become a React pro by mastering advanced patterns, best practices, and cutting-edge techniques for the development of large-scale React applications | **BLACKFRIDAY** - 50% off | Ends Dec 1 |
 | [The Big Git Microbook](https://jtemporal.com/gitmicrobook/) | A quick guide to commands you will use daily | **DEALSFORDEVS** | - |
+| [The Engineering Leader's Playbook: The First 90 Days](https://kulkarniankita.gumroad.com/l/growthfor90days/BLACKFRIDAY50) | Learn how to lead a team & succeed as a leader using this playbook  | **BLACKFRIDAY50** - 50% off | - |
+| [Nail A Coding Interview: Six-Step Mental Framework](https://gracehuang.gumroad.com/l/coding-interview) | A tiny book about how candidates can outperform in coding interviews, from the lenses of interviewers  | **BLACKFRIDAY24** - 40% off | - |
 
 ## ⚙️ Productivity Tools
 
@@ -105,8 +116,12 @@ A curated list of Black Friday and Cyber Monday deals tailored for developers! F
 |:-|:-|:-|:-|
 | [snappify](https://snappify.com/) | A powerful PowerPoint alternative for developers. Create stunning presentations, smoothly animated videos and elevate your technical content! | **BF_2024** - 30% off the first year | - |
 | [Marmo UI](https://www.marmoui.com/) | Comprehensive design system for Figma, helping designers create modern and beautiful user interfaces with ease, saving time and effort on every project | **BLACKFRIDAY24** - 70% off | - |
-| [Sip](https://sipapp.io/) | Sip is a modern color picker that brings ease to color organization & team collaboration. | **BF_2024** - 50% off | - |
+| [Sip](https://sipapp.io/) | Sip is a modern color picker that brings ease to color organization & team collaboration | **BF_2024** - 50% off | - |
 | [Paste Pal](https://indiegoodies.com/pastepal) | PastePal is the best universal clipboard manager for Mac, iPhone and iPad | **INDIEGOODIES24** - 50% off | Ends Dec 8 |
 | [Project Management Spreadsheet](https://prosheetivity.gumroad.com/l/project-management-template/BF39) | Designed to facilitate teamwork and boost productivity. Ideal for tracking tasks and real-time reporting, its intuitive design and interconnected sheets make work processes smoother and more efficient | **BF39** - 39% off | Ends Nov 30 |
-| [BoltAI](https://boltai.com/?ref=bfdeals) | Switch between top AI services and local models. All from a single native app on your Mac. | **BF39** - 60% off | Ends Nov 30 |
+| [BoltAI](https://boltai.com/?ref=bfdeals) | Switch between top AI services and local models. All from a single native app on your Mac | **BF39** - 60% off | Ends Nov 30 |
+| [InboxPurge](https://www.inboxpurge.com/pricing) | Easily mass unsubscribe, block and delete those annoying emails with just one single click | **BF2024** - 30% off on PRO plan | Ends Nov 30 |
+| [One Tab Group](https://www.onetab.group/) | Your all-in-one browser tab/tab group manager | **BLACKFRIDAY40** - 40% off on lifetime plan | - |
+| [Kerlig](https://www.kerlig.com/) | Save hours on written communication at work. Write emails, Slack replies, Jira tickets, proofread, chat with documents | **BF50** - 50% off & **BF25** - 25% off | - |
+| [Rize.io](https://rize.io/) | AI-powered time tracker that improves your focus and builds better work habits | **BLACKFRIDAY2024** - 40% off | - |
 
