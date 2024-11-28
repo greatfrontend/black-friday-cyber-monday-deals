@@ -109,6 +109,15 @@ A curated list of Black Friday and Cyber Monday deals tailored for developers! F
 | [The Big Git Microbook](https://jtemporal.com/gitmicrobook/) | A quick guide to commands you will use daily | **DEALSFORDEVS** | - |
 | [The Engineering Leader's Playbook: The First 90 Days](https://kulkarniankita.gumroad.com/l/growthfor90days/BLACKFRIDAY50) | Learn how to lead a team & succeed as a leader using this playbook  | **BLACKFRIDAY50** - 50% off | - |
 | [Nail A Coding Interview: Six-Step Mental Framework](https://gracehuang.gumroad.com/l/coding-interview) | A tiny book about how candidates can outperform in coding interviews, from the lenses of interviewers  | **BLACKFRIDAY24** - 40% off | - |
+|[The Road to React](https://www.roadtoreact.com/) | React.js Bestseller on Amazon, Your journey to master React in JavaScript, Do not miss to check out thew new course The Road to Next | **BLACKFRIDAY** - 30% off | - |
+|[Complete Guide to CSS Flexbox & Grid](https://shrutibalasa.gumroad.com/l/css-flex-and-grid/BLACKFRIDAY24) | Become a Pro at building components & layouts with CSS Flexbox and Grid. | **BLACKFRIDAY24** - 60% | - |
+|[Dynamic Trio: Building Web Applications with React, Next.js & Tailwind](https://gracehuang.gumroad.com/l/dynamic-trio/BLACKFRIDAY24) | A practical guide with step-by-step tutorials on building modern web applications using React, Next.js, and Tailwind CSS. | **BLACKFRIDAY24** - 40% off | - |
+[Tao of React](https://alexanderkondov.gumroad.com/l/tao-of-react) | Learn how to build well-structured React.js applications. Get better at software design. | **BLACKFRIDAY** - 50% off | - |
+|[Level up with Tailwind CSS](https://shrutibalasa.gumroad.com/l/level-up-with-tailwind-css/BLACKFRIDAY24) | With in-depth insights into advanced concepts, tips and tricks, work faster and with more skill. | **BLACKFRIDAY24** - 60% off | - |
+|[Tao of Node](https://alexanderkondov.gumroad.com/l/tao-of-node) | Build better Node.js applications. A collection of best practices about building REST APIs | **BLACKFRIDAY** - 50% off | - |
+| [Build A SaaS App In Rails 8 (complete package)](https://robrace.gumroad.com/l/basair8cp/bfcm24) | Learn to build a production-ready SaaS app in Rails 8 | **bfcm24** - 60% off | - |
+|[Rails 8 Everything Bundle](https://robrace.gumroad.com/l/r8eb/bfcm24) | Build A SaaS App In Rails 8 + two other upcoming books in one package | **bfcm24** - 60% off | - |
+|[Mike Callaghan's Complete Works](https://walkingriver.gumroad.com/l/everything) | 12 books, 4 courses, and **all future items** covering AI, web and mobile development, Angular, Ionic, and more | **75% off** from $204 to **$47.00** | - |
 
 ## ⚙️ Productivity Tools
 
