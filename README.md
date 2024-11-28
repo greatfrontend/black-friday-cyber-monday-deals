@@ -23,6 +23,13 @@ A curated list of Black Friday and Cyber Monday deals tailored for developers! F
 | [Webhookify](https://webhookify.io/) | Streamline Webhook Integrations: Boost App Connectivity | **BLACKFRIDAY2024** - 70% off | - |
 | [RunJS](https://runjs.app/) | The JavaScript playground for your desktop | **BLACKFRIDAY2024** - 30% off | Ends Nov 29 |
 | [Tower](https://www.git-tower.com/mac) | The most powerful Git client for Mac and Windows | 30% off | Ends Nov 29 |
+| [LocalCan](https://www.localcan.com/) | Develop apps with Public URLs and .local domains | **BF25** - 25% off | - |
+| [lineicons](https://lineicons.com/) | 5300+ line icons for designers and developers with Pro CDN, multiple variations, an icon editor, and more. Available in WebFont, SVG, React, Vue and Figma files | **BLFCM2024** - 40% off | Ends Nov 29 |
+| [DeployHQ](https://www.deployhq.com/) | DeployHQ automates deploying projects from Git, SVN, and Mercurial repositories. It simplifies the process of getting code from a repository onto a server, making it easier for developers | **BLACKFRIDAY50** - 50% off | - |
+| [Proxyman](https://proxyman.io/) | Best-in-class native macOS app to capture, decrypt, and mock your HTTP(s) requests/ responses with powerful debugging tools | **BLACKFRIDAY2024** - 30% off | - |
+| [Hoverify](https://tryhoverify.com/) | All-in-one browser extension with tools to enhance your web development experience and take your productivity to the next level | 30% off | - |
+| [Reveal](https://revealapp.com/) | Review, fix, and improve your app’s accessible and visual user experiences with powerful UI inspection and testing tools | **BLACKFRIDAY2024** - $30 OFF | Ends Dec 2 |
+| [opengraphdesign](https://opengraphdesign.com/) | Improve the appearance and engagement of your social media posts with custom Open Graph images | **BF2024** - $30 OFF | - |
 
 ## 💅 Boilerplates, Starter-Kit, Templates
 
@@ -82,10 +89,11 @@ A curated list of Black Friday and Cyber Monday deals tailored for developers! F
 ## ⚙️ Productivity Tools
 
 | **Name** | **Description**| **Deal details** | **Validity** |
-| :-|:-|:-|:-|
+|:-|:-|:-|:-|
 | [snappify](https://snappify.com/) | A powerful PowerPoint alternative for developers. Create stunning presentations, smoothly animated videos and elevate your technical content! | **BF_2024** - 30% off the first year | - |
 | [Marmo UI](https://www.marmoui.com/) | Comprehensive design system for Figma, helping designers create modern and beautiful user interfaces with ease, saving time and effort on every project | **BLACKFRIDAY24** - 70% off | - |
 | [Sip](https://sipapp.io/) | Sip is a modern color picker that brings ease to color organization & team collaboration. | **BF_2024** - 50% off | - |
 | [Paste Pal](https://indiegoodies.com/pastepal) | PastePal is the best universal clipboard manager for Mac, iPhone and iPad | **INDIEGOODIES24** - 50% off | Ends Dec 8 |
 | [Project Management Spreadsheet](https://prosheetivity.gumroad.com/l/project-management-template/BF39) | Designed to facilitate teamwork and boost productivity. Ideal for tracking tasks and real-time reporting, its intuitive design and interconnected sheets make work processes smoother and more efficient | **BF39** - 39% off | Ends Nov 30 |
+| [BoltAI](https://boltai.com/?ref=bfdeals) | Switch between top AI services and local models. All from a single native app on your Mac. | **BF39** - 60% off | Ends Nov 30 |
 
