@@ -12,11 +12,12 @@ We'd greatly appreciate if you could:
 ## 📚 Quick Navigation
 
 - 🎓 [Interview Preparation](#-interview-preparation)
-- 💅 [UI kits, Templates & Boilerplates](#-ui-kits-templates-boilerplates)
+- 💅 [UI Kits, Templates & Boilerplates](#-ui-kits-templates-boilerplates)
 - 🛠️ [Developer Tools](#-developer-tools)
 - 📚 [Books & Courses](#-books--courses)
 - ⚙️ [Productivity Tools](#-productivity-tools)
-- 🎨 [Design Kits](#-design-kits)
+- 🤖 [AI Tools](#-ai-tools)
+- 🎨 [Design](#-design)
 
 ## 🎓 Interview Preparation
 
@@ -32,16 +33,16 @@ We'd greatly appreciate if you could:
 | [interviewing.io](https://iio.sh/r/DMCa) | Anonymous mock interviews with engineers from Amazon, Google, Facebook, and other top companies | $200-$700 off 5 & 10-session dedicated coaching packages | - |
 | [Final Round AI](https://www.finalroundai.com/interview-copilot) | Level up your interview game with real-time AI-powered answers | 45% off | Ends Dec 2 |
 
-## 💅 UI kits, Templates & Boilerplates
+## 💅 UI Kits, Templates & Boilerplates
 
 | **Name** | **Description**| **Deal details** | **Validity** |
 | :-|:-|:-|:-|
 | [TailwindUI](https://tailwindui.com/) | Includes access to all 500+ components and templates available in Tailwind UI today, plus all future updates | Over 30% off - TailwindUI & RefactoringUI | Ends Dec 2 |
 | [Aceternity UI Pro](https://pro.aceternity.com/) | Beautiful Tailwind CSS and Framer Motion Components, built with Next.js and TypeScript | **BLACKFRIDAY2024** - 30% off | - |
+| [Cruip](https://cruip.com/) | Beautifully designed Tailwind CSS templates for your next project. | Get all templates for $69 (55% off) | - |
 | [Next.js Templates](https://nextjs-templates.com/) | Next.js Templates for Your Upcoming Projects | **BFCM2024** - 50% off | - |
 | [TailsGrid](https://tailgrids.com/) | Tailwind CSS UI Components, Blocks and Templates | **BLFCM2024** - 40% off | Ends Nov 29 |
-| [Cruip](https://cruip.com/) | Beautifully designed Tailwind CSS templates for your next project. | Get all templates for $69 (55% off) | - |
-| [daisyUI](https://daisyui.com/store/) | Official templates made by daisyUI | **BLACKFRIDAY30** - 30% off lifetime plan | Ends Dec 1 |
+| [daisyUI](https://daisyui.com/store/) | Official templates made by daisyUI | **BLACKFRIDAY30** - 30% off lifetime plan | Ends Dec 2 |
 | [Tailkit](https://tailkit.com/) | Carefully crafted, easy to customize, fully responsive Tailwind components, templates and tools for all your Tailwind CSS based projects | **BLACKFRIDAY2024** - Up to 50% off for a limited number of licenses | Ends Dec 3 |
 | [NextReady](https://nextready.dev/) | A ready-to-use and type-safe components for Next.js, TypeScript, Prisma, LemonSqueezy, shadcn/ui, etc | **BF2024** - 63% off  | - |
 | [Shipixen](https://shipixen.com/) | In 5 minutes, go from nothing → deployed codebase | **BF2024** - $100 off lifetime plan | - |
@@ -64,40 +65,35 @@ We'd greatly appreciate if you could:
 | [WrapPixel](https://www.wrappixel.com/blackfriday/) | Best Angular, React, Vuejs, Next Js, Nuxt, Bootstrap Admin Dashboard Templates. | 95% off | - |
 
 
-
-
 ## 🛠️ Developer Tools
 
 | **Name** | **Description**| **Deal details** | **Validity** |
 | :-|:-|:-|:-|
-| [Tailscan for Tailwind CSS](https://tailscan.com/) | The ultimate devtool browser extension for Tailwind CSS. Inspect, debug, convert and more! | 25% off lifetime plan | Ends Dec 3 |
-| [Wallaby.jsS](https://wallabyjs.com/) | Runs your JavaScript and TypeScript tests immediately as you type, displaying results next to your code | 30% off lifetime plan | Ends Dec 1 |
+| [GitKraken](https://www.gitkraken.com/) | Devtools that simplify & supercharge Git | Up to 85% off| - |
+| [Tower](https://www.git-tower.com/) | Powerful Git client for Mac and Windows | 30% off | Ends Nov 29 |
+| [Tailscan](https://tailscan.com/) | Build, design and debug your Tailwind website visually with Tailscan, right within the browser | 25% off lifetime plan | Ends Dec 3 |
 | [Kaleidoscope](https://kaleidoscope.app/) | The world's most powerful file comparison and merge app, with deep git integration | **BLACKFRIDAY2024** - 40% off | - |
 | [WhaleDeck](https://apple.co/3NQJi4w) | The only Docker manager you will ever need. Available for iOS, iPadOS, and macOS | 20% off lifetime plan | Ends Dec 2 |
 | [Polypane](https://polypane.app/) | A stand-alone browser with everything you need to build responsive, accessible and performant web sites and web apps | 25% off | Ends Dec 2 |
-| [GitKraken](https://www.gitkraken.com/) | Dev Tools that Simplify & Supercharge Git | Up to 85% off| - |
 | [OK JSON](https://okjson.app/) | The ultimate JSON formatter for your Mac | **BF2024** - 50% off | - |
 | [Webhookify](https://webhookify.io/) | Streamline Webhook Integrations: Boost App Connectivity | **BLACKFRIDAY2024** - 70% off | - |
 | [RunJS](https://runjs.app/) | The JavaScript playground for your desktop | **BLACKFRIDAY2024** - 30% off | Ends Nov 29 |
-| [Tower](https://www.git-tower.com/mac) | The most powerful Git client for Mac and Windows | 30% off | Ends Nov 29 |
 | [LocalCan](https://www.localcan.com/) | Develop apps with Public URLs and .local domains | **BF25** - 25% off | - |
-| [lineicons](https://lineicons.com/) | 5300+ line icons for designers and developers with Pro CDN, multiple variations, an icon editor, and more. Available in WebFont, SVG, React, Vue and Figma files | **BLFCM2024** - 40% off | Ends Nov 29 |
-| [Iconbuddy](https://iconbuddy.com/pricing) | Unlock unlimited icon search and plugin access, for lifetime | $100 off for first 200 users | - |
 | [DeployHQ](https://www.deployhq.com/) | DeployHQ automates deploying projects from Git, SVN, and Mercurial repositories. It simplifies the process of getting code from a repository onto a server, making it easier for developers | **BLACKFRIDAY50** - 50% off | - |
 | [Proxyman](https://proxyman.io/) | Best-in-class native macOS app to capture, decrypt, and mock your HTTP(s) requests/ responses with powerful debugging tools | **BLACKFRIDAY2024** - 30% off | - |
 | [Hoverify](https://tryhoverify.com/) | All-in-one browser extension with tools to enhance your web development experience and take your productivity to the next level | 30% off | - |
 | [Reveal](https://revealapp.com/) | Review, fix, and improve your app’s accessible and visual user experiences with powerful UI inspection and testing tools | **BLACKFRIDAY2024** - $30 off | Ends Dec 2 |
-| [opengraphdesign](https://opengraphdesign.com/) | Improve the appearance and engagement of your social media posts with custom Open Graph images | **BF2024** - $30 off | - |
+| [Open Graph Design](https://opengraphdesign.com/) | Improve the appearance and engagement of your social media posts with custom Open Graph images | **BF2024** - $30 off | - |
 | [Ray](https://myray.app/) | Desktop application that serves as the dedicated home for debugging output. Send, format and filter debug information from both local projects and remote servers | **BF2024** - 30% off | Ends Dec 2 |
 | [Pocket Alert](https://pocketalert.app/) | Empowers you to send push notifications directly to your devices (iOS, Android). Seamlessly integrate via API or Webhooks and stay in control of your alerts like never before | **BLACKFRIDAY** - 40% off | - |
 | [Pingify](https://pingify.com/) | Monitor website uptime, SSL certificates, DNS records, and more. Instant alerts for downtime and performance issues | 50% off lifetime plan | - |
 | [Azimutt](https://azimutt.app) | The best database visualization for teams with large databases | **BF24** - 50% off | - |
-| [Static.app](https://static.app/) | Static website hosting - One-click hosting solution for your static website | **BLACK24** - 30% off | - |
-| [Pulsetic](https://static.app/) | Get website downtime alerts by phone call, SMS, email or Slack if your website is down. Create beautiful status pages & incident management reports and keep your visitors updated | **BLACK24** - 30% off | - |
+| [Static.app](https://static.app/) | One-click hosting solution for your static website | **BLACK24** - 30% off | - |
+| [Pulsetic](https://pulsetic.com/) | Get website downtime alerts by phone call, SMS, email or Slack if your website is down. Create beautiful status pages & incident management reports and keep your visitors updated | **BLACK24** - 30% off | - |
 | [Aptakube](https://aptakube.com/) | Kubernetes GUI: Multi-Cluster, Modern. Lightweight. Multi-Cluster. Works on Windows, macOS and Linux | **BLACKFRIDAY2024** - 30% off | Ends Dec 2 |
-| [ScreenshotOne](https://screenshotone.com/) | The best screenshot API for developers | **BLACKFRIDAY2024** - 25% off | - |
-| [Checkbot](https://www.checkbot.io/) | Checkbot finds SEO, speed & security problems before your website visitors do | **NOV24** - 50% off | Ends Dec 1 |
-| [Small Hours](https://www.checkbot.io/) | AI powered automated root cause analysis - minimize downtime, maximize efficiency | **BLACKFRIDAY24** - 50% off startup and enterprise plans | - |
+| [ScreenshotOne](https://screenshotone.com/) | Screenshot API for developers | **BLACKFRIDAY2024** - 25% off | - |
+| [Checkbot](https://www.checkbot.io/) | Checkbot finds SEO, speed & security problems before your website visitors do | **NOV24** - 50% off | Ends Dec 2 |
+| [Small Hours](https://www.smallhours.dev/) | AI powered automated root cause analysis - minimize downtime, maximize efficiency | **BLACKFRIDAY24** - 50% off startup and enterprise plans | - |
 | [SkyImage](https://skymage.daudau.cc/) | Resize and crop images for developers. Optimize and transform your images with the best performance and quality on the sky | **BlACKFRIDAY** - 50% off | - |
 
 ## 📚 Books & Courses
@@ -117,14 +113,13 @@ We'd greatly appreciate if you could:
 | [Scrimba](https://scrimba.com/) | A place to level up your coding skills and build awesome projects | 30% off yearly plan | Ends Dec 2 |
 | [Design for Developers](https://www.enhanceui.com/) | Learn design as a developer to improve your UI, UX, to make apps and websites look great! | **BLACKFRIDAY24** | - |
 | [Code With Mosh](https://codewithmosh.com/) | High-quality video courses on programming, web development, and software engineering fundamentals | 50% off annual subscription | Ends Nov 30 |
-| [ACADEMIND](https://academind.com/) | Detailed and beginner-friendly courses on web development, JavaScript, React, and more | 40% off | Ends Dec 3 |
+| [Academind](https://academind.com/) | Detailed and beginner-friendly courses on web development, JavaScript, React, and more | 40% off | Ends Dec 3 |
 | [codecourse](https://codecourse.com/) | The most practical screencasts for developers | **BLACKFRIDAY2024** - 50% off | Ends Dec 1 |
 | [UTWC](https://technicalwriting.online/) | Learn how to transform writing into a powerful tool that drives awareness to your products, earns you money, and brings you new opportunities | **BF2024** | Ends Nov 29 |
 | [Laracasts](https://technicalwriting.online/) | Master Laravel with comprehensive screencasts and practical learning paths | 50% off | - |
 | [React The Road to Enterprise](https://theroadtoenterprise.com/books/react-the-road-to-enterprise/typescript?discount_coupon=BLACKFRIDAY) | Take your skills to the next level and become a React pro by mastering advanced patterns, best practices, and cutting-edge techniques for the development of large-scale React applications | **BLACKFRIDAY** - 50% off | Ends Dec 1 |
 | [The Big Git Microbook](https://jtemporal.com/gitmicrobook/) | A quick guide to commands you will use daily | **DEALSFORDEVS** | - |
 | [The Engineering Leader's Playbook: The First 90 Days](https://kulkarniankita.gumroad.com/l/growthfor90days/BLACKFRIDAY50) | Learn how to lead a team & succeed as a leader using this playbook  | **BLACKFRIDAY50** - 50% off | - |
-| [Nail A Coding Interview: Six-Step Mental Framework](https://gracehuang.gumroad.com/l/coding-interview) | A tiny book about how candidates can outperform in coding interviews, from the lenses of interviewers  | **BLACKFRIDAY24** - 40% off | - |
 | [The Road to React](https://www.roadtoreact.com/) | React.js Bestseller on Amazon, Your journey to master React in JavaScript, Do not miss to check out thew new course The Road to Next | **BLACKFRIDAY** - 30% off | - |
 | [Complete Guide to CSS Flexbox & Grid](https://shrutibalasa.gumroad.com/l/css-flex-and-grid/BLACKFRIDAY24) | Become a Pro at building components & layouts with CSS Flexbox and Grid. | **BLACKFRIDAY24** - 60% | - |
 | [Dynamic Trio: Building Web Applications with React, Next.js & Tailwind](https://gracehuang.gumroad.com/l/dynamic-trio/BLACKFRIDAY24) | A practical guide with step-by-step tutorials on building modern web applications using React, Next.js, and Tailwind CSS. | **BLACKFRIDAY24** - 40% off | - |
@@ -139,14 +134,19 @@ We'd greatly appreciate if you could:
 
 | **Name** | **Description**| **Deal details** | **Validity** |
 |:-|:-|:-|:-|
-| [snappify](https://snappify.com/) | A powerful PowerPoint alternative for developers. Create stunning presentations, smoothly animated videos and elevate your technical content! | **BF_2024** - 30% off the first year | - |
-| [Sip](https://sipapp.io/) | Sip is a modern color picker that brings ease to color organization & team collaboration | **BF_2024** - 50% off | - |
-| [Paste Pal](https://indiegoodies.com/pastepal) | PastePal is the best universal clipboard manager for Mac, iPhone and iPad | **INDIEGOODIES24** - 50% off | Ends Dec 8 |
-| [Project Management Spreadsheet](https://prosheetivity.gumroad.com/l/project-management-template/BF39) | Designed to facilitate teamwork and boost productivity. Ideal for tracking tasks and real-time reporting, its intuitive design and interconnected sheets make work processes smoother and more efficient | **BF39** - 39% off | Ends Nov 30 |
-| [BoltAI](https://boltai.com) | Switch between top AI services and local models. All from a single native app on your Mac | Up to 60% off | Ends Nov 30 |
 | [InboxPurge](https://www.inboxpurge.com/pricing) | Easily mass unsubscribe, block and delete those annoying emails with just one single click | **BF2024** - 30% off PRO plan | Ends Nov 30 |
 | [One Tab Group](https://www.onetab.group/) | Your all-in-one browser tab/tab group manager | **BLACKFRIDAY40** - 40% off lifetime plan | - |
+| [TabTab](https://tabtabapp.net/) | Supercharged windows & tabs manager for Mac | **TABTABLAUNCH** - 30% off | - |
+| [Paste Pal](https://indiegoodies.com/pastepal) | PastePal is the best universal clipboard manager for Mac, iPhone and iPad | **INDIEGOODIES24** - 50% off | Ends Dec 8 |
+| [snappify](https://snappify.com/) | A powerful PowerPoint alternative for developers. Create stunning presentations, smoothly animated videos and elevate your technical content! | **BF_2024** - 30% off the first year | - |
+| [Project Management Spreadsheet](https://prosheetivity.gumroad.com/l/project-management-template/BF39) | Designed to facilitate teamwork and boost productivity. Ideal for tracking tasks and real-time reporting, its intuitive design and interconnected sheets make work processes smoother and more efficient | **BF39** - 39% off | Ends Nov 30 |
 | [Kerlig](https://www.kerlig.com/) | Save hours on written communication at work. Write emails, Slack replies, Jira tickets, proofread, chat with documents | **BF50** - 50% off & **BF25** - 25% off | - |
+
+## ⚙️ AI Tools
+
+| **Name** | **Description**| **Deal details** | **Validity** |
+|:-|:-|:-|:-|
+| [BoltAI](https://boltai.com) | Switch between top AI services and local models. All from a single native app on your Mac | Up to 60% off | Ends Nov 30 |
 | [Rize.io](https://rize.io/) | AI-powered time tracker that improves your focus and builds better work habits | **BLACKFRIDAY2024** - 40% off | - |
 
 ## 🎨 Design Kits
@@ -155,7 +155,10 @@ We'd greatly appreciate if you could:
 |:-|:-|:-|:-|
 | [Practical UI](https://www.practical-ui.com/design-system/) | Lean and powerful Figma design system and UI kit | **BLACKFRIDAY24** - 40% off | Ends Dec 2 |
 | [Marmo UI](https://www.marmoui.com/) | Comprehensive design system for Figma, helping designers create modern and beautiful user interfaces with ease, saving time and effort on every project | **BLACKFRIDAY24** - 70% off | - |
- [Shipfaster UI](https://www.thedesignership.com/products/shipfaster-ui-figma-ui-kit-design-system) | Build world-class UI effortlessly with 8,000+ customizable components | **BF24** - 40% off | - |
+| [Shipfaster UI](https://www.thedesignership.com/products/shipfaster-ui-figma-ui-kit-design-system) | Build world-class UI effortlessly with 8,000+ customizable components | **BF24** - 40% off | - |
+| [lineicons](https://lineicons.com/) | 5300+ line icons for designers and developers with Pro CDN, multiple variations, an icon editor, and more. Available in WebFont, SVG, React, Vue and Figma files | **BLFCM2024** - 40% off | Ends Nov 29 |
+| [Iconbuddy](https://iconbuddy.com/pricing) | Unlock unlimited icon search and plugin access, for lifetime | $100 off for first 200 users | - |
+| [Sip](https://sipapp.io/) | Sip is a modern color picker that brings ease to color organization & team collaboration | **BF_2024** - 50% off | - |
 
 ## Disclaimer
 
