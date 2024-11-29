@@ -2,9 +2,12 @@
 
 Black Friday and Cyber Monday deals tailored for developers! Find discounts across templates, design, devtools, and learning resources.
 
-Add a deal you know with a pull request, at the end of a category.
 
-⭐ Star this repo and come back next year for more updated deals.
+We'd greatly appreciate if you could:
+
+- 👍 Contribute a deal you know with a pull request. Add them to the end of a category.
+- ⭐ Star this repo and come back next year for more updated deals.
+- ♻️ Share this repo with your friends so more people benefit and contribute.
 
 ## 📚 Quick Navigation
 
