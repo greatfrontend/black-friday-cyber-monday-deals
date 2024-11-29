@@ -105,7 +105,7 @@ We'd greatly appreciate if you could:
 | [CSS for JavaScript Developers](https://css-for-js.dev/) | The interactive learning experience designed to help JavaScript developers become confident with CSS | 40% off | Ends Dec 4 |
 | [Three.js Journey](https://threejs-journey.com/) | 93 hours of video to go from absolute beginner to advanced Three.js developer | **BF2024** - 50% off | Ends Nov 30 |
 | [useEffect.dev](https://useeffect.dev/) | Master the React Hook, and take your React experience to the next level | **FRIDAY23** - $20 off | - |
-| [The Modern Full Stack Next.js Course](https://www.nextjscourse.dev/) | A comprehensive course on building and deploying Production-ready apps with modern best practices that are real-world and in-depth with Zero fluff | **EARLYACCESSPARTY** - 50% off | Ends Nov 29 |
+| [The Modern Full Stack Next.js Course](https://www.nextjscourse.dev/) | A comprehensive course on building and deploying Production-ready apps with modern best practices that are real-world and in-depth with Zero fluff | **EARLYACCESSPARTY** - 50% off | Ends Dec 2 |
 | [VueSchool](https://vueschool.io/) | Learn Vue.js and modern, cutting-edge front-end technologies from core-team members and industry experts with our premium tutorials and video courses | 60% off yearly plan | Ends Nov 29 |
 | [Vue Mastery](https://www.vuemastery.com/black-friday/) | Take your Vue.js skills to the next level with the highest quality Vue courses. Learn from experts like Evan You and build amazing web applications | 60% off | - |
 | [Zero To Mastery](https://zerotomastery.io/courses/) | The most up-to-date tech courses online. | **BFCM24** - 58% off annual membership | Ends Dec 2 |
