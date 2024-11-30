@@ -16,7 +16,7 @@ We'd greatly appreciate if you could:
 - 🛠️ [Developer Tools](#%EF%B8%8F-developer-tools)
 - 📚 [Books & Courses](#-books--courses)
 - ⚙️ [Productivity Tools](#%EF%B8%8F-productivity-tools)
-- 🤖 [AI Tools](#%EF%B8%8F-ai-tools)
+- 🤖 [AI Tools](#-ai-tools)
 - 🎨 [Design](#-design-kits)
 
 ## 🎓 Interview Preparation
