@@ -12,12 +12,12 @@ We'd greatly appreciate if you could:
 ## 📚 Quick Navigation
 
 - 🎓 [Interview Preparation](#-interview-preparation)
-- 💅 [UI Kits, Templates & Boilerplates](#-ui-kits-templates-boilerplates)
-- 🛠️ [Developer Tools](#-developer-tools)
+- 💅 [UI Kits, Templates & Boilerplates](#-ui-kits-templates--boilerplates)
+- 🛠️ [Developer Tools](#%EF%B8%8F-developer-tools)
 - 📚 [Books & Courses](#-books--courses)
-- ⚙️ [Productivity Tools](#-productivity-tools)
-- 🤖 [AI Tools](#-ai-tools)
-- 🎨 [Design](#-design)
+- ⚙️ [Productivity Tools](#%EF%B8%8F-productivity-tools)
+- 🤖 [AI Tools](#%EF%B8%8F-ai-tools)
+- 🎨 [Design](#-design-kits)
 
 ## 🎓 Interview Preparation
 
@@ -143,7 +143,7 @@ We'd greatly appreciate if you could:
 | [Project Management Spreadsheet](https://prosheetivity.gumroad.com/l/project-management-template/BF39) | Designed to facilitate teamwork and boost productivity. Ideal for tracking tasks and real-time reporting, its intuitive design and interconnected sheets make work processes smoother and more efficient | **BF39** - 39% off | Ends Nov 30 |
 | [Kerlig](https://www.kerlig.com/) | Save hours on written communication at work. Write emails, Slack replies, Jira tickets, proofread, chat with documents | **BF50** - 50% off & **BF25** - 25% off | - |
 
-## ⚙️ AI Tools
+## 🤖 AI Tools
 
 | **Name** | **Description**| **Deal details** | **Validity** |
 |:-|:-|:-|:-|
