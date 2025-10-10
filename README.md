@@ -115,7 +115,7 @@ We'd greatly appreciate if you could:
 | [Design for Developers](https://www.enhanceui.com/) | Learn design as a developer to improve your UI, UX, to make apps and websites look great! | **BLACKFRIDAY24** | - |
 | [Code With Mosh](https://codewithmosh.com/) | High-quality video courses on programming, web development, and software engineering fundamentals | 50% off annual subscription | Ends Nov 30 |
 | [Academind](https://academind.com/) | Detailed and beginner-friendly courses on web development, JavaScript, React, and more | 40% off | Ends Dec 3 |
-| [codecourse](https://codecourse.com/) | The most practical screencasts for developers | **BLACKFRIDAY2024** - 50% off | Ends Dec 1 |
+| [codecourse](https://codecourse.com/) | The most practical screencasts for developers | **BLACKFRIDAY2025** - 50% off | Ends Dec 1 |
 | [UTWC](https://technicalwriting.online/) | Learn how to transform writing into a powerful tool that drives awareness to your products, earns you money, and brings you new opportunities | **BF2024** | Ends Nov 29 |
 | [Laracasts](https://technicalwriting.online/) | Master Laravel with comprehensive screencasts and practical learning paths | 50% off | - |
 | [React The Road to Enterprise](https://theroadtoenterprise.com/books/react-the-road-to-enterprise/typescript?discount_coupon=BLACKFRIDAY) | Take your skills to the next level and become a React pro by mastering advanced patterns, best practices, and cutting-edge techniques for the development of large-scale React applications | **BLACKFRIDAY** - 50% off | Ends Dec 1 |
