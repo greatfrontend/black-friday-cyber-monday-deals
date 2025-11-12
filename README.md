@@ -96,6 +96,7 @@ We'd greatly appreciate if you could:
 | [Checkbot](https://www.checkbot.io/) | Checkbot finds SEO, speed & security problems before your website visitors do | **NOV24** - 50% off | Ends Dec 2 |
 | [Small Hours](https://www.smallhours.dev/) | AI powered automated root cause analysis - minimize downtime, maximize efficiency | **BLACKFRIDAY24** - 50% off startup and enterprise plans | - |
 | [SkyImage](https://skymage.daudau.cc/) | Resize and crop images for developers. Optimize and transform your images with the best performance and quality on the sky | **BlACKFRIDAY** - 50% off | - |
+| [HTTP Toolkit](https://httptoolkit.com/?ref=greatfrontend) | Open-source HTTP debugger & client, with instant one-click setup for browsers, Android, node.js & more | **BLACKFRIDAY25** - 50% off forever on annual subscriptions | Ends Dec 3 |
 
 ## 📚 Books & Courses
 
