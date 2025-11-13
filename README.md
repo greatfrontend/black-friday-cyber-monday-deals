@@ -143,6 +143,7 @@ We'd greatly appreciate if you could:
 | [snappify](https://snappify.com/) | A powerful PowerPoint alternative for developers. Create stunning presentations, smoothly animated videos and elevate your technical content! | **BF_2024** - 30% off the first year | - |
 | [Project Management Spreadsheet](https://prosheetivity.gumroad.com/l/project-management-template/BF39) | Designed to facilitate teamwork and boost productivity. Ideal for tracking tasks and real-time reporting, its intuitive design and interconnected sheets make work processes smoother and more efficient | **BF39** - 39% off | Ends Nov 30 |
 | [Kerlig](https://www.kerlig.com/) | Save hours on written communication at work. Write emails, Slack replies, Jira tickets, proofread, chat with documents | **BF50** - 50% off & **BF25** - 25% off | - |
+| [Wins](https://wins.cool) | Mac window manager — enhances the system App Switcher with Cmd-Tab Plus, improves Dock efficiency with Dock Preview, and offers many other practical features — all designed to feel just like Apple’s built-in features. | **BLACKFRIDAY2025** - 40% OFF | Ends Dec 2 |
 
 ## 🤖 AI Tools
 
