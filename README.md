@@ -1,7 +1,8 @@
-# Black Friday & Cyber Monday deals - 2024
+# Black Friday & Cyber Monday deals - 2025
 
 Black Friday and Cyber Monday deals tailored for developers! Find discounts across templates, design, devtools, and learning resources.
 
+> We're currently collating an updated list for 2025. Feel free to send a pull request.
 
 We'd greatly appreciate if you could:
 
