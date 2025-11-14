@@ -149,12 +149,14 @@ We'd greatly appreciate if you could:
 | [Wins](https://wins.cool) | Mac window manager — enhances the system App Switcher with Cmd-Tab Plus, improves Dock efficiency with Dock Preview, and offers many other practical features — all designed to feel just like Apple’s built-in features. | **BLACKFRIDAY2025** - 40% OFF | Ends Dec 2 |
 | [DeskRest](https://deskrest.com/offers/) | Smart break and posture reminder app for macOS. Transform your workday. | **50% off Lifetime Plan** | Ends Dec 2 |
 
+
 ## 🤖 AI Tools
 
 | **Name** | **Description**| **Deal details** | **Validity** |
 |:-|:-|:-|:-|
 | [BoltAI](https://boltai.com) | Switch between top AI services and local models. All from a single native app on your Mac | Up to 60% off | Ends Nov 30 |
 | [Rize.io](https://rize.io/) | AI-powered time tracker that improves your focus and builds better work habits | **BLACKFRIDAY2024** - 40% off | - |
+| [Fenn](https://usefenn.com/?utm_source=greatfrontend) | AI File Search Agent for MacOS. | 50% off with code **BLACKFRIDAY** | Ends Dec 2 |
 
 ## 🎨 Design Kits
 
