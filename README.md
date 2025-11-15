@@ -149,6 +149,7 @@ We'd greatly appreciate if you could:
 | [Kerlig](https://www.kerlig.com/) | Save hours on written communication at work. Write emails, Slack replies, Jira tickets, proofread, chat with documents | **BF50** - 50% off & **BF25** - 25% off | - |
 | [Wins](https://wins.cool) | Mac window manager — enhances the system App Switcher with Cmd-Tab Plus, improves Dock efficiency with Dock Preview, and offers many other practical features — all designed to feel just like Apple’s built-in features. | **BLACKFRIDAY2025** - 40% OFF | Ends Dec 2 |
 | [DeskRest](https://deskrest.com/offers/) | Smart break and posture reminder app for macOS. Transform your workday. | **50% off Lifetime Plan** | Ends Dec 2 |
+| [Reepl](https://app.reepl.io/claim-offer/BLACKFRIDAY2025) | AI-powered LinkedIn automation platform. Train AI on your writing, automate personalized DMs/comments, schedule posts, and track contacts. Built for busy professionals. | **BLACKFRIDAY2025** - 60% off annual plan | Ends Dec 2 |
 
 
 ## 🤖 AI Tools
