@@ -159,6 +159,7 @@ We'd greatly appreciate if you could:
 | [BoltAI](https://boltai.com) | Switch between top AI services and local models. All from a single native app on your Mac | Up to 60% off | Ends Nov 30 |
 | [Rize.io](https://rize.io/) | AI-powered time tracker that improves your focus and builds better work habits | **BLACKFRIDAY2024** - 40% off | - |
 | [Fenn](https://usefenn.com/?utm_source=greatfrontend) | AI File Search Agent for MacOS. | 50% off with code **BLACKFRIDAY** | Ends Dec 2 |
+| [inReels.ai](https://www.inreels.ai) | Create stunning videos in seconds using AI. Turn text, PDFs, or images into videos. Repurpose content for YouTube, TikTok, Reels, and more. | **50% OFF Yearly Plans** with code **BLACKFRIDAY2025** |
 
 ## 🎨 Design Kits
 
