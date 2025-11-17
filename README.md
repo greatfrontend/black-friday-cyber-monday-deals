@@ -106,8 +106,9 @@ We'd greatly appreciate if you could:
 | **Name** | **Description**| **Deal details** | **Validity** |
 | :-|:-|:-|:-|
 | [Taro](https://www.jointaro.com/) | Expert courses to navigate your tech career | **BLACKFRIDAY24** - 25% off | Ends Dec 4 |
-| [The Joy of React](https://www.joyofreact.com/) | The interactive learning experience that teaches you how to build rich, dynamic web apps with React | 40% off | Ends Dec 4 |
-| [CSS for JavaScript Developers](https://css-for-js.dev/) | The interactive learning experience designed to help JavaScript developers become confident with CSS | 40% off | Ends Dec 4 |
+| [The Joy of React](https://www.joyofreact.com/) | The interactive learning experience that teaches you how to build rich, dynamic web apps with React | 42% off | Ends Dec 3 |
+| [CSS for JavaScript Developers](https://css-for-js.dev/) | The interactive learning experience designed to help JavaScript developers become confident with CSS | 40% off | Ends Dec 3 |
+| [Joy for JavaScript Developers](https://www.joyforjs.com/) | Develop a deep understanding of CSS and React with two flagship courses, CSS for JavaScript Developers and The Joy of React. | 50% off | Ends Dec 3 |
 | [Three.js Journey](https://threejs-journey.com/) | 93 hours of video to go from absolute beginner to advanced Three.js developer | **BF2024** - 50% off | Ends Nov 30 |
 | [useEffect.dev](https://useeffect.dev/) | Master the React Hook, and take your React experience to the next level | **FRIDAY23** - $20 off | - |
 | [The Modern Full Stack Next.js Course](https://www.nextjscourse.dev/) | A comprehensive course on building and deploying Production-ready apps with modern best practices that are real-world and in-depth with Zero fluff | **EARLYACCESSPARTY** - 50% off | Ends Dec 2 |
