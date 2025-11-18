@@ -163,6 +163,8 @@ We'd greatly appreciate if you could:
 | [Rize.io](https://rize.io/) | AI-powered time tracker that improves your focus and builds better work habits | **BLACKFRIDAY2024** - 40% off | - |
 | [Fenn](https://usefenn.com/?utm_source=greatfrontend) | AI File Search Agent for MacOS. | 50% off with code **BLACKFRIDAY** | Ends Dec 2 |
 | [inReels.ai](https://www.inreels.ai) | Create stunning videos in seconds using AI. Turn text, PDFs, or images into videos. Repurpose content for YouTube, TikTok, Reels, and more. | **50% OFF Yearly Plans** with code **BLACKFRIDAY2025** |
+| [SharpAPI](https://sharpapi.com/en/pricing) | AI workflow automation API for product descriptions, resume parsing, job match scoring, SEO tags, and more. Built for developers who want fast, dependable AI endpoints. | **50% OFF first year** with code **BF2025** |
+
 
 ## 🎨 Design Kits
 
