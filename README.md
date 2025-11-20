@@ -74,7 +74,7 @@ We'd greatly appreciate if you could:
 | **Name** | **Description**| **Deal details** | **Validity** |
 | :-|:-|:-|:-|
 | [GitKraken](https://www.gitkraken.com/) | Devtools that simplify & supercharge Git | Up to 85% off| - |
-| [Tower](https://www.git-tower.com/) | Powerful Git client for Mac and Windows | 30% off | Ends Nov 29 |
+| [Tower](https://www.git-tower.com/) | Powerful Git client for Mac and Windows | 30% off | Ends Dec 07 |
 | [Tailscan](https://tailscan.com/) | Build, design and debug your Tailwind website visually with Tailscan, right within the browser | 25% off lifetime plan | Ends Dec 3 |
 | [Kaleidoscope](https://kaleidoscope.app/) | The world's most powerful file comparison and merge app, with deep git integration | **BLACKFRIDAY2024** - 40% off | - |
 | [WhaleDeck](https://apple.co/3NQJi4w) | The only Docker manager you will ever need. Available for iOS, iPadOS, and macOS | 20% off lifetime plan | Ends Dec 2 |
