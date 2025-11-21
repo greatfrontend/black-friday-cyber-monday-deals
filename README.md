@@ -162,7 +162,6 @@ We'd greatly appreciate if you could:
 | [Migi](https://migiapp.com/) | Make your prompt templates just once and bring them up instantly with ⌥ Space. Just fill in the blanks, and in a second you'll have a custom prompt ready to go. | Save $10 | Ends Dec 2 | ✅ |
 | [GoStudio.ai](https://www.gostudio.ai/?ref=github) | Create custom, studio-quality AI headshots and branded portraits in minutes—perfect for founders, creators, and professionals who want high-credibility visuals without photoshoots. | **GS30** – 30% off  | Nov 20 – Jan 5, 2026 | ✅ | 
 
-
 ## 🎨 Design kits
 
 | **Name** | **Description**| **Deal details** | **Validity** | **Latest** |
