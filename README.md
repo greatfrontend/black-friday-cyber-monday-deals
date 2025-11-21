@@ -1,45 +1,47 @@
-# Black Friday & Cyber Monday deals — 2025
+# Black Friday & Cyber Monday Deals — 2025
 
-Black Friday and Cyber Monday deals tailored for developers! Find discounts across templates, design, devtools, and learning resources.
+Black Friday and Cyber Monday deals tailored for developers and designers! Find discounts across templates, design, devtools, and learning resources.
 
-> We're currently collating an updated list for 2025. Feel free to send a pull request.
+> We're currently collating an updated list for 2025. Feel free to send a pull request. If you're advertising your product, the only condition is you star the repo first.
+>
+> Products that are low quality may be removed at our discretion.
 
 We'd greatly appreciate if you could:
 
-- 👍 Contribute a deal you know with a pull request. Add them to the end of a category.
-- ⭐ Star this repo and come back next year for more updated deals.
-- ♻️ Share this repo with your friends so more people benefit and contribute.
+- 👍 Contribute a deal you know with a pull request. Add them to the end of a category
+- ⭐ Star this repo and come back next year for more updated deals
+- ♻️ Share this repo with your friends so more people benefit and contribute
 
-## 📚 Quick Navigation
+## 📚 Quick navigation
 
-- 🎓 [Interview Preparation](#-interview-preparation)
-- 💅 [UI Kits, Templates & Boilerplates](#-ui-kits-templates--boilerplates)
-- 🛠️ [Developer Tools](#%EF%B8%8F-developer-tools)
-- 📚 [Books & Courses](#-books--courses)
-- ⚙️ [Productivity Tools](#%EF%B8%8F-productivity-tools)
-- 🤖 [AI Tools](#-ai-tools)
-- 🎨 [Design](#-design-kits)
+- 🎓 [Interview preparation](#-interview-preparation)
+- 💅 [UI kits, templates & boilerplates](#-ui-kits-templates--boilerplates)
+- 🛠️ [Developer tools](#%EF%B8%8F-developer-tools)
+- 📚 [Books](#-books)
+- 👩‍🏫 [Courses](#-courses)
+- ⚙️ [Productivity tools](#%EF%B8%8F-productivity-tools)
+- 🤖 [AI tools](#-ai-tools)
+- 🎨 [Design-kits](#-design-kits)
 
-## 🎓 Interview Preparation
+## 🎓 Interview preparation
 
 | **Name** | **Description**| **Deal details** | **Validity** |
 | :-|:-|:-|:-|
-| [GreatFrontEnd](https://greatfrontend.com/) | Complete front end interview prep platform built by ex-FAANG engineers. 300+ practice questions across coding, UI, system design with detailed solutions. By the author of Blind 75 | **BF30** - 30% off | Ends Dec 2 |
+| [GreatFrontEnd](https://greatfrontend.com/?ref=bfcm&gnrs=bfcm) | Complete front end interview prep platform built by ex-FAANG engineers. 500+ practice questions across coding, UI, system design with detailed solutions. By the author of Blind 75 | **BF30** - 30% off | Ends Dec 2 |
 | [NeetCode](https://neetcode.io/pro) | A better way to prepare for coding interviews | 25% off | - |
-| [LeetCode](https://leetcode.com/subscribe) | Platform to help you enhance your skills, expand your knowledge and prepare for technical interviews | **THANKS2024** - $30 off annual plan | Ends Dec 2 |
 | [AlgoMonster](https://shareasale.com/r.cfm?b=1873647&u=3114753&m=114505&urllink=&afftrack=) | Structured way to prepare for coding interviews | 50% off | - |
 | [Design Gurus](https://www.designgurus.io/?aff=kJSIoU) | One-stop portal For tech interviews. By the creators of Grokking the System Design Interview | 50% to 78% off | - |
-| [ByteByteGo](https://bytebytego.com/?fpr=techinterviewhandbook) | Comprehensive high quality system design content by Alex Xu, author of the bestseller "System Design Interview" books | **BF2024** - 30% off | - |
-| [Educative.io](https://www.educative.io/?aff=x23W) | Offers interactive text-based courses on coding interviews, system design, and software engineering | 68% off | Ends Nov 29 |
+| [ByteByteGo](https://bytebytego.com/?fpr=techinterviewhandbook) | Ace every stage of your next technical interview by Alex Xu, author of the bestseller "System Design Interview" books | 50% off | - |
+| [Educative](https://www.educative.io/?aff=x23W) | Offers interactive text-based courses on coding interviews, system design, and software engineering | 68% off | Ends Nov 29 |
 | [Exponent](https://www.tryexponent.com/ref=techinterviewhandbook) | Tailored interview prep for PM, tech, and software engineering roles, including mock interview practice | 30% off annual plan | - |
 | [interviewing.io](https://iio.sh/r/DMCa) | Anonymous mock interviews with engineers from Amazon, Google, Facebook, and other top companies | $200-$700 off 5 & 10-session dedicated coaching packages | - |
-| [Final Round AI](https://www.finalroundai.com/interview-copilot) | Level up your interview game with real-time AI-powered answers | 45% off | Ends Dec 2 |
 
-## 💅 UI Kits, Templates & Boilerplates
+## 💅 UI kits, templates & boilerplates
 
 | **Name** | **Description**| **Deal details** | **Validity** |
 | :-|:-|:-|:-|
-| [TailwindUI](https://tailwindui.com/) | Includes access to all 500+ components and templates available in Tailwind UI today, plus all future updates | Over 30% off - TailwindUI & RefactoringUI | Ends Dec 2 |
+| [WrapPixel](https://www.wrappixel.com) | Best Angular, React, Vuejs, Next Js, Nuxt, Bootstrap Admin Dashboard Templates. | Up to 50% OFF on all templates - **BFCM50**  | - |
+| [Tailwind Plus](https://tailwindcss.com/plus) | Includes access to all 500+ components and templates available in Tailwind UI today, plus all future updates | Over 30% off - Tailwind UI & Refactoring UI | Ends Dec 2 |
 | [Aceternity UI Pro](https://pro.aceternity.com/) | Beautiful Tailwind CSS and Framer Motion Components, built with Next.js and TypeScript | **BLACKFRIDAY2024** - 30% off | - |
 | [Cruip](https://cruip.com/) | Beautifully designed Tailwind CSS templates for your next project. | Get all templates for $69 (55% off) | - |
 | [Next.js Templates](https://nextjs-templates.com/) | Next.js Templates for Your Upcoming Projects | **BFCM2024** - 50% off | - |
@@ -58,7 +60,6 @@ We'd greatly appreciate if you could:
 | [GetNextJsTemplates](https://getnextjstemplates.com/) | Ready to use Next.js Website Templates | SiteWide Sale Up to 50% OFF  - **BFCM50**  | - |
 | [FormBold](https://formbold.com/) | A complete web form solution that includes a form API, backend, and builder. Get website form submissions directly to your inbox, Slack, Sheet, Notion, Telegram and more | **BLFCM2024** - 40% off | Ends Dec 3 |
 | [NextAdmin](https://nextadmin.co/) | Next.js Admin Dashboard Templates and Components | **BLFCM2024** - Up to 40% off | - |
-| [WrapPixel](https://www.wrappixel.com) | Best Angular, React, Vuejs, Next Js, Nuxt, Bootstrap Admin Dashboard Templates. | Up to 50% OFF on all templates - **BFCM50**  | - |
 | [LaunchFast](https://www.launchfa.st/) | Production-ready SaaS Starter Kits in Astro, Svelte, and Next.js | **BLACKFRIDAY2024** - 25% off | - |
 | [ChromeKit](https://www.chromekit.dev/) | The Chrome extension boilerplate with all you need to build and launch your extension fast with ReactJS, TailwindCSS & Vite | **BLACKFRIDAY2024** - 30% off | - |
 | [Web3Templates](https://web3templates.com/) | Fast & SEO optimized website template built with Next.js, Astro, Tailwind CSS and Sanity CMS | **BLACKFRIDAY** - 30% off | Ends Dec 5 |
@@ -67,9 +68,9 @@ We'd greatly appreciate if you could:
 | [OxbowUI](https://oxbowui.com/) | Beautifully crafted with Tailwind CSS and Alpine JS — Simple & easy to customize | 70% off | Ends Dec 2 |
 | [ZexaNext](https://next.zexa.app/) | The Simple, Speedy & Efficient, Next.js Boilerplate | 70% off | - |
 | [WrapPixel - All Access Pass](https://www.wrappixel.com/all-access-pass/) | Collection of Best Angular, Tailwind, React, Vuejs, Next Js, Nuxt, Bootstrap Admin Dashboard Templates. | 95% off | - |
-| [AdminMart](https://adminmart.com/) | Explore the Best Angular, Tailwind, React, Vuejs, Next.Js, Nuxt, Bootstrap Admin Dashboard Templates. | SiteWide Sale Up to 50% OFF  - **BFCM50**  | - |
+| [AdminMart](https://adminmart.com/) | Explore the Best Angular, Tailwind, React, Vue, Next, Nuxt, Bootstrap Admin Dashboard Templates. | Sitewide Sale Up to 50% OFF  - **BFCM50**  | - |
 
-## 🛠️ Developer Tools
+## 🛠️ Developer tools
 
 | **Name** | **Description**| **Deal details** | **Validity** |
 | :-|:-|:-|:-|
@@ -103,7 +104,7 @@ We'd greatly appreciate if you could:
 | [BucketMate](https://bucketmate.app/pricing?ref=greatfrontend) | a Finder-style S3-compatible manager for macOS. | **BLACKFRIDAY11** - 70% off lifetime plan | Ends Dec 5 |
 | [TestDino](https://testdino.com/) | Smart Playwright Test Reporting and Analytics | **BFTD2025** - 30% off on yearly Team Plan | - |
 
-## 📚 Books & Courses
+## 👩‍🏫 Courses
 
 | **Name** | **Description**| **Deal details** | **Validity** |
 | :-|:-|:-|:-|
@@ -112,36 +113,36 @@ We'd greatly appreciate if you could:
 | [CSS for JavaScript Developers](https://css-for-js.dev/) | The interactive learning experience designed to help JavaScript developers become confident with CSS | 40% off | Ends Dec 3 |
 | [Joy for JavaScript Developers](https://www.joyforjs.com/) | Develop a deep understanding of CSS and React with two flagship courses, CSS for JavaScript Developers and The Joy of React. | 50% off | Ends Dec 3 |
 | [Three.js Journey](https://threejs-journey.com/) | 93 hours of video to go from absolute beginner to advanced Three.js developer | **BF2024** - 50% off | Ends Nov 30 |
-| [useEffect.dev](https://useeffect.dev/) | Master the React Hook, and take your React experience to the next level | **FRIDAY23** - $20 off | - |
+| [useEffect.dev](https://useeffect.dev/) | Master React Hooks, and take your React experience to the next level | **FRIDAY23** - $20 off | - |
 | [The Modern Full Stack Next.js Course](https://www.nextjscourse.dev/) | A comprehensive course on building and deploying Production-ready apps with modern best practices that are real-world and in-depth with Zero fluff | **EARLYACCESSPARTY** - 50% off | Ends Dec 2 |
 | [VueSchool](https://vueschool.io/) | Learn Vue.js and modern, cutting-edge front-end technologies from core-team members and industry experts with our premium tutorials and video courses | 60% off yearly plan | Ends Nov 29 |
 | [Vue Mastery](https://www.vuemastery.com/black-friday/) | Take your Vue.js skills to the next level with the highest quality Vue courses. Learn from experts like Evan You and build amazing web applications | 60% off | - |
 | [Zero To Mastery](https://zerotomastery.io/courses/) | The most up-to-date tech courses online. | **BFCM25** - 66% off annual membership | Ends Dec 1 |
-| [Design Course](https://designcourse.com/) | Learn UI/UX or CSS | **BF50** - 50% off | - |
 | [Scrimba](https://scrimba.com/) | A place to level up your coding skills and build awesome projects | 30% off yearly plan | Ends Dec 2 |
-| [Design for Developers](https://www.enhanceui.com/) | Learn design as a developer to improve your UI, UX, to make apps and websites look great! | **BLACKFRIDAY24** | - |
 | [Code With Mosh](https://codewithmosh.com/) | High-quality video courses on programming, web development, and software engineering fundamentals | 50% off annual subscription | Ends Nov 30 |
 | [Academind](https://academind.com/) | Detailed and beginner-friendly courses on web development, JavaScript, React, and more | 40% off | Ends Dec 3 |
 | [codecourse](https://codecourse.com/) | The most practical screencasts for developers | **BLACKFRIDAY2025** - 50% off | Ends Dec 1 |
-| [UTWC](https://technicalwriting.online/) | Learn how to transform writing into a powerful tool that drives awareness to your products, earns you money, and brings you new opportunities | **BF2024** | Ends Nov 29 |
-| [Laracasts](https://technicalwriting.online/) | Master Laravel with comprehensive screencasts and practical learning paths | 50% off | - |
-| [React The Road to Enterprise](https://theroadtoenterprise.com/books/react-the-road-to-enterprise/typescript?discount_coupon=BLACKFRIDAY) | Take your skills to the next level and become a React pro by mastering advanced patterns, best practices, and cutting-edge techniques for the development of large-scale React applications | **BLACKFRIDAY** - 50% off | Ends Dec 1 |
-| [The Big Git Microbook](https://jtemporal.com/gitmicrobook/) | A quick guide to commands you will use daily | **DEALSFORDEVS** | - |
-| [The Engineering Leader's Playbook: The First 90 Days](https://kulkarniankita.gumroad.com/l/growthfor90days/BLACKFRIDAY50) | Learn how to lead a team & succeed as a leader using this playbook  | **BLACKFRIDAY50** - 50% off | - |
-| [The Road to React](https://www.roadtoreact.com/) | React.js Bestseller on Amazon, Your journey to master React in JavaScript, Do not miss to check out thew new course The Road to Next | **BLACKFRIDAY** - 30% off | - |
-| [Complete Guide to CSS Flexbox & Grid](https://shrutibalasa.gumroad.com/l/css-flex-and-grid/BLACKFRIDAY24) | Become a Pro at building components & layouts with CSS Flexbox and Grid. | **BLACKFRIDAY24** - 60% | - |
-| [Dynamic Trio: Building Web Applications with React, Next.js & Tailwind](https://gracehuang.gumroad.com/l/dynamic-trio/BLACKFRIDAY24) | A practical guide with step-by-step tutorials on building modern web applications using React, Next.js, and Tailwind CSS. | **BLACKFRIDAY24** - 40% off | - |
-[Tao of React](https://alexanderkondov.gumroad.com/l/tao-of-react) | Learn how to build well-structured React.js applications. Get better at software design. | **BLACKFRIDAY** - 50% off | - |
-| [Level up with Tailwind CSS](https://shrutibalasa.gumroad.com/l/level-up-with-tailwind-css/BLACKFRIDAY24) | With in-depth insights into advanced concepts, tips and tricks, work faster and with more skill. | **BLACKFRIDAY24** - 60% off | - |
-| [Tao of Node](https://alexanderkondov.gumroad.com/l/tao-of-node) | Build better Node.js applications. A collection of best practices about building REST APIs | **BLACKFRIDAY** - 50% off | - |
-| [Build A SaaS App In Rails 8 (complete package)](https://robrace.gumroad.com/l/basair8cp/bfcm24) | Learn to build a production-ready SaaS app in Rails 8 | **bfcm24** - 60% off | - |
-| [Rails 8 Everything Bundle](https://robrace.gumroad.com/l/r8eb/bfcm24) | Build A SaaS App In Rails 8 + two other upcoming books in one package | **bfcm24** - 60% off | - |
-| [Mike Callaghan's Complete Works](https://walkingriver.gumroad.com/l/everything) | 12 books, 4 courses, and **all future items** covering AI, web and mobile development, Angular, Ionic, and more | **75% off** from $204 to **$47.00** | - |
 | [LabEx](https://labex.io/learn)| Learn Linux, DevOps & Cybersecurity with Hands-on Labs | [50% OFF for Two Years](https://labex.io/checkout?type=4&coupon=2025BF50) (Coupon: 2025BF50) and [30% OFF for One Year](https://labex.io/checkout?type=2&coupon=2025BF30) (Coupon: 2025BF30) | - |
 | [Build Your Own Pub/Sub Protocol (NATS)](https://protocol-zero.pmbanugo.me) | Master Distributed Systems by building a Pub/Sub server from raw TCP/Sockets. A deep-dive course & workshop on building a [NATS-compatible](https://nats.io) server from scratch | **60+% only during Cyberweek** ($49 Course / $129 Live Workshop). Discount applied automatically  | Nov 27 - Dec 1, 2025 |
 | [Fast Track To Senior Engineer](https://maven.com/top-engineer/fast-track-to-senior?promoCode=BF1125) | Become a high-performing software engineer and get promoted in 2026! | **25% off** autoapplied,  coupon: `BF1125` | Ends Dec 15 |
 
-## ⚙️ Productivity Tools
+## 📚 Books
+
+| **Name** | **Description**| **Deal details** | **Validity** |
+| :-|:-|:-|:-|
+| [Tao of React](https://alexanderkondov.gumroad.com/l/tao-of-react) | Learn how to build well-structured React.js applications. Get better at software design. | **BLACKFRIDAY** - 50% off | - |
+| [Tao of Node](https://alexanderkondov.gumroad.com/l/tao-of-node) | Build better Node.js applications. A collection of best practices about building REST APIs | **BLACKFRIDAY** - 50% off | - |
+| [The Road to React](https://www.roadtoreact.com/) | React.js Bestseller on Amazon, Your journey to master React in JavaScript, Do not miss to check out thew new course The Road to Next | **BLACKFRIDAY** - 30% off | - |
+| [The Engineering Leader's Playbook: The First 90 Days](https://kulkarniankita.gumroad.com/l/growthfor90days/BLACKFRIDAY50) | Learn how to lead a team & succeed as a leader using this playbook  | **BLACKFRIDAY50** - 50% off | - |
+| [Level up with Tailwind CSS](https://shrutibalasa.gumroad.com/l/level-up-with-tailwind-css/BLACKFRIDAY24) | With in-depth insights into advanced concepts, tips and tricks, work faster and with more skill. | **BLACKFRIDAY24** - 60% off | - |
+| [The Big Git Microbook](https://jtemporal.com/gitmicrobook/) | A quick guide to commands you will use daily | **DEALSFORDEVS** | - |
+| [Rails 8 Everything Bundle](https://robrace.gumroad.com/l/r8eb/bfcm24) | Build A SaaS App In Rails 8 + two other upcoming books in one package | **bfcm24** - 60% off | - |
+| [Build A SaaS App In Rails 8 (complete package)](https://robrace.gumroad.com/l/basair8cp/bfcm24) | Learn to build a production-ready SaaS app in Rails 8 | **bfcm24** - 60% off | - |
+| [Complete Guide to CSS Flexbox & Grid](https://shrutibalasa.gumroad.com/l/css-flex-and-grid/BLACKFRIDAY24) | Become a Pro at building components & layouts with CSS Flexbox and Grid. | **BLACKFRIDAY24** - 60% | - |
+| [React The Road to Enterprise](https://theroadtoenterprise.com/books/react-the-road-to-enterprise/typescript?discount_coupon=BLACKFRIDAY) | Take your skills to the next level and become a React pro by mastering advanced patterns, best practices, and cutting-edge techniques for the development of large-scale React applications | **BLACKFRIDAY** - 50% off | Ends Dec 1 |
+| [Mike Callaghan's Complete Works](https://walkingriver.gumroad.com/l/everything) | 12 books, 4 courses, and **all future items** covering AI, web and mobile development, Angular, Ionic, and more | **75% off** from $204 to **$47.00** | - |
+
+## ⚙️ Productivity tools
 
 | **Name** | **Description**| **Deal details** | **Validity** |
 |:-|:-|:-|:-|
@@ -157,8 +158,7 @@ We'd greatly appreciate if you could:
 | [Reepl](https://app.reepl.io/claim-offer/BLACKFRIDAY2025) | AI-powered LinkedIn automation platform. Train AI on your writing, automate personalized DMs/comments, schedule posts, and track contacts. Built for busy professionals. | **BLACKFRIDAY2025** - 60% off annual plan | Ends Dec 2 |
 | [Octoparse](https://www.octoparse.com/black-friday-sale-2025?utm_source=github&utm_medium=product&utm_campaign=25bf) |A no-code web scraping tool that turns any website into structured data in minutes — available on macOS.|Get up to **45% OFF**, auto-applied from Nov 19 to Dec 3, (UTC-5). | 2025-12-03 |
 
-
-## 🤖 AI Tools
+## 🤖 AI tools
 
 | **Name** | **Description**| **Deal details** | **Validity** |
 |:-|:-|:-|:-|
@@ -169,8 +169,7 @@ We'd greatly appreciate if you could:
 | [SharpAPI](https://sharpapi.com/en/pricing) | AI workflow automation API for product descriptions, resume parsing, job match scoring, SEO tags, and more. Built for developers who want fast, dependable AI endpoints. | **50% OFF first year** with code **BF2025** |
 | [Beagle Security](https://beaglesecurity.com/black-friday-sale) | Beagle Security is an AI-powered automated pentesting platform that simulates real-world attacks to uncover vulnerabilities in web apps, APIs, and GraphQL. With agentic AI agents, it streamlines testing, analyzes results, and delivers actionable insights for faster, smarter vulnerability management. | **35% OFF annual** (Code **BFCMY25**) & **20% OFF monthly** (Code **BFCMM25**) — Valid for both Advanced & Essential plans for the next 6 months | **Nov 25 – Dec 4, 2025** |
 
-
-## 🎨 Design Kits
+## 🎨 Design kits
 
 | **Name** | **Description**| **Deal details** | **Validity** |
 |:-|:-|:-|:-|
@@ -180,6 +179,13 @@ We'd greatly appreciate if you could:
 | [lineicons](https://lineicons.com/) | 5300+ line icons for designers and developers with Pro CDN, multiple variations, an icon editor, and more. Available in WebFont, SVG, React, Vue and Figma files | **BLFCM2024** - 40% off | Ends Nov 29 |
 | [Iconbuddy](https://iconbuddy.com/pricing) | Unlock unlimited icon search and plugin access, for lifetime | $100 off for first 200 users | - |
 | [Sip](https://sipapp.io/) | Sip is a modern color picker that brings ease to color organization & team collaboration | **BF_2024** - 50% off | - |
+
+## Design courses
+
+| **Name** | **Description**| **Deal details** | **Validity** |
+|:-|:-|:-|:-|
+| [Design Course](https://designcourse.com/) | Learn UI/UX or CSS | **BF50** - 50% off | - |
+| [Design for Developers](https://www.enhanceui.com/) | Learn design as a developer to improve your UI, UX, to make apps and websites look great! | **BLACKFRIDAY24** | - |
 
 ## Disclaimer
 
