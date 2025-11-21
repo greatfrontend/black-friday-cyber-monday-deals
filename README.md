@@ -158,9 +158,9 @@ We'd greatly appreciate if you could:
 | [Fenn](https://usefenn.com/?utm_source=greatfrontend) | AI File Search Agent for MacOS. | **BLACKFRIDAY** - 50% off | Ends Dec 2 | ✅ | 
 | [inReels.ai](https://www.inreels.ai) | Create stunning videos in seconds using AI. Turn text, PDFs, or images into videos. Repurpose content for YouTube, TikTok, Reels, and more | **BLACKFRIDAY2025** - 50% off | - | ✅ |
 | [SharpAPI](https://sharpapi.com/en/pricing) | AI workflow automation API for product descriptions, resume parsing, job match scoring, SEO tags, and more | **BF2025** – 50% off first year | - | ✅ | 
-| [Beagle Security](https://beaglesecurity.com/black-friday-sale) | AI-powered automated pentesting platform that simulates real-world attacks to uncover vulnerabilities in web apps, APIs, and GraphQL | **BFCMY25** for 35% off annual, **BFCMM25** for 20% off monthly | Nov 25 – Dec 4 | ✅ | management. | **35% OFF annual** (Code **BFCMY25**) & **20% OFF monthly** (Code **BFCMM25**) — Valid for both Advanced & Essential plans for the next 6 months | **Nov 25 – Dec 4, 2025** |
+| [Beagle Security](https://beaglesecurity.com/black-friday-sale) | AI-powered automated pentesting platform that simulates real-world attacks to uncover vulnerabilities in web apps, APIs, and GraphQL | **BFCMY25** for 35% off annual, **BFCMM25** for 20% off monthly | Nov 25 – Dec 4 | ✅ | 
 | [Migi](https://migiapp.com/) | Make your prompt templates just once and bring them up instantly with ⌥ Space. Just fill in the blanks, and in a second you'll have a custom prompt ready to go. | Save $10 | Ends Dec 2 | ✅ |
-| [GoStudio.ai](https://www.gostudio.ai/?ref=github) | Create custom, studio-quality AI headshots and branded portraits in minutes—perfect for founders, creators, and professionals who want high-credibility visuals without photoshoots. | **GS30** – 30% off  | Nov 20 – Jan 5, 2026 |
+| [GoStudio.ai](https://www.gostudio.ai/?ref=github) | Create custom, studio-quality AI headshots and branded portraits in minutes—perfect for founders, creators, and professionals who want high-credibility visuals without photoshoots. | **GS30** – 30% off  | Nov 20 – Jan 5, 2026 | ✅ | 
 
 
 ## 🎨 Design kits
