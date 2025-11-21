@@ -148,6 +148,7 @@ We'd greatly appreciate if you could:
 | [DeskRest](https://deskrest.com/offers/) | Smart break and posture reminder app for macOS. Transform your workday. | 50% off lifetime plan | Ends Dec 2 | ✅ |
 | [Reepl](https://app.reepl.io/claim-offer/BLACKFRIDAY2025) | AI-powered LinkedIn automation platform. Train AI on your writing, automate personalized DMs/comments, schedule posts, and track contacts. Built for busy professionals | **BLACKFRIDAY2025** - 60% off annual plan | Ends Dec 2 | ✅ |
 | [Octoparse](https://www.octoparse.com/black-friday-sale-2025?utm_source=github&utm_medium=product&utm_campaign=25bf) | A no-code web scraping tool that turns any website into structured data in minutes — available on macOS | 45% off | Nov 19 to Dec 3 (UTC-5) | ✅ |
+| [Migi](https://migiapp.com/) | Make your prompt templates just once and bring them up instantly with ⌥ Space. Just fill in the blanks, and in a second you'll have a custom prompt ready to go. | $19.99 from $29.99 lifetime | Nov 21 - Dec 2 | ✅ |
 
 ## 🤖 AI tools
 
