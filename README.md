@@ -74,7 +74,7 @@ We'd greatly appreciate if you could:
 | **Name** | **Description**| **Deal details** | **Validity** |
 | :-|:-|:-|:-|
 | [GitKraken](https://www.gitkraken.com/) | Devtools that simplify & supercharge Git | Up to 85% off| - |
-| [Tower](https://www.git-tower.com/) | Powerful Git client for Mac and Windows | 30% off | Ends Nov 29 |
+| [Tower](https://www.git-tower.com/) | Powerful Git client for Mac and Windows | 30% off | Ends Dec 07 |
 | [Tailscan](https://tailscan.com/) | Build, design and debug your Tailwind website visually with Tailscan, right within the browser | 25% off lifetime plan | Ends Dec 3 |
 | [Kaleidoscope](https://kaleidoscope.app/) | The world's most powerful file comparison and merge app, with deep git integration | **BLACKFRIDAY2024** - 40% off | - |
 | [WhaleDeck](https://apple.co/3NQJi4w) | The only Docker manager you will ever need. Available for iOS, iPadOS, and macOS | 20% off lifetime plan | Ends Dec 2 |
@@ -139,6 +139,7 @@ We'd greatly appreciate if you could:
 | [Mike Callaghan's Complete Works](https://walkingriver.gumroad.com/l/everything) | 12 books, 4 courses, and **all future items** covering AI, web and mobile development, Angular, Ionic, and more | **75% off** from $204 to **$47.00** | - |
 | [LabEx](https://labex.io/learn)| Learn Linux, DevOps & Cybersecurity with Hands-on Labs | [50% OFF for Two Years](https://labex.io/checkout?type=4&coupon=2025BF50) (Coupon: 2025BF50) and [30% OFF for One Year](https://labex.io/checkout?type=2&coupon=2025BF30) (Coupon: 2025BF30) | - |
 | [Build Your Own Pub/Sub Protocol (NATS)](https://protocol-zero.pmbanugo.me) | Master Distributed Systems by building a Pub/Sub server from raw TCP/Sockets. A deep-dive course & workshop on building a [NATS-compatible](https://nats.io) server from scratch | **60+% only during Cyberweek** ($49 Course / $129 Live Workshop). Discount applied automatically  | Nov 27 - Dec 1, 2025 |
+| [Fast Track To Senior Engineer](https://maven.com/top-engineer/fast-track-to-senior?promoCode=BF1125) | Become a high-performing software engineer and get promoted in 2026! | **25% off** autoapplied,  coupon: `BF1125` | Ends Dec 15 |
 
 ## ⚙️ Productivity Tools
 
