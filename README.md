@@ -147,7 +147,7 @@ We'd greatly appreciate if you could:
 | [Wins](https://wins.cool) | Mac window manager — enhances the system App Switcher with Cmd-Tab Plus, improves Dock efficiency with Dock Preview, and offers many other practical features — all designed to feel just like Apple’s built-in features. | **BLACKFRIDAY2025** - 40% OFF | Ends Dec 2 | ✅ |
 | [DeskRest](https://deskrest.com/offers/) | Smart break and posture reminder app for macOS. Transform your workday. | 50% off lifetime plan | Ends Dec 2 | ✅ |
 | [Reepl](https://app.reepl.io/claim-offer/BLACKFRIDAY2025) | AI-powered LinkedIn automation platform. Train AI on your writing, automate personalized DMs/comments, schedule posts, and track contacts. Built for busy professionals | **BLACKFRIDAY2025** - 60% off annual plan | Ends Dec 2 | ✅ |
-| [Octoparse](https://www.octoparse.com/black-friday-sale-2025?utm_source=github&utm_medium=product&utm_campaign=25bf) | A no-code web scraping tool that turns any website into structured data in minutes — available on macOS | 45% off | Nov 19 to Dec 3 (UTC-5) | ✅ |
+| [Octoparse](https://www.octoparse.com/black-friday-sale-2025?utm_source=github&utm_medium=product&utm_campaign=25bf) | A no-code web scraping tool that turns any website into structured data in minutes — available on macOS | 45% off | Ends Dec 3 (UTC-5) | ✅ |
 
 ## 🤖 AI tools
 
@@ -159,6 +159,7 @@ We'd greatly appreciate if you could:
 | [inReels.ai](https://www.inreels.ai) | Create stunning videos in seconds using AI. Turn text, PDFs, or images into videos. Repurpose content for YouTube, TikTok, Reels, and more | **BLACKFRIDAY2025** - 50% off | - | ✅ |
 | [SharpAPI](https://sharpapi.com/en/pricing) | AI workflow automation API for product descriptions, resume parsing, job match scoring, SEO tags, and more | **BF2025** – 50% off first year | - | ✅ | 
 | [Beagle Security](https://beaglesecurity.com/black-friday-sale) | AI-powered automated pentesting platform that simulates real-world attacks to uncover vulnerabilities in web apps, APIs, and GraphQL | **BFCMY25** for 35% off annual, **BFCMM25** for 20% off monthly | Nov 25 – Dec 4 | ✅ | 
+| [Migi](https://migiapp.com/) | Make your prompt templates just once and bring them up instantly with ⌥ Space. Just fill in the blanks, and in a second you'll have a custom prompt ready to go. | Save $10 | Ends Dec 2 | ✅ |
 
 ## 🎨 Design kits
 
