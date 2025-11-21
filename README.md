@@ -116,7 +116,7 @@ We'd greatly appreciate if you could:
 | [The Modern Full Stack Next.js Course](https://www.nextjscourse.dev/) | A comprehensive course on building and deploying Production-ready apps with modern best practices that are real-world and in-depth with Zero fluff | **EARLYACCESSPARTY** - 50% off | Ends Dec 2 |
 | [VueSchool](https://vueschool.io/) | Learn Vue.js and modern, cutting-edge front-end technologies from core-team members and industry experts with our premium tutorials and video courses | 60% off yearly plan | Ends Nov 29 |
 | [Vue Mastery](https://www.vuemastery.com/black-friday/) | Take your Vue.js skills to the next level with the highest quality Vue courses. Learn from experts like Evan You and build amazing web applications | 60% off | - |
-| [Zero To Mastery](https://zerotomastery.io/courses/) | The most up-to-date tech courses online. | **BFCM24** - 58% off annual membership | Ends Dec 2 |
+| [Zero To Mastery](https://zerotomastery.io/courses/) | The most up-to-date tech courses online. | **BFCM25** - 66% off annual membership | Ends Dec 1 |
 | [Design Course](https://designcourse.com/) | Learn UI/UX or CSS | **BF50** - 50% off | - |
 | [Scrimba](https://scrimba.com/) | A place to level up your coding skills and build awesome projects | 30% off yearly plan | Ends Dec 2 |
 | [Design for Developers](https://www.enhanceui.com/) | Learn design as a developer to improve your UI, UX, to make apps and websites look great! | **BLACKFRIDAY24** | - |
