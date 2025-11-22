@@ -75,16 +75,16 @@ We'd greatly appreciate if you could:
 | :- | :- | :- | :- | :- | 
 | [GitKraken](https://www.gitkraken.com/) | Devtools that simplify & supercharge Git | Up to 85% off| - |
 | [Tower](https://www.git-tower.com/) | Powerful Git client for Mac and Windows | 30% off | Ends Dec 7 | ✅ |
+| [Webhookify](https://webhookify.io/) | Streamline Webhook Integrations: Boost App Connectivity | **BLACKFRIDAY2025** -30% off | Ends Dec 3 | ✅ |
+| [LocalCan](https://www.localcan.com/) | Develop apps with Public URLs and .local domains | **BF20** - 20% off | - | ✅ |
+| [Proxyman](https://proxyman.io/) | Best-in-class native macOS app to capture, decrypt, and mock your HTTP(s) requests/ responses with powerful debugging tools | **BLACKFRIDAY2025** - 30% off | - | ✅ |
 | [Tailscan](https://tailscan.com/) | Build, design and debug your Tailwind website visually with Tailscan, right within the browser | 25% off lifetime plan | Ends Dec 3 |
 | [Kaleidoscope](https://kaleidoscope.app/) | The world's most powerful file comparison and merge app, with deep git integration | **BLACKFRIDAY2024** - 40% off | - |
 | [WhaleDeck](https://apple.co/3NQJi4w) | The only Docker manager you will ever need. Available for iOS, iPadOS, and macOS | 20% off lifetime plan | Ends Dec 2 |
 | [Polypane](https://polypane.app/) | A stand-alone browser with everything you need to build responsive, accessible and performant web sites and web apps | 25% off | Ends Dec 2 |
 | [OK JSON](https://okjson.app/) | The ultimate JSON formatter for your Mac | **BF2024** - 50% off | - |
-| [Webhookify](https://webhookify.io/) | Streamline Webhook Integrations: Boost App Connectivity | **BLACKFRIDAY2024** - 70% off | - |
 | [RunJS](https://runjs.app/) | The JavaScript playground for your desktop | **BLACKFRIDAY2024** - 30% off | Ends Nov 29 |
-| [LocalCan](https://www.localcan.com/) | Develop apps with Public URLs and .local domains | **BF25** - 25% off | - |
 | [DeployHQ](https://www.deployhq.com/) | DeployHQ automates deploying projects from Git, SVN, and Mercurial repositories. It simplifies the process of getting code from a repository onto a server, making it easier for developers | **BLACKFRIDAY50** - 50% off | - |
-| [Proxyman](https://proxyman.io/) | Best-in-class native macOS app to capture, decrypt, and mock your HTTP(s) requests/ responses with powerful debugging tools | **BLACKFRIDAY2024** - 30% off | - |
 | [Hoverify](https://tryhoverify.com/) | All-in-one browser extension with tools to enhance your web development experience and take your productivity to the next level | 30% off | - |
 | [Reveal](https://revealapp.com/) | Review, fix, and improve your app’s accessible and visual user experiences with powerful UI inspection and testing tools | **BLACKFRIDAY2024** - $30 off | Ends Dec 2 |
 | [Open Graph Design](https://opengraphdesign.com/) | Improve the appearance and engagement of your social media posts with custom Open Graph images | **BF2024** - $30 off | - |
