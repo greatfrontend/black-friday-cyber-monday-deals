@@ -39,35 +39,35 @@ We'd greatly appreciate if you could:
 
 | **Name** | **Description**| **Deal details** | **Validity** | **Latest** |
 | :- | :- | :- | :- | :- | 
-| [WrapPixel](https://www.wrappixel.com) | Best Angular, React, Vuejs, Next Js, Nuxt, Bootstrap Admin Dashboard Templates. | **BFCM50** – up to 50% OFF on all templates  | - |
-| [WrapPixel - All Access Pass](https://www.wrappixel.com/all-access-pass/) | Collection of Best Angular, Tailwind, React, Vuejs, Next Js, Nuxt, Bootstrap Admin Dashboard Templates. | 95% off | - |
+| [WrapPixel](https://www.wrappixel.com) | Best Angular, React, Vuejs, Next Js, Nuxt, Bootstrap Admin Dashboard Templates. | **BFCM50** – up to 50% OFF on all templates  | - | ✅ |
+| [WrapPixel - All Access Pass](https://www.wrappixel.com/all-access-pass/) | Collection of Best Angular, Tailwind, React, Vuejs, Next Js, Nuxt, Bootstrap Admin Dashboard Templates. | 95% off | - | ✅ |
+| [Aceternity UI Pro](https://pro.aceternity.com/) | Beautiful Tailwind CSS and Framer Motion Components, built with Next.js and TypeScript | **BLACKFRIDAY20** - 30% off | Ends Dec 3 | ✅ |
 | [Tailwind Plus](https://tailwindcss.com/plus) | Includes access to all 500+ components and templates available in Tailwind UI today, plus all future updates | Over 30% off - Tailwind UI & Refactoring UI | Ends Dec 2 |
-| [Aceternity UI Pro](https://pro.aceternity.com/) | Beautiful Tailwind CSS and Framer Motion Components, built with Next.js and TypeScript | **BLACKFRIDAY2024** - 30% off | - |
-| [Cruip](https://cruip.com/) | Beautifully designed Tailwind CSS templates for your next project. | Get all templates for $69 (55% off) | - |
-| [Next.js Templates](https://nextjs-templates.com/) | Next.js Templates for Your Upcoming Projects | **BFCM2024** - 50% off | - |
-| [TailsGrid](https://tailgrids.com/) | Tailwind CSS UI Components, Blocks and Templates | **BLFCM2024** - 40% off | Ends Nov 29 |
-| [daisyUI](https://daisyui.com/store/) | Official templates made by daisyUI | **BLACKFRIDAY** - 40% off all products | Ends Dec 2 |
+| [Next.js Templates](https://nextjs-templates.com/) | Next.js Templates for Your Upcoming Projects | **BFCM50** - 50% off | - | ✅ |
+| [Shipixen](https://shipixen.com/) | In 5 minutes, go from nothing → deployed codebase | **BF2025** - 50% off yearly license | - | ✅ |
+| [Get nextjs Templates](https://getnextjstemplates.com/) | Ready to use Next.js Website Templates | **BFCM50** – up to 50% off  | - | ✅ |
+| [Cruip](https://cruip.com/) | Beautifully designed Tailwind CSS templates for your next project. | Get all templates for $69 (50% off) | - | ✅ |
+| [TailsGrid](https://tailgrids.com/) | Tailwind CSS UI Components, Blocks and Templates | **BLFCM2025** - 40% off | Ends Dec 2 | ✅ |
+| [daisyUI](https://daisyui.com/store/) | Official templates made by daisyUI | **BLACKFRIDAY** - 40% off all products | Ends Dec 2 | ✅ |
+| [SaaS Pegasus](https://www.saaspegasus.com/)) | The most popular Django boilerplate for SaaS and AI apps. Trusted by over a thousand developers and businesses | 50% off lifetime license | Ends Dec 3 | ✅ |
+| [Gravity](https://usegravity.app/) | The SaaS boilerplate that handles the complex, boring code like payments and authentication, while you build fun features that generate revenue | 60% off | Ends Nov 30 | ✅ |
+| [AdminMart](https://adminmart.com/) | Explore the Best Angular, Tailwind, React, Vue, Next, Nuxt, Bootstrap Admin Dashboard Templates. | **BFCM50** – Up to 50% off | - | ✅ |
 | [Tailkit](https://tailkit.com/) | Carefully crafted, easy to customize, fully responsive Tailwind components, templates and tools for all your Tailwind CSS based projects | **BLACKFRIDAY2024** - 50% off | Ends Dec 3 |
 | [NextReady](https://nextready.dev/) | A ready-to-use and type-safe components for Next.js, TypeScript, Prisma, LemonSqueezy, shadcn/ui, etc | **BF2024** - 63% off  | - |
-| [Shipixen](https://shipixen.com/) | In 5 minutes, go from nothing → deployed codebase | **BF2025** - 50% off yearly license | - | ✅ |
 | [Shipped](https://shipped.club/) | Launch your startup in days, not months! NextJS SaaS Kit TS/React/Tailwind/shadcn | **BF2024** - 20% off | - |
 | [Scale To Zero AWS](https://scaletozeroaws.com/) | Frontend, Backend and Infra - all in one | **BLACKFRIDAY50** - 50% off | Ends Dec 4 |
 | [useSAASkit](https://www.usesaaskit.com/) | Super Easy and Fully Configurable Next.js Templates. Built with Next.js, Supabase, Tailwind CSS, and Stripe | Up to $100 off | Ends Nov 29 |
-| [SaaS Pegasus](https://tailgrids.com/) | The most popular Django boilerplate for SaaS and AI apps. Trusted by over a thousand developers and businesses | **bf2024preview** - 50% off lifetime license  | Ends Nov 29 |
 | [SuperSaaS](https://supersaas.dev/) | The Simple, Fast & Smart Nuxt 3 Fullstack Kit | $99 only discount applied already | - |
 | [SaaSBold](https://saasbold.com/) | A full-stack, production-ready Next.js SaaS boilerplate and starter kit. Tailored for optimal developer experience, front and back-end functionality, integrations and more | **BLFCM2024** - Up to 60% off | - |
 | [TailAdmin](https://tailadmin.com/) | Open source Tailwind CSS Admin Dashboard Template | **BLFCM2024** - Up to 40% off | - |
-| [Get nextjs Templates](https://getnextjstemplates.com/) | Ready to use Next.js Website Templates | **BFCM50** – up to 50% off  | - | ✅ |
 | [FormBold](https://formbold.com/) | A complete web form solution that includes a form API, backend, and builder. Get website form submissions directly to your inbox, Slack, Sheet, Notion, Telegram and more | **BLFCM2024** - 40% off | Ends Dec 3 |
 | [NextAdmin](https://nextadmin.co/) | Next.js Admin Dashboard Templates and Components | **BLFCM2024** - Up to 40% off | - |
 | [LaunchFast](https://www.launchfa.st/) | Production-ready SaaS Starter Kits in Astro, Svelte, and Next.js | **BLACKFRIDAY2024** - 25% off | - |
 | [ChromeKit](https://www.chromekit.dev/) | The Chrome extension boilerplate with all you need to build and launch your extension fast with ReactJS, TailwindCSS & Vite | **BLACKFRIDAY2024** - 30% off | - |
 | [Web3Templates](https://web3templates.com/) | Fast & SEO optimized website template built with Next.js, Astro, Tailwind CSS and Sanity CMS | **BLACKFRIDAY** - 30% off | Ends Dec 5 |
 | [UIDeck](https://uideck.com/) | 100+ High-quality templates, landing pages, and UI kits for startups and SaaS businesses | **BLFCM2024** - 50% off | Ends Nov 29 |
-| [Gravity](https://usegravity.app/) | The SaaS boilerplate that handles the complex, boring code like payments and authentication, while you build fun features that generate revenue | **BLACKFRIDAY24** - 30% off | - |
 | [OxbowUI](https://oxbowui.com/) | Beautifully crafted with Tailwind CSS and Alpine JS — Simple & easy to customize | 70% off | Ends Dec 2 |
 | [ZexaNext](https://next.zexa.app/) | The Simple, Speedy & Efficient, Next.js Boilerplate | 70% off | - |
-| [AdminMart](https://adminmart.com/) | Explore the Best Angular, Tailwind, React, Vue, Next, Nuxt, Bootstrap Admin Dashboard Templates. | **BFCM50** – Up to 50% off | - |
 
 ## 🛠️ Developer tools
 
