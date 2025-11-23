@@ -78,6 +78,10 @@ We'd greatly appreciate if you could:
 | [Webhookify](https://webhookify.io/) | Streamline Webhook Integrations: Boost App Connectivity | **BLACKFRIDAY2025** -30% off | Ends Dec 3 | ✅ |
 | [LocalCan](https://www.localcan.com/) | Develop apps with Public URLs and .local domains | **BF20** - 20% off | - | ✅ |
 | [Proxyman](https://proxyman.io/) | Best-in-class native macOS app to capture, decrypt, and mock your HTTP(s) requests/ responses with powerful debugging tools | **BLACKFRIDAY2025** - 30% off | - | ✅ |
+| [SkyImage](https://skymage.daudau.cc/) | Resize and crop images for developers. Optimize and transform your images with the best performance and quality on the sky | **BlACKFRIDAY** - 50% off | - | ✅ |
+| [HTTP Toolkit](https://httptoolkit.com/?ref=greatfrontend) | Open-source HTTP debugger & client, with instant one-click setup for browsers, Android, node.js & more | **BLACKFRIDAY25** - 50% off forever on annual subscriptions | Ends Dec 3 | ✅ |
+| [BucketMate](https://bucketmate.app/pricing?ref=greatfrontend) | A Finder-style S3-compatible manager for macOS. | **BLACKFRIDAY11** - 70% off lifetime plan | Ends Dec 5 | ✅ |
+| [TestDino](https://testdino.com/) | Smart Playwright test reporting and analytics | **BFTD2025** - 30% off on yearly Team Plan | - | ✅ |
 | [Tailscan](https://tailscan.com/) | Build, design and debug your Tailwind website visually with Tailscan, right within the browser | 25% off lifetime plan | Ends Dec 3 |
 | [Kaleidoscope](https://kaleidoscope.app/) | The world's most powerful file comparison and merge app, with deep git integration | **BLACKFRIDAY2024** - 40% off | - |
 | [WhaleDeck](https://apple.co/3NQJi4w) | The only Docker manager you will ever need. Available for iOS, iPadOS, and macOS | 20% off lifetime plan | Ends Dec 2 |
@@ -98,10 +102,6 @@ We'd greatly appreciate if you could:
 | [ScreenshotOne](https://screenshotone.com/) | Screenshot API for developers | **BLACKFRIDAY2024** - 25% off | - |
 | [Checkbot](https://www.checkbot.io/) | Checkbot finds SEO, speed & security problems before your website visitors do | **NOV24** - 50% off | Ends Dec 2 |
 | [Small Hours](https://www.smallhours.dev/) | AI powered automated root cause analysis - minimize downtime, maximize efficiency | **BLACKFRIDAY24** - 50% off startup and enterprise plans | - |
-| [SkyImage](https://skymage.daudau.cc/) | Resize and crop images for developers. Optimize and transform your images with the best performance and quality on the sky | **BlACKFRIDAY** - 50% off | - | ✅ |
-| [HTTP Toolkit](https://httptoolkit.com/?ref=greatfrontend) | Open-source HTTP debugger & client, with instant one-click setup for browsers, Android, node.js & more | **BLACKFRIDAY25** - 50% off forever on annual subscriptions | Ends Dec 3 | ✅ |
-| [BucketMate](https://bucketmate.app/pricing?ref=greatfrontend) | A Finder-style S3-compatible manager for macOS. | **BLACKFRIDAY11** - 70% off lifetime plan | Ends Dec 5 | ✅ |
-| [TestDino](https://testdino.com/) | Smart Playwright test reporting and analytics | **BFTD2025** - 30% off on yearly Team Plan | - | ✅ |
 
 ## 👩‍🏫 Courses
 
@@ -123,10 +123,10 @@ We'd greatly appreciate if you could:
 
 | **Name** | **Description**| **Deal details** | **Validity** | **Latest** |
 | :- | :- | :- | :- | :- | 
+| [The Engineering Leader's Playbook: The First 90 Days](https://kulkarniankita.gumroad.com/l/growthfor90days/BLACKFRIDAY50) | Learn how to lead a team & succeed as a leader using this playbook  | **BLACKFRIDAY50** - 50% off | - | ✅ |
 | [Tao of React](https://alexanderkondov.gumroad.com/l/tao-of-react) | Learn how to build well-structured React.js applications. Get better at software design. | **BLACKFRIDAY** - 50% off | - |
 | [Tao of Node](https://alexanderkondov.gumroad.com/l/tao-of-node) | Build better Node.js applications. A collection of best practices about building REST APIs | **BLACKFRIDAY** - 50% off | - |
 | [The Road to React](https://www.roadtoreact.com/) | React.js bestseller on Amazon, your journey to master React in JavaScript, Do not miss to check out thew new course The Road to Next | **BLACKFRIDAY** - 30% off | - |
-| [The Engineering Leader's Playbook: The First 90 Days](https://kulkarniankita.gumroad.com/l/growthfor90days/BLACKFRIDAY50) | Learn how to lead a team & succeed as a leader using this playbook  | **BLACKFRIDAY50** - 50% off | - | ✅ |
 | [Level up with Tailwind CSS](https://shrutibalasa.gumroad.com/l/level-up-with-tailwind-css/BLACKFRIDAY24) | With in-depth insights into advanced concepts, tips and tricks, work faster and with more skill. | **BLACKFRIDAY24** - 60% off | - |
 | [The Big Git Microbook](https://jtemporal.com/gitmicrobook/) | A quick guide to commands you will use daily | **DEALSFORDEVS** | - |
 | [Rails 8 Everything Bundle](https://robrace.gumroad.com/l/r8eb/bfcm24) | Build A SaaS App In Rails 8 + two other upcoming books in one package | **bfcm24** - 60% off | - |
@@ -139,7 +139,6 @@ We'd greatly appreciate if you could:
 
 | **Name** | **Description**| **Deal details** | **Validity** | **Latest** |
 | :- | :- | :- | :- | :- | 
-| [InboxPurge](https://www.inboxpurge.com/pricing) | Easily mass unsubscribe, block and delete those annoying emails with just one single click | **BF2024** - 30% off PRO plan | Ends Nov 30 |
 | [TabTab](https://tabtabapp.net/) | Supercharged windows & tabs manager for Mac | **TABTAB2** - 20% off PRO plan | - | ✅ |
 | [Paste Pal](https://indiegoodies.com/pastepal) | PastePal is the best universal clipboard manager for Mac, iPhone and iPad | **INDIEGOODIES25** - 50% off | Ends Dec 7 | ✅ |
 | [snappify](https://snappify.com/) | A powerful PowerPoint alternative for developers. Create stunning presentations, smoothly animated videos and elevate your technical content! | **BF2025** - 30% off the first year | - | ✅ |
@@ -148,29 +147,30 @@ We'd greatly appreciate if you could:
 | [DeskRest](https://deskrest.com/offers/) | Smart break and posture reminder app for macOS. Transform your workday. | 50% off lifetime plan | Ends Dec 2 | ✅ |
 | [Reepl](https://app.reepl.io/claim-offer/BLACKFRIDAY2025) | AI-powered LinkedIn automation platform. Train AI on your writing, automate personalized DMs/comments, schedule posts, and track contacts. Built for busy professionals | **BLACKFRIDAY2025** - 60% off annual plan | Ends Dec 2 | ✅ |
 | [Octoparse](https://www.octoparse.com/black-friday-sale-2025?utm_source=github&utm_medium=product&utm_campaign=25bf) | A no-code web scraping tool that turns any website into structured data in minutes — available on macOS | 45% off | Ends Dec 3 (UTC-5) | ✅ |
+| [InboxPurge](https://www.inboxpurge.com/pricing) | Easily mass unsubscribe, block and delete those annoying emails with just one single click | **BF2024** - 30% off PRO plan | Ends Nov 30 |
 
 ## 🤖 AI tools
 
 | **Name** | **Description**| **Deal details** | **Validity** | **Latest** |
 | :- | :- | :- | :- | :- | 
 | [BoltAI](https://boltai.com) | Switch between top AI services and local models. All from a single native app on your Mac | **BFCM25** - 51% off | Ends Nov 30 | ✅ | 
-| [Rize.io](https://rize.io/) | AI-powered time tracker that improves your focus and builds better work habits | **BLACKFRIDAY2024** - 40% off | - |
 | [Fenn](https://usefenn.com/?utm_source=greatfrontend) | AI File Search Agent for MacOS. | **BLACKFRIDAY** - 50% off | Ends Dec 2 | ✅ | 
 | [inReels.ai](https://www.inreels.ai) | Create stunning videos in seconds using AI. Turn text, PDFs, or images into videos. Repurpose content for YouTube, TikTok, Reels, and more | **BLACKFRIDAY2025** - 50% off | - | ✅ |
 | [SharpAPI](https://sharpapi.com/en/pricing) | AI workflow automation API for product descriptions, resume parsing, job match scoring, SEO tags, and more | **BF2025** – 50% off first year | - | ✅ | 
 | [Beagle Security](https://beaglesecurity.com/black-friday-sale) | AI-powered automated pentesting platform that simulates real-world attacks to uncover vulnerabilities in web apps, APIs, and GraphQL | **BFCMY25** for 35% off annual, **BFCMM25** for 20% off monthly | Nov 25 – Dec 4 | ✅ | 
 | [Migi](https://migiapp.com/) | Make your prompt templates just once and bring them up instantly with ⌥ Space. Just fill in the blanks, and in a second you'll have a custom prompt ready to go. | Save $10 | Ends Dec 2 | ✅ |
 | [GoStudio.ai](https://www.gostudio.ai/?ref=github) | Create custom, studio-quality AI headshots and branded portraits in minutes—perfect for founders, creators, and professionals who want high-credibility visuals without photoshoots. | **GS30** – 30% off  | Nov 20 – Jan 5, 2026 | ✅ | 
+| [Rize.io](https://rize.io/) | AI-powered time tracker that improves your focus and builds better work habits | **BLACKFRIDAY2024** - 40% off | - |
 
 ## 🎨 Design kits
 
 | **Name** | **Description**| **Deal details** | **Validity** | **Latest** |
 | :- | :- | :- | :- | :- | 
-| [Practical UI](https://www.practical-ui.com/design-system/) | Lean and powerful Figma design system and UI kit | **PDWBGHXR30** - 30% off | - | ✅ | 
-| [Marmo UI](https://www.marmoui.com/) | Comprehensive design system for Figma, helping designers create modern and beautiful user interfaces with ease, saving time and effort on every project | **BLACKFRIDAY24** - 70% off | - |
 | [Shipfaster UI](https://www.thedesignership.com/products/shipfaster-ui-figma-ui-kit-design-system) | Build world-class UI effortlessly with 8,000+ customizable components | **BLACK30** - 30% off | Ends Dec 30 | ✅ | 
-| [lineicons](https://lineicons.com/) | 5300+ line icons for designers and developers with Pro CDN, multiple variations, an icon editor, and more. Available in WebFont, SVG, React, Vue and Figma files | **BLFCM2024** - 40% off | Ends Nov 29 |
 | [Iconbuddy](https://iconbuddy.com/pricing) | Unlock unlimited icon search and plugin access, for lifetime | **BLACKFRIDAY2025** - 80% off | - | ✅ |
+| [Practical UI](https://www.practical-ui.com/design-system/) | Lean and powerful Figma design system and UI kit | **BLACKFRIDAY24** - 40% off | Ends Dec 2 |
+| [Marmo UI](https://www.marmoui.com/) | Comprehensive design system for Figma, helping designers create modern and beautiful user interfaces with ease, saving time and effort on every project | **BLACKFRIDAY24** - 70% off | - |
+| [lineicons](https://lineicons.com/) | 5300+ line icons for designers and developers with Pro CDN, multiple variations, an icon editor, and more. Available in WebFont, SVG, React, Vue and Figma files | **BLFCM2024** - 40% off | Ends Nov 29 |
 | [Sip](https://sipapp.io/) | Sip is a modern color picker that brings ease to color organization & team collaboration | **BF_2024** - 50% off | - |
 
 ## Design courses
