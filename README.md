@@ -118,7 +118,7 @@ We'd greatly appreciate if you could:
 | [LabEx](https://labex.io/learn)| Learn Linux, DevOps & Cybersecurity with Hands-on Labs | 50% off | - | ✅ |
 | [Build Your Own Pub/Sub Protocol (NATS)](https://protocol-zero.pmbanugo.me) | Master Distributed Systems by building a Pub/Sub server from raw TCP/Sockets. A deep-dive course & workshop on building a [NATS-compatible](https://nats.io) server from scratch | **60+% only during Cyberweek** ($49 Course / $129 Live Workshop), discount applied automatically  | Nov 27 - Dec 1 | ✅ |
 | [Fast Track To Senior Engineer](https://maven.com/top-engineer/fast-track-to-senior?promoCode=BF1125) | Become a high-performing software engineer and get promoted in 2026! | 25% off | Ends Dec 15 | ✅ |
-| [How To Test Frontend.com](https://howtotestfrontend.com/) | Learn how to write and maintain tests for your React based front-end applications | 25% off with code **BLACKFRIDAYDEAL2025** | Ends Dec 5th 2025 | ✅ |
+| [How To Test Frontend.com](https://howtotestfrontend.com/) | Learn how to write and maintain tests for your React based front-end applications | **BLACKFRIDAYDEAL2025** - 25% off | Ends Dec 5th 2025 | ✅ |
 
 ## 📚 Books
 
