@@ -170,7 +170,7 @@ We'd greatly appreciate if you could:
 | :- | :- | :- | :- | :- | 
 | [Shipfaster UI](https://www.thedesignership.com/products/shipfaster-ui-figma-ui-kit-design-system) | Build world-class UI effortlessly with 8,000+ customizable components | **BLACK30** - 30% off | Ends Dec 30 | ✅ | 
 | [Iconbuddy](https://iconbuddy.com/pricing) | Unlock unlimited icon search and plugin access, for lifetime | **BLACKFRIDAY2025** - 80% off | - | ✅ |
-| [Practical UI](https://www.practical-ui.com/design-system/) | Lean and powerful Figma design system and UI kit | **BLACKFRIDAY24** - 40% off | Ends Dec 2 |
+| [Practical UI](https://www.practical-ui.com/design-system/) | Lean and powerful Figma design system and UI kit | **BLACKFRIDAY24** - 40% off | Ends Dec 1 | ✅ |
 | [Marmo UI](https://www.marmoui.com/) | Comprehensive design system for Figma, helping designers create modern and beautiful user interfaces with ease, saving time and effort on every project | **BLACKFRIDAY24** - 70% off | - |
 | [lineicons](https://lineicons.com/) | 5300+ line icons for designers and developers with Pro CDN, multiple variations, an icon editor, and more. Available in WebFont, SVG, React, Vue and Figma files | **BLFCM2024** - 40% off | Ends Nov 29 |
 | [Sip](https://sipapp.io/) | Sip is a modern color picker that brings ease to color organization & team collaboration | **BF_2024** - 50% off | - |
