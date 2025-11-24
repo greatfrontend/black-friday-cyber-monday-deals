@@ -41,8 +41,8 @@ We'd greatly appreciate if you could:
 | :- | :- | :- | :- | :- | 
 | [WrapPixel](https://www.wrappixel.com) | Best Angular, React, Vuejs, Next Js, Nuxt, Bootstrap Admin Dashboard Templates. | **BFCM50** – up to 50% OFF on all templates  | - | ✅ |
 | [WrapPixel - All Access Pass](https://www.wrappixel.com/all-access-pass/) | Collection of Best Angular, Tailwind, React, Vuejs, Next Js, Nuxt, Bootstrap Admin Dashboard Templates. | 95% off | - | ✅ |
+| [Tailwind Plus](https://tailwindcss.com/plus) | Made by the Tailwind team, gives access to over 500 UI blocks, 12 website templates, and Catalyst UI kit | Over 33% off - Tailwind UI & Refactoring UI | Ends Dec 1 | ✅ |
 | [Aceternity UI Pro](https://pro.aceternity.com/) | Beautiful Tailwind CSS and Framer Motion Components, built with Next.js and TypeScript | **BLACKFRIDAY20** - 30% off | Ends Dec 3 | ✅ |
-| [Tailwind Plus](https://tailwindcss.com/plus) | Includes access to all 500+ components and templates available in Tailwind UI today, plus all future updates | Over 30% off - Tailwind UI & Refactoring UI | Ends Dec 2 |
 | [Next.js Templates](https://nextjs-templates.com/) | Next.js Templates for Your Upcoming Projects | **BFCM50** - 50% off | - | ✅ |
 | [Shipixen](https://shipixen.com/) | In 5 minutes, go from nothing → deployed codebase | **BF2025** - 50% off yearly license | - | ✅ |
 | [Get nextjs Templates](https://getnextjstemplates.com/) | Ready to use Next.js Website Templates | **BFCM50** – up to 50% off  | - | ✅ |
