@@ -150,7 +150,7 @@ We'd greatly appreciate if you could:
 | [Octoparse](https://www.octoparse.com/black-friday-sale-2025?utm_source=github&utm_medium=product&utm_campaign=25bf) | A no-code web scraping tool that turns any website into structured data in minutes — available on macOS | 45% off | Ends Dec 3 (UTC-5) | ✅ |
 | [InboxPurge](https://www.inboxpurge.com/pricing) | Easily mass unsubscribe, block and delete those annoying emails with just one single click | **BF2024** - 30% off PRO plan | Ends Nov 30 |
 | [DeskMinder²](https://appps.od.ua/deskminder/) | A simple yet effective macOS app for people who get easily distracted. Create quick reminders & start tasks on your desktop | 50% off lifetime | Ends Nov 28 | ✅ |
-| [AI Meeting Notes & Recorder](https://apps.apple.com/app/ai-meeting-notes-recorder/id6746161214) | Turn meetings, lectures, and voice memos into structured notes using AI. Record audio, transcribe speech to text, generate summaries, create mind maps, and turn notes into flashcards instantly. Perfect for professionals, students, and creators who want to save time and stay organized. | **30% OFF Yearly Plan** with code **BLACKFRIDAY2025* | Ends Dec 25 | ✅ |
+| [AI Meeting Notes & Recorder](https://apps.apple.com/app/ai-meeting-notes-recorder/id6746161214) | Turn meetings, lectures, and voice memos into structured notes using AI. Record audio, transcribe speech to text, generate summaries, create mind maps, and turn notes into flashcards instantly. Perfect for professionals, students, and creators who want to save time and stay organized. | **30% OFF Yearly Plan** with code **BLACKFRIDAY2025** | Ends Dec 25 | ✅ |
 
 ## 🤖 AI tools
 
