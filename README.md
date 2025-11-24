@@ -149,6 +149,7 @@ We'd greatly appreciate if you could:
 | [Reepl](https://app.reepl.io/claim-offer/BLACKFRIDAY2025) | AI-powered LinkedIn automation platform. Train AI on your writing, automate personalized DMs/comments, schedule posts, and track contacts. Built for busy professionals | **BLACKFRIDAY2025** - 60% off annual plan | Ends Dec 2 | ✅ |
 | [Octoparse](https://www.octoparse.com/black-friday-sale-2025?utm_source=github&utm_medium=product&utm_campaign=25bf) | A no-code web scraping tool that turns any website into structured data in minutes — available on macOS | 45% off | Ends Dec 3 (UTC-5) | ✅ |
 | [InboxPurge](https://www.inboxpurge.com/pricing) | Easily mass unsubscribe, block and delete those annoying emails with just one single click | **BF2024** - 30% off PRO plan | Ends Nov 30 |
+| [Nuelink](https://nuelink.com) | Nuelink is a social media management platform that automates scheduling, publishing, and content workflows across major platforms like Instagram, Twitter/X, LinkedIn, TikTok, and YouTube. It offers powerful features such as bulk scheduling, post recycling, analytics, content automation, integrations with tools like Zapier and n8n, AI-powered caption generation, and team collaboration tools. All designed to simplify content management and scale social media growth efficiently. | **30% OFF** monthly & Up to **65% OFF** yearly. **BF2025** is auto-applied | Ends Nov 28 2025 |
 
 ## 🤖 AI tools
 
