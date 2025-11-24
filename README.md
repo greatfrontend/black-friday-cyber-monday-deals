@@ -82,7 +82,7 @@ Essential tools for frontend engineers, covering code editors, Git clients, debu
 
 | **Name** | **Description**| **Deal details** | **Validity** | **Latest** |
 | :- | :- | :- | :- | :- | 
-| [GitKraken](https://www.gitkraken.com/) | Devtools that simplify & supercharge Git | Up to 85% off| - |
+| [GitKraken](https://www.gitkraken.com/black-friday-25) | Devtools that simplify & supercharge Git | **CYBERWEEK25** -30% off| Ends Nov 30 | ✅ |
 | [Tower](https://www.git-tower.com/) | Powerful Git client for Mac and Windows | 30% off | Ends Dec 7 | ✅ |
 | [Webhookify](https://webhookify.io/) | Streamline Webhook Integrations: Boost App Connectivity | **BLACKFRIDAY2025** -30% off | Ends Dec 3 | ✅ |
 | [LocalCan](https://www.localcan.com/) | Develop apps with Public URLs and .local domains | **BF20** - 20% off | - | ✅ |
