@@ -1,12 +1,12 @@
 # Black Friday & Cyber Monday Deals 2025
 
-Black Friday and Cyber Monday 2025 deals for frontend developers. Discounts on React, UI kits, coding prep, JavaScript tools, and web development courses.
+Black Friday and Cyber Monday 2025 deals for software engineers, developers, and designers. Find discounts on technical interview preparation resources, UI kits, AI tools, books, and courses.
 
-> ⚠️ We're currently collating an updated list for 2025. Feel free to send a pull request. If you're advertising your product, the only condition is that you star the repo first.
+> ⚠️ Feel free to send a pull request. **If you're advertising your product, the only condition is that you star the repo first.**
 >
 > Products that we deem to be low quality may be removed or reordered at our discretion.
 
-⭐ **Star this repo to stay updated on new Black Friday deals for frontend developers.**
+⭐ **Star this repo to stay updated on new Black Friday deals for developers.**
 
 We'd greatly appreciate if you could:
 
@@ -17,18 +17,19 @@ We'd greatly appreciate if you could:
 
 ## 📚 Quick navigation
 
-- 🎓 [Jump to Coding Interview Prep](#-coding-interview-prep-and-algorithm-courses-for-frontend-engineers)
-- 💅 [Jump to UI Kits & Framework Starter Kits](#-ui-kits-component-libraries-and-boilerplates-for-web-frontend)
-- 🛠️ [Jump to Frontend Developer Tools](#%EF%B8%8F-frontend-developer-tools-and-web-development-utilities)
-- 📚 [Jump to Books for Developers](#-books-for-frontend-developers-and-software-engineers)
-- 👩‍🏫 [Jump to React & JavaScript Courses](#-frontend-development-courses-and-masterclasses)
-- ⚙️ [Jump to Productivity Tools](#%EF%B8%8F-productivity-and-saas-tools-for-developers)
-- 🤖 [Jump to AI Tools](#-ai-powered-tools-for-frontend-and-web-developers)
-- 🎨 [Jump to Design kits](#-design-kits)
+- 🎓 [Jump to Technical interviews preparation](#technical-interview-preparation)
+- 💅 [Jump to UI kits & starter kits](#ui-kits-and-starter-kits)
+- 🛠️ [Jump to Developer tools](#developer-tools)
+- 📚 [Jump to Books for developers](#books-for-developers-and-software-engineers)
+- 👩‍🏫 [Jump to Courses](#courses)
+- ⚙️ [Jump to Productivity tools](#productivity-and-saas-tools-for-developers)
+- 🤖 [Jump to AI-powered tools](#ai-powered-tools-for-developers)
+- 🎨 [Jump to Design kits](#design-kits)
+- 🧑‍🏫 [Jump to Design courses](#design-courses)
 
-## 🎓 Coding Interview Prep and Algorithm Courses for Frontend Engineers
+## Technical interviews preparation
 
-Master coding interviews with courses, platforms and practice resources designed for frontend engineers. From algorithm fundamentals to React system design, these deals help you land your dream software engineering role.
+Master technical interviews with practice resources designed for software engineers. From algorithm fundamentals to React coding and system design, these deals help you land your dream software engineering role.
 
 | **Name** | **Description**| **Deal details** | **Validity** | **Latest** |
 | :- | :- | :- | :- | :- | 
@@ -41,9 +42,9 @@ Master coding interviews with courses, platforms and practice resources designed
 | [Exponent](https://www.tryexponent.com/?ref=techinterviewhandbook) | Tailored interview prep for PM, tech, and software engineering roles, including mock interview practice | 30% off annual plan | - | ✅ |
 | [interviewing.io](https://iio.sh/r/DMCa) | Anonymous mock interviews with engineers from Amazon, Google, Facebook, and other top companies | $200-$700 off 5 & 10-session dedicated coaching packages | - | - |
 
-## 💅 UI Kits, Component Libraries and Boilerplates for Web Frontend
+## UI kits and starter kits
 
-Accelerate development with professional UI kits, React components, Next.js templates and boilerplates. These tools help you build beautiful web apps faster with pre-built components and starter templates.
+Accelerate development with professional UI kits, React components, website templates, and boilerplates. These tools help you build beautiful web apps faster with pre-built components and starter templates.
 
 | **Name** | **Description**| **Deal details** | **Validity** | **Latest** |
 | :- | :- | :- | :- | :- | 
@@ -77,9 +78,9 @@ Accelerate development with professional UI kits, React components, Next.js temp
 | [OxbowUI](https://oxbowui.com/) | Beautifully crafted with Tailwind CSS and Alpine JS — Simple & easy to customize | 70% off | Ends Dec 2 |
 | [ZexaNext](https://next.zexa.app/) | The Simple, Speedy & Efficient, Next.js Boilerplate | 70% off | - |
 
-## 🛠️ Frontend Developer Tools and Web Development Utilities
+## Developer tools
 
-Essential tools for frontend engineers, covering code editors, Git clients, debugging utilities, browser extensions and workflow helpers. Boost your productivity with these discounted developer tools.
+Essential tools for software engineers and developers, covering code editors, Git clients, debugging utilities, browser extensions and workflow helpers. Boost your productivity with these discounted developer tools.
 
 | **Name** | **Description**| **Deal details** | **Validity** | **Latest** |
 | :- | :- | :- | :- | :- | 
@@ -113,9 +114,9 @@ Essential tools for frontend engineers, covering code editors, Git clients, debu
 | [Checkbot](https://www.checkbot.io/) | Checkbot finds SEO, speed & security problems before your website visitors do | **NOV24** - 50% off | Ends Dec 2 |
 | [Small Hours](https://www.smallhours.dev/) | AI powered automated root cause analysis - minimize downtime, maximize efficiency | **BLACKFRIDAY24** - 50% off startup and enterprise plans | - |
 
-## 👩‍🏫 Frontend Development Courses and Masterclasses
+## Courses
 
-Level up your skills with courses on React, Vue, JavaScript, CSS and modern web development. Learn from industry experts with these Black Friday discounts on frontend development courses.
+Level up your skills with software engineering and developers courses on React, JavaScript, CSS and more. Learn from industry experts with these Black Friday discounts on courses.
 
 | **Name** | **Description**| **Deal details** | **Validity** | **Latest** |
 | :- | :- | :- | :- | :- | 
@@ -132,9 +133,9 @@ Level up your skills with courses on React, Vue, JavaScript, CSS and modern web 
 | [Fast Track To Senior Engineer](https://maven.com/top-engineer/fast-track-to-senior?promoCode=BF1125) | Become a high-performing software engineer and get promoted in 2026! | 25% off | Ends Dec 15 | ✅ |
 | [How To Test Frontend](https://howtotestfrontend.com/) | Learn how to write and maintain tests for your React based front-end applications | **BLACKFRIDAYDEAL2025** - 25% off | Ends Dec 5th 2025 | ✅ |
 
-## 📚 Books for Frontend Developers and Software Engineers
+## 📚 Books for developers and software engineers
 
-Comprehensive guides and reference books for frontend developers covering React, Node.js, system design, software architecture and engineering leadership.
+Comprehensive guides and reference books for developers covering React, Node.js, system design, software architecture, and engineering leadership.
 
 | **Name** | **Description**| **Deal details** | **Validity** | **Latest** |
 | :- | :- | :- | :- | :- | 
@@ -150,7 +151,7 @@ Comprehensive guides and reference books for frontend developers covering React,
 | [React The Road to Enterprise](https://theroadtoenterprise.com/books/react-the-road-to-enterprise/typescript?discount_coupon=BLACKFRIDAY) | Take your skills to the next level and become a React pro by mastering advanced patterns, best practices, and cutting-edge techniques for the development of large-scale React applications | **BLACKFRIDAY** - 50% off | Ends Dec 1 |
 | [Mike Callaghan's Complete Works](https://walkingriver.gumroad.com/l/everything) | 12 books, 4 courses, and **all future items** covering AI, web and mobile development, Angular, Ionic, and more | 75% off | - |
 
-## ⚙️ Productivity and SaaS Tools for Developers
+## ⚙️ Productivity and SaaS tools for developers
 
 Enhance your workflow with productivity apps, clipboard managers, window managers and SaaS tools built specifically for developers and technical professionals.
 
@@ -167,9 +168,9 @@ Enhance your workflow with productivity apps, clipboard managers, window manager
 | [InboxPurge](https://www.inboxpurge.com/pricing) | Easily mass unsubscribe, block and delete those annoying emails with just one single click | **BF2024** - 30% off PRO plan | Ends Nov 30 |
 | [DeskMinder²](https://appps.od.ua/deskminder/) | A simple yet effective macOS app for people who get easily distracted. Create quick reminders & start tasks on your desktop | 50% off lifetime | Ends Nov 28 | ✅ |
 
-## 🤖 AI Powered Tools for Frontend and Web Developers
+## 🤖 AI-powered tools for developers
 
-AI-powered tools to supercharge your development workflow. From code generation to content creation, these tools help frontend developers work smarter with artificial intelligence.
+AI-powered tools to supercharge your development workflow. From code generation to content creation, these tools help developers work smarter with artificial intelligence.
 
 | **Name** | **Description**| **Deal details** | **Validity** | **Latest** |
 | :- | :- | :- | :- | :- | 
@@ -182,7 +183,6 @@ AI-powered tools to supercharge your development workflow. From code generation 
 | [GoStudio.ai](https://www.gostudio.ai/?ref=github) | Create custom, studio-quality AI headshots and branded portraits in minutes—perfect for founders, creators, and professionals who want high-credibility visuals without photoshoots | **GS30** – 30% off  | Nov 20 – Jan 5, 2026 | ✅ | 
 | [Rize.io](https://rize.io/) | AI-powered time tracker that improves your focus and builds better work habits | **BLACKFRIDAY2024** - 40% off | - |
 | [AI Meeting Notes & Recorder](https://apps.apple.com/app/ai-meeting-notes-recorder/id6746161214) | Turn meetings, lectures, and voice memos into structured notes using AI. Record audio, transcribe speech to text, generate summaries, create mind maps, and turn notes into flashcards instantly | **BLACKFRIDAY2025** – 30% off yearly plan | Ends Dec 25 | ✅ |
-
 
 ## 🎨 Design kits
 
@@ -203,9 +203,9 @@ AI-powered tools to supercharge your development workflow. From code generation 
 
 ---
 
-## 🎁 Don't Miss Out on Future Deals
+## 🎁 Don't miss out on future deals
 
-⭐ **Star this repository** to get notified about Black Friday and Cyber Monday deals for frontend developers in 2026.
+⭐ **Star this repository** to get notified about Black Friday and Cyber Monday deals for developers and designers in 2026.
 
 🔖 **Bookmark or contribute** to help the developer community discover the best software engineering deals, web development discounts, and coding course offers.
 
