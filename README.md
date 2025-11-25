@@ -150,6 +150,7 @@ Essential tools for software engineers and developers, covering code editors, Gi
 | [ScreenshotOne](https://screenshotone.com/) | Screenshot API for developers | **BLACKFRIDAY2024** - 25% off | - |
 | [Checkbot](https://www.checkbot.io/) | Checkbot finds SEO, speed & security problems before your website visitors do | **NOV24** - 50% off | Ends Dec 2 |
 | [Small Hours](https://www.smallhours.dev/) | AI powered automated root cause analysis - minimize downtime, maximize efficiency | **BLACKFRIDAY24** - 50% off startup and enterprise plans | - |
+| [VerifyForge](https://verifyforge.com/) | Email Validation API - Verify email addresses in real-time with high accuracy | **BF2025** - 30% OFF | Nov 25 - Dec 1 | ✅ |
 
 ## Books for developers and software engineers
 
@@ -182,6 +183,7 @@ AI-powered tools to supercharge your development workflow. From code generation 
 | [GoStudio.ai](https://www.gostudio.ai/?ref=greatfrontend) | Create custom, studio-quality AI headshots and branded portraits in minutes—perfect for founders, creators, and professionals who want high-credibility visuals without photoshoots | **GS30** – 30% off  | Nov 20 – Jan 5, 2026 | ✅ | 
 | [Rize.io](https://rize.io/) | AI-powered time tracker that improves your focus and builds better work habits | **BLACKFRIDAY2024** - 40% off | - |
 | [AI Meeting Notes & Recorder](https://apps.apple.com/app/ai-meeting-notes-recorder/id6746161214) | Turn meetings, lectures, and voice memos into structured notes using AI. Record audio, transcribe speech to text, generate summaries, create mind maps, and turn notes into flashcards instantly | **BLACKFRIDAY2025** – 30% off yearly plan | Ends Dec 25 | ✅ |
+| [Semantic Pen](https://www.semanticpen.com/) | AI Content Writer - Generate high-quality content with AI | **20BF2025** - 20% OFF | Nov 25 - Dec 31 | ✅ |
 
 ## Design kits
 
