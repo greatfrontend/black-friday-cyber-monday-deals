@@ -75,7 +75,8 @@ Level up your skills with software engineering and developers courses on React, 
 | [Build Your Own Pub/Sub Protocol (NATS)](https://protocol-zero.pmbanugo.me) | Master Distributed Systems by building a Pub/Sub server from raw TCP/Sockets. A deep-dive course & workshop on building a [NATS-compatible](https://nats.io) server from scratch | 60+% only during Cyberweek ($49 Course / $129 Live Workshop), discount applied automatically  | Nov 27 - Dec 1 | ✅ |
 | [Fast Track To Senior Engineer](https://maven.com/top-engineer/fast-track-to-senior?promoCode=BF1125) | Become a high-performing software engineer and get promoted in 2026! | 25% off | Ends Dec 15 | ✅ |
 | [How To Test Frontend](https://howtotestfrontend.com/) | Learn how to write and maintain tests for your React based front-end applications | **BLACKFRIDAYDEAL2025** - 25% off | Ends Dec 5th 2025 | ✅ |
-| [AIDD.io](https://aidd.io/?utm_source=greatfrontend&utm_medium=github&utm_campaign=aidd_bf2025_bf) | AIDD is a framework-agnostic, interactive learning platform that teaches you how to build faster, smarter, and with more confidence using AI to operate like a team 20x your size. It focuses on workflows that just work. | 45% OFF | Ends 30 Nov | ✅ |
+| [AIDD.io](https://aidd.io/?utm_source=greatfrontend&utm_medium=github&utm_campaign=aidd_bf2025_bf) | AIDD is a framework-agnostic, interactive learning platform that teaches you how to build faster, smarter, and with more confidence using AI to operate like a team 20x your size. It focuses on workflows that just work. | 45% off | Ends 30 Nov | ✅ |
+| [pwn.guide](https://pwn.guide) | Learn hacking from more than 150+ tutorials, ranging from web, hardware, wireless hacking, and more | **BLKFRI20** – 20% off | Ends Dec 5 | ✅ |
 
 ## UI kits & Starter kits
 
@@ -162,27 +163,8 @@ Comprehensive guides and reference books for developers covering React, Node.js,
 | [Level up with Tailwind CSS](https://shrutibalasa.gumroad.com/l/level-up-with-tailwind-css/BLACKFRIDAY24) | With in-depth insights into advanced concepts, tips and tricks, work faster and with more skill. | **BLACKFRIDAY24** - 60% off | - |
 | [The Big Git Microbook](https://jtemporal.com/gitmicrobook/) | A quick guide to commands you will use daily | **DEALSFORDEVS** | - |
 | [Rails 8 Everything Bundle](https://robrace.gumroad.com/l/r8eb/bfcm24) | Build A SaaS App In Rails 8 + two other upcoming books in one package | **bfcm24** - 60% off | - |
-| [Build A SaaS App In Rails 8 (complete package)](https://robrace.gumroad.com/l/basair8cp/bfcm24) | Learn to build a production-ready SaaS app in Rails 8 | **bfcm24** - 60% off | - |
-| [Complete Guide to CSS Flexbox & Grid](https://shrutibalasa.gumroad.com/l/css-flex-and-grid/BLACKFRIDAY24) | Become a Pro at building components & layouts with CSS Flexbox and Grid. | **BLACKFRIDAY24** - 60% | - |
-| [React The Road to Enterprise](https://theroadtoenterprise.com/books/react-the-road-to-enterprise/typescript?discount_coupon=BLACKFRIDAY) | Take your skills to the next level and become a React pro by mastering advanced patterns, best practices, and cutting-edge techniques for the development of large-scale React applications | **BLACKFRIDAY** - 50% off | Ends Dec 1 |
-| [Mike Callaghan's Complete Works](https://walkingriver.gumroad.com/l/everything) | 12 books, 4 courses, and **all future items** covering AI, web and mobile development, Angular, Ionic, and more | 75% off | - |
-
-## Productivity and SaaS tools for developers
-
-Enhance your workflow with productivity apps, clipboard managers, window managers and SaaS tools built specifically for developers and technical professionals.
-
-| **Name** | **Description**| **Deal details** | **Validity** | **Latest** |
-| :- | :- | :- | :- | :- | 
-| [TabTab](https://tabtabapp.net/) | Supercharged windows & tabs manager for Mac | **TABTAB2** - 20% off PRO plan | - | ✅ |
-| [Paste Pal](https://indiegoodies.com/pastepal) | PastePal is the best universal clipboard manager for Mac, iPhone and iPad | **INDIEGOODIES25** - 50% off | Ends Dec 7 | ✅ |
-| [snappify](https://snappify.com/) | A powerful PowerPoint alternative for developers. Create stunning presentations, smoothly animated videos and elevate your technical content! | **BF2025** - 30% off the first year | - | ✅ |
-| [Kerlig](https://www.kerlig.com/) | Save hours on written communication at work. Write emails, Slack replies, Jira tickets, proofread, chat with documents | **BF50** - 50% off, **BF25** - 25% off | - | ✅ |
-| [Wins](https://wins.cool) | Mac window manager — enhances the system App Switcher with Cmd-Tab Plus, improves Dock efficiency with Dock Preview, and offers many other practical features — all designed to feel just like Apple’s built-in features. | **BLACKFRIDAY2025** - 40% OFF | Ends Dec 2 | ✅ |
-| [DeskRest](https://deskrest.com/offers/) | Smart break and posture reminder app for macOS. Transform your workday. | 60% off lifetime plan | Ends Dec 2 | ✅ |
-| [Reepl](https://app.reepl.io/claim-offer/BLACKFRIDAY2025) | AI-powered LinkedIn automation platform. Train AI on your writing, automate personalized DMs/comments, schedule posts, and track contacts. Built for busy professionals | **BLACKFRIDAY2025** - 60% off annual plan | Ends Dec 2 | ✅ |
-| [Octoparse](https://www.octoparse.com/black-friday-sale-2025?utm_source=github&utm_medium=product&utm_campaign=25bf) | A no-code web scraping tool that turns any website into structured data in minutes — available on macOS | 45% off | Ends Dec 3 (UTC-5) | ✅ |
-| [InboxPurge](https://www.inboxpurge.com/pricing) | Easily mass unsubscribe, block and delete those annoying emails with just one single click | **BF2024** - 30% off PRO plan | Ends Nov 30 |
-| [DeskMinder²](https://appps.od.ua/deskminder/) | A simple yet effective macOS app for people who get easily distracted. Create quick reminders & start tasks on your desktop | 50% off lifetime | Ends Nov 28 | ✅ |
+| [Mike Callaghan's Complete Works](https://walkingriver.gumroad.com/l/everything) | 12 books, 4 courses, and **all future items** covering AI, web and mobile development, Angular, Ionic, and more | **75% off** from $204 to **$47.00** | - |
+| [LabEx](https://labex.io/learn)| Learn Linux, DevOps & Cybersecurity with Hands-on Labs | [50% OFF for Two Years](https://labex.io/checkout?type=4&coupon=2025BF50) (Coupon: 2025BF50) and [30% OFF for One Year](https://labex.io/checkout?type=2&coupon=2025BF30) (Coupon: 2025BF30) | - |
 
 ## AI-powered tools for developers
 
