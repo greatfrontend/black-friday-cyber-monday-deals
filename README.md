@@ -15,11 +15,23 @@ We'd greatly appreciate if you could:
 - ♻️ Share this repo with your friends so more people benefit and contribute
 - 📖 Bookmark this page to help the community discover the best deals
 
+---
+
+<div>
+<p align="center">
+  <a href="https://www.greatfrontend.com/?utm_source=github&utm_medium=referral&utm_campaign=bfcm&gnrs=bfcm">
+    <img src="./assets/greatfrontend.gif" alt="GreatFrontEnd Interviews Platform" width="100%">
+  </a>
+</p>
+</div>
+
+---
+
 ## 📚 Quick navigation
 
-- 🎓 [Jump to Technical interviews preparation](#technical-interview-preparation)
+- 🎓 [Jump to Technical interviews preparation](#technical-interviews-preparation)
 - 👩‍🏫 [Jump to Courses](#courses)
-- 💅 [Jump to UI kits & starter kits](#ui-kits-and-starter-kits)
+- 💅 [Jump to UI kits & Starter kits](#ui-kits-and-starter-kits)
 - 🛠️ [Jump to Developer tools](#developer-tools)
 - 📚 [Jump to Books](#books-for-developers-and-software-engineers)
 - ⚙️ [Jump to Productivity tools](#productivity-and-saas-tools-for-developers)
@@ -63,7 +75,7 @@ Level up your skills with software engineering and developers courses on React, 
 | [Fast Track To Senior Engineer](https://maven.com/top-engineer/fast-track-to-senior?promoCode=BF1125) | Become a high-performing software engineer and get promoted in 2026! | 25% off | Ends Dec 15 | ✅ |
 | [How To Test Frontend](https://howtotestfrontend.com/) | Learn how to write and maintain tests for your React based front-end applications | **BLACKFRIDAYDEAL2025** - 25% off | Ends Dec 5th 2025 | ✅ |
 
-## UI kits and starter kits
+## UI kits & Starter kits
 
 Accelerate development with professional UI kits, React components, website templates, and boilerplates. These tools help you build beautiful web apps faster with pre-built components and starter templates.
 
@@ -135,7 +147,7 @@ Essential tools for software engineers and developers, covering code editors, Gi
 | [Checkbot](https://www.checkbot.io/) | Checkbot finds SEO, speed & security problems before your website visitors do | **NOV24** - 50% off | Ends Dec 2 |
 | [Small Hours](https://www.smallhours.dev/) | AI powered automated root cause analysis - minimize downtime, maximize efficiency | **BLACKFRIDAY24** - 50% off startup and enterprise plans | - |
 
-## 📚 Books for developers and software engineers
+## Books for developers and software engineers
 
 Comprehensive guides and reference books for developers covering React, Node.js, system design, software architecture, and engineering leadership.
 
@@ -153,7 +165,7 @@ Comprehensive guides and reference books for developers covering React, Node.js,
 | [React The Road to Enterprise](https://theroadtoenterprise.com/books/react-the-road-to-enterprise/typescript?discount_coupon=BLACKFRIDAY) | Take your skills to the next level and become a React pro by mastering advanced patterns, best practices, and cutting-edge techniques for the development of large-scale React applications | **BLACKFRIDAY** - 50% off | Ends Dec 1 |
 | [Mike Callaghan's Complete Works](https://walkingriver.gumroad.com/l/everything) | 12 books, 4 courses, and **all future items** covering AI, web and mobile development, Angular, Ionic, and more | 75% off | - |
 
-## ⚙️ Productivity and SaaS tools for developers
+## Productivity and SaaS tools for developers
 
 Enhance your workflow with productivity apps, clipboard managers, window managers and SaaS tools built specifically for developers and technical professionals.
 
@@ -170,7 +182,7 @@ Enhance your workflow with productivity apps, clipboard managers, window manager
 | [InboxPurge](https://www.inboxpurge.com/pricing) | Easily mass unsubscribe, block and delete those annoying emails with just one single click | **BF2024** - 30% off PRO plan | Ends Nov 30 |
 | [DeskMinder²](https://appps.od.ua/deskminder/) | A simple yet effective macOS app for people who get easily distracted. Create quick reminders & start tasks on your desktop | 50% off lifetime | Ends Nov 28 | ✅ |
 
-## 🤖 AI-powered tools for developers
+## AI-powered tools for developers
 
 AI-powered tools to supercharge your development workflow. From code generation to content creation, these tools help developers work smarter with artificial intelligence.
 
@@ -186,7 +198,7 @@ AI-powered tools to supercharge your development workflow. From code generation 
 | [Rize.io](https://rize.io/) | AI-powered time tracker that improves your focus and builds better work habits | **BLACKFRIDAY2024** - 40% off | - |
 | [AI Meeting Notes & Recorder](https://apps.apple.com/app/ai-meeting-notes-recorder/id6746161214) | Turn meetings, lectures, and voice memos into structured notes using AI. Record audio, transcribe speech to text, generate summaries, create mind maps, and turn notes into flashcards instantly | **BLACKFRIDAY2025** – 30% off yearly plan | Ends Dec 25 | ✅ |
 
-## 🎨 Design kits
+## Design kits
 
 | **Name** | **Description**| **Deal details** | **Validity** | **Latest** |
 | :- | :- | :- | :- | :- | 
@@ -205,7 +217,7 @@ AI-powered tools to supercharge your development workflow. From code generation 
 
 ---
 
-## 🎁 Don't miss out on future deals
+## Don't miss out on future deals
 
 ⭐ **Star this repository** to get notified about Black Friday and Cyber Monday deals for developers and designers in 2026.
 
