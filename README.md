@@ -55,7 +55,6 @@ Master technical interviews with practice resources designed for software engine
 | [interviewing.io](https://iio.sh/r/DMCa) | Anonymous mock interviews with engineers from Amazon, Google, Facebook, and other top companies | $200-$700 off 5 & 10-session dedicated coaching packages | - | - |
 | [certificates.dev](https://certificates.dev/?utm_source=greatfrontend&utm_medium=github&utm_campaign=cert_bf2025_bf) | Get ready for your interview with a certification! Get certified in React, Angular, JavaScript, Nuxt or Vue.js | Up to 60% OFF + bonuses | Ends 3 Dec | ✅ |
 
-
 ## Courses
 
 Level up your skills with software engineering and developers courses on React, JavaScript, CSS and more. Learn from industry experts with these Black Friday discounts on courses.
