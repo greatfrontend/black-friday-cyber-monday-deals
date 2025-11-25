@@ -33,11 +33,12 @@ Master coding interviews with courses, platforms and practice resources designed
 | **Name** | **Description**| **Deal details** | **Validity** | **Latest** |
 | :- | :- | :- | :- | :- | 
 | [GreatFrontEnd](https://greatfrontend.com/?ref=bfcm&gnrs=bfcm) | Complete front end interview prep platform built by ex-FAANG engineers. 500+ practice questions across coding, UI, system design with detailed solutions. By the author of Blind 75 | 30% off | Ends Dec 2 | ✅ |
+| [Hello Interview](https://www.hellointerview.com) | System design practice and writeups by staff-level engineers from Meta and Amazon | 35% off month/year | Ends Dec 2 | ✅ |
 | [AlgoMonster](https://shareasale.com/r.cfm?b=1873647&u=3114753&m=114505&urllink=&afftrack=) | Structured way to prepare for coding interviews | 60% off | - | ✅ |
 | [Design Gurus](https://www.designgurus.io/?aff=kJSIoU) | One-stop portal For tech interviews. By the creators of Grokking the System Design Interview | 60% off | - | ✅ |
 | [ByteByteGo](https://bytebytego.com/?fpr=techinterviewhandbook) | Ace every stage of your next technical interview by Alex Xu, author of the bestseller "System Design Interview" books | 50% off | - | ✅ |
-| [Educative](https://www.educative.io/?aff=x23W) | Offers interactive text-based courses on coding interviews, system design, and software engineering | 68% off | Ends Nov 29 | ✅ |
-| [Exponent](https://www.tryexponent.com/ref=techinterviewhandbook) | Tailored interview prep for PM, tech, and software engineering roles, including mock interview practice | 30% off annual plan | - | ✅ |
+| [Educative](https://www.educative.io/?aff=x23W) | Offers interactive text-based courses on coding interviews, system design, and software engineering | 55% off | Ends Nov 29 | ✅ |
+| [Exponent](https://www.tryexponent.com/?ref=techinterviewhandbook) | Tailored interview prep for PM, tech, and software engineering roles, including mock interview practice | 30% off annual plan | - | ✅ |
 | [interviewing.io](https://iio.sh/r/DMCa) | Anonymous mock interviews with engineers from Amazon, Google, Facebook, and other top companies | $200-$700 off 5 & 10-session dedicated coaching packages | - | - |
 
 ## 💅 UI Kits, Component Libraries and Boilerplates for Web Frontend
