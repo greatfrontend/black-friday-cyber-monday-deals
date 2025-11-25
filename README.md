@@ -178,8 +178,10 @@ AI-powered tools to supercharge your development workflow. From code generation 
 | [SharpAPI](https://sharpapi.com/en/pricing) | AI workflow automation API for product descriptions, resume parsing, job match scoring, SEO tags, and more | **BF2025** – 50% off first year | - | ✅ | 
 | [Beagle Security](https://beaglesecurity.com/black-friday-sale) | AI-powered automated pentesting platform that simulates real-world attacks to uncover vulnerabilities in web apps, APIs, and GraphQL | **BFCMY25** for 35% off annual, **BFCMM25** for 20% off monthly | Nov 25 – Dec 4 | ✅ | 
 | [Migi](https://migiapp.com/) | Make your prompt templates just once and bring them up instantly with ⌥ Space. Just fill in the blanks, and in a second you'll have a custom prompt ready to go. | Save $10 | Ends Dec 2 | ✅ |
-| [GoStudio.ai](https://www.gostudio.ai/?ref=github) | Create custom, studio-quality AI headshots and branded portraits in minutes—perfect for founders, creators, and professionals who want high-credibility visuals without photoshoots. | **GS30** – 30% off  | Nov 20 – Jan 5, 2026 | ✅ | 
+| [GoStudio.ai](https://www.gostudio.ai/?ref=github) | Create custom, studio-quality AI headshots and branded portraits in minutes—perfect for founders, creators, and professionals who want high-credibility visuals without photoshoots | **GS30** – 30% off  | Nov 20 – Jan 5, 2026 | ✅ | 
 | [Rize.io](https://rize.io/) | AI-powered time tracker that improves your focus and builds better work habits | **BLACKFRIDAY2024** - 40% off | - |
+| [AI Meeting Notes & Recorder](https://apps.apple.com/app/ai-meeting-notes-recorder/id6746161214) | Turn meetings, lectures, and voice memos into structured notes using AI. Record audio, transcribe speech to text, generate summaries, create mind maps, and turn notes into flashcards instantly | **BLACKFRIDAY2025** – 30% off yearly plan | Ends Dec 25 | ✅ |
+
 
 ## 🎨 Design kits
 
