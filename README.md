@@ -74,6 +74,7 @@ Level up your skills with software engineering and developers courses on React, 
 | [Build Your Own Pub/Sub Protocol (NATS)](https://protocol-zero.pmbanugo.me) | Master Distributed Systems by building a Pub/Sub server from raw TCP/Sockets. A deep-dive course & workshop on building a [NATS-compatible](https://nats.io) server from scratch | 60+% only during Cyberweek ($49 Course / $129 Live Workshop), discount applied automatically  | Nov 27 - Dec 1 | ✅ |
 | [Fast Track To Senior Engineer](https://maven.com/top-engineer/fast-track-to-senior?promoCode=BF1125) | Become a high-performing software engineer and get promoted in 2026! | 25% off | Ends Dec 15 | ✅ |
 | [How To Test Frontend](https://howtotestfrontend.com/) | Learn how to write and maintain tests for your React based front-end applications | **BLACKFRIDAYDEAL2025** - 25% off | Ends Dec 5th 2025 | ✅ |
+| [AIDD.io](https://aidd.io/?utm_source=greatfrontend&utm_medium=github&utm_campaign=aidd_bf2025_bf) | AIDD is a framework-agnostic, interactive learning platform that teaches you how to build faster, smarter, and with more confidence using AI to operate like a team 20x your size. It focuses on workflows that just work. | 45% OFF | Ends 30 Nov | ✅ |
 
 ## UI kits & Starter kits
 
