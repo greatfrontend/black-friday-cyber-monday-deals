@@ -116,7 +116,6 @@ Accelerate development with professional UI kits, React components, website temp
 | [shadcn/studio](https://shadcnstudio.com) | Fully customizable shadcn ui Components, Blocks, Figma UI Kit, MCP, templates and AI-powered theme generator | **BFCM30SS** - 30% off | Ends Dec 2 |
 | [FlyonUI](https://flyonui.com) | Fully customizable Tailwind Components, Blocks, Figma UI Kit, MCP, Templates | **BFCM30FY** - 30% off | Ends Dec 2 | ✅ |
 
-
 ## Developer tools
 
 Essential tools for software engineers and developers, covering code editors, Git clients, debugging utilities, browser extensions and workflow helpers. Boost your productivity with these discounted developer tools.
