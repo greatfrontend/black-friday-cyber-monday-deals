@@ -185,6 +185,7 @@ AI-powered tools to supercharge your development workflow. From code generation 
 | [Rize.io](https://rize.io/) | AI-powered time tracker that improves your focus and builds better work habits | **BLACKFRIDAY2024** - 40% off | - |
 | [AI Meeting Notes & Recorder](https://apps.apple.com/app/ai-meeting-notes-recorder/id6746161214) | Turn meetings, lectures, and voice memos into structured notes using AI. Record audio, transcribe speech to text, generate summaries, create mind maps, and turn notes into flashcards instantly | **BLACKFRIDAY2025** – 30% off yearly plan | Ends Dec 25 | ✅ |
 | [Semantic Pen](https://www.semanticpen.com/) | AI Content Writer - Generate high-quality content with AI | **20BF2025** - 20% OFF | Nov 25 - Dec 31 | ✅ |
+| [ConsoleX AI](https://consolex.ai) | The ultimate AI studio for creators: all frontier models and creative tools in one place — Gemini 3, Opus 4.5, GPT 5.1, Nano Banana Pro, Sora 2 & Veo 3. | **50% OFF** on all plans with code **CXBLACK2025** | Nov 27 – Dec 3 | ✅ |
 
 ## Design kits
 
