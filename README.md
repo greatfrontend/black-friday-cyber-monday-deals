@@ -152,6 +152,7 @@ Essential tools for software engineers and developers, covering code editors, Gi
 | [Checkbot](https://www.checkbot.io/) | Checkbot finds SEO, speed & security problems before your website visitors do | **NOV24** - 50% off | Ends Dec 2 |
 | [Small Hours](https://www.smallhours.dev/) | AI powered automated root cause analysis - minimize downtime, maximize efficiency | **BLACKFRIDAY24** - 50% off startup and enterprise plans | - |
 | [VerifyForge](https://verifyforge.com/) | Email Validation API - Verify email addresses in real-time with high accuracy | **BF2025** - 30% OFF | Nov 25 - Dec 1 | ✅ |
+| [Startup Buffer](https://startupbuffer.com/) | A curated directory that helps founders discover startup resources, tools, and deals to launch and grow their businesses | **BF50** - 50% off | Ends Dec 7 | ✅ |
 
 ## Books for developers and software engineers
 
