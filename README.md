@@ -137,7 +137,7 @@ Essential tools for software engineers and developers, covering code editors, Gi
 | [Polypane](https://polypane.app/) | A stand-alone browser with everything you need to build responsive, accessible and performant web sites and web apps | 25% off | Ends Dec 2 |
 | [OK JSON](https://okjson.app/) | The ultimate JSON formatter for your Mac | **BF2024** - 50% off | - |
 | [RunJS](https://runjs.app/) | The JavaScript playground for your desktop | **BLACKFRIDAY2024** - 30% off | Ends Nov 29 |
-| [DeployHQ](https://www.deployhq.com/) | DeployHQ automates deploying projects from Git, SVN, and Mercurial repositories. It simplifies the process of getting code from a repository onto a server, making it easier for developers | **BLACKFRIDAY50** - 50% off | - |
+| [DeployHQ](https://www.deployhq.com/) | Deploy with confidence — zero downtime, every time. Automate your deployments, roll out changes safely, and ship faster with Zero Downtime, Auto Deploy, Turbo Deploy, and AI-powered optimizations | 50% off for 3 months (automatically applied for new customers) | Ends Dec 2 | ✅ |
 | [Hoverify](https://tryhoverify.com/) | All-in-one browser extension with tools to enhance your web development experience and take your productivity to the next level | 30% off | - |
 | [Reveal](https://revealapp.com/) | Review, fix, and improve your app’s accessible and visual user experiences with powerful UI inspection and testing tools | **BLACKFRIDAY2024** - $30 off | Ends Dec 2 |
 | [Open Graph Design](https://opengraphdesign.com/) | Improve the appearance and engagement of your social media posts with custom Open Graph images | **BF2024** - $30 off | - |
