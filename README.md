@@ -72,6 +72,7 @@ We'd greatly appreciate if you could:
 | [How To Test Frontend](https://howtotestfrontend.com/) | Learn how to write and maintain tests for your React based front-end applications | **BLACKFRIDAYDEAL2025** - 25% off | Ends Dec 5th 2025 | ✅ |
 | [AIDD.io](https://aidd.io/?utm_source=greatfrontend&utm_medium=github&utm_campaign=aidd_bf2025_bf) | AIDD is a framework-agnostic, interactive learning platform that teaches you how to build faster, smarter, and with more confidence using AI to operate like a team 20x your size. It focuses on workflows that just work. | 45% off | Ends 30 Nov | ✅ |
 | [pwn.guide](https://pwn.guide) | Learn hacking from more than 150+ tutorials, ranging from web, hardware, wireless hacking, and more | **BLKFRI20** – 20% off | Ends Dec 5 | ✅ |
+| [Codeling](https://codeling.dev) | Codeling is an interactive learning platform focused on backend development and Python. Courses cover everything from intro to programming through to linux terminals and REST API's | **BF2025** – 50% off | Ends Dec 1 | ✅ |
 
 ## UI kits & Starter kits
 
