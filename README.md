@@ -41,8 +41,6 @@ We'd greatly appreciate if you could:
 
 ## Technical interviews preparation
 
-Master technical interviews with practice resources designed for software engineers. From algorithm fundamentals to React coding and system design, these deals help you land your dream software engineering role.
-
 | **Name** | **Description**| **Deal details** | **Validity** | **Latest** |
 | :- | :- | :- | :- | :- | 
 | [GreatFrontEnd Interviews](https://greatfrontend.com/?ref=bfcm&gnrs=bfcm) | Complete front end interview prep platform built by ex-FAANG engineers. 500+ practice questions across coding, UI, system design with detailed solutions. By the author of Blind 75 | 30% off | Ends Dec 2 | ✅ |
@@ -56,8 +54,6 @@ Master technical interviews with practice resources designed for software engine
 | [certificates.dev](https://certificates.dev/?utm_source=greatfrontend&utm_medium=github&utm_campaign=cert_bf2025_bf) | Get ready for your interview with a certification! Get certified in React, Angular, JavaScript, Nuxt or Vue.js | Up to 60% OFF + bonuses | Ends 3 Dec | ✅ |
 
 ## Courses
-
-Level up your skills with software engineering and developers courses on React, JavaScript, CSS and more. Learn from industry experts with these Black Friday discounts on courses.
 
 | **Name** | **Description**| **Deal details** | **Validity** | **Latest** |
 | :- | :- | :- | :- | :- |
@@ -79,8 +75,6 @@ Level up your skills with software engineering and developers courses on React, 
 | [pwn.guide](https://pwn.guide) | Learn hacking from more than 150+ tutorials, ranging from web, hardware, wireless hacking, and more | **BLKFRI20** – 20% off | Ends Dec 5 | ✅ |
 
 ## UI kits & Starter kits
-
-Accelerate development with professional UI kits, React components, website templates, and boilerplates. These tools help you build beautiful web apps faster with pre-built components and starter templates.
 
 | **Name** | **Description**| **Deal details** | **Validity** | **Latest** |
 | :- | :- | :- | :- | :- | 
@@ -118,8 +112,6 @@ Accelerate development with professional UI kits, React components, website temp
 
 ## Developer tools
 
-Essential tools for software engineers and developers, covering code editors, Git clients, debugging utilities, browser extensions and workflow helpers. Boost your productivity with these discounted developer tools.
-
 | **Name** | **Description**| **Deal details** | **Validity** | **Latest** |
 | :- | :- | :- | :- | :- | 
 | [GitKraken](https://www.gitkraken.com/black-friday-25) | Devtools that simplify & supercharge Git | **CYBERWEEK25** -30% off| Ends Nov 30 | ✅ |
@@ -156,8 +148,6 @@ Essential tools for software engineers and developers, covering code editors, Gi
 
 ## Books for developers and software engineers
 
-Comprehensive guides and reference books for developers covering React, Node.js, system design, software architecture, and engineering leadership.
-
 | **Name** | **Description**| **Deal details** | **Validity** | **Latest** |
 | :- | :- | :- | :- | :- | 
 | [The Engineering Leader's Playbook: The First 90 Days](https://kulkarniankita.gumroad.com/l/growthfor90days/BLACKFRIDAY50) | Learn how to lead a team & succeed as a leader using this playbook  | **BLACKFRIDAY50** - 50% off | - | ✅ |
@@ -174,8 +164,6 @@ Comprehensive guides and reference books for developers covering React, Node.js,
 | [Vue - The Road To Enterprise](https://theroadtoenterprise.com/books/vue-the-road-to-enterprise?discount_coupon=BLACKFRIDAY) | Take your skills to the next level and become a Vue pro by mastering advanced patterns, best practices, and cutting-edge techniques for the development of Vue 2 & 3 applications. | **BLACKFRIDAY** - 50% off | - | ✅ |
 
 ## AI-powered tools for developers
-
-AI-powered tools to supercharge your development workflow. From code generation to content creation, these tools help developers work smarter with artificial intelligence.
 
 | **Name** | **Description**| **Deal details** | **Validity** | **Latest** |
 | :- | :- | :- | :- | :- | 
