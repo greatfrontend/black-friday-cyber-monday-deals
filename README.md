@@ -52,7 +52,6 @@ Master technical interviews with practice resources designed for software engine
 | [ByteByteGo](https://bytebytego.com/?fpr=techinterviewhandbook) | Ace every stage of your next technical interview by Alex Xu, author of the bestseller "System Design Interview" books | 50% off | - | ✅ |
 | [Educative](https://www.educative.io/?aff=x23W) | Offers interactive text-based courses on coding interviews, system design, and software engineering | 55% off | Ends Nov 29 | ✅ |
 | [Exponent](https://www.tryexponent.com/?ref=techinterviewhandbook) | Tailored interview prep for PM, tech, and software engineering roles, including mock interview practice | 30% off annual plan | - | ✅ |
-| [interviewing.io](https://iio.sh/r/DMCa) | Anonymous mock interviews with engineers from Amazon, Google, Facebook, and other top companies | $200-$700 off 5 & 10-session dedicated coaching packages | - | - |
 | [certificates.dev](https://certificates.dev/?utm_source=greatfrontend&utm_medium=github&utm_campaign=cert_bf2025_bf) | Get ready for your interview with a certification! Get certified in React, Angular, JavaScript, Nuxt or Vue.js | Up to 60% OFF + bonuses | Ends 3 Dec | ✅ |
 
 ## Courses
@@ -97,23 +96,11 @@ Accelerate development with professional UI kits, React components, website temp
 | [SaaS Pegasus](https://www.saaspegasus.com/)) | The most popular Django boilerplate for SaaS and AI apps. Trusted by over a thousand developers and businesses | 50% off lifetime license | Ends Dec 3 | ✅ |
 | [Gravity](https://usegravity.app/) | The SaaS boilerplate that handles the complex, boring code like payments and authentication, while you build fun features that generate revenue | 60% off | Ends Nov 30 | ✅ |
 | [AdminMart](https://adminmart.com/) | Explore the Best Angular, Tailwind, React, Vue, Next, Nuxt, Bootstrap Admin Dashboard Templates. | **BFCM50** – Up to 50% off | - | ✅ |
-| [Tailkit](https://tailkit.com/) | Carefully crafted, easy to customize, fully responsive Tailwind components, templates and tools for all your Tailwind CSS based projects | **BLACKFRIDAY2024** - 50% off | Ends Dec 3 |
-| [NextReady](https://nextready.dev/) | A ready-to-use and type-safe components for Next.js, TypeScript, Prisma, LemonSqueezy, shadcn/ui, etc | **BF2024** - 63% off  | - |
-| [Shipped](https://shipped.club/) | Launch your startup in days, not months! NextJS SaaS Kit TS/React/Tailwind/shadcn | **BF2024** - 20% off | - |
-| [Scale To Zero AWS](https://scaletozeroaws.com/) | Frontend, Backend and Infra - all in one | **BLACKFRIDAY50** - 50% off | Ends Dec 4 |
-| [useSAASkit](https://www.usesaaskit.com/) | Super Easy and Fully Configurable Next.js Templates. Built with Next.js, Supabase, Tailwind CSS, and Stripe | Up to $100 off | Ends Nov 29 |
-| [SuperSaaS](https://supersaas.dev/) | The Simple, Fast & Smart Nuxt 3 Fullstack Kit | $99 only discount applied already | - |
-| [SaaSBold](https://saasbold.com/) | A full-stack, production-ready Next.js SaaS boilerplate and starter kit. Tailored for optimal developer experience, front and back-end functionality, integrations and more | **BLFCM2024** - Up to 60% off | - |
-| [TailAdmin](https://tailadmin.com/) | Open source Tailwind CSS Admin Dashboard Template | **BLFCM2024** - Up to 40% off | - |
-| [FormBold](https://formbold.com/) | A complete web form solution that includes a form API, backend, and builder. Get website form submissions directly to your inbox, Slack, Sheet, Notion, Telegram and more | **BLFCM2024** - 40% off | Ends Dec 3 |
-| [NextAdmin](https://nextadmin.co/) | Next.js Admin Dashboard Templates and Components | **BLFCM2024** - Up to 40% off | - |
-| [LaunchFast](https://www.launchfa.st/) | Production-ready SaaS Starter Kits in Astro, Svelte, and Next.js | **BLACKFRIDAY2024** - 25% off | - |
-| [ChromeKit](https://www.chromekit.dev/) | The Chrome extension boilerplate with all you need to build and launch your extension fast with ReactJS, TailwindCSS & Vite | **BLACKFRIDAY2024** - 30% off | - |
-| [Web3Templates](https://web3templates.com/) | Fast & SEO optimized website template built with Next.js, Astro, Tailwind CSS and Sanity CMS | **BLACKFRIDAY** - 30% off | Ends Dec 5 |
-| [UIDeck](https://uideck.com/) | 100+ High-quality templates, landing pages, and UI kits for startups and SaaS businesses | **BLFCM2024** - 50% off | Ends Nov 29 |
-| [OxbowUI](https://oxbowui.com/) | Beautifully crafted with Tailwind CSS and Alpine JS — Simple & easy to customize | 70% off | Ends Dec 2 |
-| [ZexaNext](https://next.zexa.app/) | The Simple, Speedy & Efficient, Next.js Boilerplate | 70% off | - |
-| [shadcn/studio](https://shadcnstudio.com) | Fully customizable shadcn ui Components, Blocks, Figma UI Kit, MCP, templates and AI-powered theme generator | **BFCM30SS** - 30% off | Ends Dec 2 |
+| [Tailkit](https://tailkit.com/) | Carefully crafted, easy to customize, fully responsive Tailwind components, templates and tools for all your Tailwind CSS based projects | **BLACKFRIDAY2025** - 50% off | Ends Dec 3 | ✅ |
+| [TailAdmin](https://tailadmin.com/) | Open source Tailwind CSS Admin Dashboard Template | **BLFCM2025** - 30% off | Ends Dec 1 | ✅ |
+| [FormBold](https://formbold.com/) | A complete web form solution that includes a form API, backend, and builder. Get website form submissions directly to your inbox, Slack, Sheet, Notion, Telegram and more | **BLFCM2025** - 40% off | Ends Dec 1 | ✅ |
+| [UIDeck](https://uideck.com/) | 100+ High-quality templates, landing pages, and UI kits for startups and SaaS businesses | **BLFCM2025** - 60% off | Ends Dec 1 | ✅ |
+| [LaunchFast](https://www.launchfa.st/) | Production-ready SaaS Starter Kits in Astro, Svelte, and Next.js | **BLACKFRIDAY** - $50 off | Ends Dec 1 | ✅ |
 | [FlyonUI](https://flyonui.com) | Fully customizable Tailwind Components, Blocks, Figma UI Kit, MCP, Templates | **BFCM30FY** - 30% off | Ends Dec 2 | ✅ |
 
 ## Developer tools
@@ -131,26 +118,11 @@ Essential tools for software engineers and developers, covering code editors, Gi
 | [HTTP Toolkit](https://httptoolkit.com/?ref=greatfrontend) | Open-source HTTP debugger & client, with instant one-click setup for browsers, Android, node.js & more | **BLACKFRIDAY25** - 50% off forever on annual subscriptions | Ends Dec 3 | ✅ |
 | [BucketMate](https://bucketmate.app/pricing?ref=greatfrontend) | A Finder-style S3-compatible manager for macOS. | **BLACKFRIDAY11** - 70% off lifetime plan | Ends Dec 5 | ✅ |
 | [TestDino](https://testdino.com/) | Smart Playwright test reporting and analytics | **BFTD2025** - 30% off on yearly Team Plan | - | ✅ |
-| [Tailscan](https://tailscan.com/) | Build, design and debug your Tailwind website visually with Tailscan, right within the browser | 25% off lifetime plan | Ends Dec 3 |
-| [Kaleidoscope](https://kaleidoscope.app/) | The world's most powerful file comparison and merge app, with deep git integration | **BLACKFRIDAY2024** - 40% off | - |
-| [WhaleDeck](https://apple.co/3NQJi4w) | The only Docker manager you will ever need. Available for iOS, iPadOS, and macOS | 20% off lifetime plan | Ends Dec 2 |
-| [Polypane](https://polypane.app/) | A stand-alone browser with everything you need to build responsive, accessible and performant web sites and web apps | 25% off | Ends Dec 2 |
-| [OK JSON](https://okjson.app/) | The ultimate JSON formatter for your Mac | **BF2024** - 50% off | - |
-| [RunJS](https://runjs.app/) | The JavaScript playground for your desktop | **BLACKFRIDAY2024** - 30% off | Ends Nov 29 |
+| [Tailscan](https://tailscan.com/) | Build, design and debug your Tailwind website visually with Tailscan, right within the browser | 45% off lifetime plan | Ends Dec 1 | ✅ |
+| [Polypane](https://polypane.app/) | A stand-alone browser with everything you need to build responsive, accessible and performant web sites and web apps | 25% off | Ends Dec 1 | ✅ |
+| [RunJS](https://runjs.app/) | The JavaScript playground for your desktop | **BLACKFRIDAY2025** - 30% off | Ends Dec 3 | ✅ |
 | [DeployHQ](https://www.deployhq.com/) | Deploy with confidence — zero downtime, every time. Automate your deployments, roll out changes safely, and ship faster with Zero Downtime, Auto Deploy, Turbo Deploy, and AI-powered optimizations | 50% off for 3 months (automatically applied for new customers) | Ends Dec 2 | ✅ |
-| [Hoverify](https://tryhoverify.com/) | All-in-one browser extension with tools to enhance your web development experience and take your productivity to the next level | 30% off | - |
-| [Reveal](https://revealapp.com/) | Review, fix, and improve your app’s accessible and visual user experiences with powerful UI inspection and testing tools | **BLACKFRIDAY2024** - $30 off | Ends Dec 2 |
-| [Open Graph Design](https://opengraphdesign.com/) | Improve the appearance and engagement of your social media posts with custom Open Graph images | **BF2024** - $30 off | - |
-| [Ray](https://myray.app/) | Desktop application that serves as the dedicated home for debugging output. Send, format and filter debug information from both local projects and remote servers | **BF2024** - 30% off | Ends Dec 2 |
-| [Pocket Alert](https://pocketalert.app/) | Empowers you to send push notifications directly to your devices (iOS, Android). Seamlessly integrate via API or Webhooks and stay in control of your alerts like never before | **BLACKFRIDAY** - 40% off | - |
-| [Pingify](https://pingify.com/) | Monitor website uptime, SSL certificates, DNS records, and more. Instant alerts for downtime and performance issues | 50% off lifetime plan | - |
-| [Azimutt](https://azimutt.app) | The best database visualization for teams with large databases | **BF24** - 50% off | - |
-| [Static.app](https://static.app/) | One-click hosting solution for your static website | **BLACK24** - 30% off | - |
-| [Pulsetic](https://pulsetic.com/) | Get website downtime alerts by phone call, SMS, email or Slack if your website is down. Create beautiful status pages & incident management reports and keep your visitors updated | **BLACK24** - 30% off | - |
-| [Aptakube](https://aptakube.com/) | Kubernetes GUI: Multi-Cluster, Modern. Lightweight. Multi-Cluster. Works on Windows, macOS and Linux | **BLACKFRIDAY2024** - 30% off | Ends Dec 2 |
-| [ScreenshotOne](https://screenshotone.com/) | Screenshot API for developers | **BLACKFRIDAY2024** - 25% off | - |
-| [Checkbot](https://www.checkbot.io/) | Checkbot finds SEO, speed & security problems before your website visitors do | **NOV24** - 50% off | Ends Dec 2 |
-| [Small Hours](https://www.smallhours.dev/) | AI powered automated root cause analysis - minimize downtime, maximize efficiency | **BLACKFRIDAY24** - 50% off startup and enterprise plans | - |
+| [Ray](https://myray.app/) | Desktop application that serves as the dedicated home for debugging output. Send, format and filter debug information from both local projects and remote servers | 30% off | Ends Dec 1 | ✅ |
 | [VerifyForge](https://verifyforge.com/) | Email Validation API - Verify email addresses in real-time with high accuracy | **BF2025** - 30% OFF | Nov 25 - Dec 1 | ✅ |
 | [Startup Buffer](https://startupbuffer.com/) | A curated directory that helps founders discover startup resources, tools, and deals to launch and grow their businesses | **BF50** - 50% off | Ends Dec 7 | ✅ |
 
