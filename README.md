@@ -97,6 +97,7 @@ We'd greatly appreciate if you could:
 | [UIDeck](https://uideck.com/) | 100+ High-quality templates, landing pages, and UI kits for startups and SaaS businesses | **BLFCM2025** - 60% off | Ends Dec 1 | ✅ |
 | [LaunchFast](https://www.launchfa.st/) | Production-ready SaaS Starter Kits in Astro, Svelte, and Next.js | **BLACKFRIDAY** - $50 off | Ends Dec 1 | ✅ |
 | [FlyonUI](https://flyonui.com) | Fully customizable Tailwind Components, Blocks, Figma UI Kit, MCP, Templates | **BFCM30FY** - 30% off | Ends Dec 2 | ✅ |
+| [CSS Demystified and Beyond CSS with Kevin Powell](https://www.kevinpowell.co/courses/) | Vanilla CSS, easy to follow and in-depth explanations | 40% off | Ends Dec 1 | ✅ |
 
 ## Developer tools
 
