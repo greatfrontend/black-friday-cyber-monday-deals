@@ -73,6 +73,7 @@ We'd greatly appreciate if you could:
 | [AIDD.io](https://aidd.io/?utm_source=greatfrontend&utm_medium=github&utm_campaign=aidd_bf2025_bf) | AIDD is a framework-agnostic, interactive learning platform that teaches you how to build faster, smarter, and with more confidence using AI to operate like a team 20x your size. It focuses on workflows that just work. | 45% off | Ends 30 Nov | ✅ |
 | [pwn.guide](https://pwn.guide) | Learn hacking from more than 150+ tutorials, ranging from web, hardware, wireless hacking, and more | **BLKFRI20** – 20% off | Ends Dec 5 | ✅ |
 | [Codeling](https://codeling.dev) | Codeling is an interactive learning platform focused on backend development and Python. Courses cover everything from intro to programming through to linux terminals and REST API's | **BF2025** – 50% off | Ends Dec 1 | ✅ |
+| [CSS Demystified and Beyond CSS](https://www.kevinpowell.co/courses/) | Courses on CSS by Kevin Powell, easy to follow and in-depth explanations | 40% off | Ends Dec 1 | ✅ |
 
 ## UI kits & Starter kits
 
@@ -97,7 +98,6 @@ We'd greatly appreciate if you could:
 | [UIDeck](https://uideck.com/) | 100+ High-quality templates, landing pages, and UI kits for startups and SaaS businesses | **BLFCM2025** - 60% off | Ends Dec 1 | ✅ |
 | [LaunchFast](https://www.launchfa.st/) | Production-ready SaaS Starter Kits in Astro, Svelte, and Next.js | **BLACKFRIDAY** - $50 off | Ends Dec 1 | ✅ |
 | [FlyonUI](https://flyonui.com) | Fully customizable Tailwind Components, Blocks, Figma UI Kit, MCP, Templates | **BFCM30FY** - 30% off | Ends Dec 2 | ✅ |
-| [CSS Demystified and Beyond CSS with Kevin Powell](https://www.kevinpowell.co/courses/) | Vanilla CSS, easy to follow and in-depth explanations | 40% off | Ends Dec 1 | ✅ |
 
 ## Developer tools
 
