@@ -147,6 +147,7 @@ We'd greatly appreciate if you could:
 | [AI Meeting Notes & Recorder](https://apps.apple.com/app/ai-meeting-notes-recorder/id6746161214) | Turn meetings, lectures, and voice memos into structured notes using AI. Record audio, transcribe speech to text, generate summaries, create mind maps, and turn notes into flashcards instantly | **BLACKFRIDAY2025** – 30% off yearly plan | Ends Dec 25 | ✅ |
 | [Semantic Pen](https://www.semanticpen.com/) | AI Content Writer - Generate high-quality content with AI | **20BF2025** - 20% OFF | Ends Dec 31 | ✅ |
 | [ConsoleX AI](https://consolex.ai) | The ultimate AI studio for creators: all frontier models and creative tools in one place | **CXBLACK2025** - 50% off | Ends Dec 3 | ✅ |
+| [Summate](https://summate.io) | AI-powered digest that turns newsletters, YouTube, and 50+ sources into personalized summaries. 2 hours → 10 minutes. | **SUMMATEBF25** - 50% off ($10/mo annual, $15/mo monthly) | Ends Dec 5 | ✅ |
 
 ## Design kits
 
