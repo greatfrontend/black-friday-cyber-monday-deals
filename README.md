@@ -101,6 +101,7 @@ We'd greatly appreciate if you could:
 | [ThemeSelection](https://themeselection.com) | 20+ Admin Templates & UI Kits along with SaaS starter kits | **CW30OFF** - 30% off | Ends Dec 1 | ✅ |
 | [shadcn/studio](https://shadcnstudio.com) | Fully customizable shadcn ui Components, Blocks, Figma UI Kit, MCP, templates and AI-powered theme generator | **BFCM30SS** - 30% off | Ends Dec 2 | ✅ |
 | [MDB Bootstrap Pro/Bundle](https://mdbootstrap.com/) | MDB - Material Design for Bootstrap v5 | $10/$20 off | Ends Dec 1 | ✅ |
+| [Webix](https://webix.com/) | JS UI library for developers that gives you rich, production-ready widgets and lets you build full-featured web apps faster. | 15-25% off | Ends Dec 7 | ✅ |
 
 ## Developer tools
 
