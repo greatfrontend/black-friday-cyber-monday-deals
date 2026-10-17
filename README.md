@@ -124,6 +124,7 @@ We'd greatly appreciate if you could:
 | [VerifyForge](https://verifyforge.com/) | Email Validation API - Verify email addresses in real-time with high accuracy | **BF2025** - 30% OFF | Nov 25 - Dec 1 | ✅ |
 | [Startup Buffer](https://startupbuffer.com/) | A curated directory that helps founders discover startup resources, tools, and deals to launch and grow their businesses | **BF50** - 50% off | Ends Dec 7 | ✅ |
 | [Webhookify](https://webhookify.io/) | Developer-friendly desktop tool that captures webhook requests, lets you inspect payloads, and replay them to your local dev server. | **BLACKFRIDAY2025** - 70% off | Ends Dec 14 | ✅ |
+| [Karma.Domains](https://karma.domains/en/black-friday/) | Expired domains search with Wayback Machine spam analysis, Karma Score, AI domain history summaries, a Public API and an MCP server for agents | 50% off yearly Unlimited & Pro plans (personal code claimed in the app) | Nov 27 - Nov 30, 2026 | ✅ |
 
 ## Books for developers and software engineers
 
