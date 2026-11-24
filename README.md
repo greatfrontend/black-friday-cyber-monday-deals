@@ -46,7 +46,7 @@ We'd greatly appreciate if you could:
 | **Name** | **Description**| **Deal details** | **Validity** | **Latest** |
 | :- | :- | :- | :- | :- | 
 | [GreatFrontEnd Interviews](https://greatfrontend.com/?ref=bfcm&gnrs=bfcm) | Complete front end interview prep platform built by ex-FAANG engineers. 500+ practice questions across coding, UI, system design with detailed solutions. By the author of Blind 75 | 30% off all plans with code **BF30**, on top of the lifetime and bundle discounts already on the site (bundle: 51% off list price) | Ends Nov 29 | ✅ |
-| [Hello Interview](https://www.hellointerview.com?ref=greatfrontend) | System design practice and writeups by staff-level engineers from Meta and Amazon | Up to 25% off Premium (1 month $47, 1 year $89, lifetime $299). Limited-time offer, no code | - | ✅ |
+| [Hello Interview](https://www.hellointerview.com?ref=greatfrontend) | System design practice and writeups by staff-level engineers from Meta and Amazon | Black Friday: 35% off a year of Premium ($77, was $119). 1 month $41 (was $59), lifetime $299 (was $399). No code | Ends about Nov 28 | ✅ |
 | [AlgoMonster](https://shareasale.com/r.cfm?b=1873647&u=3114753&m=114505&urllink=&afftrack=) | Structured way to prepare for coding interviews | 60% off premium | Ends about Nov 29 | ✅ |
 | [Design Gurus](https://www.designgurus.io/?aff=kJSIoU) | One-stop portal For tech interviews. By the creators of Grokking the System Design Interview | Thanksgiving Sale: 70% off everything, 90% off the All Courses bundle | Ends about Nov 27 | ✅ |
 | [Educative](https://www.educative.io/?aff=x23W) | Offers interactive text-based courses on coding interviews, system design, and software engineering | 60% off | - | ✅ |
