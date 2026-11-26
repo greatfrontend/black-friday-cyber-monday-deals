@@ -2,10 +2,12 @@
 import { defineConfig } from 'void/config';
 import { themeInitScript } from './src/lib/theme-init';
 
+const siteTitle = 'Ctrl Friday — Black Friday & Cyber Monday Deals';
+
 export default defineConfig({
   output: 'static',
   head: {
-    title: 'Black Friday & Cyber Monday Deals for Developers | GreatFrontEnd',
+    title: siteTitle,
     htmlAttrs: { lang: 'en', 'data-theme': 'dark' },
     script: [{ innerHTML: themeInitScript }],
     meta: [
@@ -18,7 +20,7 @@ export default defineConfig({
           'Find Black Friday and Cyber Monday deals on developer tools, courses, design kits, and more. Search, filter, save your favorites, and share a deal with the community.',
       },
       { name: 'theme-color', content: '#171717' },
-      { property: 'og:title', content: 'Black Friday & Cyber Monday Deals | GreatFrontEnd' },
+      { property: 'og:title', content: siteTitle },
       {
         property: 'og:description',
         content:

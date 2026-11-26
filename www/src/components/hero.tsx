@@ -55,10 +55,7 @@ export function Hero({
               'motion-safe:animate-[headline-fade_260ms_ease-out]',
             )}
           >
-            <span className="block">
-              Black Friday <span className="text-muted-foreground">&</span>
-            </span>
-            <span className="block">Cyber Monday deals.</span>
+            Ctrl Friday
           </h1>
           <p
             className={cn(
@@ -66,7 +63,7 @@ export function Hero({
               'motion-safe:animate-[hero-offer-reveal_400ms_300ms_ease-out_both]',
             )}
           >
-            Community deals on dev tools, courses, and design assets.
+            Black Friday and Cyber Monday deals for developers and designers.
           </p>
           <div
             className={cn(

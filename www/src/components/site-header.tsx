@@ -30,7 +30,7 @@ export function SiteHeader({ onContribute }: { onContribute: () => void }) {
       >
         <a
           href="/"
-          aria-label="GreatFrontEnd Deals home"
+          aria-label="Ctrl Friday home"
           className="inline-flex items-center gap-[9px] whitespace-nowrap"
         >
           <img
@@ -42,11 +42,7 @@ export function SiteHeader({ onContribute }: { onContribute: () => void }) {
             className="size-8 shrink-0"
           />
           <span className="text-base font-[650] tracking-[-0.035em] max-[600px]:text-sm">
-            greatfrontend
-            <span className="hidden sm:inline">
-              <span className="mx-2 font-normal text-muted-foreground max-[600px]:mx-[5px]">/</span>
-              <span className="font-normal">deals</span>
-            </span>
+            Ctrl Friday
           </span>
         </a>
         <nav aria-label="Primary" className="flex items-center gap-1 max-[600px]:gap-0">

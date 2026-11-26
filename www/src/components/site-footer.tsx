@@ -18,7 +18,7 @@ export function SiteFooter({ year, onContribute }: { year: number; onContribute:
             target="_blank"
             rel="noopener noreferrer"
           >
-            GreatFrontEnd <ArrowUpRight className="size-3.5" aria-hidden="true" />
+            By the GreatFrontEnd team <ArrowUpRight className="size-3.5" aria-hidden="true" />
           </a>
           <p className="mt-1.5 text-[13px] leading-[1.6] text-muted-foreground">
             A community-maintained collection. Contributions welcome.

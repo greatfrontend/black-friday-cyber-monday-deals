@@ -1,6 +1,8 @@
-# Black Friday & Cyber Monday Deals 2026
+# Ctrl Friday — Black Friday & Cyber Monday Deals 2026
 
 Black Friday and Cyber Monday 2026 deals for software engineers, developers, and designers. Find discounts on technical interview preparation resources, UI kits, AI tools, books, and courses.
+
+**[Browse the latest deals on Ctrl Friday](https://ctrlfriday.com/)**
 
 Each product has its own JSON file in [data/deals/2026/](data/deals/2026/). To add or update a deal, follow the [contribution guide](CONTRIBUTING.md) or use the **Add or update a deal** issue form. The tables below are generated from JSON.
 
@@ -125,7 +127,7 @@ We'd greatly appreciate if you could:
 
 ⭐ **Star this repository** to get notified about Black Friday and Cyber Monday deals for developers and designers in 2026.
 
-🔖 **Bookmark or contribute** to help the developer community discover the best software engineering deals, web development discounts, and coding course offers.
+🔖 **[Bookmark Ctrl Friday](https://ctrlfriday.com/)** for the latest deals, or contribute a deal via pull request or issue.
 
 ---
 
