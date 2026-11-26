@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "pwn.guide",
+  "url": "https://pwn.guide",
+  "categories": [
+    "courses"
+  ],
+  "description": "Learn hacking from more than 150+ tutorials, ranging from web, hardware, wireless hacking, and more",
+  "offer": "**BLKFRI20** – 20% off",
+  "couponCodes": [
+    "BLKFRI20"
+  ],
+  "validity": "Ends Dec 5",
+  "latest": true,
+  "order": 24
+}

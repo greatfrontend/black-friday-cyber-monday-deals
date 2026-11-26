@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Semantic Pen",
+  "url": "https://www.semanticpen.com/",
+  "categories": [
+    "ai-powered-tools-for-developers"
+  ],
+  "description": "AI Content Writer - Generate high-quality content with AI",
+  "offer": "**20BF2025** - 20% OFF",
+  "couponCodes": [
+    "20BF2025"
+  ],
+  "validity": "Ends Dec 31",
+  "latest": true,
+  "order": 80
+}

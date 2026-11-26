@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Level up with Tailwind CSS",
+  "url": "https://shrutibalasa.gumroad.com/l/level-up-with-tailwind-css/BLACKFRIDAY24",
+  "categories": [
+    "books-courses"
+  ],
+  "description": "With in-depth insights into advanced concepts, tips and tricks, work faster and with more skill.",
+  "offer": "**BLACKFRIDAY24** - 60% off",
+  "couponCodes": [
+    "BLACKFRIDAY24"
+  ],
+  "validity": "-",
+  "latest": null,
+  "order": 86
+}

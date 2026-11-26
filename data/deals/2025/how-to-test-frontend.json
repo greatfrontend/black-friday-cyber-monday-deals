@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "How To Test Frontend",
+  "url": "https://howtotestfrontend.com/",
+  "categories": [
+    "courses"
+  ],
+  "description": "Learn how to write and maintain tests for your React based front-end applications",
+  "offer": "**BLACKFRIDAYDEAL2025** - 25% off",
+  "couponCodes": [
+    "BLACKFRIDAYDEAL2025"
+  ],
+  "validity": "Ends Dec 5th 2025",
+  "latest": true,
+  "order": 22
+}

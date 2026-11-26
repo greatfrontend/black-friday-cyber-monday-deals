@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "inReels.ai",
+  "url": "https://www.inreels.ai",
+  "categories": [
+    "ai-powered-tools-for-developers"
+  ],
+  "description": "Create stunning videos in seconds using AI. Turn text, PDFs, or images into videos. Repurpose content for YouTube, TikTok, Reels, and more",
+  "offer": "**BLACKFRIDAY2025** - 50% off",
+  "couponCodes": [
+    "BLACKFRIDAY2025"
+  ],
+  "validity": "-",
+  "latest": true,
+  "order": 74
+}

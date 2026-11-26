@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Marmo UI",
+  "url": "https://www.marmoui.com/",
+  "categories": [
+    "design-kits"
+  ],
+  "description": "Comprehensive design system for Figma, helping designers create modern and beautiful user interfaces with ease, saving time and effort on every project",
+  "offer": "**BLACKFRIDAY24** - 70% off",
+  "couponCodes": [
+    "BLACKFRIDAY24"
+  ],
+  "validity": "-",
+  "latest": null,
+  "order": 101
+}

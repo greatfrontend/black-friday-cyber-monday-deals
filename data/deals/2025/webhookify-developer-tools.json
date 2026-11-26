@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Webhookify",
+  "url": "https://webhookify.io/",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Developer-friendly desktop tool that captures webhook requests, lets you inspect payloads, and replay them to your local dev server.",
+  "offer": "**BLACKFRIDAY2025** - 70% off",
+  "couponCodes": [
+    "BLACKFRIDAY2025"
+  ],
+  "validity": "Ends Dec 14",
+  "latest": true,
+  "order": 66
+}

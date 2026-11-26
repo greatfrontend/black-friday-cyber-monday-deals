@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "OxbowUI",
+  "url": "https://oxbowui.com/",
+  "categories": [
+    "ui-kits-templates-boilerplates"
+  ],
+  "description": "Beautifully crafted with Tailwind CSS and Alpine JS — Simple & easy to customize",
+  "offer": "70% off",
+  "couponCodes": [],
+  "validity": "Ends Dec 2",
+  "latest": null,
+  "order": 34
+}

@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Pulsetic",
+  "url": "https://pulsetic.com/",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Get website downtime alerts by phone call, SMS, email or Slack if your website is down. Create beautiful status pages & incident management reports and keep your visitors updated",
+  "offer": "**BLACK24** - 30% off",
+  "couponCodes": [
+    "BLACK24"
+  ],
+  "validity": "-",
+  "latest": null,
+  "order": 57
+}

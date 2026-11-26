@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Ray",
+  "url": "https://myray.app/",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Desktop application that serves as the dedicated home for debugging output. Send, format and filter debug information from both local projects and remote servers",
+  "offer": "30% off",
+  "couponCodes": [],
+  "validity": "Ends Dec 1",
+  "latest": true,
+  "order": 63
+}

@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "daisyUI",
+  "url": "https://daisyui.com/store/",
+  "categories": [
+    "ui-kits-starter-kits"
+  ],
+  "description": "Official templates made by daisyUI",
+  "offer": "**BF26TZXLP** - up to 45% off, the discount drops each day",
+  "couponCodes": [
+    "BF26TZXLP"
+  ],
+  "validity": "-",
+  "latest": true,
+  "order": 19
+}

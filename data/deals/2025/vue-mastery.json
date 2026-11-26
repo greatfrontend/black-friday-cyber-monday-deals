@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Vue Mastery",
+  "url": "https://www.vuemastery.com/black-friday/",
+  "categories": [
+    "courses"
+  ],
+  "description": "Take your Vue.js skills to the next level with the highest quality Vue courses. Learn from experts like Evan You and build amazing web applications",
+  "offer": "40% off",
+  "couponCodes": [],
+  "validity": "-",
+  "latest": true,
+  "order": 15
+}

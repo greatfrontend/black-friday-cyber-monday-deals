@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "BucketMate",
+  "url": "https://bucketmate.app/pricing?ref=greatfrontend",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "A Finder-style S3-compatible manager for macOS.",
+  "offer": "**BLACKFRIDAY11** - 70% off lifetime plan",
+  "couponCodes": [
+    "BLACKFRIDAY11"
+  ],
+  "validity": "Ends Dec 5",
+  "latest": true,
+  "order": 57
+}

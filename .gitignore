@@ -128,3 +128,17 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# Void generated files
+node_modules
+.void
+.wrangler
+.cloudflare
+.void-wrangler.jsonc
+.env.*
+.DS_Store
+
+# Generated from the canonical catalogs in data/
+/www/public/data/
+
+/www/src/data/

@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Complete Guide to CSS Flexbox & Grid",
+  "url": "https://shrutibalasa.gumroad.com/l/css-flex-and-grid/BLACKFRIDAY24",
+  "categories": [
+    "books-courses"
+  ],
+  "description": "Become a Pro at building components & layouts with CSS Flexbox and Grid.",
+  "offer": "**BLACKFRIDAY24** - 60%",
+  "couponCodes": [
+    "BLACKFRIDAY24"
+  ],
+  "validity": "-",
+  "latest": null,
+  "order": 84
+}

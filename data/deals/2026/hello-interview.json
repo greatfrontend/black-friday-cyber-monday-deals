@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Hello Interview",
+  "url": "https://www.hellointerview.com?ref=greatfrontend",
+  "categories": [
+    "technical-interviews-preparation"
+  ],
+  "description": "System design practice and writeups by staff-level engineers from Meta and Amazon",
+  "offer": "Black Friday: 35% off a year of Premium ($77, was $119). 1 month $41 (was $59), lifetime $299 (was $399). No code",
+  "couponCodes": [],
+  "validity": "Ends about Nov 28",
+  "latest": true,
+  "order": 2
+}

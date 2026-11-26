@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "SaaS Pegasus",
+  "url": "https://tailgrids.com/",
+  "categories": [
+    "ui-kits-templates-boilerplates"
+  ],
+  "description": "The most popular Django boilerplate for SaaS and AI apps. Trusted by over a thousand developers and businesses",
+  "offer": "**bf2024preview** - 50% off lifetime license",
+  "couponCodes": [
+    "bf2024preview"
+  ],
+  "validity": "Ends Nov 29",
+  "latest": null,
+  "order": 23
+}

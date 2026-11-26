@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Iconbuddy",
+  "url": "https://iconbuddy.com/pricing",
+  "categories": [
+    "design-kits"
+  ],
+  "description": "Unlock unlimited icon search and plugin access, for lifetime",
+  "offer": "**BLACKFRIDAY2025** - 80% off",
+  "couponCodes": [
+    "BLACKFRIDAY2025"
+  ],
+  "validity": "-",
+  "latest": true,
+  "order": 84
+}

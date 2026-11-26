@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Shipixen",
+  "url": "https://shipixen.com/",
+  "categories": [
+    "ui-kits-starter-kits"
+  ],
+  "description": "In 5 minutes, go from nothing → deployed codebase",
+  "offer": "**BF2025** - 50% off yearly license",
+  "couponCodes": [
+    "BF2025"
+  ],
+  "validity": "-",
+  "latest": true,
+  "order": 32
+}

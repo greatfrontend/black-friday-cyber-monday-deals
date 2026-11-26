@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Scale To Zero AWS",
+  "url": "https://scaletozeroaws.com/",
+  "categories": [
+    "ui-kits-templates-boilerplates"
+  ],
+  "description": "Frontend, Backend and Infra - all in one",
+  "offer": "**BLACKFRIDAY50** - 50% off",
+  "couponCodes": [
+    "BLACKFRIDAY50"
+  ],
+  "validity": "Ends Dec 4",
+  "latest": null,
+  "order": 21
+}

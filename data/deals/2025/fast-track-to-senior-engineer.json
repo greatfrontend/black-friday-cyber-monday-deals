@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Fast Track To Senior Engineer",
+  "url": "https://maven.com/top-engineer/fast-track-to-senior?promoCode=BF1125",
+  "categories": [
+    "courses"
+  ],
+  "description": "Become a high-performing software engineer and get promoted in 2026!",
+  "offer": "25% off",
+  "couponCodes": [],
+  "validity": "Ends Dec 15",
+  "latest": true,
+  "order": 21
+}

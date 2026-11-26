@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Summate",
+  "url": "https://summate.io",
+  "categories": [
+    "ai-powered-tools-for-developers"
+  ],
+  "description": "AI-powered digest that turns newsletters, YouTube, and 50+ sources into personalized summaries. 2 hours → 10 minutes.",
+  "offer": "**SUMMATEBF25** - 50% off ($10/mo annual, $15/mo monthly)",
+  "couponCodes": [
+    "SUMMATEBF25"
+  ],
+  "validity": "Ends Dec 5",
+  "latest": true,
+  "order": 82
+}

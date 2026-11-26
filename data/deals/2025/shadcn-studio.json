@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "shadcn/studio",
+  "url": "https://shadcnstudio.com",
+  "categories": [
+    "ui-kits-starter-kits"
+  ],
+  "description": "Fully customizable shadcn ui Components, Blocks, Figma UI Kit, MCP, templates and AI-powered theme generator",
+  "offer": "**BFCM30SS** - 30% off",
+  "couponCodes": [
+    "BFCM30SS"
+  ],
+  "validity": "Ends Dec 2",
+  "latest": true,
+  "order": 47
+}

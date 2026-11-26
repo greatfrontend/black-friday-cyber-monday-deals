@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "LabEx",
+  "url": "https://labex.io/learn",
+  "categories": [
+    "courses"
+  ],
+  "description": "Learn Linux, DevOps & Cybersecurity with Hands-on Labs",
+  "offer": "50% off",
+  "couponCodes": [],
+  "validity": "-",
+  "latest": true,
+  "order": 19
+}

@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "AIDD.io",
+  "url": "https://aidd.io/?utm_source=greatfrontend&utm_medium=github&utm_campaign=aidd_bf2025_bf",
+  "categories": [
+    "courses"
+  ],
+  "description": "AIDD is a framework-agnostic, interactive learning platform that teaches you how to build faster, smarter, and with more confidence using AI to operate like a team 20x your size. It focuses on workflows that just work.",
+  "offer": "45% off",
+  "couponCodes": [],
+  "validity": "Ends 30 Nov",
+  "latest": true,
+  "order": 23
+}

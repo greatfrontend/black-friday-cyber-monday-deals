@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "DeployHQ",
+  "url": "https://www.deployhq.com/",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "DeployHQ automates deploying projects from Git, SVN, and Mercurial repositories. It simplifies the process of getting code from a repository onto a server, making it easier for developers",
+  "offer": "**BLACKFRIDAY50** - 50% off",
+  "couponCodes": [
+    "BLACKFRIDAY50"
+  ],
+  "validity": "-",
+  "latest": null,
+  "order": 47
+}

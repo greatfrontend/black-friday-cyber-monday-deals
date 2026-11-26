@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Project Management Spreadsheet",
+  "url": "https://prosheetivity.gumroad.com/l/project-management-template/BF39",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Designed to facilitate teamwork and boost productivity. Ideal for tracking tasks and real-time reporting, its intuitive design and interconnected sheets make work processes smoother and more efficient",
+  "offer": "**BF39** - 39% off",
+  "couponCodes": [
+    "BF39"
+  ],
+  "validity": "Ends Nov 30",
+  "latest": null,
+  "order": 96
+}

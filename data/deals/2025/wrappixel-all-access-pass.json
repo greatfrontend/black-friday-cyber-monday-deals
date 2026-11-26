@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "WrapPixel - All Access Pass",
+  "url": "https://www.wrappixel.com/all-access-pass/",
+  "categories": [
+    "ui-kits-starter-kits"
+  ],
+  "description": "Collection of Best Angular, Tailwind, React, Vuejs, Next Js, Nuxt, Bootstrap Admin Dashboard Templates.",
+  "offer": "95% off",
+  "couponCodes": [],
+  "validity": "-",
+  "latest": true,
+  "order": 28
+}

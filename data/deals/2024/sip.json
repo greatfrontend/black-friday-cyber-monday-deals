@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Sip",
+  "url": "https://sipapp.io/",
+  "categories": [
+    "design-kits"
+  ],
+  "description": "Sip is a modern color picker that brings ease to color organization & team collaboration",
+  "offer": "**BF_2024** - 50% off",
+  "couponCodes": [
+    "BF_2024"
+  ],
+  "validity": "-",
+  "latest": null,
+  "order": 105
+}

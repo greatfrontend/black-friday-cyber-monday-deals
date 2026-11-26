@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Code With Mosh",
+  "url": "https://codewithmosh.com/",
+  "categories": [
+    "courses"
+  ],
+  "description": "High-quality video courses on programming, web development, and software engineering fundamentals",
+  "offer": "50% off annual subscription",
+  "couponCodes": [],
+  "validity": "Ends Dec 1",
+  "latest": true,
+  "order": 17
+}

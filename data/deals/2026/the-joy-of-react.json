@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "The Joy of React",
+  "url": "https://www.joyofreact.com/?ref=greatfrontend",
+  "categories": [
+    "courses"
+  ],
+  "description": "The interactive learning experience that teaches you how to build rich, dynamic web apps with React",
+  "offer": "Ultimate $349 (was $599), Pro $299 (was $399), Basic $209 (was $249)",
+  "couponCodes": [],
+  "validity": "Ends about Dec 2",
+  "latest": true,
+  "order": 9
+}

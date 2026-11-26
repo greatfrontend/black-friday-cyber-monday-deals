@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Open Graph Design",
+  "url": "https://opengraphdesign.com/",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Improve the appearance and engagement of your social media posts with custom Open Graph images",
+  "offer": "**BF2024** - $30 off",
+  "couponCodes": [
+    "BF2024"
+  ],
+  "validity": "-",
+  "latest": null,
+  "order": 51
+}

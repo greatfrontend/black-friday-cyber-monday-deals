@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "DeployHQ",
+  "url": "https://www.deployhq.com/",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Deploy with confidence — zero downtime, every time. Automate your deployments, roll out changes safely, and ship faster with Zero Downtime, Auto Deploy, Turbo Deploy, and AI-powered optimizations",
+  "offer": "50% off for 3 months (automatically applied for new customers)",
+  "couponCodes": [],
+  "validity": "Ends Dec 2",
+  "latest": true,
+  "order": 62
+}

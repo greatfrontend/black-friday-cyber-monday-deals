@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "useSAASkit",
+  "url": "https://www.usesaaskit.com/",
+  "categories": [
+    "ui-kits-templates-boilerplates"
+  ],
+  "description": "Super Easy and Fully Configurable Next.js Templates. Built with Next.js, Supabase, Tailwind CSS, and Stripe",
+  "offer": "Up to $100 off",
+  "couponCodes": [],
+  "validity": "Ends Nov 29",
+  "latest": null,
+  "order": 22
+}

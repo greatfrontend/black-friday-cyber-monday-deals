@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "VueSchool",
+  "url": "https://vueschool.io/",
+  "categories": [
+    "courses"
+  ],
+  "description": "Learn Vue.js and modern, cutting-edge front-end technologies from core-team members and industry experts with our premium tutorials and video courses",
+  "offer": "Early Bird: 87% off, $149 instead of $1,200 (Premium, Unlearn.dev, Mastering Nuxt, Mastering Pinia)",
+  "couponCodes": [],
+  "validity": "Ends Nov 24",
+  "latest": true,
+  "order": 12
+}

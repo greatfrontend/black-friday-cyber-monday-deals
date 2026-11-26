@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "The Modern Full Stack Next.js Course",
+  "url": "https://www.nextjscourse.dev/",
+  "categories": [
+    "books-courses"
+  ],
+  "description": "A comprehensive course on building and deploying Production-ready apps with modern best practices that are real-world and in-depth with Zero fluff",
+  "offer": "**EARLYACCESSPARTY** - 50% off",
+  "couponCodes": [
+    "EARLYACCESSPARTY"
+  ],
+  "validity": "Ends Dec 2",
+  "latest": null,
+  "order": 68
+}

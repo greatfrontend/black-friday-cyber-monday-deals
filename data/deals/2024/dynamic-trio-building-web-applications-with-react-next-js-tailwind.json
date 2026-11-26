@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Dynamic Trio: Building Web Applications with React, Next.js & Tailwind",
+  "url": "https://gracehuang.gumroad.com/l/dynamic-trio/BLACKFRIDAY24",
+  "categories": [
+    "books-courses"
+  ],
+  "description": "A practical guide with step-by-step tutorials on building modern web applications using React, Next.js, and Tailwind CSS.",
+  "offer": "**BLACKFRIDAY24** - 40% off",
+  "couponCodes": [
+    "BLACKFRIDAY24"
+  ],
+  "validity": "-",
+  "latest": null,
+  "order": 85
+}

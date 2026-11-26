@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Build A SaaS App In Rails 8 (complete package)",
+  "url": "https://robrace.gumroad.com/l/basair8cp/bfcm24",
+  "categories": [
+    "books-courses"
+  ],
+  "description": "Learn to build a production-ready SaaS app in Rails 8",
+  "offer": "**bfcm24** - 60% off",
+  "couponCodes": [
+    "bfcm24"
+  ],
+  "validity": "-",
+  "latest": null,
+  "order": 88
+}

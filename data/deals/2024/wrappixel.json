@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "WrapPixel",
+  "url": "https://www.wrappixel.com/blackfriday/",
+  "categories": [
+    "ui-kits-templates-boilerplates"
+  ],
+  "description": "Best Angular, React, Vuejs, Next Js, Nuxt, Bootstrap Admin Dashboard Templates.",
+  "offer": "95% off",
+  "couponCodes": [],
+  "validity": "-",
+  "latest": null,
+  "order": 36
+}

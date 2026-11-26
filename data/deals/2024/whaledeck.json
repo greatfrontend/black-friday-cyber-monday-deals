@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "WhaleDeck",
+  "url": "https://apple.co/3NQJi4w",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "The only Docker manager you will ever need. Available for iOS, iPadOS, and macOS",
+  "offer": "20% off lifetime plan",
+  "couponCodes": [],
+  "validity": "Ends Dec 2",
+  "latest": null,
+  "order": 41
+}

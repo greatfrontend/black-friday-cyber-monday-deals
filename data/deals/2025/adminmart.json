@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "AdminMart",
+  "url": "https://adminmart.com/",
+  "categories": [
+    "ui-kits-starter-kits"
+  ],
+  "description": "Explore the Best Angular, Tailwind, React, Vue, Next, Nuxt, Bootstrap Admin Dashboard Templates.",
+  "offer": "**BFCM50** – Up to 50% off",
+  "couponCodes": [
+    "BFCM50"
+  ],
+  "validity": "-",
+  "latest": true,
+  "order": 39
+}

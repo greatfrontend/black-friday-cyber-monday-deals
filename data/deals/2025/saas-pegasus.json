@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "SaaS Pegasus",
+  "url": "https://www.saaspegasus.com/)",
+  "categories": [
+    "ui-kits-starter-kits"
+  ],
+  "description": "The most popular Django boilerplate for SaaS and AI apps. Trusted by over a thousand developers and businesses",
+  "offer": "50% off lifetime license",
+  "couponCodes": [],
+  "validity": "Ends Dec 3",
+  "latest": true,
+  "order": 37
+}

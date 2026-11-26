@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Gravity",
+  "url": "https://usegravity.app/",
+  "categories": [
+    "ui-kits-starter-kits"
+  ],
+  "description": "The SaaS boilerplate that handles the complex, boring code like payments and authentication, while you build fun features that generate revenue",
+  "offer": "60% off",
+  "couponCodes": [],
+  "validity": "Ends Nov 30",
+  "latest": true,
+  "order": 38
+}

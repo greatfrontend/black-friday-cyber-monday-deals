@@ -1,0 +1,9 @@
+enablePrePostScripts: true
+overrides:
+  vite: npm:@voidzero-dev/vite-plus-core@8.3.8001
+  vitest: 5.1.1
+allowBuilds:
+  esbuild: true
+  workerd: true
+minimumReleaseAgeExclude:
+  - lucide-react@1.80.0

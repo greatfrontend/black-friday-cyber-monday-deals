@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "ConsoleX AI",
+  "url": "https://consolex.ai",
+  "categories": [
+    "ai-powered-tools-for-developers"
+  ],
+  "description": "The ultimate AI studio for creators: all frontier models and creative tools in one place",
+  "offer": "**CXBLACK2025** - 50% off",
+  "couponCodes": [
+    "CXBLACK2025"
+  ],
+  "validity": "Ends Dec 3",
+  "latest": true,
+  "order": 81
+}

@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Webhookify",
+  "url": "https://webhookify.io/",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Streamline Webhook Integrations: Boost App Connectivity",
+  "offer": "**BLACKFRIDAY2025** -30% off",
+  "couponCodes": [
+    "BLACKFRIDAY2025"
+  ],
+  "validity": "Ends Dec 3",
+  "latest": true,
+  "order": 52
+}

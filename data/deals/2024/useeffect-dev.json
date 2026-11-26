@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "useEffect.dev",
+  "url": "https://useeffect.dev/",
+  "categories": [
+    "books-courses"
+  ],
+  "description": "Master the React Hook, and take your React experience to the next level",
+  "offer": "**FRIDAY23** - $20 off",
+  "couponCodes": [
+    "FRIDAY23"
+  ],
+  "validity": "-",
+  "latest": null,
+  "order": 67
+}

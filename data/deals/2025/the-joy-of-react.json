@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "The Joy of React",
+  "url": "https://www.joyofreact.com/?ref=greatfrontend",
+  "categories": [
+    "courses"
+  ],
+  "description": "The interactive learning experience that teaches you how to build rich, dynamic web apps with React",
+  "offer": "42% off",
+  "couponCodes": [],
+  "validity": "Ends Dec 3",
+  "latest": true,
+  "order": 11
+}

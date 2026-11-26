@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Pocket Alert",
+  "url": "https://pocketalert.app/",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Empowers you to send push notifications directly to your devices (iOS, Android). Seamlessly integrate via API or Webhooks and stay in control of your alerts like never before",
+  "offer": "**BLACKFRIDAY** - 40% off",
+  "couponCodes": [
+    "BLACKFRIDAY"
+  ],
+  "validity": "-",
+  "latest": null,
+  "order": 53
+}

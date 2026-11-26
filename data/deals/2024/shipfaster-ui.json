@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Shipfaster UI",
+  "url": "https://www.thedesignership.com/products/shipfaster-ui-figma-ui-kit-design-system",
+  "categories": [
+    "design-kits"
+  ],
+  "description": "Build world-class UI effortlessly with 8,000+ customizable components",
+  "offer": "**BF24** - 40% off",
+  "couponCodes": [
+    "BF24"
+  ],
+  "validity": "-",
+  "latest": null,
+  "order": 102
+}

@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "NextReady",
+  "url": "https://nextready.dev/",
+  "categories": [
+    "ui-kits-templates-boilerplates"
+  ],
+  "description": "A ready-to-use and type-safe components for Next.js, TypeScript, Prisma, LemonSqueezy, shadcn/ui, etc",
+  "offer": "**BF2024** - 63% off",
+  "couponCodes": [
+    "BF2024"
+  ],
+  "validity": "-",
+  "latest": null,
+  "order": 18
+}

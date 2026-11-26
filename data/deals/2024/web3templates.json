@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Web3Templates",
+  "url": "https://web3templates.com/",
+  "categories": [
+    "ui-kits-templates-boilerplates"
+  ],
+  "description": "Fast & SEO optimized website template built with Next.js, Astro, Tailwind CSS and Sanity CMS",
+  "offer": "**BLACKFRIDAY** - 30% off",
+  "couponCodes": [
+    "BLACKFRIDAY"
+  ],
+  "validity": "Ends Dec 5",
+  "latest": null,
+  "order": 31
+}

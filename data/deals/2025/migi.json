@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Migi",
+  "url": "https://migiapp.com/",
+  "categories": [
+    "ai-powered-tools-for-developers"
+  ],
+  "description": "Make your prompt templates just once and bring them up instantly with ⌥ Space. Just fill in the blanks, and in a second you'll have a custom prompt ready to go.",
+  "offer": "Save $10",
+  "couponCodes": [],
+  "validity": "Ends Dec 2",
+  "latest": true,
+  "order": 77
+}

@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Academind",
+  "url": "https://academind.com/",
+  "categories": [
+    "books-courses"
+  ],
+  "description": "Detailed and beginner-friendly courses on web development, JavaScript, React, and more",
+  "offer": "40% off",
+  "couponCodes": [],
+  "validity": "Ends Dec 3",
+  "latest": null,
+  "order": 76
+}

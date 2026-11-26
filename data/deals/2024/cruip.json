@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Cruip",
+  "url": "https://cruip.com/",
+  "categories": [
+    "ui-kits-templates-boilerplates"
+  ],
+  "description": "Beautifully designed Tailwind CSS templates for your next project.",
+  "offer": "Get all templates for $69 (55% off)",
+  "couponCodes": [],
+  "validity": "-",
+  "latest": null,
+  "order": 13
+}

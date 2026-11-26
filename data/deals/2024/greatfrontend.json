@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "GreatFrontEnd",
+  "url": "https://greatfrontend.com/",
+  "categories": [
+    "interview-preparation"
+  ],
+  "description": "Complete front end interview prep platform built by ex-FAANG engineers. 300+ practice questions across coding, UI, system design with detailed solutions. By the author of Blind 75",
+  "offer": "**BF30** - 30% off",
+  "couponCodes": [
+    "BF30"
+  ],
+  "validity": "Ends Dec 2",
+  "latest": null,
+  "order": 1
+}

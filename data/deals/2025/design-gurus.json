@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Design Gurus",
+  "url": "https://www.designgurus.io/?aff=kJSIoU",
+  "categories": [
+    "technical-interviews-preparation"
+  ],
+  "description": "One-stop portal For tech interviews. By the creators of Grokking the System Design Interview",
+  "offer": "60% off",
+  "couponCodes": [],
+  "validity": "-",
+  "latest": true,
+  "order": 4
+}

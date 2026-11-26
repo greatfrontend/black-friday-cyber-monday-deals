@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "codecourse",
+  "url": "https://codecourse.com/",
+  "categories": [
+    "books-courses"
+  ],
+  "description": "The most practical screencasts for developers",
+  "offer": "**BLACKFRIDAY2024** - 50% off",
+  "couponCodes": [
+    "BLACKFRIDAY2024"
+  ],
+  "validity": "Ends Dec 1",
+  "latest": null,
+  "order": 77
+}

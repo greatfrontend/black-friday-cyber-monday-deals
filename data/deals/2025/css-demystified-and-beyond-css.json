@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "CSS Demystified and Beyond CSS",
+  "url": "https://www.kevinpowell.co/courses/",
+  "categories": [
+    "courses"
+  ],
+  "description": "Courses on CSS by Kevin Powell, easy to follow and in-depth explanations",
+  "offer": "40% off",
+  "couponCodes": [],
+  "validity": "Ends Dec 1",
+  "latest": true,
+  "order": 26
+}

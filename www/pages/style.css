@@ -1,0 +1,275 @@
+@import 'tailwindcss';
+
+@font-face {
+  font-family: 'Geist Heading';
+  src: url('@fontsource-variable/geist/files/geist-latin-wght-normal.woff2') format('woff2');
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: optional;
+}
+
+@custom-variant dark (&:where([data-theme='dark'], [data-theme='dark'] *));
+
+/* Brand and semantic tokens. All component colors resolve through this layer. */
+:root {
+  color-scheme: dark;
+  scrollbar-width: thin;
+  scrollbar-color: var(--border-strong) var(--background);
+  --site-header-height: 4.5rem;
+  --background: #171717;
+  --surface: #212121;
+  --offer-surface: #2c2821;
+  --paper-highlight-opacity: 0.035;
+  --paper-shadow-opacity: 0.04;
+  --paper-ink: #c4ab79;
+  --paper-grain-opacity: 0.12;
+  --surface-highlight: #ffffff0d;
+  --coupon-shadow: #00000026;
+  --art-paper: #25221c;
+  --art-ink: #b39a69;
+  --foreground: #f5f5f5;
+  --muted: #2b2b2b;
+  --muted-foreground: #b5b5b5;
+  --border: #3d3d3d;
+  --border-strong: #787878;
+  --brand: #f3d18b;
+  --brand-foreground: #382a13;
+  --primary: #f0f0f0;
+  --primary-foreground: #1d1d1d;
+  --offer: #f3d18b;
+  --ring: #f3d18b;
+  --radius: 0.75rem;
+}
+
+:root[data-theme='light'] {
+  color-scheme: light;
+  --background: #fafafa;
+  --surface: #ffffff;
+  --offer-surface: #f6f2e9;
+  --paper-highlight-opacity: 0.45;
+  --paper-shadow-opacity: 0.035;
+  --paper-ink: #806a46;
+  --paper-grain-opacity: 0.16;
+  --surface-highlight: #ffffffcc;
+  --coupon-shadow: #30220b0f;
+  --art-paper: #f3eddf;
+  --art-ink: #8e7955;
+  --foreground: #191919;
+  --muted: #f1f1f1;
+  --muted-foreground: #626262;
+  --border: #dedede;
+  --border-strong: #858585;
+  --primary: #202020;
+  --primary-foreground: #ffffff;
+  --offer: #252525;
+  --ring: #80612f;
+}
+
+@media (width <= 600px) {
+  :root {
+    --site-header-height: 4rem;
+  }
+}
+
+@media (prefers-contrast: more) {
+  :root {
+    scrollbar-color: var(--foreground) var(--background);
+  }
+}
+
+@theme inline {
+  --font-sans: 'Geist Variable', 'Geist', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  --font-heading: 'Geist Heading', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  --font-mono: 'Geist Mono Variable', 'Geist Mono', ui-monospace, monospace;
+  --color-background: var(--background);
+  --color-surface: var(--surface);
+  --color-offer-surface: var(--offer-surface);
+  --color-foreground: var(--foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-border: var(--border);
+  --color-border-strong: var(--border-strong);
+  --color-brand: var(--brand);
+  --color-brand-foreground: var(--brand-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-offer: var(--offer);
+  --color-ring: var(--ring);
+  --radius-lg: var(--radius);
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 6rem;
+  }
+  body {
+    margin: 0;
+    background: var(--background);
+    color: var(--foreground);
+    font-family: var(--font-sans);
+    -webkit-font-smoothing: antialiased;
+  }
+  button,
+  input,
+  select,
+  textarea {
+    font: inherit;
+  }
+  button,
+  a,
+  input,
+  select {
+    -webkit-tap-highlight-color: transparent;
+  }
+  button:focus-visible,
+  a:focus-visible,
+  input:focus-visible,
+  select:focus-visible,
+  [tabindex]:focus-visible {
+    outline: 2px solid var(--ring);
+    outline-offset: 4px;
+  }
+  ::selection {
+    background: var(--brand);
+    color: var(--brand-foreground);
+  }
+  button:disabled {
+    cursor: default;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+}
+
+@media (forced-colors: active) {
+  :root,
+  :root[data-theme] {
+    --background: Canvas;
+    --surface: Canvas;
+    --foreground: CanvasText;
+    --muted: ButtonFace;
+    --muted-foreground: CanvasText;
+    --border: ButtonText;
+    --border-strong: ButtonText;
+    --brand: Highlight;
+    --brand-foreground: HighlightText;
+    --primary: ButtonFace;
+    --primary-foreground: ButtonText;
+    --offer-surface: Canvas;
+    --paper-highlight-opacity: 0;
+    --paper-shadow-opacity: 0;
+    --paper-ink: CanvasText;
+    --paper-grain-opacity: 0;
+    --surface-highlight: transparent;
+    --coupon-shadow: transparent;
+    --art-paper: Canvas;
+    --art-ink: CanvasText;
+    --ring: Highlight;
+  }
+}
+
+@keyframes skeleton {
+  from {
+    opacity: 0.45;
+  }
+  to {
+    opacity: 0.9;
+  }
+}
+
+@keyframes save-appear {
+  from {
+    transform: scale(0.82);
+  }
+  to {
+    transform: scale(1);
+  }
+}
+
+@keyframes headline-fade {
+  from {
+    opacity: 0.65;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes count-reveal {
+  from {
+    opacity: 0.5;
+    translate: 0 3px;
+  }
+  to {
+    opacity: 1;
+    translate: 0 0;
+  }
+}
+
+@keyframes ticket-settle {
+  0% {
+    translate: 0 8px;
+    opacity: 0;
+  }
+  30% {
+    translate: 0 -4px;
+    opacity: 1;
+  }
+  100% {
+    translate: 0 0;
+    opacity: 1;
+  }
+}
+
+@keyframes stamp-affix {
+  from {
+    opacity: 0;
+    scale: 1.08;
+  }
+  to {
+    opacity: 1;
+    scale: 1;
+  }
+}
+
+@keyframes coupon-glint {
+  to {
+    stroke-dashoffset: -100;
+    opacity: 0;
+  }
+}
+
+@keyframes art-float {
+  0%,
+  100% {
+    transform: translateY(0) rotate(0);
+  }
+  50% {
+    transform: translateY(-10px) rotate(3deg);
+  }
+}
+
+@keyframes seal-sway {
+  0%,
+  100% {
+    transform: rotate(-4deg);
+  }
+  50% {
+    transform: rotate(4deg);
+  }
+}
+
+@keyframes hero-offer-reveal {
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}

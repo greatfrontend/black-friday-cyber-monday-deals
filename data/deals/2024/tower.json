@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Tower",
+  "url": "https://www.git-tower.com/",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Powerful Git client for Mac and Windows",
+  "offer": "30% off",
+  "couponCodes": [],
+  "validity": "Ends Nov 29",
+  "latest": null,
+  "order": 38
+}

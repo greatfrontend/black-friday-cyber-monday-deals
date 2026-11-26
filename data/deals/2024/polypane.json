@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Polypane",
+  "url": "https://polypane.app/",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "A stand-alone browser with everything you need to build responsive, accessible and performant web sites and web apps",
+  "offer": "25% off",
+  "couponCodes": [],
+  "validity": "Ends Dec 2",
+  "latest": null,
+  "order": 42
+}

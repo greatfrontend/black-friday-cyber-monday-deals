@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "FormBold",
+  "url": "https://formbold.com/",
+  "categories": [
+    "ui-kits-templates-boilerplates"
+  ],
+  "description": "A complete web form solution that includes a form API, backend, and builder. Get website form submissions directly to your inbox, Slack, Sheet, Notion, Telegram and more",
+  "offer": "**BLFCM2024** - 40% off",
+  "couponCodes": [
+    "BLFCM2024"
+  ],
+  "validity": "Ends Dec 3",
+  "latest": null,
+  "order": 27
+}

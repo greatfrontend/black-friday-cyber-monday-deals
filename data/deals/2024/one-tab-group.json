@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "One Tab Group",
+  "url": "https://www.onetab.group/",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Your all-in-one browser tab/tab group manager",
+  "offer": "**BLACKFRIDAY40** - 40% off lifetime plan",
+  "couponCodes": [
+    "BLACKFRIDAY40"
+  ],
+  "validity": "-",
+  "latest": null,
+  "order": 92
+}

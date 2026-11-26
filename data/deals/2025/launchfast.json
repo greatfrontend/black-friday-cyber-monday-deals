@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "LaunchFast",
+  "url": "https://www.launchfa.st/",
+  "categories": [
+    "ui-kits-starter-kits"
+  ],
+  "description": "Production-ready SaaS Starter Kits in Astro, Svelte, and Next.js",
+  "offer": "**BLACKFRIDAY** - $50 off",
+  "couponCodes": [
+    "BLACKFRIDAY"
+  ],
+  "validity": "Ends Dec 1",
+  "latest": true,
+  "order": 44
+}

@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "ZexaNext",
+  "url": "https://next.zexa.app/",
+  "categories": [
+    "ui-kits-templates-boilerplates"
+  ],
+  "description": "The Simple, Speedy & Efficient, Next.js Boilerplate",
+  "offer": "70% off",
+  "couponCodes": [],
+  "validity": "-",
+  "latest": null,
+  "order": 35
+}

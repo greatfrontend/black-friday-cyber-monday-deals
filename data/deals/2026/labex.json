@@ -1,0 +1,18 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "LabEx",
+  "url": "https://labex.io/learn",
+  "categories": [
+    "courses",
+    "books-for-developers-and-software-engineers"
+  ],
+  "description": "Learn Linux, DevOps & Cybersecurity with Hands-on Labs",
+  "offer": "Black Friday 2026: **2026BF30** - 30% off or **2026BF50** - 50% off",
+  "couponCodes": [
+    "2026BF30",
+    "2026BF50"
+  ],
+  "validity": "-",
+  "latest": true,
+  "order": 15
+}

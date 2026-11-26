@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Three.js Journey",
+  "url": "https://threejs-journey.com/",
+  "categories": [
+    "books-courses"
+  ],
+  "description": "93 hours of video to go from absolute beginner to advanced Three.js developer",
+  "offer": "**BF2024** - 50% off",
+  "couponCodes": [
+    "BF2024"
+  ],
+  "validity": "Ends Nov 30",
+  "latest": null,
+  "order": 66
+}

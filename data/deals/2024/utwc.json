@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "UTWC",
+  "url": "https://technicalwriting.online/",
+  "categories": [
+    "books-courses"
+  ],
+  "description": "Learn how to transform writing into a powerful tool that drives awareness to your products, earns you money, and brings you new opportunities",
+  "offer": "**BF2024**",
+  "couponCodes": [
+    "BF2024"
+  ],
+  "validity": "Ends Nov 29",
+  "latest": null,
+  "order": 78
+}

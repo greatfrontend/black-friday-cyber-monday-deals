@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Design Course",
+  "url": "https://designcourse.com/",
+  "categories": [
+    "books-courses"
+  ],
+  "description": "Learn UI/UX or CSS",
+  "offer": "**BF50** - 50% off",
+  "couponCodes": [
+    "BF50"
+  ],
+  "validity": "-",
+  "latest": null,
+  "order": 72
+}

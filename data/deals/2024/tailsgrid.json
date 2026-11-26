@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "TailsGrid",
+  "url": "https://tailgrids.com/",
+  "categories": [
+    "ui-kits-templates-boilerplates"
+  ],
+  "description": "Tailwind CSS UI Components, Blocks and Templates",
+  "offer": "**BLFCM2024** - 40% off",
+  "couponCodes": [
+    "BLFCM2024"
+  ],
+  "validity": "Ends Nov 29",
+  "latest": null,
+  "order": 15
+}

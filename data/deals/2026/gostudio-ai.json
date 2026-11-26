@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "GoStudio.ai",
+  "url": "https://www.gostudio.ai/?ref=greatfrontend",
+  "categories": [
+    "ai-powered-tools-for-developers"
+  ],
+  "description": "Create custom, studio-quality AI headshots and branded portraits in minutes—perfect for founders, creators, and professionals who want high-credibility visuals without photoshoots",
+  "offer": "30% off",
+  "couponCodes": [],
+  "validity": "Ends Dec 1",
+  "latest": true,
+  "order": 34
+}

@@ -1,0 +1,17 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Beagle Security",
+  "url": "https://beaglesecurity.com/black-friday-sale",
+  "categories": [
+    "ai-powered-tools-for-developers"
+  ],
+  "description": "AI-powered automated pentesting platform that simulates real-world attacks to uncover vulnerabilities in web apps, APIs, and GraphQL",
+  "offer": "**BFCMY25** for 35% off annual, **BFCMM25** for 20% off monthly",
+  "couponCodes": [
+    "BFCMY25",
+    "BFCMM25"
+  ],
+  "validity": "Nov 25 – Dec 4",
+  "latest": true,
+  "order": 76
+}

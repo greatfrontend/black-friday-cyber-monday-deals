@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "SkyImage",
+  "url": "https://skymage.daudau.cc/",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Resize and crop images for developers. Optimize and transform your images with the best performance and quality on the sky",
+  "offer": "**BlACKFRIDAY** - 50% off",
+  "couponCodes": [
+    "BlACKFRIDAY"
+  ],
+  "validity": "-",
+  "latest": null,
+  "order": 62
+}

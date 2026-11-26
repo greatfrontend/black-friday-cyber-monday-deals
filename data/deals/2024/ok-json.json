@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "OK JSON",
+  "url": "https://okjson.app/",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "The ultimate JSON formatter for your Mac",
+  "offer": "**BF2024** - 50% off",
+  "couponCodes": [
+    "BF2024"
+  ],
+  "validity": "-",
+  "latest": null,
+  "order": 43
+}

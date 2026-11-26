@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "lineicons",
+  "url": "https://lineicons.com/",
+  "categories": [
+    "design-kits"
+  ],
+  "description": "5300+ line icons for designers and developers with Pro CDN, multiple variations, an icon editor, and more. Available in WebFont, SVG, React, Vue and Figma files",
+  "offer": "**BLFCM2026** - up to 80% off all products",
+  "couponCodes": [
+    "BLFCM2026"
+  ],
+  "validity": "Ends about Dec 2",
+  "latest": true,
+  "order": 35
+}

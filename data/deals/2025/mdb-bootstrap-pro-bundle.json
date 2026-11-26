@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "MDB Bootstrap Pro/Bundle",
+  "url": "https://mdbootstrap.com/",
+  "categories": [
+    "ui-kits-starter-kits"
+  ],
+  "description": "MDB - Material Design for Bootstrap v5",
+  "offer": "$10/$20 off",
+  "couponCodes": [],
+  "validity": "Ends Dec 1",
+  "latest": true,
+  "order": 48
+}

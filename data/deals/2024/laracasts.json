@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Laracasts",
+  "url": "https://technicalwriting.online/",
+  "categories": [
+    "books-courses"
+  ],
+  "description": "Master Laravel with comprehensive screencasts and practical learning paths",
+  "offer": "50% off",
+  "couponCodes": [],
+  "validity": "-",
+  "latest": null,
+  "order": 79
+}

@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "The Road to React",
+  "url": "https://www.roadtoreact.com/",
+  "categories": [
+    "books-courses"
+  ],
+  "description": "React.js Bestseller on Amazon, Your journey to master React in JavaScript, Do not miss to check out thew new course The Road to Next",
+  "offer": "**BLACKFRIDAY** - 30% off",
+  "couponCodes": [
+    "BLACKFRIDAY"
+  ],
+  "validity": "-",
+  "latest": null,
+  "order": 83
+}

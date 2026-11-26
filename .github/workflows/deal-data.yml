@@ -1,0 +1,28 @@
+name: Validate deals
+
+on:
+  pull_request:
+  push:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: www
+    steps:
+      - uses: actions/checkout@v4
+      - uses: pnpm/setup@v3
+        with:
+          working-directory: www
+          install: false
+          cache: true
+      - run: pnpm install --frozen-lockfile
+      - run: pnpm run format:check
+      - run: pnpm run data:check
+      - run: pnpm test
+      - run: pnpm run typecheck
+      - run: pnpm run build

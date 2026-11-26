@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "CSS for JavaScript Developers",
+  "url": "https://css-for-js.dev/",
+  "categories": [
+    "books-courses"
+  ],
+  "description": "The interactive learning experience designed to help JavaScript developers become confident with CSS",
+  "offer": "40% off",
+  "couponCodes": [],
+  "validity": "Ends Dec 4",
+  "latest": null,
+  "order": 65
+}

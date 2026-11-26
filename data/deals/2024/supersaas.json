@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "SuperSaaS",
+  "url": "https://supersaas.dev/",
+  "categories": [
+    "ui-kits-templates-boilerplates"
+  ],
+  "description": "The Simple, Fast & Smart Nuxt 3 Fullstack Kit",
+  "offer": "$99 only discount applied already",
+  "couponCodes": [],
+  "validity": "-",
+  "latest": null,
+  "order": 24
+}

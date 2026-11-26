@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Pingify",
+  "url": "https://pingify.com/",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Monitor website uptime, SSL certificates, DNS records, and more. Instant alerts for downtime and performance issues",
+  "offer": "50% off lifetime plan",
+  "couponCodes": [],
+  "validity": "-",
+  "latest": null,
+  "order": 54
+}

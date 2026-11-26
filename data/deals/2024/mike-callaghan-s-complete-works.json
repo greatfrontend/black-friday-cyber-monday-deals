@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Mike Callaghan's Complete Works",
+  "url": "https://walkingriver.gumroad.com/l/everything",
+  "categories": [
+    "books-courses"
+  ],
+  "description": "12 books, 4 courses, and **all future items** covering AI, web and mobile development, Angular, Ionic, and more",
+  "offer": "**75% off** from $204 to **$47.00**",
+  "couponCodes": [],
+  "validity": "-",
+  "latest": null,
+  "order": 90
+}

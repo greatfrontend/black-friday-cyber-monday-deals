@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "NextAdmin",
+  "url": "https://nextadmin.co/",
+  "categories": [
+    "ui-kits-templates-boilerplates"
+  ],
+  "description": "Next.js Admin Dashboard Templates and Components",
+  "offer": "**BLFCM2024** - Up to 40% off",
+  "couponCodes": [
+    "BLFCM2024"
+  ],
+  "validity": "-",
+  "latest": null,
+  "order": 28
+}

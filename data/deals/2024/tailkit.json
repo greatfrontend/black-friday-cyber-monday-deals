@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Tailkit",
+  "url": "https://tailkit.com/",
+  "categories": [
+    "ui-kits-templates-boilerplates"
+  ],
+  "description": "Carefully crafted, easy to customize, fully responsive Tailwind components, templates and tools for all your Tailwind CSS based projects",
+  "offer": "**BLACKFRIDAY2024** - Up to 50% off for a limited number of licenses",
+  "couponCodes": [
+    "BLACKFRIDAY2024"
+  ],
+  "validity": "Ends Dec 3",
+  "latest": null,
+  "order": 17
+}

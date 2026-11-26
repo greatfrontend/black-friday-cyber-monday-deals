@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "GreatFrontEnd Projects",
+  "url": "https://greatfrontend.com/projects?ref=bfcm&gnrs=bfcm",
+  "categories": [
+    "courses"
+  ],
+  "description": "A platform to build high quality project challenges with beautiful & modular designs, guided by ex-FAANG senior engineers and an active community",
+  "offer": "Extra 30% off all Projects plans with code **BF30**, on top of the existing plan and bundle discounts",
+  "couponCodes": [
+    "BF30"
+  ],
+  "validity": "Ends Nov 29",
+  "latest": true,
+  "order": 7
+}

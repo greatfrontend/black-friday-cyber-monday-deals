@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Proxyman",
+  "url": "https://proxyman.io/",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Best-in-class native macOS app to capture, decrypt, and mock your HTTP(s) requests/ responses with powerful debugging tools",
+  "offer": "**BLACKFRIDAY2025** - 30% off",
+  "couponCodes": [
+    "BLACKFRIDAY2025"
+  ],
+  "validity": "-",
+  "latest": true,
+  "order": 54
+}

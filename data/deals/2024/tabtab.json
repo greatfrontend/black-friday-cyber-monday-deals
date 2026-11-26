@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "TabTab",
+  "url": "https://tabtabapp.net/",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Supercharged windows & tabs manager for Mac",
+  "offer": "**TABTABLAUNCH** - 30% off",
+  "couponCodes": [
+    "TABTABLAUNCH"
+  ],
+  "validity": "-",
+  "latest": null,
+  "order": 93
+}

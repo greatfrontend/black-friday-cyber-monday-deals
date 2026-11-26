@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "daisyUI",
+  "url": "https://daisyui.com/store/",
+  "categories": [
+    "ui-kits-templates-boilerplates"
+  ],
+  "description": "Official templates made by daisyUI",
+  "offer": "**BLACKFRIDAY30** - 30% off lifetime plan",
+  "couponCodes": [
+    "BLACKFRIDAY30"
+  ],
+  "validity": "Ends Dec 2",
+  "latest": null,
+  "order": 16
+}

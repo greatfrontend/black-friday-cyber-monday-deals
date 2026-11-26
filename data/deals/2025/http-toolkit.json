@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "HTTP Toolkit",
+  "url": "https://httptoolkit.com/?ref=greatfrontend",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Open-source HTTP debugger & client, with instant one-click setup for browsers, Android, node.js & more",
+  "offer": "**BLACKFRIDAY25** - 50% off forever on annual subscriptions",
+  "couponCodes": [
+    "BLACKFRIDAY25"
+  ],
+  "validity": "Ends Dec 3",
+  "latest": true,
+  "order": 56
+}

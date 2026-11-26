@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "certificates.dev",
+  "url": "https://certificates.dev/?utm_source=greatfrontend&utm_medium=github&utm_campaign=cert_bf2025_bf",
+  "categories": [
+    "technical-interviews-preparation"
+  ],
+  "description": "Get ready for your interview with a certification! Get certified in React, Angular, JavaScript, Nuxt or Vue.js",
+  "offer": "Up to 60% OFF + bonuses",
+  "couponCodes": [],
+  "validity": "Ends 3 Dec",
+  "latest": true,
+  "order": 8
+}

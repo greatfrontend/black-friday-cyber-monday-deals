@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "TailAdmin",
+  "url": "https://tailadmin.com/",
+  "categories": [
+    "ui-kits-starter-kits"
+  ],
+  "description": "Open source Tailwind CSS Admin Dashboard Template",
+  "offer": "**BLFCM2025** - 30% off",
+  "couponCodes": [
+    "BLFCM2025"
+  ],
+  "validity": "Ends Dec 1",
+  "latest": true,
+  "order": 41
+}

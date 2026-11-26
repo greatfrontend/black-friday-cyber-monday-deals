@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "GoStudio.ai",
+  "url": "https://www.gostudio.ai/?ref=greatfrontend",
+  "categories": [
+    "ai-powered-tools-for-developers"
+  ],
+  "description": "Create custom, studio-quality AI headshots and branded portraits in minutes—perfect for founders, creators, and professionals who want high-credibility visuals without photoshoots",
+  "offer": "**GS30** – 30% off",
+  "couponCodes": [
+    "GS30"
+  ],
+  "validity": "Nov 20 – Jan 5, 2026",
+  "latest": true,
+  "order": 78
+}

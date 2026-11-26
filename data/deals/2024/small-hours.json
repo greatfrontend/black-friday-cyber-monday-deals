@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Small Hours",
+  "url": "https://www.smallhours.dev/",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "AI powered automated root cause analysis - minimize downtime, maximize efficiency",
+  "offer": "**BLACKFRIDAY24** - 50% off startup and enterprise plans",
+  "couponCodes": [
+    "BLACKFRIDAY24"
+  ],
+  "validity": "-",
+  "latest": null,
+  "order": 61
+}

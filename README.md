@@ -2,6 +2,8 @@
 
 Black Friday and Cyber Monday 2026 deals for software engineers, developers, and designers. Find discounts on technical interview preparation resources, UI kits, AI tools, books, and courses.
 
+Each product has its own JSON file in [data/deals/2026/](data/deals/2026/). To add or update a deal, follow the [contribution guide](CONTRIBUTING.md) or use the **Add or update a deal** issue form. The tables below are generated from JSON.
+
 > ⚠️ Feel free to send a pull request. **If you're advertising your product, star the repo first.**
 >
 > Products that we deem to be low quality may be removed or reordered at our discretion.
@@ -10,7 +12,7 @@ Black Friday and Cyber Monday 2026 deals for software engineers, developers, and
 
 We'd greatly appreciate if you could:
 
-- 👍 Contribute a deal you know with a pull request. Add them to the end of a category
+- 👍 [Contribute a deal](CONTRIBUTING.md) with a pull request or issue
 - ⭐ Star this repo and come back next year for the latest deals
 - ♻️ Share this repo with your friends so more people benefit and contribute
 - 📖 Bookmark this page to help the community discover the best deals
@@ -43,8 +45,8 @@ We'd greatly appreciate if you could:
 
 ## Technical interviews preparation
 
-| **Name** | **Description**| **Deal details** | **Validity** | **Latest** |
-| :- | :- | :- | :- | :- | 
+| **Name** | **Description** | **Deal details** | **Validity** | **Latest** |
+| :- | :- | :- | :- | :- |
 | [GreatFrontEnd Interviews](https://greatfrontend.com/?ref=bfcm&gnrs=bfcm) | Complete front end interview prep platform built by ex-FAANG engineers. 500+ practice questions across coding, UI, system design with detailed solutions. By the author of Blind 75 | 30% off all plans with code **BF30**, on top of the lifetime and bundle discounts already on the site (bundle: 51% off list price) | Ends Nov 29 | ✅ |
 | [Hello Interview](https://www.hellointerview.com?ref=greatfrontend) | System design practice and writeups by staff-level engineers from Meta and Amazon | Black Friday: 35% off a year of Premium ($77, was $119). 1 month $41 (was $59), lifetime $299 (was $399). No code | Ends about Nov 28 | ✅ |
 | [AlgoMonster](https://shareasale.com/r.cfm?b=1873647&u=3114753&m=114505&urllink=&afftrack=) | Structured way to prepare for coding interviews | 60% off premium | Ends about Nov 29 | ✅ |
@@ -54,7 +56,7 @@ We'd greatly appreciate if you could:
 
 ## Courses
 
-| **Name** | **Description**| **Deal details** | **Validity** | **Latest** |
+| **Name** | **Description** | **Deal details** | **Validity** | **Latest** |
 | :- | :- | :- | :- | :- |
 | [GreatFrontEnd Projects](https://greatfrontend.com/projects?ref=bfcm&gnrs=bfcm) | A platform to build high quality project challenges with beautiful & modular designs, guided by ex-FAANG senior engineers and an active community | Extra 30% off all Projects plans with code **BF30**, on top of the existing plan and bundle discounts | Ends Nov 29 | ✅ |
 | [Taro](https://www.jointaro.com/?ref=greatfrontend) | Expert courses to accelerate your software engineering career | **BLACKFRIDAY26** - 25% off | - | ✅ |
@@ -69,8 +71,8 @@ We'd greatly appreciate if you could:
 
 ## UI kits & Starter kits
 
-| **Name** | **Description**| **Deal details** | **Validity** | **Latest** |
-| :- | :- | :- | :- | :- | 
+| **Name** | **Description** | **Deal details** | **Validity** | **Latest** |
+| :- | :- | :- | :- | :- |
 | [Next.js Templates](https://nextjs-templates.com/) | Next.js Templates for Your Upcoming Projects | **BLFCM2026** - up to 80% off all products | Ends about Dec 2 | ✅ |
 | [TailGrids](https://tailgrids.com/) | Tailwind CSS UI Components, Blocks and Templates | **BLFCM2026** - up to 80% off all products | Ends about Dec 2 | ✅ |
 | [daisyUI](https://daisyui.com/store/) | Official templates made by daisyUI | **BF26TZXLP** - up to 45% off, the discount drops each day | - | ✅ |
@@ -81,8 +83,8 @@ We'd greatly appreciate if you could:
 
 ## Developer tools
 
-| **Name** | **Description**| **Deal details** | **Validity** | **Latest** |
-| :- | :- | :- | :- | :- | 
+| **Name** | **Description** | **Deal details** | **Validity** | **Latest** |
+| :- | :- | :- | :- | :- |
 | [GitKraken](https://www.gitkraken.com/pricing) | Devtools that simplify & supercharge Git | **BLACKFRIDAY2026** - 60% off the first year | - | ✅ |
 | [LocalCan](https://www.localcan.com/) | Develop apps with Public URLs and .local domains | **BF50** - 50% off the first year of Solo or Pro yearly | Ends Dec 1 | ✅ |
 | [Proxyman](https://proxyman.io/) | Best-in-class native macOS app to capture, decrypt, and mock your HTTP(s) requests/ responses with powerful debugging tools | **BF2026** - 30% off, this week only | - | ✅ |
@@ -92,14 +94,14 @@ We'd greatly appreciate if you could:
 
 ## Books for developers and software engineers
 
-| **Name** | **Description**| **Deal details** | **Validity** | **Latest** |
-| :- | :- | :- | :- | :- | 
+| **Name** | **Description** | **Deal details** | **Validity** | **Latest** |
+| :- | :- | :- | :- | :- |
 | [LabEx](https://labex.io/learn) | Learn Linux, DevOps & Cybersecurity with Hands-on Labs | Black Friday 2026: **2026BF30** - 30% off or **2026BF50** - 50% off | - | ✅ |
 
 ## AI-powered tools for developers
 
-| **Name** | **Description**| **Deal details** | **Validity** | **Latest** |
-| :- | :- | :- | :- | :- | 
+| **Name** | **Description** | **Deal details** | **Validity** | **Latest** |
+| :- | :- | :- | :- | :- |
 | [BoltAI](https://boltai.com) | Switch between top AI services and local models. All from a single native app on your Mac | **BFCM2026** - 64% off | Ends Dec 1 | ✅ |
 | [inReels.ai](https://www.inreels.ai) | Create stunning videos in seconds using AI. Turn text, PDFs, or images into videos. Repurpose content for YouTube, TikTok, Reels, and more | **BLACKFRIDAY2026** - 50% off yearly plans | Ends about Dec 1 | ✅ |
 | [SharpAPI](https://sharpapi.com/en/pricing) | AI workflow automation API for product descriptions, resume parsing, job match scoring, SEO tags, and more | **BF2026** - 40% off every plan, valid 12 months | Ends Nov 30 | ✅ |
@@ -107,15 +109,15 @@ We'd greatly appreciate if you could:
 
 ## Design kits
 
-| **Name** | **Description**| **Deal details** | **Validity** | **Latest** |
-| :- | :- | :- | :- | :- | 
+| **Name** | **Description** | **Deal details** | **Validity** | **Latest** |
+| :- | :- | :- | :- | :- |
 | [lineicons](https://lineicons.com/) | 5300+ line icons for designers and developers with Pro CDN, multiple variations, an icon editor, and more. Available in WebFont, SVG, React, Vue and Figma files | **BLFCM2026** - up to 80% off all products | Ends about Dec 2 | ✅ |
 
 ## Design courses
 
-| **Name** | **Description**| **Deal details** | **Validity** | **Latest** |
-| :- | :- | :- | :- | :- | 
-| [Design for Developers](https://www.enhanceui.com/?ref=greatfrontend) | Learn design as a developer to improve your UI, UX, to make apps and websites look great! | **BLACKFRIDAY24** | - |
+| **Name** | **Description** | **Deal details** | **Validity** | **Latest** |
+| :- | :- | :- | :- | :- |
+| [Design for Developers](https://www.enhanceui.com/?ref=greatfrontend) | Learn design as a developer to improve your UI, UX, to make apps and websites look great! | **BLACKFRIDAY24** | - |  |
 
 ---
 

@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "TailwindUI",
+  "url": "https://tailwindui.com/",
+  "categories": [
+    "ui-kits-templates-boilerplates"
+  ],
+  "description": "Includes access to all 500+ components and templates available in Tailwind UI today, plus all future updates",
+  "offer": "Over 30% off - TailwindUI & RefactoringUI",
+  "couponCodes": [],
+  "validity": "Ends Dec 2",
+  "latest": null,
+  "order": 11
+}

@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "BoltAI",
+  "url": "https://boltai.com",
+  "categories": [
+    "ai-powered-tools-for-developers"
+  ],
+  "description": "Switch between top AI services and local models. All from a single native app on your Mac",
+  "offer": "**BFCM2026** - 64% off",
+  "couponCodes": [
+    "BFCM2026"
+  ],
+  "validity": "Ends Dec 1",
+  "latest": true,
+  "order": 31
+}

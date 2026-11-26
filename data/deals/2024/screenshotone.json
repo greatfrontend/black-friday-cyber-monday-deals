@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "ScreenshotOne",
+  "url": "https://screenshotone.com/",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Screenshot API for developers",
+  "offer": "**BLACKFRIDAY2024** - 25% off",
+  "couponCodes": [
+    "BLACKFRIDAY2024"
+  ],
+  "validity": "-",
+  "latest": null,
+  "order": 59
+}

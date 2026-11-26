@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Rails 8 Everything Bundle",
+  "url": "https://robrace.gumroad.com/l/r8eb/bfcm24",
+  "categories": [
+    "books-courses"
+  ],
+  "description": "Build A SaaS App In Rails 8 + two other upcoming books in one package",
+  "offer": "**bfcm24** - 60% off",
+  "couponCodes": [
+    "bfcm24"
+  ],
+  "validity": "-",
+  "latest": null,
+  "order": 89
+}

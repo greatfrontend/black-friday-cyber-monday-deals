@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "AI Meeting Notes & Recorder",
+  "url": "https://apps.apple.com/app/ai-meeting-notes-recorder/id6746161214",
+  "categories": [
+    "ai-powered-tools-for-developers"
+  ],
+  "description": "Turn meetings, lectures, and voice memos into structured notes using AI. Record audio, transcribe speech to text, generate summaries, create mind maps, and turn notes into flashcards instantly",
+  "offer": "**BLACKFRIDAY2025** – 30% off yearly plan",
+  "couponCodes": [
+    "BLACKFRIDAY2025"
+  ],
+  "validity": "Ends Dec 25",
+  "latest": true,
+  "order": 79
+}

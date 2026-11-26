@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Hoverify",
+  "url": "https://tryhoverify.com/",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "All-in-one browser extension with tools to enhance your web development experience and take your productivity to the next level",
+  "offer": "30% off",
+  "couponCodes": [],
+  "validity": "-",
+  "latest": null,
+  "order": 49
+}

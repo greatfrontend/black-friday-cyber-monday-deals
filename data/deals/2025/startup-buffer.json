@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Startup Buffer",
+  "url": "https://startupbuffer.com/",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "A curated directory that helps founders discover startup resources, tools, and deals to launch and grow their businesses",
+  "offer": "**BF50** - 50% off",
+  "couponCodes": [
+    "BF50"
+  ],
+  "validity": "Ends Dec 7",
+  "latest": true,
+  "order": 65
+}

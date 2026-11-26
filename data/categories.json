@@ -1,0 +1,73 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Deal category",
+  "description": "Allowed category IDs and their display names. Product schemas and validation use this same list.",
+  "type": "string",
+  "oneOf": [
+    {
+      "const": "interview-preparation",
+      "title": "Interview prep",
+      "description": "Historical interview preparation category."
+    },
+    {
+      "const": "ui-kits-templates-boilerplates",
+      "title": "UI kits & templates",
+      "description": "Historical UI kits, templates, and boilerplates category."
+    },
+    {
+      "const": "developer-tools",
+      "title": "Developer tools",
+      "description": "Developer applications, utilities, and hosting."
+    },
+    {
+      "const": "books-courses",
+      "title": "Books & courses",
+      "description": "Historical combined books and courses category."
+    },
+    {
+      "const": "productivity-tools",
+      "title": "Productivity",
+      "description": "Historical productivity tools category."
+    },
+    {
+      "const": "ai-tools",
+      "title": "AI tools",
+      "description": "Historical AI tools category."
+    },
+    {
+      "const": "design-kits",
+      "title": "Design assets",
+      "description": "Icons, design assets, and design systems."
+    },
+    {
+      "const": "technical-interviews-preparation",
+      "title": "Interview prep",
+      "description": "Interview preparation, coding practice, and system design resources."
+    },
+    {
+      "const": "courses",
+      "title": "Courses",
+      "description": "Technical courses and learning platforms."
+    },
+    {
+      "const": "ui-kits-starter-kits",
+      "title": "UI kits & templates",
+      "description": "UI components, templates, starter kits, and boilerplates."
+    },
+    {
+      "const": "books-for-developers-and-software-engineers",
+      "title": "Books & resources",
+      "description": "Developer books and related resources."
+    },
+    {
+      "const": "ai-powered-tools-for-developers",
+      "title": "AI tools",
+      "description": "AI applications and developer APIs."
+    },
+    {
+      "const": "design-courses",
+      "title": "Design courses",
+      "description": "Design and UI/UX courses."
+    }
+  ]
+}

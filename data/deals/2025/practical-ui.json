@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Practical UI",
+  "url": "https://www.practical-ui.com/design-system/?ref=greatfrontend",
+  "categories": [
+    "design-kits"
+  ],
+  "description": "Lean and powerful Figma design system and UI kit",
+  "offer": "**BLACKFRIDAY24** - 40% off",
+  "couponCodes": [
+    "BLACKFRIDAY24"
+  ],
+  "validity": "Ends Dec 1",
+  "latest": true,
+  "order": 85
+}

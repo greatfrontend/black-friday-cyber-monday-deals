@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Checkbot",
+  "url": "https://www.checkbot.io/",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Checkbot finds SEO, speed & security problems before your website visitors do",
+  "offer": "**NOV24** - 50% off",
+  "couponCodes": [
+    "NOV24"
+  ],
+  "validity": "Ends Dec 2",
+  "latest": null,
+  "order": 60
+}

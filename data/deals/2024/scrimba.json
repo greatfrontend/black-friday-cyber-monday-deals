@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Scrimba",
+  "url": "https://scrimba.com/",
+  "categories": [
+    "books-courses"
+  ],
+  "description": "A place to level up your coding skills and build awesome projects",
+  "offer": "30% off yearly plan",
+  "couponCodes": [],
+  "validity": "Ends Dec 2",
+  "latest": null,
+  "order": 73
+}

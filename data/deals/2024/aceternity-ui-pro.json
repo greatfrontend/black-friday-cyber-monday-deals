@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Aceternity UI Pro",
+  "url": "https://pro.aceternity.com/",
+  "categories": [
+    "ui-kits-templates-boilerplates"
+  ],
+  "description": "Beautiful Tailwind CSS and Framer Motion Components, built with Next.js and TypeScript",
+  "offer": "**BLACKFRIDAY2024** - 30% off",
+  "couponCodes": [
+    "BLACKFRIDAY2024"
+  ],
+  "validity": "-",
+  "latest": null,
+  "order": 12
+}

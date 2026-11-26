@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "RunJS",
+  "url": "https://runjs.app/",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "The JavaScript playground for your desktop",
+  "offer": "**BLACKFRIDAY2026** - 30% off",
+  "couponCodes": [
+    "BLACKFRIDAY2026"
+  ],
+  "validity": "Ends about Dec 2",
+  "latest": true,
+  "order": 28
+}

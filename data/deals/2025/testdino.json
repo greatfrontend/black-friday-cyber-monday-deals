@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "TestDino",
+  "url": "https://testdino.com/",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Smart Playwright test reporting and analytics",
+  "offer": "**BFTD2025** - 30% off on yearly Team Plan",
+  "couponCodes": [
+    "BFTD2025"
+  ],
+  "validity": "-",
+  "latest": true,
+  "order": 58
+}

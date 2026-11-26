@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Taro",
+  "url": "https://www.jointaro.com/?ref=greatfrontend",
+  "categories": [
+    "courses"
+  ],
+  "description": "Expert courses to accelerate your software engineering career",
+  "offer": "**BLACKFRIDAY25** - 25% off",
+  "couponCodes": [
+    "BLACKFRIDAY25"
+  ],
+  "validity": "–",
+  "latest": true,
+  "order": 10
+}

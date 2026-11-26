@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "VerifyForge",
+  "url": "https://verifyforge.com/",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Email Validation API - Verify email addresses in real-time with high accuracy",
+  "offer": "**BF2025** - 30% OFF",
+  "couponCodes": [
+    "BF2025"
+  ],
+  "validity": "Nov 25 - Dec 1",
+  "latest": true,
+  "order": 64
+}

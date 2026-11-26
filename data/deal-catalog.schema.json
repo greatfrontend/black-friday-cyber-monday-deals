@@ -1,0 +1,91 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Annual catalog metadata",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "$schema",
+    "year",
+    "title",
+    "description",
+    "source",
+    "lastChecked",
+    "hasLatestColumn",
+    "categories"
+  ],
+  "properties": {
+    "$schema": {
+      "const": "../deal-catalog.schema.json"
+    },
+    "year": {
+      "type": "integer",
+      "minimum": 2000,
+      "maximum": 9999
+    },
+    "title": {
+      "$ref": "#/definitions/text"
+    },
+    "description": {
+      "$ref": "#/definitions/text"
+    },
+    "source": {
+      "type": "string",
+      "pattern": "^(README\\.md|archives/[0-9]{4}\\.md)$"
+    },
+    "lastChecked": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "calendar-date"
+    },
+    "hasLatestColumn": {
+      "type": "boolean"
+    },
+    "categories": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "id",
+          "name",
+          "heading"
+        ],
+        "properties": {
+          "id": {
+            "$ref": "#/definitions/id"
+          },
+          "name": {
+            "$ref": "#/definitions/text"
+          },
+          "heading": {
+            "$ref": "#/definitions/text"
+          }
+        }
+      }
+    },
+    "featuredDealIds": {
+      "description": "Ordered, maintainer-curated product IDs shown as hero previews. These are not a ranking.",
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 6,
+      "uniqueItems": true,
+      "items": {
+        "$ref": "#/definitions/id"
+      }
+    }
+  },
+  "definitions": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+    },
+    "text": {
+      "type": "string",
+      "minLength": 1,
+      "pattern": "^(?=.*\\S)[^\\r\\n]+$"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Paste Pal",
+  "url": "https://indiegoodies.com/pastepal",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "PastePal is the best universal clipboard manager for Mac, iPhone and iPad",
+  "offer": "**INDIEGOODIES24** - 50% off",
+  "couponCodes": [
+    "INDIEGOODIES24"
+  ],
+  "validity": "Ends Dec 8",
+  "latest": null,
+  "order": 94
+}

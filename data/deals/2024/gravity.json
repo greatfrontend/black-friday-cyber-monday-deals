@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Gravity",
+  "url": "https://usegravity.app/",
+  "categories": [
+    "ui-kits-templates-boilerplates"
+  ],
+  "description": "The SaaS boilerplate that handles the complex, boring code like payments and authentication, while you build fun features that generate revenue",
+  "offer": "**BLACKFRIDAY24** - 30% off",
+  "couponCodes": [
+    "BLACKFRIDAY24"
+  ],
+  "validity": "-",
+  "latest": null,
+  "order": 33
+}

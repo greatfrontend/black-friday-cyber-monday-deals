@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "NeetCode",
+  "url": "https://neetcode.io/pro",
+  "categories": [
+    "interview-preparation"
+  ],
+  "description": "A better way to prepare for coding interviews",
+  "offer": "25% off",
+  "couponCodes": [],
+  "validity": "-",
+  "latest": null,
+  "order": 2
+}

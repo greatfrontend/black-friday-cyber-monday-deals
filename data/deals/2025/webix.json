@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Webix",
+  "url": "https://webix.com/",
+  "categories": [
+    "ui-kits-starter-kits"
+  ],
+  "description": "JS UI library for developers that gives you rich, production-ready widgets and lets you build full-featured web apps faster.",
+  "offer": "15-25% off",
+  "couponCodes": [],
+  "validity": "Ends Dec 7",
+  "latest": true,
+  "order": 49
+}

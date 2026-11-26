@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "React The Road to Enterprise",
+  "url": "https://theroadtoenterprise.com/books/react-the-road-to-enterprise/typescript?discount_coupon=BLACKFRIDAY",
+  "categories": [
+    "books-courses"
+  ],
+  "description": "Take your skills to the next level and become a React pro by mastering advanced patterns, best practices, and cutting-edge techniques for the development of large-scale React applications",
+  "offer": "**BLACKFRIDAY** - 50% off",
+  "couponCodes": [
+    "BLACKFRIDAY"
+  ],
+  "validity": "Ends Dec 1",
+  "latest": null,
+  "order": 80
+}

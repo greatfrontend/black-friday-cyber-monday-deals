@@ -1,0 +1,59 @@
+{
+  "$schema": "../deal-catalog.schema.json",
+  "year": 2026,
+  "title": "Black Friday & Cyber Monday Deals 2026",
+  "description": "Black Friday and Cyber Monday 2026 deals for software engineers, developers, and designers. Find discounts on technical interview preparation resources, UI kits, AI tools, books, and courses.",
+  "source": "README.md",
+  "lastChecked": "2026-11-23",
+  "hasLatestColumn": true,
+  "categories": [
+    {
+      "id": "technical-interviews-preparation",
+      "name": "Technical interviews preparation",
+      "heading": "Technical interviews preparation"
+    },
+    {
+      "id": "courses",
+      "name": "Courses",
+      "heading": "Courses"
+    },
+    {
+      "id": "ui-kits-starter-kits",
+      "name": "UI kits & Starter kits",
+      "heading": "UI kits & Starter kits"
+    },
+    {
+      "id": "developer-tools",
+      "name": "Developer tools",
+      "heading": "Developer tools"
+    },
+    {
+      "id": "books-for-developers-and-software-engineers",
+      "name": "Books for developers and software engineers",
+      "heading": "Books for developers and software engineers"
+    },
+    {
+      "id": "ai-powered-tools-for-developers",
+      "name": "AI-powered tools for developers",
+      "heading": "AI-powered tools for developers"
+    },
+    {
+      "id": "design-kits",
+      "name": "Design kits",
+      "heading": "Design kits"
+    },
+    {
+      "id": "design-courses",
+      "name": "Design courses",
+      "heading": "Design courses"
+    }
+  ],
+  "featuredDealIds": [
+    "greatfrontend-interviews",
+    "hello-interview",
+    "the-joy-of-react",
+    "gitkraken",
+    "tailgrids",
+    "taro"
+  ]
+}

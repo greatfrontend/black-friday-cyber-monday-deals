@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "ByteByteGo",
+  "url": "https://bytebytego.com/?fpr=techinterviewhandbook",
+  "categories": [
+    "technical-interviews-preparation"
+  ],
+  "description": "Ace every stage of your next technical interview by Alex Xu, author of the bestseller \"System Design Interview\" books",
+  "offer": "50% off",
+  "couponCodes": [],
+  "validity": "-",
+  "latest": true,
+  "order": 5
+}

@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "WrapPixel",
+  "url": "https://www.wrappixel.com",
+  "categories": [
+    "ui-kits-starter-kits"
+  ],
+  "description": "Best Angular, React, Vuejs, Next Js, Nuxt, Bootstrap Admin Dashboard Templates.",
+  "offer": "**BFCM50** – up to 50% OFF on all templates",
+  "couponCodes": [
+    "BFCM50"
+  ],
+  "validity": "-",
+  "latest": true,
+  "order": 27
+}

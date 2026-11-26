@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Educative",
+  "url": "https://www.educative.io/?aff=x23W",
+  "categories": [
+    "technical-interviews-preparation"
+  ],
+  "description": "Offers interactive text-based courses on coding interviews, system design, and software engineering",
+  "offer": "60% off",
+  "couponCodes": [],
+  "validity": "-",
+  "latest": true,
+  "order": 5
+}

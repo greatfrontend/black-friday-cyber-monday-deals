@@ -1,0 +1,59 @@
+name: Add or update a deal
+description: Submit a deal without editing JSON or running the project.
+title: "[Deal] "
+body:
+  - type: dropdown
+    id: action
+    attributes:
+      label: What needs changing?
+      options:
+        - Add a deal
+        - Update a deal
+        - Report an expired or incorrect deal
+    validations:
+      required: true
+  - type: input
+    id: product
+    attributes:
+      label: Product name
+      description: For an update, include the existing deal ID if you know it.
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Product or offer URL
+      placeholder: https://example.com/black-friday
+    validations:
+      required: true
+  - type: input
+    id: year
+    attributes:
+      label: Deal year
+      placeholder: "2026"
+    validations:
+      required: true
+  - type: input
+    id: category
+    attributes:
+      label: Category
+      placeholder: Developer tools
+  - type: textarea
+    id: offer
+    attributes:
+      label: Description and offer details
+      description: Include the discount, eligible plans, coupon codes, restrictions, and what changed for an update.
+    validations:
+      required: true
+  - type: input
+    id: validity
+    attributes:
+      label: Start/end dates or validity
+      description: Include the timezone if stated. Say unknown if no deadline is published.
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Source and checking date
+      description: Link the seller's announcement or pricing page and say when you checked it.
+    validations:
+      required: true

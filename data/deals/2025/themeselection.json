@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "ThemeSelection",
+  "url": "https://themeselection.com",
+  "categories": [
+    "ui-kits-starter-kits"
+  ],
+  "description": "20+ Admin Templates & UI Kits along with SaaS starter kits",
+  "offer": "**CW30OFF** - 30% off",
+  "couponCodes": [
+    "CW30OFF"
+  ],
+  "validity": "Ends Dec 1",
+  "latest": true,
+  "order": 46
+}

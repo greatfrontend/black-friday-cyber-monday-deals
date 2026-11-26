@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Taro",
+  "url": "https://www.jointaro.com/",
+  "categories": [
+    "books-courses"
+  ],
+  "description": "Expert courses to navigate your tech career",
+  "offer": "**BLACKFRIDAY24** - 25% off",
+  "couponCodes": [
+    "BLACKFRIDAY24"
+  ],
+  "validity": "Ends Dec 4",
+  "latest": null,
+  "order": 63
+}

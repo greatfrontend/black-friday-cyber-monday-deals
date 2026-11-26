@@ -1,0 +1,15 @@
+{
+  "$schema": "./product.schema.json",
+  "name": "Example Tool",
+  "url": "https://example.com/pricing",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "A short description of the product.",
+  "offer": "30% off annual plans with code **SAVE30**",
+  "couponCodes": [
+    "SAVE30"
+  ],
+  "validity": "Ends Nov 30; timezone not stated",
+  "latest": null
+}

@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Reveal",
+  "url": "https://revealapp.com/",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Review, fix, and improve your app’s accessible and visual user experiences with powerful UI inspection and testing tools",
+  "offer": "**BLACKFRIDAY2024** - $30 off",
+  "couponCodes": [
+    "BLACKFRIDAY2024"
+  ],
+  "validity": "Ends Dec 2",
+  "latest": null,
+  "order": 50
+}

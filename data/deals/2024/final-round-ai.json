@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Final Round AI",
+  "url": "https://www.finalroundai.com/interview-copilot",
+  "categories": [
+    "interview-preparation"
+  ],
+  "description": "Level up your interview game with real-time AI-powered answers",
+  "offer": "45% off",
+  "couponCodes": [],
+  "validity": "Ends Dec 2",
+  "latest": null,
+  "order": 10
+}

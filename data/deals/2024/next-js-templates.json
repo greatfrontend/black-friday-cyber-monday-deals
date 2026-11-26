@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Next.js Templates",
+  "url": "https://nextjs-templates.com/",
+  "categories": [
+    "ui-kits-templates-boilerplates"
+  ],
+  "description": "Next.js Templates for Your Upcoming Projects",
+  "offer": "**BFCM2024** - 50% off",
+  "couponCodes": [
+    "BFCM2024"
+  ],
+  "validity": "-",
+  "latest": null,
+  "order": 14
+}

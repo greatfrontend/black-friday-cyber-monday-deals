@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Tailwind Plus",
+  "url": "https://tailwindcss.com/plus?ref=greatfrontend",
+  "categories": [
+    "ui-kits-starter-kits"
+  ],
+  "description": "Made by the Tailwind team, gives access to over 500 UI blocks, 12 website templates, and Catalyst UI kit",
+  "offer": "Over 33% off - Tailwind UI & Refactoring UI",
+  "couponCodes": [],
+  "validity": "Ends Dec 1",
+  "latest": true,
+  "order": 29
+}

@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "GitKraken",
+  "url": "https://www.gitkraken.com/",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Devtools that simplify & supercharge Git",
+  "offer": "Up to 85% off",
+  "couponCodes": [],
+  "validity": "-",
+  "latest": null,
+  "order": 37
+}

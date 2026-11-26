@@ -1,0 +1,46 @@
+{
+  "$schema": "../deal-catalog.schema.json",
+  "year": 2024,
+  "title": "Black Friday & Cyber Monday deals - 2024",
+  "description": "Black Friday and Cyber Monday deals tailored for developers! Find discounts across templates, design, devtools, and learning resources.",
+  "source": "archives/2024.md",
+  "lastChecked": null,
+  "hasLatestColumn": false,
+  "categories": [
+    {
+      "id": "interview-preparation",
+      "name": "Interview Preparation",
+      "heading": "🎓 Interview Preparation"
+    },
+    {
+      "id": "ui-kits-templates-boilerplates",
+      "name": "UI Kits, Templates & Boilerplates",
+      "heading": "💅 UI Kits, Templates & Boilerplates"
+    },
+    {
+      "id": "developer-tools",
+      "name": "Developer Tools",
+      "heading": "🛠️ Developer Tools"
+    },
+    {
+      "id": "books-courses",
+      "name": "Books & Courses",
+      "heading": "📚 Books & Courses"
+    },
+    {
+      "id": "productivity-tools",
+      "name": "Productivity Tools",
+      "heading": "⚙️ Productivity Tools"
+    },
+    {
+      "id": "ai-tools",
+      "name": "AI Tools",
+      "heading": "🤖 AI Tools"
+    },
+    {
+      "id": "design-kits",
+      "name": "Design Kits",
+      "heading": "🎨 Design Kits"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "FlyonUI",
+  "url": "https://flyonui.com",
+  "categories": [
+    "ui-kits-starter-kits"
+  ],
+  "description": "Fully customizable Tailwind Components, Blocks, Figma UI Kit, MCP, Templates",
+  "offer": "**BFCM30FY** - 30% off",
+  "couponCodes": [
+    "BFCM30FY"
+  ],
+  "validity": "Ends Dec 2",
+  "latest": true,
+  "order": 45
+}

@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "The Engineering Leader's Playbook: The First 90 Days",
+  "url": "https://kulkarniankita.gumroad.com/l/growthfor90days/BLACKFRIDAY50",
+  "categories": [
+    "books-courses"
+  ],
+  "description": "Learn how to lead a team & succeed as a leader using this playbook",
+  "offer": "**BLACKFRIDAY50** - 50% off",
+  "couponCodes": [
+    "BLACKFRIDAY50"
+  ],
+  "validity": "-",
+  "latest": null,
+  "order": 82
+}

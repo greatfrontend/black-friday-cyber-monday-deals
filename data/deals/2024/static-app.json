@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Static.app",
+  "url": "https://static.app/",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "One-click hosting solution for your static website",
+  "offer": "**BLACK24** - 30% off",
+  "couponCodes": [
+    "BLACK24"
+  ],
+  "validity": "-",
+  "latest": null,
+  "order": 56
+}

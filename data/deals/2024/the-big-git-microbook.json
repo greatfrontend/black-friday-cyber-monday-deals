@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "The Big Git Microbook",
+  "url": "https://jtemporal.com/gitmicrobook/",
+  "categories": [
+    "books-courses"
+  ],
+  "description": "A quick guide to commands you will use daily",
+  "offer": "**DEALSFORDEVS**",
+  "couponCodes": [
+    "DEALSFORDEVS"
+  ],
+  "validity": "-",
+  "latest": null,
+  "order": 81
+}

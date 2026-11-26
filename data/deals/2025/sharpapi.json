@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "SharpAPI",
+  "url": "https://sharpapi.com/en/pricing",
+  "categories": [
+    "ai-powered-tools-for-developers"
+  ],
+  "description": "AI workflow automation API for product descriptions, resume parsing, job match scoring, SEO tags, and more",
+  "offer": "**BF2025** – 50% off first year",
+  "couponCodes": [
+    "BF2025"
+  ],
+  "validity": "-",
+  "latest": true,
+  "order": 75
+}

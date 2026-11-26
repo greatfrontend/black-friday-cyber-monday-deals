@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "LocalCan",
+  "url": "https://www.localcan.com/",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Develop apps with Public URLs and .local domains",
+  "offer": "**BF25** - 25% off",
+  "couponCodes": [
+    "BF25"
+  ],
+  "validity": "-",
+  "latest": null,
+  "order": 46
+}

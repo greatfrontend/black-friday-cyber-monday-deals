@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Exponent",
+  "url": "https://www.tryexponent.com/?ref=techinterviewhandbook",
+  "categories": [
+    "technical-interviews-preparation"
+  ],
+  "description": "Tailored interview prep for PM, tech, and software engineering roles, including mock interview practice",
+  "offer": "30% off annual plan",
+  "couponCodes": [],
+  "validity": "-",
+  "latest": true,
+  "order": 7
+}

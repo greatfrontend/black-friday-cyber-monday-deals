@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "LeetCode",
+  "url": "https://leetcode.com/subscribe",
+  "categories": [
+    "interview-preparation"
+  ],
+  "description": "Platform to help you enhance your skills, expand your knowledge and prepare for technical interviews",
+  "offer": "**THANKS2024** - $30 off annual plan",
+  "couponCodes": [
+    "THANKS2024"
+  ],
+  "validity": "Ends Dec 2",
+  "latest": null,
+  "order": 3
+}

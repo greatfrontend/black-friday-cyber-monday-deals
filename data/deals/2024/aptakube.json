@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Aptakube",
+  "url": "https://aptakube.com/",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Kubernetes GUI: Multi-Cluster, Modern. Lightweight. Multi-Cluster. Works on Windows, macOS and Linux",
+  "offer": "**BLACKFRIDAY2024** - 30% off",
+  "couponCodes": [
+    "BLACKFRIDAY2024"
+  ],
+  "validity": "Ends Dec 2",
+  "latest": null,
+  "order": 58
+}

@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "LabEx",
+  "url": "https://labex.io/learn",
+  "categories": [
+    "books-for-developers-and-software-engineers"
+  ],
+  "description": "Learn Linux, DevOps & Cybersecurity with Hands-on Labs",
+  "offer": "[50% OFF for Two Years](https://labex.io/checkout?type=4&coupon=2025BF50) (Coupon: 2025BF50) and [30% OFF for One Year](https://labex.io/checkout?type=2&coupon=2025BF30) (Coupon: 2025BF30)",
+  "couponCodes": [],
+  "validity": "Ends Dec 1",
+  "latest": true,
+  "order": 68
+}

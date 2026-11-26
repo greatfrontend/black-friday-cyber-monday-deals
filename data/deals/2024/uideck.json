@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "UIDeck",
+  "url": "https://uideck.com/",
+  "categories": [
+    "ui-kits-templates-boilerplates"
+  ],
+  "description": "100+ High-quality templates, landing pages, and UI kits for startups and SaaS businesses",
+  "offer": "**BLFCM2024** - 50% off",
+  "couponCodes": [
+    "BLFCM2024"
+  ],
+  "validity": "Ends Nov 29",
+  "latest": null,
+  "order": 32
+}

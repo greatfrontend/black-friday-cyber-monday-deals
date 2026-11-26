@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Azimutt",
+  "url": "https://azimutt.app",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "The best database visualization for teams with large databases",
+  "offer": "**BF24** - 50% off",
+  "couponCodes": [
+    "BF24"
+  ],
+  "validity": "-",
+  "latest": null,
+  "order": 55
+}

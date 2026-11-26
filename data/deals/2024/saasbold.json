@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "SaaSBold",
+  "url": "https://saasbold.com/",
+  "categories": [
+    "ui-kits-templates-boilerplates"
+  ],
+  "description": "A full-stack, production-ready Next.js SaaS boilerplate and starter kit. Tailored for optimal developer experience, front and back-end functionality, integrations and more",
+  "offer": "**BLFCM2024** - Up to 60% off",
+  "couponCodes": [
+    "BLFCM2024"
+  ],
+  "validity": "-",
+  "latest": null,
+  "order": 25
+}

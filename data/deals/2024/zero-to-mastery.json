@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Zero To Mastery",
+  "url": "https://zerotomastery.io/courses/",
+  "categories": [
+    "books-courses"
+  ],
+  "description": "The most up-to-date tech courses online.",
+  "offer": "**BFCM24** - 58% off annual membership",
+  "couponCodes": [
+    "BFCM24"
+  ],
+  "validity": "Ends Dec 2",
+  "latest": null,
+  "order": 71
+}

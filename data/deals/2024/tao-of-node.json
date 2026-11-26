@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Tao of Node",
+  "url": "https://alexanderkondov.gumroad.com/l/tao-of-node",
+  "categories": [
+    "books-courses"
+  ],
+  "description": "Build better Node.js applications. A collection of best practices about building REST APIs",
+  "offer": "**BLACKFRIDAY** - 50% off",
+  "couponCodes": [
+    "BLACKFRIDAY"
+  ],
+  "validity": "-",
+  "latest": null,
+  "order": 87
+}

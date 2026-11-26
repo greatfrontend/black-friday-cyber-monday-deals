@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Tailscan",
+  "url": "https://tailscan.com/",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Build, design and debug your Tailwind website visually with Tailscan, right within the browser",
+  "offer": "45% off lifetime plan",
+  "couponCodes": [],
+  "validity": "Ends Dec 1",
+  "latest": true,
+  "order": 59
+}
