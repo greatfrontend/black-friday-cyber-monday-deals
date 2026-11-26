@@ -12,18 +12,10 @@ interface HeroProps {
   checkedDate: string;
   deals: Deal[];
   featuredDealIds?: string[];
-  categoryCount: number;
   onDetails: (deal: Deal) => void;
 }
 
-export function Hero({
-  year,
-  checkedDate,
-  deals,
-  featuredDealIds,
-  categoryCount,
-  onDetails,
-}: HeroProps) {
+export function Hero({ year, checkedDate, deals, featuredDealIds, onDetails }: HeroProps) {
   const [selectedIndex, setSelectedIndex] = useState(0);
   const [activeIndex, setActiveIndex] = useState<number | null>(null);
   const previews = getFeaturedDeals({ deals, featuredDealIds });
@@ -55,27 +47,20 @@ export function Hero({
               'motion-safe:animate-[headline-fade_260ms_ease-out]',
             )}
           >
-            Ctrl Friday
+            <span className="block">
+              Black Friday <span className="text-muted-foreground">&</span>
+            </span>
+            <span className="block">Cyber Monday deals.</span>
           </h1>
           <p
             className={cn(
-              'mx-auto mt-3 max-w-[440px] text-sm leading-5 text-muted-foreground min-[821px]:mx-0',
+              'mt-3 text-sm leading-5 text-muted-foreground',
               'motion-safe:animate-[hero-offer-reveal_400ms_300ms_ease-out_both]',
             )}
           >
-            Black Friday and Cyber Monday deals for developers and designers.
+            For developers and designers.
           </p>
-          <div
-            className={cn(
-              'mt-4 flex flex-wrap items-center justify-center gap-x-3 gap-y-1.5 text-xs text-muted-foreground',
-              'min-[821px]:justify-start',
-            )}
-          >
-            <span>
-              {deals.length} deals across {categoryCount} categories
-            </span>
-            <span>Updated {checkedDate}</span>
-          </div>
+          <p className="mt-4 text-xs text-muted-foreground">Updated {checkedDate}</p>
         </div>
         <div className="mx-auto w-full max-w-[420px] min-[821px]:mr-0">
           <div

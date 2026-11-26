@@ -123,7 +123,6 @@ export function Directory({ initialCatalog, index }: DirectoryProps) {
           checkedDate={formatCheckedDate(initialCatalog.lastChecked)}
           deals={initialCatalog.deals}
           featuredDealIds={initialCatalog.featuredDealIds}
-          categoryCount={initialCatalog.categories.length}
           onDetails={(deal) => setSelected({ deal, year: initialCatalog.year })}
         />
         <section

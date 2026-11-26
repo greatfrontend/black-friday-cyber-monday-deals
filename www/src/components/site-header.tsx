@@ -30,7 +30,7 @@ export function SiteHeader({ onContribute }: { onContribute: () => void }) {
       >
         <a
           href="/"
-          aria-label="Ctrl Friday home"
+          aria-label="Ctrl Friday home, by GreatFrontEnd"
           className="inline-flex items-center gap-[9px] whitespace-nowrap"
         >
           <img
@@ -41,8 +41,20 @@ export function SiteHeader({ onContribute }: { onContribute: () => void }) {
             height={32}
             className="size-8 shrink-0"
           />
-          <span className="text-base font-[650] tracking-[-0.035em] max-[600px]:text-sm">
-            Ctrl Friday
+          <span className="flex flex-col gap-1">
+            <span className="text-base leading-none font-[650] tracking-[-0.035em] max-[600px]:text-sm">
+              Ctrl Friday
+            </span>
+            <span className="flex items-center gap-1 text-[11px] leading-none text-muted-foreground">
+              by
+              <img
+                src="/greatfrontend-wordmark.svg"
+                alt="GreatFrontEnd"
+                width={86}
+                height={13}
+                className="shrink-0 opacity-80 dark:invert"
+              />
+            </span>
           </span>
         </a>
         <nav aria-label="Primary" className="flex items-center gap-1 max-[600px]:gap-0">
