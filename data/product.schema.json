@@ -26,6 +26,11 @@
       "type": "string",
       "format": "web-url"
     },
+    "faviconUrl": {
+      "description": "Optional favicon image URL for the website, useful for deals with affiliate redirects.",
+      "type": "string",
+      "format": "web-url"
+    },
     "categories": {
       "type": "array",
       "minItems": 1,

@@ -33,14 +33,28 @@
       "pattern": "^(README\\.md|archives/[0-9]{4}\\.md)$"
     },
     "lastChecked": {
-      "type": [
-        "string",
-        "null"
-      ],
-      "format": "calendar-date"
+      "description": "Date or timestamp when the catalog was last checked.",
+      "anyOf": [
+        { "type": "null" },
+        { "type": "string", "format": "calendar-date" },
+        { "type": "string", "format": "date-time" }
+      ]
     },
     "hasLatestColumn": {
       "type": "boolean"
+    },
+    "allDealsPlacements": {
+      "description": "Move each deal immediately after another in the default All deals view. Apply placements in the order listed.",
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["dealId", "afterDealId"],
+        "properties": {
+          "dealId": { "$ref": "#/definitions/id" },
+          "afterDealId": { "$ref": "#/definitions/id" }
+        }
+      }
     },
     "categories": {
       "type": "array",
@@ -62,6 +76,14 @@
           },
           "heading": {
             "$ref": "#/definitions/text"
+          },
+          "lastDealIds": {
+            "description": "Deals placed at the end of this category, in the order listed.",
+            "type": "array",
+            "uniqueItems": true,
+            "items": {
+              "$ref": "#/definitions/id"
+            }
           }
         }
       }

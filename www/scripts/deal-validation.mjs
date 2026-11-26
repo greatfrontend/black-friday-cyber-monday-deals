@@ -9,6 +9,14 @@ function isCalendarDate(value) {
   );
 }
 
+function isDateTime(value) {
+  const pattern =
+    /^\d{4}-\d{2}-\d{2}T(?:[01]\d|2[0-3]):[0-5]\d:[0-5]\d(?:\.\d+)?(?:Z|[+-]\d{2}:[0-5]\d)$/i;
+  return (
+    pattern.test(value) && isCalendarDate(value.slice(0, 10)) && Number.isFinite(Date.parse(value))
+  );
+}
+
 function isWebUrl(value) {
   try {
     const url = new URL(value);
@@ -30,23 +38,30 @@ async function createSchemaValidator() {
   const schema = JSON.parse(await readFile(schemaUrl, 'utf8'));
   const productSchemaUrl = new URL('../../data/product.schema.json', import.meta.url);
   const productSchema = JSON.parse(await readFile(productSchemaUrl, 'utf8'));
+  const sponsorshipSchemaUrl = new URL('../../data/sponsorship.schema.json', import.meta.url);
+  const sponsorshipSchema = JSON.parse(await readFile(sponsorshipSchemaUrl, 'utf8'));
   const categoriesUrl = new URL('../../data/categories.json', import.meta.url);
   const categories = JSON.parse(await readFile(categoriesUrl, 'utf8'));
   const ajv = new Ajv({ allErrors: true });
 
   ajv.addFormat('calendar-date', isCalendarDate);
+  ajv.addFormat('date-time', isDateTime);
   ajv.addFormat('web-url', isWebUrl);
   ajv.addSchema(categories, 'categories.json');
 
   return {
     catalog: ajv.compile(schema),
     product: ajv.compile(productSchema),
+    sponsorship: ajv.compile(sponsorshipSchema),
+    sponsorSlotCount: sponsorshipSchema.properties.slots.maxItems,
     categoryIds: categories.oneOf.map((category) => category.const),
     formatErrors: (errors) => ajv.errorsText(errors, { separator: '\n' }),
   };
 }
 
 const validators = await createSchemaValidator();
+
+export const sponsorSlotCount = validators.sponsorSlotCount;
 
 function validateCategoryIds(ids) {
   for (const id of ids) {
@@ -68,6 +83,14 @@ export function validateProduct(product) {
   }
 
   return product;
+}
+
+export function validateSponsorship(sponsorship) {
+  if (!validators.sponsorship(sponsorship)) {
+    throw new Error(validators.formatErrors(validators.sponsorship.errors));
+  }
+
+  return sponsorship;
 }
 
 export function validateCatalogMetadata(metadata) {
@@ -112,19 +135,60 @@ function validateCategoryReferences(catalog) {
       }
     }
   }
+
+  for (const { id, lastDealIds = [] } of catalog.categories) {
+    for (const dealId of lastDealIds) {
+      if (!catalog.deals.some((deal) => deal.id === dealId && deal.categories.includes(id))) {
+        throw new Error(`${catalog.year}: deal ${dealId} is not listed in category ${id}`);
+      }
+    }
+  }
 }
 
-function validateFeaturedDealReferences(catalog) {
+function validateCuratedDealReferences(catalog) {
   const productIds = new Set(catalog.deals.map((deal) => deal.id));
   for (const id of catalog.featuredDealIds ?? []) {
     if (!productIds.has(id)) {
       throw new Error(`${catalog.year}: featured deal ${id} does not exist in this catalog.`);
     }
   }
+
+  for (const { dealId, afterDealId } of catalog.allDealsPlacements ?? []) {
+    if (dealId === afterDealId || !productIds.has(dealId) || !productIds.has(afterDealId)) {
+      throw new Error(
+        `${catalog.year}: placing ${dealId} after ${afterDealId} requires two distinct deals in this catalog.`,
+      );
+    }
+  }
+}
+
+function validateSponsorReferences(catalog) {
+  const sponsors = (catalog.sponsorship?.slots ?? []).filter((slot) => 'dealId' in slot);
+  const productIds = new Set(catalog.deals.map((deal) => deal.id));
+
+  for (const { dealId, logo } of sponsors) {
+    if (!productIds.has(dealId)) {
+      throw new Error(`${catalog.year}: sponsor ${dealId} does not exist in this catalog.`);
+    }
+
+    if (logo.replace(/\.(svg|png)$/, '') !== dealId) {
+      throw new Error(`${catalog.year}: sponsor logo ${logo} must be named after ${dealId}.`);
+    }
+  }
+
+  assertUnique(
+    sponsors.map((sponsor) => sponsor.dealId),
+    'sponsor',
+  );
+
+  if (sponsors.filter((sponsor) => sponsor.house).length > 1) {
+    throw new Error(`${catalog.year}: only one house sponsor slot is allowed.`);
+  }
 }
 
 export function validateCatalog(catalog) {
-  const { deals, ...metadata } = catalog;
+  // Sponsorship files are schema-checked on read; here only their catalog references matter.
+  const { deals, sponsorship, ...metadata } = catalog;
   validateCatalogMetadata(metadata);
 
   if (!Array.isArray(deals)) {
@@ -143,7 +207,8 @@ export function validateCatalog(catalog) {
     'deal ID',
   );
   validateCategoryReferences(catalog);
-  validateFeaturedDealReferences(catalog);
+  validateCuratedDealReferences(catalog);
+  validateSponsorReferences(catalog);
 
   return catalog;
 }

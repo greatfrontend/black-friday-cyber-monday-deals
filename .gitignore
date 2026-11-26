@@ -141,4 +141,7 @@ node_modules
 # Generated from the canonical catalogs in data/
 /www/public/data/
 
+# Copied from assets/sponsors/ by the same export
+/www/public/sponsors/
+
 /www/src/data/

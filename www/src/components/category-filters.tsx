@@ -1,4 +1,4 @@
-import { useId } from 'react';
+import { useId, type ReactNode } from 'react';
 import { LayoutGroup, motion } from 'motion/react';
 import {
   Bot,
@@ -33,45 +33,41 @@ const icons = {
   'productivity-tools': Wrench,
 };
 
+const categoryButtonClassName = cn(
+  'relative isolate flex min-h-8 w-full cursor-pointer items-center gap-[9px] rounded-full',
+  'border border-transparent px-2.5 py-1 text-left text-sm text-foreground transition-colors',
+  'duration-150 hover:bg-muted max-[850px]:min-h-[46px] max-[850px]:py-2 max-[850px]:text-base',
+  'pointer-coarse:min-h-12 [&>svg]:shrink-0 [&>svg]:stroke-[1.5]',
+);
+
 interface CategoryFiltersProps {
   catalog: Catalog;
   index: CatalogIndex;
   filters: Filters;
   onChange: (changes: Partial<Filters>) => void;
+  children?: ReactNode;
 }
 
-export function CategoryFilters({ catalog, index, filters, onChange }: CategoryFiltersProps) {
+export function CategoryFilters({
+  catalog,
+  index,
+  filters,
+  onChange,
+  children,
+}: CategoryFiltersProps) {
   const selectionId = useId();
   return (
     <LayoutGroup id={selectionId}>
       <div>
-        <div className="mb-7">
-          <p className="text-sm font-semibold text-muted-foreground mb-2.5" id="collection-label">
-            Collection
-          </p>
-          <Select
-            label="Choose collection year"
-            value={String(filters.year)}
-            items={[...index.catalogs].reverse().map(({ year }) => ({
-              value: String(year),
-              label: year === index.currentYear ? `${year} deals` : `${year} archive`,
-            }))}
-            onValueChange={(value) => onChange({ year: Number(value), category: 'all' })}
-            className="w-full"
-          />
-        </div>
         <div>
           <p className="text-sm font-semibold text-muted-foreground mb-2.5">Categories</p>
-          <div className="space-y-1">
+          <div className="max-[850px]:space-y-1">
             <button
               type="button"
               aria-pressed={filters.category === 'all'}
               onClick={() => onChange({ category: 'all' })}
               className={cn(
-                'relative isolate flex min-h-11 w-full cursor-pointer items-center gap-[9px] rounded',
-                'border border-transparent px-2.5 py-2 text-left text-sm text-foreground transition-colors',
-                'duration-150 hover:bg-muted max-[850px]:min-h-[46px] max-[850px]:text-base',
-                'pointer-coarse:min-h-12 [&>svg]:shrink-0 [&>svg]:stroke-[1.5]',
+                categoryButtonClassName,
                 filters.category === 'all' &&
                   cn(
                     'bg-transparent font-semibold hover:bg-transparent forced-colors:text-[HighlightText]',
@@ -110,10 +106,7 @@ export function CategoryFilters({ catalog, index, filters, onChange }: CategoryF
                   aria-pressed={filters.category === category.id}
                   onClick={() => onChange({ category: category.id })}
                   className={cn(
-                    'relative isolate flex min-h-11 w-full cursor-pointer items-center gap-[9px] rounded',
-                    'border border-transparent px-2.5 py-2 text-left text-sm text-foreground transition-colors',
-                    'duration-150 hover:bg-muted max-[850px]:min-h-[46px] max-[850px]:text-base',
-                    'pointer-coarse:min-h-12 [&>svg]:shrink-0 [&>svg]:stroke-[1.5]',
+                    categoryButtonClassName,
                     filters.category === category.id &&
                       cn(
                         'bg-transparent font-semibold hover:bg-transparent forced-colors:text-[HighlightText]',
@@ -144,38 +137,22 @@ export function CategoryFilters({ catalog, index, filters, onChange }: CategoryF
             })}
           </div>
         </div>
-        <fieldset className="mt-7 border-t border-border pt-6">
-          <legend className="sr-only">Offer filters</legend>
-          <p className="text-sm font-semibold text-muted-foreground mb-2">Offer type</p>
-          <label
-            className={cn(
-              'flex min-h-[38px] cursor-pointer items-center gap-[9px] text-sm text-muted-foreground',
-              'max-[850px]:min-h-[46px] max-[850px]:text-base pointer-coarse:min-h-12 [&>input]:size-3.5',
-              '[&>input]:border [&>input]:border-border-strong [&>input]:accent-ring',
-            )}
-          >
-            <input
-              type="checkbox"
-              checked={filters.couponOnly}
-              onChange={(event) => onChange({ couponOnly: event.target.checked })}
-            />
-            <span>Has a coupon code</span>
-          </label>
-          <label
-            className={cn(
-              'flex min-h-[38px] cursor-pointer items-center gap-[9px] text-sm text-muted-foreground',
-              'max-[850px]:min-h-[46px] max-[850px]:text-base pointer-coarse:min-h-12 [&>input]:size-3.5',
-              '[&>input]:border [&>input]:border-border-strong [&>input]:accent-ring',
-            )}
-          >
-            <input
-              type="checkbox"
-              checked={filters.discountOnly}
-              onChange={(event) => onChange({ discountOnly: event.target.checked })}
-            />
-            <span>50% off or more</span>
-          </label>
-        </fieldset>
+        {children}
+        <div className="mt-5 border-t border-border pt-4 max-[850px]:mt-7 max-[850px]:pt-6">
+          <p className="text-sm font-semibold text-muted-foreground mb-2.5" id="collection-label">
+            Collection
+          </p>
+          <Select
+            label="Choose collection year"
+            value={String(filters.year)}
+            items={[...index.catalogs].reverse().map(({ year }) => ({
+              value: String(year),
+              label: year === index.currentYear ? `${year} deals` : `${year} archive`,
+            }))}
+            onValueChange={(value) => onChange({ year: Number(value), category: 'all' })}
+            className="w-full min-[851px]:pointer-fine:min-h-9"
+          />
+        </div>
       </div>
     </LayoutGroup>
   );

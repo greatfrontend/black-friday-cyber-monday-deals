@@ -1,6 +1,7 @@
 import { cn } from '../lib/utils';
 import { ArrowUpRight } from 'lucide-react';
 import { repositoryUrl } from '../lib/deals';
+import { sponsorPagePath } from '../lib/sponsors';
 
 export function SiteFooter({ year, onContribute }: { year: number; onContribute: () => void }) {
   return (
@@ -27,6 +28,15 @@ export function SiteFooter({ year, onContribute }: { year: number; onContribute:
         <nav aria-label="Footer" className="flex flex-wrap gap-6 text-[13px] max-[600px]:gap-5">
           <a
             className={cn(
+              'inline-flex min-h-9 pointer-coarse:min-h-11 cursor-pointer items-center text-foreground',
+              'hover:underline hover:underline-offset-4',
+            )}
+            href={sponsorPagePath}
+          >
+            Become a sponsor
+          </a>
+          <a
+            className={cn(
               'group inline-flex min-h-9 pointer-coarse:min-h-11 cursor-pointer items-center gap-1 text-foreground',
               'hover:underline hover:underline-offset-4',
             )}
@@ -45,7 +55,7 @@ export function SiteFooter({ year, onContribute }: { year: number; onContribute:
           </a>
           <button
             className={cn(
-              'group inline-flex min-h-9 pointer-coarse:min-h-11 cursor-pointer items-center gap-1 text-foreground',
+              'group inline-flex min-h-9 pointer-coarse:min-h-11 cursor-pointer items-center gap-1 rounded-full text-foreground',
               'hover:underline hover:underline-offset-4',
             )}
             type="button"

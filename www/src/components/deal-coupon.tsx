@@ -17,9 +17,9 @@ export function DealCoupon({ code, productName, copied, onCopy }: DealCouponProp
       data-copied={copied || undefined}
       className={cn(
         'group/coupon relative z-3 inline-flex min-h-8 max-w-full cursor-pointer items-stretch',
-        'rounded-md border border-dotted border-border-strong/50 bg-surface text-left',
-        'transition-[background-color,border-color] duration-150 hover:border-ring',
-        'data-copied:border-ring data-copied:bg-brand/15 pointer-coarse:min-h-11',
+        'rounded-full border border-dotted border-border-strong/50 bg-surface text-left',
+        'transition-[background-color,border-color] duration-150 hover:border-brand',
+        'focus-visible:outline-foreground data-copied:bg-muted pointer-coarse:min-h-11',
       )}
     >
       <span className="min-w-0 self-center px-2.5 py-1.5 font-mono text-[13px] font-medium wrap-anywhere">

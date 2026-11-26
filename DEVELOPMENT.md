@@ -38,6 +38,7 @@ The deal tooling in `www/scripts/` is organized by responsibility:
 - `deal-validation.mjs`: checks catalog schemas, uniqueness, and category references.
 - `deal-markdown.mjs`: renders tables and updates document content without writing files.
 - `deal-data.mjs`: loads product files, synchronizes Markdown, and exports website JSON.
+- `sponsor-data.mjs`: loads a year's sponsorship file, checks its logo files, and copies logos into `www/public/sponsors/`.
 
 Canonical deal data lives in `data/deals/<year>/<product-id>.json`, with one file per product per year. Catalog metadata lives in `data/catalogs/<year>.json`. The filename supplies the product ID; the directory supplies the year. The loader automatically discovers product files and combines them into annual catalogs for the website. The README and archive tables are generated using `pnpm run data:sync` from `www/`. Existing media remains in `assets/`.
 

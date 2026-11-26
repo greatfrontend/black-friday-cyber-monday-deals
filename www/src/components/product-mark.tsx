@@ -8,8 +8,16 @@ interface ImageStatus {
   state: 'loaded' | 'error';
 }
 
-export function ProductMark({ websiteUrl, className }: { websiteUrl: string; className?: string }) {
-  const source = getFaviconUrl(websiteUrl);
+export function ProductMark({
+  websiteUrl,
+  faviconUrl,
+  className,
+}: {
+  websiteUrl: string;
+  faviconUrl?: string;
+  className?: string;
+}) {
+  const source = faviconUrl ?? getFaviconUrl(websiteUrl);
   const imageRef = useRef<HTMLImageElement>(null);
   const [status, setStatus] = useState<ImageStatus | null>(null);
   const loaded = status?.source === source && status?.state === 'loaded';

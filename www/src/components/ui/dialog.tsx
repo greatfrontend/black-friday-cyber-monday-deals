@@ -8,6 +8,7 @@ import { Tooltip } from './tooltip';
 interface DialogProps {
   open: boolean;
   onOpenChange: (open: boolean) => void;
+  onOpenChangeComplete?: (open: boolean) => void;
   title: string;
   description?: string;
   icon?: ReactNode;
@@ -21,6 +22,7 @@ interface DialogProps {
 export function Dialog({
   open,
   onOpenChange,
+  onOpenChangeComplete,
   title,
   description,
   icon,
@@ -31,7 +33,11 @@ export function Dialog({
   variant = 'dialog',
 }: DialogProps) {
   return (
-    <DialogPrimitive.Root open={open} onOpenChange={onOpenChange}>
+    <DialogPrimitive.Root
+      open={open}
+      onOpenChange={onOpenChange}
+      onOpenChangeComplete={onOpenChangeComplete}
+    >
       <DialogPrimitive.Portal>
         <DialogPrimitive.Backdrop
           className={cn(
@@ -65,7 +71,7 @@ export function Dialog({
             <DialogPrimitive.Close
               aria-label="Close dialog"
               className={cn(
-                'absolute top-4 right-4 z-10 grid size-9 cursor-pointer pointer-coarse:size-11 place-items-center rounded-lg',
+                'absolute top-4 right-4 z-10 grid size-9 cursor-pointer pointer-coarse:size-11 place-items-center rounded-full',
                 'text-muted-foreground hover:bg-muted hover:text-foreground',
               )}
             >

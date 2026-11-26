@@ -15,6 +15,7 @@
 - Do not add databases, authentication, server routes, or runtime backend services without explicit direction.
 - Preserve the existing README, archives, deal URLs, and assets when migrating the data.
 - Deal data in `data/deals/<year>/<product-id>.json` is canonical, with one file per product per year. Allowed categories live in `data/categories.json`; catalog metadata lives in `data/catalogs/`. Edit product JSON and run `pnpm --dir www run data:sync`; do not edit Markdown tables or generated `www/public/data/` and `www/src/data/` exports directly. Read `CONTRIBUTING.md` for the field meanings and workflow.
+- Sponsor slots in `data/sponsors/<year>.json` are canonical, with logos in `assets/sponsors/<year>/`. The hero, pinned cards, `/sponsor` page, and README Sponsors block are generated from that file by the same `data:sync` and export steps. Read `SPONSORS.md` for the sponsor workflow.
 - Establish the design direction before implementing the deals UI. Prioritize useful information, accessible controls, and deliberate typography and spacing.
 - Keep script functions focused on one responsibility. Use descriptive names, keep validation and rendering separate from file operations, and make command workflows read as clear sequences of named steps.
 - Verify website changes from `www/` with `pnpm run typecheck` and `pnpm run build`. For deal data or tooling changes, also run `pnpm run data:check` and `pnpm test`.

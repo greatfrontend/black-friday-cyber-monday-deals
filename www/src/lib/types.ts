@@ -2,6 +2,7 @@ export interface Deal {
   id: string;
   name: string;
   url: string;
+  faviconUrl?: string;
   categories: string[];
   description: string;
   offer: string;
@@ -15,6 +16,26 @@ export interface Category {
   id: string;
   name: string;
   heading: string;
+  lastDealIds?: string[];
+}
+
+export type SponsorSlot =
+  | { dealId: string; logo: string; displayName?: string; house?: true }
+  | { reserved: true };
+
+export interface DealPlacement {
+  dealId: string;
+  afterDealId: string;
+}
+
+export interface Sponsorship {
+  status: 'active' | 'ended';
+  priceUsd: number;
+  endsOn: string;
+  checkoutUrl: string | null;
+  contactEmail: string | null;
+  slotCount: number;
+  slots: SponsorSlot[];
 }
 
 export interface Catalog {
@@ -23,6 +44,8 @@ export interface Catalog {
   description: string;
   lastChecked: string | null;
   featuredDealIds?: string[];
+  allDealsPlacements?: DealPlacement[];
+  sponsorship?: Sponsorship;
   categories: Category[];
   deals: Deal[];
 }
@@ -44,8 +67,6 @@ export interface Filters {
   year: number;
   sort: 'curated' | 'discount' | 'name';
   savedOnly: boolean;
-  couponOnly: boolean;
-  discountOnly: boolean;
 }
 
 export interface CopiedCoupon {

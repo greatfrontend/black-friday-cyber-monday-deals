@@ -1,11 +1,18 @@
 import { categoryLabels } from '../lib/categories';
 import { useEffect, useRef, useState } from 'react';
 import { Check, Clock3, X } from 'lucide-react';
-import type { Catalog, CatalogIndex, CopiedCoupon, Deal } from '../lib/types';
+import type { Catalog, CatalogIndex, CopiedCoupon, Deal, Filters } from '../lib/types';
 import { getCopiedCouponCode } from '../lib/coupon-copy';
-import { filterDeals, formatCheckedDate, getDealKey } from '../lib/deals';
+import { filterDeals, getDealKey } from '../lib/deals';
+import {
+  getActiveSponsorship,
+  getSlotAvailability,
+  getSponsoredDealIds,
+  sponsorPagePath,
+} from '../lib/sponsors';
 import { useCatalog, useDirectoryFilters, useSavedDeals } from '../hooks/use-directory';
 import { cn } from '../lib/utils';
+import { ArrowButton, ArrowLink } from './ui/arrow-button';
 import { Button } from './ui/button';
 import { Dialog } from './ui/dialog';
 import { ScrollArea } from './ui/scroll-area';
@@ -17,10 +24,23 @@ import { SiteHeader } from './site-header';
 import { SiteFooter } from './site-footer';
 import { DirectoryControls } from './directory-controls';
 import { DealResults } from './deal-results';
+import { SponsorSlots } from './sponsor-slots';
 
 interface DirectoryProps {
   initialCatalog: Catalog;
   index: CatalogIndex;
+}
+
+function revealDealsHeading() {
+  requestAnimationFrame(() => {
+    const heading = document.getElementById('deals-heading');
+    const scrollPadding = Number.parseFloat(
+      getComputedStyle(document.documentElement).scrollPaddingTop,
+    );
+    if (heading && heading.getBoundingClientRect().top < scrollPadding) {
+      heading.scrollIntoView({ block: 'start' });
+    }
+  });
 }
 
 export function Directory({ initialCatalog, index }: DirectoryProps) {
@@ -35,13 +55,42 @@ export function Directory({ initialCatalog, index }: DirectoryProps) {
   const [notice, setNotice] = useState('');
   const [announcement, setAnnouncement] = useState('');
   const searchRef = useRef<HTMLInputElement>(null);
+  const sponsorStripRef = useRef<HTMLElement>(null);
+  const revealDealsAfterDrawer = useRef(false);
   const timerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+  const sponsorship = getActiveSponsorship(initialCatalog);
   const displayedCatalog = catalog ?? initialCatalog;
   const deals = catalog ? filterDeals(catalog, filters, saved) : [];
   const savedCount = saved.filter((key) => key.startsWith(`${filters.year}/`)).length;
-  const filterCount =
-    Number(filters.category !== 'all') + Number(filters.couponOnly) + Number(filters.discountOnly);
-  const hasActiveFilters = Boolean(filterCount || filters.query || filters.savedOnly);
+  const hasActiveFilters =
+    filters.category !== 'all' || Boolean(filters.query) || filters.savedOnly;
+  // A deal opens from the hero (current year) or from the results (the browsed year).
+  const selectedCatalog = selected?.year === initialCatalog.year ? initialCatalog : catalog;
+  const selectedIsSponsored = Boolean(
+    selected && selectedCatalog && getSponsoredDealIds(selectedCatalog).includes(selected.deal.id),
+  );
+
+  useEffect(() => {
+    const strip = sponsorStripRef.current;
+    if (!strip) return;
+
+    // Keep the desktop filters and scroll targets below the pinned sponsor strip.
+    const documentStyle = document.documentElement.style;
+    const updateHeight = () => {
+      documentStyle.setProperty(
+        '--sponsor-strip-height',
+        `${strip.getBoundingClientRect().height}px`,
+      );
+    };
+    const observer = new ResizeObserver(updateHeight);
+    updateHeight();
+    observer.observe(strip);
+
+    return () => {
+      observer.disconnect();
+      documentStyle.removeProperty('--sponsor-strip-height');
+    };
+  }, [sponsorship]);
 
   useEffect(() => {
     const timer = setTimeout(
@@ -101,30 +150,52 @@ export function Directory({ initialCatalog, index }: DirectoryProps) {
     showNotice(`${deal.name} ${wasSaved ? 'removed from' : 'added to'} saved deals.`);
   }
 
+  function openCurrentDeal(deal: Deal) {
+    setSelected({ deal, year: initialCatalog.year });
+  }
+
+  function changeFilters(changes: Partial<Filters>) {
+    updateFilters(changes);
+    if (mobileFilters) {
+      revealDealsAfterDrawer.current = true;
+    } else {
+      revealDealsHeading();
+    }
+  }
+
+  function resetFilters() {
+    clearFilters();
+    revealDealsHeading();
+  }
+
   const filterProps = {
     catalog: displayedCatalog,
     index,
     filters,
-    onChange: updateFilters,
+    onChange: changeFilters,
   };
 
   return (
     <>
       <a
-        className="fixed -top-20 left-5 z-100 rounded-md bg-brand px-[18px] py-3 text-brand-foreground focus:top-3"
+        className="fixed -top-20 left-5 z-100 rounded-full bg-brand px-[18px] py-3 text-brand-foreground focus:top-3"
         href="#deals-heading"
       >
         Skip to deals
       </a>
       <SiteHeader onContribute={() => setContributing(true)} />
       <main>
-        <Hero
-          year={index.currentYear}
-          checkedDate={formatCheckedDate(initialCatalog.lastChecked)}
-          deals={initialCatalog.deals}
-          featuredDealIds={initialCatalog.featuredDealIds}
-          onDetails={(deal) => setSelected({ deal, year: initialCatalog.year })}
-        />
+        <Hero year={index.currentYear} catalog={initialCatalog} onDetails={openCurrentDeal} />
+        {sponsorship && (
+          <SponsorSlots
+            catalog={initialCatalog}
+            sponsorship={sponsorship}
+            sponsorHref={sponsorPagePath}
+            onDetails={openCurrentDeal}
+            layout="grid"
+            stickyRowRef={sponsorStripRef}
+          />
+        )}
         <section
           id="deals"
           className={cn(
@@ -137,21 +208,41 @@ export function Directory({ initialCatalog, index }: DirectoryProps) {
           <aside
             aria-label="Filter deals"
             className={cn(
-              'sticky top-[calc(var(--site-header-height)+1.5rem)] self-start max-[850px]:hidden',
+              'sticky self-start max-[850px]:hidden',
+              'top-[calc(var(--sponsor-strip-height,0px)+1.5rem)]',
             )}
           >
             <ScrollArea
-              className="-m-1.5 max-h-[calc(100dvh-var(--site-header-height)-3rem)]"
+              className="-m-1.5 max-h-[calc(100dvh-var(--sponsor-strip-height,0px)-3rem)]"
               contentClassName="p-1.5 pr-4"
               viewportProps={{ role: 'region', 'aria-label': 'Deal filters' }}
             >
-              <CategoryFilters {...filterProps} />
+              <CategoryFilters {...filterProps}>
+                <hr className="my-5 border-border" />
+                <ArrowButton
+                  variant="primary"
+                  className="w-full justify-between"
+                  aria-haspopup="dialog"
+                  onClick={() => setContributing(true)}
+                >
+                  Submit a deal
+                </ArrowButton>
+                {sponsorship && getSlotAvailability(sponsorship).open > 0 && (
+                  <ArrowLink
+                    href={sponsorPagePath}
+                    direction="right"
+                    className="mt-2 w-full justify-between"
+                  >
+                    Become a sponsor
+                  </ArrowLink>
+                )}
+              </CategoryFilters>
             </ScrollArea>
           </aside>
           <div className="flex min-w-0 flex-col gap-3">
             <DirectoryControls
               filters={filters}
-              onChange={updateFilters}
+              onChange={changeFilters}
               searchRef={searchRef}
               dealCount={catalog?.deals.length}
               savedCount={savedCount}
@@ -172,11 +263,16 @@ export function Directory({ initialCatalog, index }: DirectoryProps) {
                       {deals.length}
                     </span>{' '}
                     {deals.length === 1 ? 'deal' : 'deals'}
-                    <span className="max-[600px]:sr-only">
-                      {filters.category !== 'all'
-                        ? ` in ${categoryLabels[filters.category] ?? filters.category}`
-                        : ' available'}
-                    </span>
+                    {filters.category === 'all' ? (
+                      <span className="max-[600px]:sr-only"> available</span>
+                    ) : (
+                      <>
+                        {' in '}
+                        <span className="font-medium text-foreground">
+                          {categoryLabels[filters.category] ?? filters.category}
+                        </span>
+                      </>
+                    )}
                   </>
                 ) : (
                   'Loading collection…'
@@ -185,12 +281,12 @@ export function Directory({ initialCatalog, index }: DirectoryProps) {
               <button
                 type="button"
                 className={cn(
-                  'flex min-h-8 shrink-0 cursor-pointer items-center gap-1 whitespace-nowrap',
-                  'text-sm text-muted-foreground hover:text-foreground',
+                  'flex min-h-8 shrink-0 cursor-pointer items-center gap-1 rounded-full px-2.5 whitespace-nowrap',
+                  'text-sm text-muted-foreground hover:bg-muted hover:text-foreground',
                   !hasActiveFilters && 'invisible',
                 )}
                 disabled={!hasActiveFilters}
-                onClick={clearFilters}
+                onClick={resetFilters}
               >
                 <X className="size-3" aria-hidden="true" />
                 Clear filters
@@ -219,7 +315,7 @@ export function Directory({ initialCatalog, index }: DirectoryProps) {
               copiedCoupon={copiedCoupon}
               savedOnly={filters.savedOnly}
               onRetry={retry}
-              onClear={clearFilters}
+              onClear={resetFilters}
               onSave={saveDeal}
               onCopy={(deal, code) => void copyText(code, { year: filters.year, dealId: deal.id })}
               onDetails={(deal) => setSelected({ deal, year: filters.year })}
@@ -231,6 +327,7 @@ export function Directory({ initialCatalog, index }: DirectoryProps) {
       <DealDetail
         deal={selected?.deal ?? null}
         year={selected?.year ?? filters.year}
+        sponsored={selectedIsSponsored}
         onClose={() => setSelected(null)}
         onCopy={(code) => {
           if (selected) void copyText(code, { year: selected.year, dealId: selected.deal.id });
@@ -245,9 +342,15 @@ export function Directory({ initialCatalog, index }: DirectoryProps) {
       <Dialog
         open={mobileFilters}
         onOpenChange={setMobileFilters}
+        onOpenChangeComplete={(open) => {
+          if (!open && revealDealsAfterDrawer.current) {
+            revealDealsAfterDrawer.current = false;
+            revealDealsHeading();
+          }
+        }}
         variant="drawer"
         title="Filter deals"
-        description="Choose a year, category, or offer type."
+        description="Choose a category and collection year."
         footer={
           <Button className="min-h-11 w-full" onClick={() => setMobileFilters(false)}>
             Show {deals.length} deals

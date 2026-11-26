@@ -1,4 +1,6 @@
 import { categoryLabels } from './categories.ts';
+import { moveDealAfter, moveDealsToEnd } from './deal-order.ts';
+import { getSponsoredDealIds } from './sponsors.ts';
 import type { Catalog, Deal, Filters } from './types';
 
 export const repositoryUrl = 'https://github.com/greatfrontend/black-friday-cyber-monday-deals';
@@ -27,8 +29,6 @@ export function filterDeals(catalog: Catalog, filters: Filters, saved: string[])
   const matching = catalog.deals.filter((deal) => {
     if (filters.category !== 'all' && !deal.categories.includes(filters.category)) return false;
     if (filters.savedOnly && !saved.includes(getDealKey(catalog.year, deal.id))) return false;
-    if (filters.couponOnly && deal.couponCodes.length === 0) return false;
-    if (filters.discountOnly && (getDiscount(deal.offer) ?? 0) < 50) return false;
 
     const searchText = plainText(
       [
@@ -46,17 +46,43 @@ export function filterDeals(catalog: Catalog, filters: Filters, saved: string[])
   if (filters.sort === 'name') matching.sort((a, b) => a.name.localeCompare(b.name));
   if (filters.sort === 'discount')
     matching.sort((a, b) => (getDiscount(b.offer) ?? -1) - (getDiscount(a.offer) ?? -1));
+  if (filters.sort === 'curated') {
+    const category = catalog.categories.find(({ id }) => id === filters.category);
+    const ordered =
+      filters.category === 'all'
+        ? (catalog.allDealsPlacements ?? []).reduce(moveDealAfter, matching)
+        : moveDealsToEnd(matching, category?.lastDealIds);
+    return pinSponsoredDeals(ordered, catalog);
+  }
   return matching;
+}
+
+// Sponsors lead the curated order only; an explicit name or discount sort is left alone.
+function pinSponsoredDeals(deals: Deal[], catalog: Pick<Catalog, 'sponsorship'>) {
+  const sponsoredIds = getSponsoredDealIds(catalog);
+  if (sponsoredIds.length === 0) return deals;
+
+  const sponsored = sponsoredIds.flatMap((id) => deals.find((deal) => deal.id === id) ?? []);
+  const organic = deals.filter((deal) => !sponsoredIds.includes(deal.id));
+
+  return [...sponsored, ...organic];
 }
 
 export function formatCheckedDate(value: string | null) {
   if (!value) return 'Checking date not recorded';
-  return new Intl.DateTimeFormat('en-GB', {
+  const hasTime = value.length > 10;
+  return new Intl.DateTimeFormat(hasTime ? 'en-SG' : 'en-GB', {
     day: 'numeric',
     month: 'short',
     year: 'numeric',
-    timeZone: 'UTC',
-  }).format(new Date(`${value}T00:00:00Z`));
+    timeZone: 'Asia/Singapore',
+    ...(hasTime && {
+      hour: '2-digit',
+      minute: '2-digit',
+      hourCycle: 'h23',
+      timeZoneName: 'short',
+    }),
+  }).format(new Date(value));
 }
 
 export function buildSuggestionUrl(deal: Deal | undefined, year: number) {

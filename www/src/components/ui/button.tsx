@@ -4,7 +4,7 @@ import { cn } from '../../lib/utils';
 
 export const buttonVariants = cva(
   cn(
-    'inline-flex shrink-0 cursor-pointer items-center justify-center gap-2 rounded-md text-sm',
+    'inline-flex shrink-0 cursor-pointer items-center justify-center gap-2 rounded-full text-sm',
     'font-medium transition-[color,background-color,border-color,box-shadow,transform]',
     'duration-150 active:translate-y-px disabled:pointer-events-none disabled:opacity-50',
     '[&_svg]:size-4 [&_svg]:shrink-0',

@@ -8,6 +8,12 @@ import {
   getFeaturedDeals,
 } from '../src/lib/deals.ts';
 import { getFaviconUrl } from '../src/lib/favicon.ts';
+import {
+  formatSlotAvailability,
+  getHeroSlots,
+  getSlotAvailability,
+  getSponsoredDealIds,
+} from '../src/lib/sponsors.ts';
 
 const filters = {
   query: '',
@@ -15,11 +21,13 @@ const filters = {
   year: 2026,
   sort: 'curated',
   savedOnly: false,
-  couponOnly: false,
-  discountOnly: false,
 };
 const catalog = {
   year: 2026,
+  categories: [
+    { id: 'developer-tools', name: 'Developer tools', heading: 'Developer tools' },
+    { id: 'courses', name: 'Courses', heading: 'Courses' },
+  ],
   deals: [
     {
       id: 'tools',
@@ -60,22 +68,18 @@ test('search matches all query words across product content, categories, and cou
   assert.equal(filterDeals(catalog, { ...filters, query: 'unmatched' }, []).length, 0);
 });
 
-test('category, coupon, discount and saved filters combine without including other years', () => {
+test('category and saved filters combine without including other years', () => {
   const combined = {
     ...filters,
     category: 'developer-tools',
-    couponOnly: true,
-    discountOnly: true,
     savedOnly: true,
   };
   assert.equal(filterDeals(catalog, combined, [getDealKey(2025, 'tools')]).length, 0);
   assert.deepEqual(
-    filterDeals(catalog, combined, [getDealKey(2026, 'tools')]).map((deal) => deal.id),
+    filterDeals(catalog, combined, [getDealKey(2026, 'tools'), getDealKey(2026, 'course')]).map(
+      (deal) => deal.id,
+    ),
     ['tools'],
-  );
-  assert.equal(
-    filterDeals(catalog, { ...filters, category: 'courses', couponOnly: true }, []).length,
-    0,
   );
 });
 
@@ -98,6 +102,49 @@ test('sorting does not mutate the source catalog or invent discounts from prices
   assert.equal(getOfferLabel('Up to 60% off'), 'Up to 60% off');
 });
 
+test('category ordering moves selected deals to the end of that category’s curated order', () => {
+  const ordered = {
+    ...catalog,
+    categories: [{ ...catalog.categories[0], lastDealIds: ['tools'] }, catalog.categories[1]],
+  };
+  const category = { ...filters, category: 'developer-tools' };
+  assert.deepEqual(
+    filterDeals(ordered, category, []).map((deal) => deal.id),
+    ['editor', 'tools'],
+  );
+  assert.deepEqual(
+    filterDeals(ordered, { ...category, sort: 'name' }, []).map((deal) => deal.id),
+    ['tools', 'editor'],
+  );
+  assert.deepEqual(
+    filterDeals(ordered, filters, []).map((deal) => deal.id),
+    ['tools', 'course', 'editor'],
+  );
+});
+
+test('all deals placements follow the anchor in the default order', () => {
+  const placed = {
+    ...catalog,
+    allDealsPlacements: [{ dealId: 'tools', afterDealId: 'course' }],
+  };
+  assert.deepEqual(
+    filterDeals(placed, filters, []).map((deal) => deal.id),
+    ['course', 'tools', 'editor'],
+  );
+  assert.deepEqual(
+    filterDeals(placed, { ...filters, query: 'developer tools' }, []).map((deal) => deal.id),
+    ['tools', 'editor'],
+  );
+  assert.deepEqual(
+    filterDeals(placed, { ...filters, category: 'developer-tools' }, []).map((deal) => deal.id),
+    ['tools', 'editor'],
+  );
+  assert.deepEqual(
+    filterDeals(placed, { ...filters, sort: 'discount' }, []).map((deal) => deal.id),
+    ['tools', 'editor', 'course'],
+  );
+});
+
 test('favicon URLs omit referral paths and reject unsupported URL schemes', () => {
   const source = new URL(getFaviconUrl('https://example.com/pricing?ref=community#plans'));
   assert.equal(source.origin, 'https://www.google.com');
@@ -105,6 +152,70 @@ test('favicon URLs omit referral paths and reject unsupported URL schemes', () =
   assert.equal(source.searchParams.get('sz'), '64');
   assert.equal(getFaviconUrl('not a URL'), null);
   assert.equal(getFaviconUrl('javascript:alert(1)'), null);
+});
+
+const sponsorship = {
+  status: 'active',
+  priceUsd: 199,
+  endsOn: '2026-12-31',
+  checkoutUrl: null,
+  contactEmail: null,
+  slotCount: 9,
+  slots: [
+    { dealId: 'editor', logo: 'editor.svg', displayName: 'Editor', house: true },
+    { reserved: true },
+    { dealId: 'course', logo: 'course.png' },
+  ],
+};
+
+test('sponsored deals lead the default order in slot order and yield to explicit sorts', () => {
+  const sponsored = { ...catalog, sponsorship };
+  assert.deepEqual(
+    filterDeals(sponsored, filters, []).map((deal) => deal.id),
+    ['editor', 'course', 'tools'],
+  );
+  assert.deepEqual(
+    filterDeals(sponsored, { ...filters, category: 'developer-tools' }, []).map((deal) => deal.id),
+    ['editor', 'tools'],
+  );
+  assert.deepEqual(
+    filterDeals(sponsored, { ...filters, sort: 'name' }, []).map((deal) => deal.id),
+    ['course', 'tools', 'editor'],
+  );
+  assert.deepEqual(
+    filterDeals({ ...catalog, sponsorship: { ...sponsorship, status: 'ended' } }, filters, []).map(
+      (deal) => deal.id,
+    ),
+    ['tools', 'course', 'editor'],
+  );
+});
+
+test('hero slots cover every slot, showing reserved and open ones after sponsors', () => {
+  const slots = getHeroSlots({ ...catalog, sponsorship });
+  assert.deepEqual(
+    slots.map((slot) => slot.kind),
+    ['sponsor', 'reserved', 'sponsor', 'open', 'open', 'open', 'open', 'open', 'open'],
+  );
+  assert.equal(slots[0].deal.id, 'editor');
+  assert.equal(slots[0].displayName, 'Editor');
+  assert.equal(slots[2].displayName, slots[2].deal.name);
+  assert.equal(slots[2].logoUrl, '/sponsors/2026/course.png');
+  assert.deepEqual(getSponsoredDealIds({ sponsorship }), ['editor', 'course']);
+  assert.deepEqual(getSlotAvailability(sponsorship), { forSale: 8, open: 6 });
+  assert.equal(formatSlotAvailability(sponsorship), '6 slots remaining');
+  assert.equal(
+    formatSlotAvailability({ ...sponsorship, slots: Array(8).fill({ reserved: true }) }),
+    '1 slot remaining',
+  );
+  assert.equal(
+    formatSlotAvailability({ ...sponsorship, slots: Array(9).fill({ reserved: true }) }),
+    '0 slots remaining',
+  );
+  assert.deepEqual(getHeroSlots(catalog), []);
+  assert.deepEqual(
+    getHeroSlots({ ...catalog, sponsorship: { ...sponsorship, status: 'ended' } }),
+    [],
+  );
 });
 
 test('hero previews follow the curated order and support catalogs without curation', () => {

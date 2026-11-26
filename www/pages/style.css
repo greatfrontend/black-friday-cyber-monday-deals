@@ -18,26 +18,26 @@
   --site-header-height: 4.5rem;
   --background: #171717;
   --surface: #212121;
-  --offer-surface: #2c2821;
+  --offer-surface: #282828;
+  --offer-surface-subtle: var(--offer-surface);
   --paper-highlight-opacity: 0.035;
   --paper-shadow-opacity: 0.04;
-  --paper-ink: #c4ab79;
+  --paper-ink: var(--muted-foreground);
   --paper-grain-opacity: 0.12;
   --surface-highlight: #ffffff0d;
   --coupon-shadow: #00000026;
-  --art-paper: #25221c;
-  --art-ink: #b39a69;
+  --art-paper: #242424;
+  --art-ink: #9a9a9a;
   --foreground: #f5f5f5;
   --muted: #2b2b2b;
   --muted-foreground: #b5b5b5;
   --border: #3d3d3d;
   --border-strong: #787878;
-  --brand: #f3d18b;
-  --brand-foreground: #382a13;
+  --brand: #f58a3c;
+  --brand-foreground: #241306;
   --primary: #f0f0f0;
   --primary-foreground: #1d1d1d;
-  --offer: #f3d18b;
-  --ring: #f3d18b;
+  --ring: var(--brand);
   --radius: 0.75rem;
 }
 
@@ -45,15 +45,15 @@
   color-scheme: light;
   --background: #fafafa;
   --surface: #ffffff;
-  --offer-surface: #f6f2e9;
+  --offer-surface: #f3f3f3;
+  --offer-surface-subtle: #fcfcfc;
   --paper-highlight-opacity: 0.45;
   --paper-shadow-opacity: 0.035;
-  --paper-ink: #806a46;
   --paper-grain-opacity: 0.16;
   --surface-highlight: #ffffffcc;
-  --coupon-shadow: #30220b0f;
-  --art-paper: #f3eddf;
-  --art-ink: #8e7955;
+  --coupon-shadow: #0000000f;
+  --art-paper: #ebebeb;
+  --art-ink: #777777;
   --foreground: #191919;
   --muted: #f1f1f1;
   --muted-foreground: #626262;
@@ -61,8 +61,7 @@
   --border-strong: #858585;
   --primary: #202020;
   --primary-foreground: #ffffff;
-  --offer: #252525;
-  --ring: #80612f;
+  --ring: #a94512;
 }
 
 @media (width <= 600px) {
@@ -84,6 +83,7 @@
   --color-background: var(--background);
   --color-surface: var(--surface);
   --color-offer-surface: var(--offer-surface);
+  --color-offer-surface-subtle: var(--offer-surface-subtle);
   --color-foreground: var(--foreground);
   --color-muted: var(--muted);
   --color-muted-foreground: var(--muted-foreground);
@@ -93,7 +93,6 @@
   --color-brand-foreground: var(--brand-foreground);
   --color-primary: var(--primary);
   --color-primary-foreground: var(--primary-foreground);
-  --color-offer: var(--offer);
   --color-ring: var(--ring);
   --radius-lg: var(--radius);
 }
@@ -101,7 +100,11 @@
 @layer base {
   html {
     scroll-behavior: smooth;
-    scroll-padding-top: 6rem;
+    scroll-padding-top: 1.5rem;
+
+    @media (width >= 851px) {
+      scroll-padding-top: calc(1.5rem + var(--sponsor-strip-height, 0px));
+    }
   }
   body {
     margin: 0;
@@ -128,7 +131,7 @@
   select:focus-visible,
   [tabindex]:focus-visible {
     outline: 2px solid var(--ring);
-    outline-offset: 4px;
+    outline-offset: 0;
   }
   ::selection {
     background: var(--brand);
@@ -160,6 +163,7 @@
     --primary: ButtonFace;
     --primary-foreground: ButtonText;
     --offer-surface: Canvas;
+    --offer-surface-subtle: Canvas;
     --paper-highlight-opacity: 0;
     --paper-shadow-opacity: 0;
     --paper-ink: CanvasText;

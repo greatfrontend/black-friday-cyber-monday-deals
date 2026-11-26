@@ -2,6 +2,7 @@ import { mkdir, readFile, readdir, writeFile } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { renderMarkdown } from './deal-markdown.mjs';
+import { exportSponsorLogos, readSponsorship } from './sponsor-data.mjs';
 import {
   assertUnique,
   validateCatalog,
@@ -60,7 +61,8 @@ async function readCatalog(filename, root) {
   }
 
   const deals = await readProducts(metadata.year, root);
-  return validateCatalog({ ...metadata, deals });
+  const sponsorship = await readSponsorship(metadata.year, root);
+  return validateCatalog({ ...metadata, deals, ...(sponsorship && { sponsorship }) });
 }
 
 export async function readCatalogs(root = repoRoot) {
@@ -150,4 +152,5 @@ export async function exportCatalogs(catalogs, root = repoRoot) {
   const categories = await readCategoryOptions(root);
   await writeJson(path.join(destination, 'categories.json'), categories);
   await writeJson(path.join(root, 'www/src/data/categories.json'), categories);
+  await exportSponsorLogos(catalogs, root);
 }

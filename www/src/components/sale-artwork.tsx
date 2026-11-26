@@ -202,20 +202,23 @@ function SaleStamp({ year }: SaleArtworkProps) {
   );
 }
 
-// Keep the ticket between the text and preview on wide screens.
-export function SaleArtwork({ year }: SaleArtworkProps) {
+export function SaleArtwork({
+  year,
+  extendBehindSponsors,
+}: SaleArtworkProps & { extendBehindSponsors: boolean }) {
   return (
     <div
       aria-hidden="true"
       className={cn(
-        'pointer-events-none absolute inset-0 -z-10 overflow-clip',
+        'pointer-events-none absolute inset-x-0 -top-[var(--site-header-height)] -z-10 overflow-clip',
+        extendBehindSponsors ? '-bottom-24' : 'bottom-0',
         '[--art-offset:clamp(250px,calc(50vw-160px),720px)]',
       )}
     >
       <div
         className={cn(
-          'absolute top-24 left-[calc(50%-var(--art-offset)-140px)] w-[280px] -rotate-12',
-          'min-[821px]:top-11 min-[821px]:left-[calc(58%-140px)] min-[821px]:opacity-65',
+          'absolute top-8 left-[calc(50%-var(--art-offset)-140px)] w-[280px] -rotate-12',
+          'min-[821px]:top-6 min-[821px]:left-[calc(58%-140px)] min-[821px]:opacity-65',
           'text-[var(--art-ink)]',
           'motion-safe:animate-[ticket-settle_900ms_cubic-bezier(0.16,1,0.3,1)_both]',
         )}
@@ -226,8 +229,8 @@ export function SaleArtwork({ year }: SaleArtworkProps) {
       </div>
       <div
         className={cn(
-          'absolute top-20 left-[calc(50%+var(--art-offset)-120px)] w-60 rotate-12',
-          'min-[821px]:top-5 min-[821px]:opacity-75',
+          'absolute top-3 left-[calc(50%+var(--art-offset)-120px)] w-60 rotate-12',
+          'min-[821px]:-top-1 min-[821px]:opacity-75',
           'text-[var(--art-ink)]',
           'motion-safe:animate-[stamp-affix_750ms_180ms_cubic-bezier(0.16,1,0.3,1)_both]',
         )}

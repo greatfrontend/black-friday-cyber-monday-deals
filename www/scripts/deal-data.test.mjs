@@ -61,6 +61,7 @@ test('schema rejects malformed contributions instead of silently accepting them'
   for (const [patch, error] of [
     [{ url: 'javascript:alert(1)' }, /web-url/],
     [{ url: 'https://user:password@example.com' }, /web-url/],
+    [{ faviconUrl: 'file:///private/favicon.ico' }, /\/faviconUrl.*web-url/],
     [{ offer: '' }, /\/offer/],
     [{ categories: ['missing'] }, /Unknown category/],
     [{ couponCodes: ['SAVE30', 'SAVE30'] }, /duplicate/],
@@ -74,6 +75,23 @@ test('schema rejects malformed contributions instead of silently accepting them'
   const catalog = fixture();
   catalog.lastChecked = '2026-02-30';
   assert.throws(() => validateCatalog(catalog), /calendar-date/);
+});
+
+test('catalog review timestamps require a timezone and use the Singapore date in Markdown', () => {
+  const catalog = fixture();
+  const source = `**Deals last checked: 25 Nov 2026.**\n\n${markdown}`;
+  catalog.lastChecked = '2026-11-25';
+  assert.equal(validateCatalog(catalog), catalog);
+  assert.match(renderMarkdown(catalog, source), /Deals last checked: 25 Nov 2026/);
+
+  catalog.lastChecked = '2026-11-25T18:30:00Z';
+  assert.equal(validateCatalog(catalog), catalog);
+  assert.match(renderMarkdown(catalog, source), /Deals last checked: 26 Nov 2026/);
+
+  catalog.lastChecked = '2026-11-25T18:30:00';
+  assert.throws(() => validateCatalog(catalog), /date-time/);
+  catalog.lastChecked = '2026-02-30T18:30:00Z';
+  assert.throws(() => validateCatalog(catalog), /date-time/);
 });
 
 test('curated hero selections reject missing, duplicate, and excessive product IDs', () => {
@@ -107,10 +125,26 @@ test('Markdown preserves links, uncertain validity, surrounding prose and unknow
   );
 });
 
+test('category ordering applies to Markdown and requires deals in that category', () => {
+  const catalog = fixture();
+  catalog.deals.push({ ...catalog.deals[0], id: 'second-tool', name: 'Second Tool' });
+  catalog.categories[0].lastDealIds = ['example-tool'];
+  assert.equal(validateCatalog(catalog), catalog);
+  const rendered = renderMarkdown(catalog, markdown);
+  assert.ok(rendered.indexOf('[Second Tool]') < rendered.indexOf('[Example Tool]'));
+
+  catalog.categories[0].lastDealIds = ['missing-tool'];
+  assert.throws(
+    () => validateCatalog(catalog),
+    /missing-tool is not listed in category developer-tools/,
+  );
+});
+
 test('catalog files drive Markdown checks and static website exports', async (t) => {
   const root = await mkdtemp(path.join(tmpdir(), 'bfcm-data-test-'));
   t.after(() => rm(root, { recursive: true, force: true }));
   const catalog = { ...fixture(), featuredDealIds: ['example-tool'] };
+  catalog.deals[0].faviconUrl = 'https://example.com/favicon.ico';
   await writeCatalogFixture(root, catalog);
   await writeFile(path.join(root, 'README.md'), markdown);
   const catalogs = await readCatalogs(root);
@@ -131,6 +165,7 @@ test('catalog files drive Markdown checks and static website exports', async (t)
   assert.equal(exported.$schema, undefined);
   assert.deepEqual(exported.featuredDealIds, ['example-tool']);
   assert.equal(exported.deals[0].url, 'https://example.com/?ref=community&plan=annual');
+  assert.equal(exported.deals[0].faviconUrl, 'https://example.com/favicon.ico');
   assert.equal(exported.deals[0].validity, 'Ends about Nov 30');
   const initial = JSON.parse(
     await readFile(path.join(root, 'www/src/data/initial-data.json'), 'utf8'),

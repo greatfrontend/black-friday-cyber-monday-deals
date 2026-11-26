@@ -27,6 +27,15 @@ function OfferTransition({ dealId, children }: { dealId: string; children: React
   );
 }
 
+/** Shared by every coupon shown under the hero tiles so they swap without a layout shift. */
+export const heroCouponClassName = cn(
+  'group group/deal relative isolate mx-auto mt-2 grid w-full cursor-pointer',
+  'grid-cols-[minmax(0,1fr)_150px] rounded-xl text-left',
+  'drop-shadow-[0_2px_3px_var(--coupon-shadow)] transition-[filter]',
+  'hover:drop-shadow-[0_4px_7px_var(--coupon-shadow)]',
+  'focus-visible:outline-foreground max-[400px]:grid-cols-[minmax(0,1fr)_100px]',
+);
+
 export function HeroOfferPreview({
   deal,
   onDetails,
@@ -42,13 +51,7 @@ export function HeroOfferPreview({
       aria-label={`View featured offer for ${deal.name}: ${getOfferLabel(deal.offer)}${code ? `, coupon ${code}` : ''}`}
       aria-haspopup="dialog"
       onClick={() => onDetails(deal)}
-      className={cn(
-        'group relative isolate mx-auto mt-2 grid w-full cursor-pointer',
-        'grid-cols-[minmax(0,1fr)_150px] rounded-xl text-left',
-        'drop-shadow-[0_2px_3px_var(--coupon-shadow)] transition-[filter]',
-        'hover:drop-shadow-[0_4px_7px_var(--coupon-shadow)]',
-        'max-[400px]:grid-cols-[minmax(0,1fr)_100px]',
-      )}
+      className={heroCouponClassName}
     >
       <CouponFrame layout="columns" />
       <span className="flex min-h-22 min-w-0 items-center px-5 py-2.5 max-[400px]:px-4 [grid-area:1/1]">

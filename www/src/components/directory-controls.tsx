@@ -33,8 +33,6 @@ export function DirectoryControls({
   onCopyLink,
 }: DirectoryControlsProps) {
   const selectionId = useId();
-  const filterCount =
-    Number(filters.category !== 'all') + Number(filters.couponOnly) + Number(filters.discountOnly);
   return (
     <LayoutGroup id={selectionId}>
       <div className="flex flex-col gap-4">
@@ -64,7 +62,7 @@ export function DirectoryControls({
             className={cn(
               'flex min-h-12 min-w-0 flex-1 items-center gap-2.5 rounded-lg border border-border',
               'bg-surface pr-2.5 pl-3.5 transition-[border-color,box-shadow] hover:border-border-strong/60 focus-within:border-ring',
-              'focus-within:outline-2 focus-within:outline-offset-2 focus-within:outline-ring',
+              'focus-within:outline-2 focus-within:outline-ring',
               'max-[600px]:gap-2 max-[600px]:pr-2 max-[600px]:pl-3',
             )}
           >
@@ -109,20 +107,20 @@ export function DirectoryControls({
           >
             <SlidersHorizontal aria-hidden="true" />
             Filters
-            {filterCount > 0 && (
+            {filters.category !== 'all' && (
               <span className="grid size-[18px] place-items-center rounded bg-brand text-sm text-brand-foreground">
-                {filterCount}
+                1
               </span>
             )}
           </Button>
         </search>
         <div className="flex flex-wrap items-center justify-between gap-3 max-[359px]:items-start">
-          <div className="relative flex items-center gap-0.5 self-center rounded-lg bg-muted p-[3px] max-[359px]:w-full">
+          <div className="relative flex items-center gap-0.5 self-center rounded-full bg-muted p-[3px] max-[359px]:w-full">
             <button
               type="button"
               aria-pressed={!filters.savedOnly}
               className={cn(
-                'relative isolate flex min-h-[34px] cursor-pointer items-center gap-1.5 px-2.5 py-1.5',
+                'relative isolate flex min-h-[34px] cursor-pointer items-center gap-1.5 rounded-full px-2.5 py-1.5',
                 'text-[13px] font-medium whitespace-nowrap text-muted-foreground max-[700px]:px-2',
                 'pointer-coarse:before:absolute pointer-coarse:before:inset-x-0',
                 "pointer-coarse:before:-inset-y-[5px] pointer-coarse:before:content-['']",
@@ -136,7 +134,7 @@ export function DirectoryControls({
             >
               {!filters.savedOnly && (
                 <motion.span
-                  className="absolute inset-0 -z-10 rounded-md bg-surface shadow-[0_1px_3px_#00000010] forced-colors:bg-[Highlight]"
+                  className="absolute inset-0 -z-10 rounded-[inherit] bg-surface shadow-[0_1px_3px_#00000010] forced-colors:bg-[Highlight]"
                   aria-hidden="true"
                   layoutId="collection"
                   transition={{ type: 'spring', stiffness: 420, damping: 36 }}
@@ -148,7 +146,7 @@ export function DirectoryControls({
               type="button"
               aria-pressed={filters.savedOnly}
               className={cn(
-                'relative isolate flex min-h-[34px] cursor-pointer items-center gap-1.5 px-2.5 py-1.5',
+                'relative isolate flex min-h-[34px] cursor-pointer items-center gap-1.5 rounded-full px-2.5 py-1.5',
                 'text-[13px] font-medium whitespace-nowrap text-muted-foreground max-[700px]:px-2',
                 'pointer-coarse:before:absolute pointer-coarse:before:inset-x-0',
                 "pointer-coarse:before:-inset-y-[5px] pointer-coarse:before:content-['']",
@@ -162,7 +160,7 @@ export function DirectoryControls({
             >
               {filters.savedOnly && (
                 <motion.span
-                  className="absolute inset-0 -z-10 rounded-md bg-surface shadow-[0_1px_3px_#00000010] forced-colors:bg-[Highlight]"
+                  className="absolute inset-0 -z-10 rounded-[inherit] bg-surface shadow-[0_1px_3px_#00000010] forced-colors:bg-[Highlight]"
                   aria-hidden="true"
                   layoutId="collection"
                   transition={{ type: 'spring', stiffness: 420, damping: 36 }}
@@ -188,7 +186,7 @@ export function DirectoryControls({
               )}
             />
             <div
-              className="flex gap-0.5 rounded-lg bg-muted p-[3px] max-[600px]:hidden"
+              className="flex gap-0.5 rounded-full bg-muted p-[3px] max-[600px]:hidden"
               aria-label="Display layout"
             >
               <Tooltip label="Grid view">
@@ -196,7 +194,7 @@ export function DirectoryControls({
                   variant="ghost"
                   size="icon"
                   className={cn(
-                    'relative isolate size-[34px] rounded-md p-1.5 [&_svg]:size-[13px]',
+                    'relative isolate size-[34px] p-1.5 [&_svg]:size-[13px]',
                     view === 'grid' &&
                       'bg-transparent text-foreground forced-colors:text-[HighlightText]',
                   )}
@@ -206,7 +204,7 @@ export function DirectoryControls({
                 >
                   {view === 'grid' && (
                     <motion.span
-                      className="absolute inset-0 -z-10 rounded-md bg-surface shadow-[0_1px_3px_#00000010] forced-colors:bg-[Highlight]"
+                      className="absolute inset-0 -z-10 rounded-[inherit] bg-surface shadow-[0_1px_3px_#00000010] forced-colors:bg-[Highlight]"
                       aria-hidden="true"
                       layoutId="display"
                       transition={{ type: 'spring', stiffness: 420, damping: 36 }}
@@ -220,7 +218,7 @@ export function DirectoryControls({
                   variant="ghost"
                   size="icon"
                   className={cn(
-                    'relative isolate size-[34px] rounded-md p-1.5 [&_svg]:size-[13px]',
+                    'relative isolate size-[34px] p-1.5 [&_svg]:size-[13px]',
                     view === 'list' &&
                       'bg-transparent text-foreground forced-colors:text-[HighlightText]',
                   )}
@@ -230,7 +228,7 @@ export function DirectoryControls({
                 >
                   {view === 'list' && (
                     <motion.span
-                      className="absolute inset-0 -z-10 rounded-md bg-surface shadow-[0_1px_3px_#00000010] forced-colors:bg-[Highlight]"
+                      className="absolute inset-0 -z-10 rounded-[inherit] bg-surface shadow-[0_1px_3px_#00000010] forced-colors:bg-[Highlight]"
                       aria-hidden="true"
                       layoutId="display"
                       transition={{ type: 'spring', stiffness: 420, damping: 36 }}

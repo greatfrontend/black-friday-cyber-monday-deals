@@ -1,18 +1,20 @@
 import { cn } from '../lib/utils';
-import { Moon, Plus, Sun } from 'lucide-react';
+import { Megaphone, Moon, Plus, Sun } from 'lucide-react';
 import { repositoryUrl } from '../lib/deals';
+import { sponsorPagePath } from '../lib/sponsors';
 import { useTheme } from '../hooks/use-directory';
+import { ArrowButton } from './ui/arrow-button';
 import { Button } from './ui/button';
 import { GitHubIcon } from './ui/github-icon';
 import { Tooltip } from './ui/tooltip';
 
 const navActionClassName = cn(
-  'inline-flex min-h-9 min-w-9 shrink-0 items-center justify-center rounded-md p-0',
+  'inline-flex min-h-9 min-w-9 shrink-0 items-center justify-center rounded-full p-0',
   'pointer-coarse:min-h-11 pointer-coarse:min-w-11 [&_svg]:size-3.5',
 );
 
 const navSurfaceClassName = cn(
-  'inline-flex min-h-8 min-w-8 items-center justify-center gap-1.5 rounded-md px-2.5',
+  'inline-flex min-h-8 min-w-8 items-center justify-center gap-1.5 rounded-full px-2.5',
   'text-xs font-medium transition-colors',
 );
 
@@ -20,7 +22,7 @@ export function SiteHeader({ onContribute }: { onContribute: () => void }) {
   const { dark, toggleTheme } = useTheme();
   const themeAction = `Switch to ${dark ? 'light' : 'dark'} theme`;
   return (
-    <header className="sticky top-0 z-30 bg-background/88 backdrop-blur-lg">
+    <header className="relative z-10">
       <div
         className={cn(
           'mx-auto w-[min(1320px,calc(100%-80px))] max-[850px]:w-[calc(100%-48px)]',
@@ -34,7 +36,7 @@ export function SiteHeader({ onContribute }: { onContribute: () => void }) {
           className="inline-flex items-center gap-[9px] whitespace-nowrap"
         >
           <img
-            src="/favicon.svg?v=2"
+            src="/favicon.svg?v=3"
             alt=""
             aria-hidden="true"
             width={32}
@@ -61,6 +63,24 @@ export function SiteHeader({ onContribute }: { onContribute: () => void }) {
           <a
             className={cn(
               navActionClassName,
+              'group/sponsor text-muted-foreground hover:text-foreground max-[399px]:hidden',
+            )}
+            aria-label="Sponsor"
+            href={sponsorPagePath}
+          >
+            <span
+              className={cn(
+                navSurfaceClassName,
+                'group-hover/sponsor:bg-muted max-sm:size-8 max-sm:px-0',
+              )}
+            >
+              <Megaphone aria-hidden="true" />
+              <span className="hidden sm:inline">Sponsor</span>
+            </span>
+          </a>
+          <a
+            className={cn(
+              navActionClassName,
               'group/github text-muted-foreground hover:text-foreground',
             )}
             aria-label="GitHub"
@@ -78,25 +98,20 @@ export function SiteHeader({ onContribute }: { onContribute: () => void }) {
               <span className="hidden sm:inline">GitHub</span>
             </span>
           </a>
-          <Button
-            variant="ghost"
-            size="sm"
+          <ArrowButton
+            variant="primary"
             aria-label="Submit a deal"
+            aria-haspopup="dialog"
             onClick={onContribute}
-            className={cn(navActionClassName, 'group/submit gap-0 hover:bg-transparent')}
+            className={cn(
+              'justify-center gap-1.5 text-xs whitespace-nowrap pointer-coarse:min-w-11',
+              'max-[360px]:w-8 max-[360px]:p-0 max-[360px]:[&>[data-slot=arrow-icon]]:hidden',
+            )}
           >
-            <span
-              className={cn(
-                navSurfaceClassName,
-                'bg-primary text-primary-foreground',
-                'group-hover/submit:bg-primary/85 max-[359px]:min-w-8 max-[359px]:px-0',
-              )}
-            >
-              <Plus aria-hidden="true" />
-              <span className="hidden sm:inline">Submit a deal</span>
-              <span className="hidden min-[360px]:inline sm:hidden">Submit</span>
-            </span>
-          </Button>
+            <Plus aria-hidden="true" className="size-3.5 min-[360px]:hidden" />
+            <span className="hidden sm:inline">Submit a deal</span>
+            <span className="hidden min-[360px]:inline sm:hidden">Submit</span>
+          </ArrowButton>
           <Tooltip label={themeAction} side="bottom">
             <Button
               variant="ghost"

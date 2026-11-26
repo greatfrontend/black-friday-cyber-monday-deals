@@ -23,7 +23,7 @@ export function Select({ label, value, items, onValueChange, className }: Select
       <SelectPrimitive.Trigger
         aria-label={label}
         className={cn(
-          'flex min-h-11 cursor-pointer items-center justify-between gap-3 rounded-lg border',
+          'flex min-h-11 cursor-pointer items-center justify-between gap-3 rounded-full border',
           'border-border bg-surface px-3.5 text-sm hover:border-border-strong',
           className,
         )}
@@ -59,8 +59,8 @@ export function Select({ label, value, items, onValueChange, className }: Select
                   key={item.value}
                   value={item.value}
                   className={cn(
-                    'relative flex min-h-11 cursor-pointer items-center gap-4 rounded-md py-2 pr-9 pl-3',
-                    'text-sm outline-none data-highlighted:bg-muted',
+                    'relative flex min-h-9 cursor-pointer items-center gap-4 rounded-md py-1.5 pr-9 pl-3',
+                    'text-sm outline-none data-highlighted:bg-muted pointer-coarse:min-h-11',
                   )}
                 >
                   <SelectPrimitive.ItemText>{item.label}</SelectPrimitive.ItemText>

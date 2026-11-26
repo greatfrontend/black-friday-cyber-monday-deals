@@ -3,11 +3,22 @@ import { cn } from '../lib/utils';
 
 type CouponLayout = 'stacked' | 'columns' | 'responsive';
 
+const offerSurfaceClassNames = {
+  paper: 'bg-offer-surface',
+  white: 'bg-surface dark:bg-offer-surface',
+  'faint-gray': 'bg-offer-surface-subtle',
+};
+
 const maskedSurface = cn(
   'absolute inset-0 overflow-hidden border border-current bg-surface',
   'shadow-[inset_0_0_0_1px_var(--surface-highlight)]',
   '[mask-image:radial-gradient(circle_at_var(--notch-a),transparent_7px,#000_7.5px),radial-gradient(circle_at_var(--notch-b),transparent_7px,#000_7.5px)]',
   '[mask-composite:intersect]',
+);
+
+const framePartClassName = cn(
+  'pointer-events-none relative -z-10 min-h-0 min-w-0 transition-colors duration-200',
+  'text-border group-hover/deal:text-brand',
 );
 
 function surfaceShape(part: 'product' | 'offer', layout: CouponLayout) {
@@ -36,11 +47,11 @@ function surfaceShape(part: 'product' | 'offer', layout: CouponLayout) {
   );
 }
 
-function CouponPaper() {
+function CouponPaper({ className }: { className?: string }) {
   const paperId = useId();
   const grainId = useId();
   return (
-    <svg width="100%" height="100%" className="absolute inset-0 rounded-[inherit]">
+    <svg width="100%" height="100%" className={cn('absolute inset-0 rounded-[inherit]', className)}>
       <defs>
         <linearGradient id={paperId} x1="0%" y1="0%" x2="0%" y2="100%">
           <stop offset="0" stopColor="#ffffff" stopOpacity="var(--paper-highlight-opacity)" />
@@ -80,14 +91,14 @@ function CouponSeam({ columns = false, className }: { columns?: boolean; classNa
     >
       <line
         {...line}
-        stroke="currentColor"
+        stroke="var(--border)"
         strokeWidth="1"
         strokeLinecap="round"
         strokeDasharray="1 4"
       />
       <line
         {...line}
-        stroke="var(--brand)"
+        stroke="var(--border-strong)"
         strokeWidth="1.5"
         strokeLinecap="round"
         pathLength="100"
@@ -157,27 +168,41 @@ function CouponNotches({ layout }: { layout: CouponLayout }) {
 }
 
 // These decorative grid cells share tracks with the content, including in static HTML.
-export function CouponFrame({ layout = 'stacked' }: { layout?: CouponLayout }) {
-  const part = cn(
-    'pointer-events-none relative -z-10 min-h-0 min-w-0 text-border transition-colors duration-200',
-    'group-hover/deal:text-border-strong/75',
-  );
+export function CouponFrame({
+  layout = 'stacked',
+  lightOfferSurface = 'paper',
+}: {
+  layout?: CouponLayout;
+  lightOfferSurface?: keyof typeof offerSurfaceClassNames;
+}) {
   return (
     <>
-      <span aria-hidden="true" data-coupon-part="product" className={cn(part, '[grid-area:1/1]')}>
+      <span
+        aria-hidden="true"
+        data-coupon-part="product"
+        className={cn(framePartClassName, '[grid-area:1/1]')}
+      >
         <span className={cn(maskedSurface, surfaceShape('product', layout))} />
       </span>
       <span
         aria-hidden="true"
         data-coupon-part="offer"
         className={cn(
-          part,
+          framePartClassName,
           layout === 'columns' ? '[grid-area:1/2]' : '[grid-area:2/1]',
           layout === 'responsive' && 'min-[701px]:[grid-area:1/2]',
         )}
       >
-        <span className={cn(maskedSurface, 'bg-offer-surface', surfaceShape('offer', layout))}>
-          <CouponPaper />
+        <span
+          className={cn(
+            maskedSurface,
+            offerSurfaceClassNames[lightOfferSurface],
+            surfaceShape('offer', layout),
+          )}
+        >
+          <CouponPaper
+            className={lightOfferSurface === 'paper' ? undefined : 'hidden dark:block'}
+          />
         </span>
         {layout !== 'columns' && (
           <CouponSeam className={layout === 'responsive' ? 'min-[701px]:hidden' : undefined} />

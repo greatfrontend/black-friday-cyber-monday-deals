@@ -1,0 +1,29 @@
+{
+  "$schema": "../sponsorship.schema.json",
+  "year": 2026,
+  "status": "active",
+  "priceUsd": 199,
+  "endsOn": "2026-12-31",
+  "checkoutUrl": "https://buy.stripe.com/9B6dR99yX8c1bjnax40gw0y",
+  "contactEmail": null,
+  "slots": [
+    {
+      "dealId": "greatfrontend-interviews",
+      "logo": "greatfrontend-interviews.svg",
+      "displayName": "GreatFrontEnd",
+      "house": true
+    },
+    {
+      "dealId": "design-gurus",
+      "logo": "design-gurus.png"
+    },
+    {
+      "dealId": "educative",
+      "logo": "educative.png"
+    },
+    {
+      "dealId": "bytebytego",
+      "logo": "bytebytego.png"
+    }
+  ]
+}

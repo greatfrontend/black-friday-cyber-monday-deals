@@ -22,6 +22,7 @@ export default defineConfig({
       '.cloudflare/**',
       '.wrangler/**',
       'public/data/**',
+      'public/sponsors/**',
       'src/data/**',
       'pnpm-lock.yaml',
     ],

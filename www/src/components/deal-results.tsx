@@ -3,6 +3,7 @@ import { ArrowUpRight, RotateCcw, SearchX } from 'lucide-react';
 import type { Catalog, CopiedCoupon, Deal } from '../lib/types';
 import { getCopiedCouponCode } from '../lib/coupon-copy';
 import { getDealKey } from '../lib/deals';
+import { getSponsoredDealIds } from '../lib/sponsors';
 import { Button } from './ui/button';
 import { DealLayout } from './deal-layout';
 
@@ -109,10 +110,12 @@ export function DealResults({
     );
   }
 
+  const sponsoredIds = getSponsoredDealIds(catalog);
   const items = deals.map((deal) => ({
     id: getDealKey(catalog.year, deal.id),
     cardProps: {
       deal,
+      sponsored: sponsoredIds.includes(deal.id),
       saved: saved.includes(getDealKey(catalog.year, deal.id)),
       copiedCode: getCopiedCouponCode(copiedCoupon, catalog.year, deal.id),
       onSave: () => onSave(deal),

@@ -1,0 +1,118 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Annual sponsorship",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "$schema",
+    "year",
+    "status",
+    "priceUsd",
+    "endsOn",
+    "checkoutUrl",
+    "contactEmail",
+    "slots"
+  ],
+  "properties": {
+    "$schema": {
+      "const": "../sponsorship.schema.json"
+    },
+    "year": {
+      "type": "integer",
+      "minimum": 2000,
+      "maximum": 9999
+    },
+    "status": {
+      "description": "Set to ended after endsOn to switch off every sponsor placement for the year.",
+      "enum": [
+        "active",
+        "ended"
+      ]
+    },
+    "priceUsd": {
+      "description": "One-time price of a slot, in whole US dollars.",
+      "type": "integer",
+      "minimum": 1
+    },
+    "endsOn": {
+      "description": "Last day of the sponsorship period.",
+      "type": "string",
+      "format": "calendar-date"
+    },
+    "checkoutUrl": {
+      "description": "Stripe Payment Link. Use null until checkout is open.",
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "web-url"
+    },
+    "contactEmail": {
+      "description": "Address for sponsor questions and refund requests. Use null to send people to GitHub issues.",
+      "type": [
+        "string",
+        "null"
+      ],
+      "pattern": "^[^@\\s]+@[^@\\s]+\\.[^@\\s]+$"
+    },
+    "slots": {
+      "description": "Taken slots in purchase order. Slots not listed here are open.",
+      "type": "array",
+      "maxItems": 9,
+      "items": {
+        "oneOf": [
+          {
+            "$ref": "#/definitions/sponsor"
+          },
+          {
+            "$ref": "#/definitions/reservedSlot"
+          }
+        ]
+      }
+    }
+  },
+  "definitions": {
+    "sponsor": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "dealId",
+        "logo"
+      ],
+      "properties": {
+        "dealId": {
+          "description": "Product JSON filename without .json, from the same year.",
+          "type": "string",
+          "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+        },
+        "logo": {
+          "description": "Filename in assets/sponsors/<year>/, named after the deal ID.",
+          "type": "string",
+          "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*\\.(svg|png)$"
+        },
+        "displayName": {
+          "description": "Optional shorter name shown on the homepage sponsor ticket.",
+          "type": "string",
+          "pattern": "^(?=.*\\S)[^\\r\\n]+$"
+        },
+        "house": {
+          "description": "Marks the maintainers' own slot, which is not for sale.",
+          "const": true
+        }
+      }
+    },
+    "reservedSlot": {
+      "description": "Holds a paid slot until the sponsor's pull request is merged.",
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "reserved"
+      ],
+      "properties": {
+        "reserved": {
+          "const": true
+        }
+      }
+    }
+  }
+}

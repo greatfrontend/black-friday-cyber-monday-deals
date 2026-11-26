@@ -1,17 +1,20 @@
 import { categoryLabels } from '../lib/categories';
-import { ArrowUpRight, Bookmark } from 'lucide-react';
+import { Bookmark } from 'lucide-react';
 import type { Deal } from '../lib/types';
 import { getOfferLabel, plainText } from '../lib/deals';
 import { cn } from '../lib/utils';
+import { ArrowLink } from './ui/arrow-button';
 import { Button } from './ui/button';
 import { ProductMark } from './product-mark';
 import { DealCoupon } from './deal-coupon';
 import { CouponFrame } from './coupon-frame';
+import { SponsoredBadge } from './sponsored-badge';
 import { Tooltip } from './ui/tooltip';
 
 interface DealCardProps {
   deal: Deal;
   view?: 'grid' | 'list';
+  sponsored?: boolean;
   saved: boolean;
   copiedCode: string;
   onSave: () => void;
@@ -21,6 +24,7 @@ interface DealCardProps {
 
 export function DealCard({
   deal,
+  sponsored = false,
   saved,
   copiedCode,
   onSave,
@@ -41,12 +45,11 @@ export function DealCard({
         'transition-[filter] duration-200',
         'drop-shadow-[0_2px_3px_var(--coupon-shadow)] hover:drop-shadow-[0_4px_7px_var(--coupon-shadow)]',
         'has-[[data-card-open]:focus-visible]:outline-2',
-        'has-[[data-card-open]:focus-visible]:outline-offset-4',
-        'has-[[data-card-open]:focus-visible]:outline-ring',
+        'has-[[data-card-open]:focus-visible]:outline-foreground',
         list && 'min-[701px]:grid min-[701px]:grid-cols-[minmax(0,1fr)_minmax(0,1.05fr)]',
       )}
     >
-      <CouponFrame layout={list ? 'responsive' : 'stacked'} />
+      <CouponFrame layout={list ? 'responsive' : 'stacked'} lightOfferSurface="faint-gray" />
       <div className="px-5 pt-5 pb-4 [grid-area:1/1]">
         <header
           className={cn(
@@ -54,7 +57,7 @@ export function DealCard({
             list && 'min-[701px]:pr-0',
           )}
         >
-          <ProductMark websiteUrl={deal.url} className="size-9" />
+          <ProductMark websiteUrl={deal.url} faviconUrl={deal.faviconUrl} className="size-9" />
           <div className="min-w-0">
             <h3
               id={`deal-${deal.id}`}
@@ -74,8 +77,14 @@ export function DealCard({
                 {deal.name}
               </button>
             </h3>
-            <p className="mt-0.5 text-[13px] leading-[1.4] text-muted-foreground">
+            <p
+              className={cn(
+                'mt-0.5 flex flex-wrap items-center gap-x-2 gap-y-1',
+                'text-[13px] leading-[1.4] text-muted-foreground',
+              )}
+            >
               {categoryLabels[deal.categories[0]] ?? deal.categories[0]}
+              {sponsored && <SponsoredBadge />}
             </p>
           </div>
         </header>
@@ -93,7 +102,8 @@ export function DealCard({
           className={cn(
             'absolute top-3 right-3 z-3 size-8 rounded-full [&_svg]:size-[15px]',
             'pointer-coarse:top-2 pointer-coarse:right-2 pointer-coarse:size-11',
-            saved && 'bg-brand/25 text-foreground hover:bg-brand/35',
+            'focus-visible:outline-foreground',
+            saved && 'bg-muted text-foreground hover:bg-muted/80',
           )}
         >
           <Bookmark
@@ -101,7 +111,7 @@ export function DealCard({
             strokeWidth={1.6}
             className={cn(
               saved &&
-                'fill-brand stroke-foreground motion-safe:animate-[save-appear_180ms_ease-out]',
+                'fill-foreground stroke-foreground motion-safe:animate-[save-appear_180ms_ease-out]',
             )}
           />
         </Button>
@@ -136,42 +146,15 @@ export function DealCard({
           <span className="min-w-0 text-[13px] leading-normal text-muted-foreground">
             {deal.validity === '-' || deal.validity === '–' ? 'End date not listed' : deal.validity}
           </span>
-          <a
+          <ArrowLink
             href={deal.url}
             target="_blank"
             rel="noopener noreferrer sponsored"
-            className={cn(
-              'group/visit relative z-3 inline-flex min-h-8 shrink-0 items-center gap-2 rounded-full',
-              'py-1 pr-1 pl-3 text-[13px] font-medium text-foreground',
-              'bg-surface transition-colors duration-150 hover:bg-primary hover:text-primary-foreground',
-              'pointer-coarse:min-h-11',
-            )}
+            className="relative z-3 focus-visible:outline-foreground"
           >
             Get deal
-            <span
-              aria-hidden="true"
-              className={cn(
-                'relative grid size-6 overflow-hidden rounded-full bg-muted place-items-center',
-                'group-hover/visit:bg-primary-foreground/15',
-              )}
-            >
-              <ArrowUpRight
-                className={cn(
-                  'absolute size-3.5 motion-safe:transition-transform motion-safe:duration-200',
-                  'motion-safe:group-hover/visit:translate-x-6 motion-safe:group-hover/visit:-translate-y-6',
-                )}
-              />
-              <ArrowUpRight
-                className={cn(
-                  'absolute size-3.5 -translate-x-6 translate-y-6 opacity-0',
-                  'motion-safe:transition-[transform,opacity] motion-safe:duration-200',
-                  'motion-safe:group-hover/visit:translate-x-0 motion-safe:group-hover/visit:translate-y-0',
-                  'motion-safe:group-hover/visit:opacity-100',
-                )}
-              />
-            </span>
             <span className="sr-only"> for {deal.name} (opens in a new tab)</span>
-          </a>
+          </ArrowLink>
         </footer>
       </div>
     </article>

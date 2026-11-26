@@ -64,11 +64,14 @@ A product can have multiple categories. Use one file with a `categories` array i
 ## Field guidelines
 
 - Preserve existing referral URLs unless correcting an incorrect destination.
+- Set `faviconUrl` to the product's favicon URL when the deal link points through an affiliate network or displays the wrong icon.
 - Descriptions and offers support Markdown. Include coupon codes in `offer` for the README and in `couponCodes` for the website.
 - Preserve uncertainty in `validity`; use `-` if unknown. Do not invent exact deadlines, timezones, or discounts.
 - `latest` preserves the original Latest column: `true`, `false`, or `null` for unknown. It does **not** mean currently active or independently verified.
 - `order` is optional. Existing products have it to preserve the original listing order. New products can omit it and will appear after ordered products, sorted by filename. Renumbering existing products is unnecessary.
-- The catalog's `lastChecked` date applies to the entire year. Update it only after reviewing that whole catalog.
+- `allDealsPlacements` in `data/catalogs/<year>.json` can place a `dealId` immediately after an `afterDealId` in the default All deals view. Placements apply in the order listed.
+- A category in `data/catalogs/<year>.json` can list `lastDealIds` for deals that appear at the end of its default order and README table, in the order listed.
+- The catalog's `lastChecked` applies to the entire year. Use a calendar date or an ISO 8601 timestamp with a time zone. Update it only after reviewing the whole catalog.
 - A previous year's listing is not evidence of a current sale.
 
 ## Check your contribution
@@ -96,7 +99,13 @@ The schemas in `data/product.schema.json` and `data/deal-catalog.schema.json` va
 
 `data:export` combines the product files into `/data/<year>.json` and creates `/data/index.json`. It also exports `/data/categories.json` for website category labels and form options. The build copies these static files into `www/dist/client/data/`. No database is involved.
 
+## Sponsor slots
+
+The tiles in the homepage hero are paid sponsor slots while a year's sponsorship is active. They are defined in `data/sponsors/<year>.json`, with logos in `assets/sponsors/<year>/`. [SPONSORS.md](SPONSORS.md) covers the perks, the rules, and what a sponsor's pull request contains.
+
 ## Curate the hero previews
+
+The hero shows these previews only when the year has no active sponsorship.
 
 Maintainers can set `featuredDealIds` in `data/catalogs/<year>.json` to choose up to six hero previews, in display order. Each ID is the product JSON filename without `.json`, from the same year. These are editorial selections, not popularity or discount rankings. Missing IDs, duplicates, and more than six selections fail validation. Catalogs without this optional field use their first six deals.
 

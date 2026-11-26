@@ -9,6 +9,8 @@ Each product has its own JSON file in [data/deals/2026/](data/deals/2026/). To a
 > ⚠️ Feel free to send a pull request. **If you're advertising your product, star the repo first.**
 >
 > Products that we deem to be low quality may be removed or reordered at our discretion.
+>
+> Want a sponsored slot at the top of the site and this README? See [SPONSORS.md](SPONSORS.md).
 
 ⭐ **Star this repo to stay updated on new Black Friday deals for developers.**
 
@@ -20,6 +22,23 @@ We'd greatly appreciate if you could:
 - 📖 Bookmark this page to help the community discover the best deals
 
 **Deals last checked: 26 Nov 2026.** Offers change fast, so check the seller's own page before you buy.
+
+<!-- sponsors:start -->
+
+## Sponsors
+
+<table>
+  <tr>
+    <td align="center"><a href="https://greatfrontend.com/?ref=bfcm&amp;gnrs=bfcm"><img src="assets/sponsors/2026/greatfrontend-interviews.svg" alt="" width="56" height="56"><br><strong>GreatFrontEnd Interviews</strong></a></td>
+    <td align="center"><a href="https://www.designgurus.io/?aff=kJSIoU"><img src="assets/sponsors/2026/design-gurus.png" alt="" width="56" height="56"><br><strong>Design Gurus</strong></a></td>
+    <td align="center"><a href="https://www.educative.io/?aff=x23W"><img src="assets/sponsors/2026/educative.png" alt="" width="56" height="56"><br><strong>Educative</strong></a></td>
+    <td align="center"><a href="https://bytebytego.com/?fpr=techinterviewhandbook"><img src="assets/sponsors/2026/bytebytego.png" alt="" width="56" height="56"><br><strong>ByteByteGo</strong></a></td>
+  </tr>
+</table>
+
+**5 slots remaining** at $199 each, live until 31 Dec 2026. [Become a sponsor](SPONSORS.md).
+
+<!-- sponsors:end -->
 
 ---
 
@@ -56,7 +75,6 @@ We'd greatly appreciate if you could:
 | [Educative](https://www.educative.io/?aff=x23W) | Offers interactive text-based courses on coding interviews, system design, and software engineering | Up to 60% off; Unlimited annual plans 55% off | - | ✅ |
 | [certificates.dev](https://certificates.dev/?utm_source=greatfrontend&utm_medium=github&utm_campaign=cert_bf2025_bf) | Get ready for your interview with a certification! Get certified in React, Angular, JavaScript, Nuxt or Vue.js | **BLACKFRIDAYSPECIAL** - up to 60% off (60% on Vue.js and Nuxt, 47% on React, Angular, JavaScript and Laravel) + free bonuses | Ends Dec 2 | ✅ |
 | [Aced (formerly Exponent)](https://www.aced.io/?ref=techinterviewhandbook) | Interview prep for software engineering, PM and tech roles, including mock interview practice | 40% off any plan with code **CYBER40** | - | ✅ |
-| [AlgoExpert](https://www.algoexpert.io/purchase) | Coding and system design interview prep platform with video explanations. | Black Friday sale: bundle of 7 products for over 80% off | Countdown on page (about 2 days left on Nov 26) | ✅ |
 | [ByteByteGo](https://bytebytego.com/?fpr=techinterviewhandbook) | Visual system design, coding and ML interview courses by Alex Xu | 50% off launch sale: lifetime $499 (was $999), one year $189 (was $399) | - | ✅ |
 | [Dometrain](https://dometrain.com/) | Developer courses with hands-on exercises, system design practice and AI mock interviews. | 40% off Pro and Lite for as long as you stay subscribed, plus 40% off courses and interview packs, with code **BLACKFRIDAY26** | - | ✅ |
 | [interviewing.io](https://iio.sh/r/DMCa) | Anonymous mock interviews and coaching with engineers from top companies | $200 to $700 off 5 and 10 session dedicated coaching packages | Ends Nov 30, 11:59 PM PT | ✅ |
@@ -67,7 +85,10 @@ We'd greatly appreciate if you could:
 
 | **Name** | **Description** | **Deal details** | **Validity** | **Latest** |
 | :- | :- | :- | :- | :- |
+| [GreatFrontEnd Interviews](https://greatfrontend.com/?ref=bfcm&gnrs=bfcm) | Complete front end interview prep platform built by ex-FAANG engineers. 500+ practice questions across coding, UI, system design with detailed solutions. By the author of Blind 75 | 30% off all plans with code **BF30**, on top of the lifetime and bundle discounts already on the site (bundle: 51% off list price) | Ends Nov 29 | ✅ |
 | [GreatFrontEnd Projects](https://greatfrontend.com/projects?ref=bfcm&gnrs=bfcm) | A platform to build high quality project challenges with beautiful & modular designs, guided by ex-FAANG senior engineers and an active community | Extra 30% off all Projects plans with code **BF30**, on top of the existing plan and bundle discounts | Ends Nov 29 | ✅ |
+| [Design Gurus](https://www.designgurus.io/?aff=kJSIoU) | One-stop portal For tech interviews. By the creators of Grokking the System Design Interview | Thanksgiving Sale: 70% off everything, 90% off the All Courses bundle | Ends about Nov 27 | ✅ |
+| [Educative](https://www.educative.io/?aff=x23W) | Offers interactive text-based courses on coding interviews, system design, and software engineering | Up to 60% off; Unlimited annual plans 55% off | - | ✅ |
 | [Taro](https://www.jointaro.com/?ref=greatfrontend) | Expert courses to accelerate your software engineering career | **BLACKFRIDAY26** - 25% off | - | ✅ |
 | [The Joy of React](https://www.joyofreact.com/?ref=greatfrontend) | The interactive learning experience that teaches you how to build rich, dynamic web apps with React | Ultimate $349 (was $599), Pro $299 (was $399), Basic $209 (was $249) | Ends about Dec 2 | ✅ |
 | [CSS for JavaScript Developers](https://css-for-js.dev/?ref=greatfrontend) | The interactive learning experience designed to help JavaScript developers become confident with CSS | Ultimate $239 (was $399), Pro $219 (was $279), Basic $129 (was $149) | Ends about Dec 2 | ✅ |
@@ -77,9 +98,9 @@ We'd greatly appreciate if you could:
 | [Code With Mosh](https://codewithmosh.com/) | High-quality video courses on programming, web development, and software engineering fundamentals | Black Friday Sale 2026: lifetime access $199 (was $499), single courses also discounted | Ends about Dec 1 | ✅ |
 | [LabEx](https://labex.io/learn) | Learn Linux, DevOps & Cybersecurity with Hands-on Labs | Black Friday 2026: **2026BF30** - 30% off or **2026BF50** - 50% off | Ends about Nov 28 | ✅ |
 | [CSS Demystified](https://thecascade.dev/courses/css-demystified) | Courses on CSS by Kevin Powell, easy to follow and in-depth explanations | CSS Demystified: 32% off ($249 to $169), applied automatically | Ends Dec 1 | ✅ |
-| [AlgoExpert](https://www.algoexpert.io/purchase) | Coding and system design interview prep platform with video explanations. | Black Friday sale: bundle of 7 products for over 80% off | Countdown on page (about 2 days left on Nov 26) | ✅ |
 | [Angular University](https://angular-university.io/) | Courses on Angular, TypeScript and RxJS. | All courses 50% off: $64 for the first year | Ends Tue Dec 1 | ✅ |
 | [Ardan Labs training](https://www.ardanlabs.com/black-friday) | Self-paced and live training in Go, Rust, Docker, Kubernetes and AI. | 40% off every self-paced training bundle; 25% off live AI workshops | - | ✅ |
+| [ByteByteGo](https://bytebytego.com/?fpr=techinterviewhandbook) | Visual system design, coding and ML interview courses by Alex Xu | 50% off launch sale: lifetime $499 (was $999), one year $189 (was $399) | - | ✅ |
 | [Codecademy Pro](https://www.codecademy.com/pricing) | Interactive courses in programming, web development, data and AI. | 60% off a year of Pro or Pro Student with code **BF2026** | Ends Nov 28 (countdown on page) | ✅ |
 | [Coursera Plus](https://www.coursera.org/courseraplus) | Annual subscription to 10,000+ courses and certificates from universities and companies. | Coursera Plus Annual for $239 instead of $399 | Ends Nov 30, 2026 | ✅ |
 | [DataCamp](https://www.datacamp.com/promo/biggest-annual-sale-26) | Online courses and career tracks in Python, SQL, data and AI. | 60% off annual DataCamp Premium, Teams or DataLab Premium | Nov 11 to Nov 29, 2026 (countdown on page) | ✅ |

@@ -9,8 +9,6 @@ export function defaultFilters(year: number): Filters {
     year,
     sort: 'curated',
     savedOnly: false,
-    couponOnly: false,
-    discountOnly: false,
   };
 }
 
@@ -26,8 +24,6 @@ function readFilters(index: CatalogIndex): Filters {
     year: index.catalogs.some((catalog) => catalog.year === year) ? year : defaults.year,
     sort: sort === 'discount' || sort === 'name' ? sort : 'curated',
     savedOnly: params.get('saved') === '1',
-    couponOnly: params.get('coupon') === '1',
-    discountOnly: params.get('discount') === '50',
   };
 }
 
@@ -38,8 +34,6 @@ function writeFilters(filters: Filters, currentYear: number) {
   if (filters.year !== currentYear) params.set('year', String(filters.year));
   if (filters.sort !== 'curated') params.set('sort', filters.sort);
   if (filters.savedOnly) params.set('saved', '1');
-  if (filters.couponOnly) params.set('coupon', '1');
-  if (filters.discountOnly) params.set('discount', '50');
   const query = params.size ? `?${params}` : '';
   window.history.replaceState(
     null,

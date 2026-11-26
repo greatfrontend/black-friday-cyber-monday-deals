@@ -1,20 +1,30 @@
 import { categoryLabels } from '../lib/categories';
-import { ArrowUpRight, Copy, Pencil, Ticket } from 'lucide-react';
+import { Copy, Pencil, Ticket } from 'lucide-react';
 import type { Deal } from '../lib/types';
 import { buildSuggestionUrl, getOfferLabel, plainText } from '../lib/deals';
+import { ArrowLink } from './ui/arrow-button';
 import { Dialog } from './ui/dialog';
 import { Button, buttonVariants } from './ui/button';
 import { ProductMark } from './product-mark';
+import { SponsoredBadge } from './sponsored-badge';
 
 interface DealDetailProps {
   deal: Deal | null;
   year: number;
+  sponsored?: boolean;
   onClose: () => void;
   onCopy: (code: string) => void;
   copiedCode: string;
 }
 
-export function DealDetail({ deal, year, onClose, onCopy, copiedCode }: DealDetailProps) {
+export function DealDetail({
+  deal,
+  year,
+  sponsored = false,
+  onClose,
+  onCopy,
+  copiedCode,
+}: DealDetailProps) {
   return (
     <Dialog
       open={deal !== null}
@@ -22,10 +32,19 @@ export function DealDetail({ deal, year, onClose, onCopy, copiedCode }: DealDeta
         if (!open) onClose();
       }}
       title={deal?.name ?? 'Deal details'}
-      icon={deal && <ProductMark websiteUrl={deal.url} className="size-9" />}
-      subtitle={deal?.categories
-        .map((category) => categoryLabels[category] ?? category)
-        .join(' · ')}
+      icon={
+        deal && (
+          <ProductMark websiteUrl={deal.url} faviconUrl={deal.faviconUrl} className="size-9" />
+        )
+      }
+      subtitle={
+        deal && (
+          <span className="flex flex-wrap items-center gap-x-2 gap-y-1">
+            {deal.categories.map((category) => categoryLabels[category] ?? category).join(' · ')}
+            {sponsored && <SponsoredBadge />}
+          </span>
+        )
+      }
     >
       {deal && (
         <div className="mt-5 space-y-5">
@@ -42,11 +61,16 @@ export function DealDetail({ deal, year, onClose, onCopy, copiedCode }: DealDeta
               <h3 className="mb-2 text-sm font-medium">Coupon codes</h3>
               <div className="flex flex-wrap gap-2">
                 {deal.couponCodes.map((code) => (
-                  <Button key={code} variant="outline" onClick={() => onCopy(code)}>
+                  <Button
+                    key={code}
+                    variant="outline"
+                    onClick={() => onCopy(code)}
+                    className="focus-visible:outline-foreground"
+                  >
                     <code className="text-sm">{code}</code>
                     <Copy aria-hidden="true" />
                     <span className="sr-only">Copy coupon</span>
-                    {copiedCode === code && <span className="text-sm text-offer">Copied</span>}
+                    {copiedCode === code && <span className="text-sm text-foreground">Copied</span>}
                   </Button>
                 ))}
               </div>
@@ -63,16 +87,16 @@ export function DealDetail({ deal, year, onClose, onCopy, copiedCode }: DealDeta
             eligibility on the seller’s website.
           </p>
           <div className="flex flex-wrap gap-2 border-t border-border pt-5">
-            <a
-              className={buttonVariants({ variant: 'default', size: 'sm' })}
+            <ArrowLink
+              variant="primary"
+              className="min-h-9"
               href={deal.url}
               target="_blank"
               rel="noopener noreferrer sponsored"
             >
               Get deal
               <span className="sr-only">from {deal.name} (opens in a new tab)</span>
-              <ArrowUpRight aria-hidden="true" />
-            </a>
+            </ArrowLink>
             <a
               className={buttonVariants({ variant: 'ghost', size: 'sm' })}
               href={buildSuggestionUrl(deal, year)}

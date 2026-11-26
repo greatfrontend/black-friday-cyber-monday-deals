@@ -31,12 +31,30 @@ function printSummary(command, catalogs) {
   console.log(`${command}: ${dealCount} deals across ${catalogs.length} catalogs passed.`);
 }
 
+// A reminder, not a failure: checks must not start failing because a date passed.
+function printOverdueSponsorships(catalogs) {
+  const today = new Date().toISOString().slice(0, 10);
+
+  for (const { year, sponsorship } of catalogs) {
+    if (sponsorship?.status === 'active' && sponsorship.endsOn < today) {
+      console.warn(
+        `Reminder: ${year} sponsorships ended on ${sponsorship.endsOn}. ` +
+          `Set "status" to "ended" in data/sponsors/${year}.json and run data:sync.`,
+      );
+    }
+  }
+}
+
 async function main() {
   const command = parseCommand(process.argv.slice(2));
   const catalogs = await readCatalogs();
 
   await runCommand(command, catalogs);
   printSummary(command, catalogs);
+
+  if (command === 'check') {
+    printOverdueSponsorships(catalogs);
+  }
 }
 
 try {
