@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "macOS App Development: The SwiftUI Way",
+  "url": "https://gracehuang.gumroad.com/l/macos-app-dev-swiftui/BLACKFRIDAY26",
+  "categories": [
+    "books-for-developers-and-software-engineers"
+  ],
+  "description": "A practical guide to building macOS apps with SwiftUI",
+  "offer": "40% off with code **BLACKFRIDAY26**",
+  "couponCodes": [
+    "BLACKFRIDAY26"
+  ],
+  "validity": "Ends Dec 2",
+  "latest": true,
+  "addedAt": "2026-11-27T14:29:05+08:00"
+}

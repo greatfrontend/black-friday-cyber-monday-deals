@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Nail A Coding Interview: Six-Step Mental Framework",
+  "url": "https://gracehuang.gumroad.com/l/coding-interview/BLACKFRIDAY26",
+  "categories": [
+    "books-for-developers-and-software-engineers"
+  ],
+  "description": "A practical guide with a six-step mental framework to help candidates outperform in coding interviews",
+  "offer": "40% off with code **BLACKFRIDAY26**",
+  "couponCodes": [
+    "BLACKFRIDAY26"
+  ],
+  "validity": "Ends Dec 2",
+  "latest": true,
+  "addedAt": "2026-11-27T14:29:05+08:00"
+}
