@@ -1,16 +1,16 @@
 {
   "$schema": "../../product.schema.json",
   "name": "Next.js Templates",
-  "url": "https://nextjs-templates.com/",
+  "url": "https://getnextjstemplates.com/",
   "categories": [
     "ui-kits-starter-kits"
   ],
   "description": "Next.js Templates for Your Upcoming Projects",
-  "offer": "**BLFCM2026** - up to 80% off all products",
+  "offer": "**BFCM** - 40% off all templates",
   "couponCodes": [
-    "BLFCM2026"
+    "BFCM"
   ],
-  "validity": "Ends about Dec 2",
+  "validity": "Ends about Dec 1",
   "latest": true,
   "order": 17
 }

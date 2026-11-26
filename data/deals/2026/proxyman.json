@@ -1,7 +1,7 @@
 {
   "$schema": "../../product.schema.json",
   "name": "Proxyman",
-  "url": "https://proxyman.io/",
+  "url": "https://proxyman.com/",
   "categories": [
     "developer-tools"
   ],

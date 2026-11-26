@@ -6,11 +6,9 @@
     "ui-kits-starter-kits"
   ],
   "description": "Official templates made by daisyUI",
-  "offer": "**BF26TZXLP** - up to 45% off, the discount drops each day",
-  "couponCodes": [
-    "BF26TZXLP"
-  ],
-  "validity": "-",
+  "offer": "A new code every day; the discount drops 5% a day (25% off on Nov 26). Find the current code in the banner on the store page",
+  "couponCodes": [],
+  "validity": "Ends Dec 1 (00:00 UTC)",
   "latest": true,
   "order": 19
 }

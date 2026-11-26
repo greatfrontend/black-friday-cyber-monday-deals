@@ -19,7 +19,7 @@ We'd greatly appreciate if you could:
 - ♻️ Share this repo with your friends so more people benefit and contribute
 - 📖 Bookmark this page to help the community discover the best deals
 
-**Deals last checked: 23 Nov 2026.** Offers change fast, so check the seller's own page before you buy.
+**Deals last checked: 26 Nov 2026.** Offers change fast, so check the seller's own page before you buy.
 
 ---
 
@@ -72,10 +72,10 @@ We'd greatly appreciate if you could:
 | [The Joy of React](https://www.joyofreact.com/?ref=greatfrontend) | The interactive learning experience that teaches you how to build rich, dynamic web apps with React | Ultimate $349 (was $599), Pro $299 (was $399), Basic $209 (was $249) | Ends about Dec 2 | ✅ |
 | [CSS for JavaScript Developers](https://css-for-js.dev/?ref=greatfrontend) | The interactive learning experience designed to help JavaScript developers become confident with CSS | Ultimate $239 (was $399), Pro $219 (was $279), Basic $129 (was $149) | Ends about Dec 2 | ✅ |
 | [Joy for JavaScript Developers](https://www.joyforjs.com/?ref=greatfrontend) | Develop a deep understanding of CSS and React with two flagship courses, CSS for JavaScript Developers and The Joy of React. | Black Friday sale: bundle $498, more than 60% off | Ends about Dec 3 | ✅ |
-| [VueSchool](https://vueschool.io/) | Learn Vue.js and modern, cutting-edge front-end technologies from core-team members and industry experts with our premium tutorials and video courses | Early Bird: 87% off, $149 instead of $1,200 (Premium, Unlearn.dev, Mastering Nuxt, Mastering Pinia) | Ends Nov 24 | ✅ |
+| [VueSchool](https://vueschool.io/) | Learn Vue.js and modern, cutting-edge front-end technologies from core-team members and industry experts with our premium tutorials and video courses | Black Friday: up to 55% off; Yearly $149 (was $300), Lifetime $499 (was $900) | Ends Dec 1 | ✅ |
 | [Zero To Mastery](https://zerotomastery.io/courses/) | The most up-to-date tech courses online. | **BFCM26** - 66% off annual membership, plus a MacBook Pro giveaway | - | ✅ |
 | [Code With Mosh](https://codewithmosh.com/) | High-quality video courses on programming, web development, and software engineering fundamentals | Black Friday Sale 2026: lifetime access $199 (was $499), single courses also discounted | Ends about Dec 1 | ✅ |
-| [LabEx](https://labex.io/learn) | Learn Linux, DevOps & Cybersecurity with Hands-on Labs | Black Friday 2026: **2026BF30** - 30% off or **2026BF50** - 50% off | - | ✅ |
+| [LabEx](https://labex.io/learn) | Learn Linux, DevOps & Cybersecurity with Hands-on Labs | Black Friday 2026: **2026BF30** - 30% off or **2026BF50** - 50% off | Ends about Nov 28 | ✅ |
 | [CSS Demystified](https://thecascade.dev/courses/css-demystified) | Courses on CSS by Kevin Powell, easy to follow and in-depth explanations | CSS Demystified: 32% off ($249 to $169), applied automatically | Ends Dec 1 | ✅ |
 | [AlgoExpert](https://www.algoexpert.io/purchase) | Coding and system design interview prep platform with video explanations. | Black Friday sale: bundle of 7 products for over 80% off | Countdown on page (about 2 days left on Nov 26) | ✅ |
 | [Angular University](https://angular-university.io/) | Courses on Angular, TypeScript and RxJS. | All courses 50% off: $64 for the first year | Ends Tue Dec 1 | ✅ |
@@ -100,11 +100,11 @@ We'd greatly appreciate if you could:
 
 | **Name** | **Description** | **Deal details** | **Validity** | **Latest** |
 | :- | :- | :- | :- | :- |
-| [Next.js Templates](https://nextjs-templates.com/) | Next.js Templates for Your Upcoming Projects | **BLFCM2026** - up to 80% off all products | Ends about Dec 2 | ✅ |
+| [Next.js Templates](https://getnextjstemplates.com/) | Next.js Templates for Your Upcoming Projects | **BFCM** - 40% off all templates | Ends about Dec 1 | ✅ |
 | [TailGrids](https://tailgrids.com/) | Tailwind CSS UI Components, Blocks and Templates | **BLFCM2026** - up to 80% off all products | Ends about Dec 2 | ✅ |
-| [daisyUI](https://daisyui.com/store/) | Official templates made by daisyUI | **BF26TZXLP** - up to 45% off, the discount drops each day | - | ✅ |
+| [daisyUI](https://daisyui.com/store/) | Official templates made by daisyUI | A new code every day; the discount drops 5% a day (25% off on Nov 26). Find the current code in the banner on the store page | Ends Dec 1 (00:00 UTC) | ✅ |
 | [TailAdmin](https://tailadmin.com/) | Open source Tailwind CSS Admin Dashboard Template | **BLFCM2026** - up to 80% off all products | - | ✅ |
-| [FormBold](https://formbold.com/) | A complete web form solution that includes a form API, backend, and builder. Get website form submissions directly to your inbox, Slack, Sheet, Notion, Telegram and more | **BLFCM2026** - up to 80% off all products | Ends about Dec 2 | ✅ |
+| [FormBold](https://formbold.com/) | A complete web form solution that includes a form API, backend, and builder. Get website form submissions directly to your inbox, Slack, Sheet, Notion, Telegram and more | **BLFCM2026** - up to 80% off all products | Ends Dec 1, 23:59 UTC | ✅ |
 | [UIDeck](https://uideck.com/) | 100+ High-quality templates, landing pages, and UI kits for startups and SaaS businesses | **BLFCM2026** - up to 80% off all products | Ends about Dec 2 | ✅ |
 | [MDB Bootstrap Pro/Bundle](https://mdbootstrap.com/) | MDB - Material Design for Bootstrap v5 | MDB AI Bundle $149, 30% off other offers, code **BF2026** | - | ✅ |
 | [Aceternity UI Pro](https://ui.aceternity.com/pricing) | Premium animated blocks and landing page templates built with Next.js, Tailwind CSS and Motion. | 30% off all plans with code **BLACKFRIDAY30** | Countdown on page (4 days 5 hours left on Nov 26) | ✅ |
@@ -133,7 +133,7 @@ We'd greatly appreciate if you could:
 | :- | :- | :- | :- | :- |
 | [GitKraken](https://www.gitkraken.com/pricing) | Devtools that simplify & supercharge Git | **BLACKFRIDAY2026** - 60% off the first year | - | ✅ |
 | [LocalCan](https://www.localcan.com/) | Develop apps with Public URLs and .local domains | **BF50** - 50% off the first year of Solo or Pro yearly | Ends Dec 1 | ✅ |
-| [Proxyman](https://proxyman.io/) | Best-in-class native macOS app to capture, decrypt, and mock your HTTP(s) requests/ responses with powerful debugging tools | **BF2026** - 30% off, this week only | - | ✅ |
+| [Proxyman](https://proxyman.com/) | Best-in-class native macOS app to capture, decrypt, and mock your HTTP(s) requests/ responses with powerful debugging tools | **BF2026** - 30% off, this week only | - | ✅ |
 | [BucketMate](https://bucketmate.app/pricing?ref=greatfrontend) | A Finder-style S3-compatible manager for macOS. | **BF2026** - 40% off lifetime licenses | - | ✅ |
 | [RunJS](https://runjs.app/) | The JavaScript playground for your desktop | **BLACKFRIDAY2026** - 30% off | Ends about Dec 2 | ✅ |
 | [Kinsta](https://kinsta.com/black-friday/) | Managed WordPress hosting, also application, database and static site hosting | 50% off monthly plans for 3 months, 3 months free on annual plans | Ends Dec 1 | ✅ |
@@ -157,7 +157,7 @@ We'd greatly appreciate if you could:
 
 | **Name** | **Description** | **Deal details** | **Validity** | **Latest** |
 | :- | :- | :- | :- | :- |
-| [LabEx](https://labex.io/learn) | Learn Linux, DevOps & Cybersecurity with Hands-on Labs | Black Friday 2026: **2026BF30** - 30% off or **2026BF50** - 50% off | - | ✅ |
+| [LabEx](https://labex.io/learn) | Learn Linux, DevOps & Cybersecurity with Hands-on Labs | Black Friday 2026: **2026BF30** - 30% off or **2026BF50** - 50% off | Ends about Nov 28 | ✅ |
 | [Nil Coalescing Swift and SwiftUI books](https://nilcoalescing.com/black-friday) | In-depth ebooks on SwiftUI, Swift Charts and the Swift language by Natalia Panferova, plus the SwiftFairy code review tool. | 30% off all books ($35 to $25 each), SwiftFairy and apps | Nov 18 to Dec 2 | ✅ |
 | [macOS Apps Step by Step and Escape from Tutorial Hell](https://troz.net/post/2026/black_friday_2026/) | Self-published Swift and macOS development books by Sarah Reichelt, with lifetime updates. | 30% off both books | Until Dec 3 | ✅ |
 
@@ -194,7 +194,6 @@ We'd greatly appreciate if you could:
 
 | **Name** | **Description** | **Deal details** | **Validity** | **Latest** |
 | :- | :- | :- | :- | :- |
-| [Design for Developers](https://www.enhanceui.com/?ref=greatfrontend) | Learn design as a developer to improve your UI, UX, to make apps and websites look great! | **BLACKFRIDAY24** | - |  |
 | [Flux Academy](https://www.flux-academy.com) | Web design training; its AI Web Design Collection bundles its AI trainings for web designers with lifetime access. | 75% off the AI Web Design Collection | - | ✅ |
 | [Piccalilli courses](https://piccalil.li/black-friday/) | Courses on CSS, JavaScript and UI design by Andy Bell and others. | 50% off every course | Nov 23 to Dec 4 | ✅ |
 | [Supercharge Design](https://supercharge.design/black-friday) | Video courses and resources on UI/UX design, from fundamentals to design systems. | $400 off Lifetime All-access; courses from $99 | Ends Nov 30, 11:59 PM Pacific | ✅ |
