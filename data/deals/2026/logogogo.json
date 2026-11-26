@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "LogoGoGo",
+  "url": "https://logogogo.app/",
+  "categories": [
+    "design-kits"
+  ],
+  "description": "Turn 1 master SVG logo into every color variation, vector/PNG/favicon export, and a permanent branded client delivery portal.",
+  "offer": "50% off Annual Pro ($95/yr, reg $190) and Studio ($245/yr, reg $490) plans with code **BF50**",
+  "couponCodes": [
+    "BF50"
+  ],
+  "validity": "Nov 26 to Nov 30, 2026",
+  "latest": true
+}
