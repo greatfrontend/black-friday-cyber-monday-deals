@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "TablePro",
+  "url": "https://tablepro.app/black-friday",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Native database client for macOS covering PostgreSQL, MySQL, SQLite, Redis, MongoDB and more.",
+  "offer": "40% off Pro one-time ($79 to $47.40) and the first year of Pro yearly ($39 to $23.40) with code **BLACKFRIDAY2026**",
+  "couponCodes": [
+    "BLACKFRIDAY2026"
+  ],
+  "validity": "Ends Dec 1, 2026, 8:00 AM UTC",
+  "latest": true
+}

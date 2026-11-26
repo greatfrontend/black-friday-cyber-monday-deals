@@ -1,0 +1,13 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Pluralsight",
+  "url": "https://www.pluralsight.com/individuals/pricing",
+  "categories": [
+    "courses"
+  ],
+  "description": "Tech skills platform with courses, paths and certification prep for developers.",
+  "offer": "60% off new Individual plans, applied automatically at checkout",
+  "couponCodes": [],
+  "validity": "Ends Dec 6, 2026, 11:59 p.m. ET",
+  "latest": true
+}

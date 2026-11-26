@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Tailkits UI",
+  "url": "https://tailkits.com/ui/",
+  "categories": [
+    "ui-kits-starter-kits"
+  ],
+  "description": "237 Tailwind CSS sections in HTML and shadcn/React with MCP support.",
+  "offer": "60% off any plan, code **BLACKFRIDAY2026** applied automatically at checkout",
+  "couponCodes": [
+    "BLACKFRIDAY2026"
+  ],
+  "validity": "Until Dec 1",
+  "latest": true
+}

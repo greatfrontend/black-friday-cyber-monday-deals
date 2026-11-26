@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "QuasarUI",
+  "url": "https://www.quasarui.com/all-access",
+  "categories": [
+    "ui-kits-starter-kits"
+  ],
+  "description": "Paid UI components and templates with lifetime access and an MCP server for AI tools.",
+  "offer": "50% off for the first 50 customers with code **BF50PAY**, e.g. All Access $249 to $124.50",
+  "couponCodes": [
+    "BF50PAY"
+  ],
+  "validity": "First 50 customers (40/50 claimed on Nov 26)",
+  "latest": true
+}

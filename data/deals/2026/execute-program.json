@@ -1,0 +1,13 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Execute Program",
+  "url": "https://www.executeprogram.com/",
+  "categories": [
+    "courses"
+  ],
+  "description": "Interactive courses on TypeScript, JavaScript, Python, SQL and more, with spaced repetition.",
+  "offer": "40% off the monthly subscription for 12 months ($23.40 instead of $39/month)",
+  "couponCodes": [],
+  "validity": "-",
+  "latest": true
+}

@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "TablePlus",
+  "url": "https://tableplus.com/pricing",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Native GUI client for relational databases such as MySQL, PostgreSQL and SQLite.",
+  "offer": "25% off licenses with code **BLACK_FRIDAY_2026**",
+  "couponCodes": [
+    "BLACK_FRIDAY_2026"
+  ],
+  "validity": "-",
+  "latest": true
+}

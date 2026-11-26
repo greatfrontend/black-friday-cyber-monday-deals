@@ -1,0 +1,13 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Supercharge Design",
+  "url": "https://supercharge.design/black-friday",
+  "categories": [
+    "design-courses"
+  ],
+  "description": "Video courses and resources on UI/UX design, from fundamentals to design systems.",
+  "offer": "$400 off Lifetime All-access; courses from $99",
+  "couponCodes": [],
+  "validity": "Ends Nov 30, 11:59 PM Pacific",
+  "latest": true
+}

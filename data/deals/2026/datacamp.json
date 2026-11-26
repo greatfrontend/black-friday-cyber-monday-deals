@@ -1,0 +1,13 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "DataCamp",
+  "url": "https://www.datacamp.com/promo/biggest-annual-sale-26",
+  "categories": [
+    "courses"
+  ],
+  "description": "Online courses and career tracks in Python, SQL, data and AI.",
+  "offer": "60% off annual DataCamp Premium, Teams or DataLab Premium",
+  "couponCodes": [],
+  "validity": "Nov 11 to Nov 29, 2026 (countdown on page)",
+  "latest": true
+}

@@ -1,0 +1,13 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Flux Academy",
+  "url": "https://www.flux-academy.com",
+  "categories": [
+    "design-courses"
+  ],
+  "description": "Web design training; its AI Web Design Collection bundles its AI trainings for web designers with lifetime access.",
+  "offer": "75% off the AI Web Design Collection",
+  "couponCodes": [],
+  "validity": "-",
+  "latest": true
+}

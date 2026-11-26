@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "MakerKit",
+  "url": "https://makerkit.dev/pricing",
+  "categories": [
+    "ui-kits-starter-kits"
+  ],
+  "description": "SaaS starter kits for Next.js with Supabase, Drizzle or Prisma, sold as one-time licenses.",
+  "offer": "35% off the Supabase, Drizzle and Prisma kits with code **BLACKFRIDAY2026**",
+  "couponCodes": [
+    "BLACKFRIDAY2026"
+  ],
+  "validity": "-",
+  "latest": true
+}

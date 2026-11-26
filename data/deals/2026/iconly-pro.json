@@ -1,0 +1,13 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Iconly Pro",
+  "url": "https://iconly.pro/black-friday",
+  "categories": [
+    "design-kits"
+  ],
+  "description": "A library of 40,000+ flat, 3D and animated icons with a Figma plugin.",
+  "offer": "40% off all plans",
+  "couponCodes": [],
+  "validity": "Ends Nov 29",
+  "latest": true
+}

@@ -1,0 +1,13 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "TypingMind",
+  "url": "https://www.typingmind.com/",
+  "categories": [
+    "ai-powered-tools-for-developers"
+  ],
+  "description": "Chat interface for ChatGPT, Claude, Gemini and other models using your own API keys.",
+  "offer": "60% off Premium",
+  "couponCodes": [],
+  "validity": "Ends Nov 30",
+  "latest": true
+}

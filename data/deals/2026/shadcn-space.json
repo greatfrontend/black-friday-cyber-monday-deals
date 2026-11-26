@@ -1,0 +1,13 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Shadcn Space",
+  "url": "https://shadcnspace.com/pricing",
+  "categories": [
+    "ui-kits-starter-kits"
+  ],
+  "description": "Lifetime plans for shadcn/ui components, blocks, templates, an admin dashboard and a Figma kit.",
+  "offer": "40% off lifetime plans, e.g. Pro $399 to $199",
+  "couponCodes": [],
+  "validity": "Countdown on page",
+  "latest": true
+}

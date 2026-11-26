@@ -1,0 +1,13 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Buildkit for Astro",
+  "url": "https://astrobuildkit.com/pricing/",
+  "categories": [
+    "ui-kits-starter-kits"
+  ],
+  "description": "An Astro design system of blocks, backgrounds and color themes, with skills for Claude Code, Codex and Cursor.",
+  "offer": "47% off Solo and Team plans, applied automatically at checkout",
+  "couponCodes": [],
+  "validity": "Nov 23 to Dec 1, 2026",
+  "latest": true
+}

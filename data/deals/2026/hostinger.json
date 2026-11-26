@@ -1,0 +1,13 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Hostinger",
+  "url": "https://www.hostinger.com/black-friday",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Web hosting with WordPress, website builder and VPS plans.",
+  "offer": "Up to 85% off 48-month hosting plans, plus 2x Hostinger credits",
+  "couponCodes": [],
+  "validity": "-",
+  "latest": true
+}

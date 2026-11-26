@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "LeetCode Premium",
+  "url": "https://leetcode.com/subscribe/",
+  "categories": [
+    "technical-interviews-preparation"
+  ],
+  "description": "Coding interview practice platform; Premium adds company-tagged questions and solutions.",
+  "offer": "$30 off the annual subscription with code **THANKS2026**",
+  "couponCodes": [
+    "THANKS2026"
+  ],
+  "validity": "-",
+  "latest": true
+}

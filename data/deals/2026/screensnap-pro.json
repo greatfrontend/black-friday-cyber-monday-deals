@@ -1,0 +1,13 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "ScreenSnap Pro",
+  "url": "https://www.screensnap.pro/pricing",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Screenshot and screen recording app for Mac and Windows with annotation tools.",
+  "offer": "50% off the lifetime license ($39 to $19.50), no code needed",
+  "couponCodes": [],
+  "validity": "Ends Nov 30",
+  "latest": true
+}

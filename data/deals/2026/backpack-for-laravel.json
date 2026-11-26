@@ -1,0 +1,13 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Backpack for Laravel",
+  "url": "https://backpackforlaravel.com/black-friday",
+  "categories": [
+    "ui-kits-starter-kits"
+  ],
+  "description": "A Laravel admin panel toolkit for building CRUD interfaces.",
+  "offer": "50% off your first year, or 30% off forever, on the SILVER and GOLD plans",
+  "couponCodes": [],
+  "validity": "Ends Dec 1",
+  "latest": true
+}

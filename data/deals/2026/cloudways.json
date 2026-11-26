@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Cloudways",
+  "url": "https://www.cloudways.com/en/",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Managed cloud hosting for WordPress, PHP and Node.js apps.",
+  "offer": "80% off the first 2 months for new accounts with code **BFCM802**, up to $200 off per month",
+  "couponCodes": [
+    "BFCM802"
+  ],
+  "validity": "Sign up by Dec 4",
+  "latest": true
+}

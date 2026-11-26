@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "1bench",
+  "url": "https://1bench.dev/black-friday",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Desktop database GUI for 25+ SQL, NoSQL, vector and search databases on Mac, Windows and Linux.",
+  "offer": "50% off Solo Lifetime ($199 to $99) with code **FCBF26**",
+  "couponCodes": [
+    "FCBF26"
+  ],
+  "validity": "Nov 14 to Dec 7, 2026",
+  "latest": true
+}

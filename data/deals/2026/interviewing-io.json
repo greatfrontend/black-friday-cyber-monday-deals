@@ -1,0 +1,13 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "interviewing.io",
+  "url": "https://iio.sh/r/DMCa",
+  "categories": [
+    "technical-interviews-preparation"
+  ],
+  "description": "Anonymous mock interviews and coaching with engineers from top companies",
+  "offer": "$200 to $700 off 5 and 10 session dedicated coaching packages",
+  "couponCodes": [],
+  "validity": "Ends Nov 30, 11:59 PM PT",
+  "latest": true
+}

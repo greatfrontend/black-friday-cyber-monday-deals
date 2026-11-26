@@ -1,0 +1,13 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Polypane",
+  "url": "https://polypane.app/black-friday/",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Browser for web developers that shows many screen sizes and devices in sync, with accessibility and SEO tools.",
+  "offer": "25% off yearly Business seats and 22% off yearly Individual plans",
+  "couponCodes": [],
+  "validity": "Ends Tue Dec 1, end of day",
+  "latest": true
+}

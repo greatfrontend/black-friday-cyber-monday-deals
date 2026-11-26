@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Get Illustrations",
+  "url": "https://getillustrations.com/black-friday",
+  "categories": [
+    "design-kits"
+  ],
+  "description": "A library of 400+ hand-drawn vector illustration packs for websites and apps.",
+  "offer": "40% off All Access plans, collections and single packs with code **BLACKFRIDAY30**",
+  "couponCodes": [
+    "BLACKFRIDAY30"
+  ],
+  "validity": "-",
+  "latest": true
+}

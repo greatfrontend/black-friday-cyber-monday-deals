@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Fixa",
+  "url": "https://fixa.dev/black-friday",
+  "categories": [
+    "ai-powered-tools-for-developers"
+  ],
+  "description": "AI software engineer that takes a GitHub issue, writes the fix and a test, and opens a pull request.",
+  "offer": "50% off the first year of a yearly plan (Starter $96 to $48) with code **BLACKFRIDAY**, applied at checkout",
+  "couponCodes": [
+    "BLACKFRIDAY"
+  ],
+  "validity": "Until Dec 1",
+  "latest": true
+}

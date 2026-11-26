@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "AlgoExpert",
+  "url": "https://www.algoexpert.io/purchase",
+  "categories": [
+    "technical-interviews-preparation",
+    "courses"
+  ],
+  "description": "Coding and system design interview prep platform with video explanations.",
+  "offer": "Black Friday sale: bundle of 7 products for over 80% off",
+  "couponCodes": [],
+  "validity": "Countdown on page (about 2 days left on Nov 26)",
+  "latest": true
+}

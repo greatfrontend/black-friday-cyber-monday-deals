@@ -1,0 +1,13 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Getastrothemes",
+  "url": "https://getastrothemes.com/",
+  "categories": [
+    "ui-kits-starter-kits"
+  ],
+  "description": "Premium Astro website themes for SaaS, agencies and businesses, sold as all-access bundles.",
+  "offer": "40% to 50% off all-access plans, e.g. Pro lifetime $399 to $199",
+  "couponCodes": [],
+  "validity": "Ends Nov 30",
+  "latest": true
+}

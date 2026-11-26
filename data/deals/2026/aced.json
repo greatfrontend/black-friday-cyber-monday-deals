@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Aced (formerly Exponent)",
+  "url": "https://www.aced.io/?ref=techinterviewhandbook",
+  "categories": [
+    "technical-interviews-preparation"
+  ],
+  "description": "Interview prep for software engineering, PM and tech roles, including mock interview practice",
+  "offer": "40% off any plan with code **CYBER40**",
+  "couponCodes": [
+    "CYBER40"
+  ],
+  "validity": "-",
+  "latest": true
+}

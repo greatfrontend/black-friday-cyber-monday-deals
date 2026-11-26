@@ -1,0 +1,13 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Hugeicons",
+  "url": "https://hugeicons.com/pricing",
+  "categories": [
+    "design-kits"
+  ],
+  "description": "An icon library of 40,000+ icons in several styles, with packages for React, Vue, Angular, Flutter and Figma.",
+  "offer": "40% off Pro Plus in a year-end sale (one-time payment)",
+  "couponCodes": [],
+  "validity": "Ends Dec 31 (countdown on page)",
+  "latest": true
+}

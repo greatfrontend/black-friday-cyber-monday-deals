@@ -1,0 +1,13 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Udemy",
+  "url": "https://www.udemy.com/",
+  "categories": [
+    "courses"
+  ],
+  "description": "Marketplace of video courses, including programming and web development.",
+  "offer": "Courses from $11.99; 40% off the Team Plan",
+  "couponCodes": [],
+  "validity": "Courses offer ends Nov 27; Team Plan offer through Dec 21",
+  "latest": true
+}

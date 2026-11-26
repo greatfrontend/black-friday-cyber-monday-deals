@@ -1,0 +1,13 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "SaaSykit",
+  "url": "https://saasykit.com/",
+  "categories": [
+    "ui-kits-starter-kits"
+  ],
+  "description": "A Laravel SaaS starter kit with subscriptions, payments, admin panel and user dashboard.",
+  "offer": "50% off all plans, e.g. SaaSykit $239 to $119.50",
+  "couponCodes": [],
+  "validity": "-",
+  "latest": true
+}

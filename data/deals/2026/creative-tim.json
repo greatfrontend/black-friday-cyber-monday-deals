@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Creative Tim",
+  "url": "https://www.creative-tim.com/ui/black-friday-2026",
+  "categories": [
+    "ui-kits-starter-kits",
+    "ai-powered-tools-for-developers"
+  ],
+  "description": "UI kits, templates and AI app-building kits; the Black Friday bundle includes AI kits, templates and App Builder credits.",
+  "offer": "Black Friday bundles from $129 one-time (up to 79% off), limited quantity",
+  "couponCodes": [],
+  "validity": "Through Nov 29",
+  "latest": true
+}

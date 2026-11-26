@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Aceternity UI Pro",
+  "url": "https://ui.aceternity.com/pricing",
+  "categories": [
+    "ui-kits-starter-kits"
+  ],
+  "description": "Premium animated blocks and landing page templates built with Next.js, Tailwind CSS and Motion.",
+  "offer": "30% off all plans with code **BLACKFRIDAY30**",
+  "couponCodes": [
+    "BLACKFRIDAY30"
+  ],
+  "validity": "Countdown on page (4 days 5 hours left on Nov 26)",
+  "latest": true
+}

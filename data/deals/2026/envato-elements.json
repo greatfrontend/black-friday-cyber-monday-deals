@@ -1,0 +1,13 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Envato Elements",
+  "url": "https://elements.envato.com/pricing",
+  "categories": [
+    "design-kits"
+  ],
+  "description": "A subscription to unlimited downloads of templates, UI kits, fonts, graphics, mockups and stock media.",
+  "offer": "Up to 40% off all plans (except Enterprise) for the first 12 months, applied automatically",
+  "couponCodes": [],
+  "validity": "Ends Dec 1, 10:00 AM UTC",
+  "latest": true
+}

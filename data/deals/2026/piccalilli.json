@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Piccalilli courses",
+  "url": "https://piccalil.li/black-friday/",
+  "categories": [
+    "courses",
+    "design-courses"
+  ],
+  "description": "Courses on CSS, JavaScript and UI design by Andy Bell and others.",
+  "offer": "50% off every course",
+  "couponCodes": [],
+  "validity": "Nov 23 to Dec 4",
+  "latest": true
+}

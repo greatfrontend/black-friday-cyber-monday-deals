@@ -1,0 +1,13 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Tailkit",
+  "url": "https://tailkit.com/pricing",
+  "categories": [
+    "ui-kits-starter-kits"
+  ],
+  "description": "A library of 2,000+ Tailwind CSS UI components, templates and starter kits with an MCP server, sold as a lifetime license.",
+  "offer": "60% off Developer, Unlimited and Team plans, applied automatically at checkout",
+  "couponCodes": [],
+  "validity": "Nov 23 to Dec 1, 2026",
+  "latest": true
+}

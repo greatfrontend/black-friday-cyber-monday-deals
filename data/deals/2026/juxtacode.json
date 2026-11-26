@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "JuxtaCode",
+  "url": "https://juxtacode.app/black-friday/",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Git diff and merge tool for macOS.",
+  "offer": "40% off ($40 to $24 one-time) with code **BLACKFRIDAY26**",
+  "couponCodes": [
+    "BLACKFRIDAY26"
+  ],
+  "validity": "Nov 20 to Dec 1, 2026 (US Pacific)",
+  "latest": true
+}

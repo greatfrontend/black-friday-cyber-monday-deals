@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Static.app",
+  "url": "https://static.app/black-friday",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Static website hosting with custom domains and free SSL.",
+  "offer": "40% off every plan (first year on yearly, first month on monthly) with code **BLACKFRIDAY40**",
+  "couponCodes": [
+    "BLACKFRIDAY40"
+  ],
+  "validity": "Nov 16 to Dec 1 (countdown on page)",
+  "latest": true
+}

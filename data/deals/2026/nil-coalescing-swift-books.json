@@ -1,0 +1,13 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Nil Coalescing Swift and SwiftUI books",
+  "url": "https://nilcoalescing.com/black-friday",
+  "categories": [
+    "books-for-developers-and-software-engineers"
+  ],
+  "description": "In-depth ebooks on SwiftUI, Swift Charts and the Swift language by Natalia Panferova, plus the SwiftFairy code review tool.",
+  "offer": "30% off all books ($35 to $25 each), SwiftFairy and apps",
+  "couponCodes": [],
+  "validity": "Nov 18 to Dec 2",
+  "latest": true
+}

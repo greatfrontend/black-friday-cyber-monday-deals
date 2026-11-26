@@ -1,0 +1,13 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Craftwork",
+  "url": "https://craftwork.design",
+  "categories": [
+    "design-kits"
+  ],
+  "description": "A marketplace of 3,900+ Figma UI kits, Framer templates, fonts, icons and 3D packs, with one plan that unlocks all of them.",
+  "offer": "Lifetime Pro for $224 instead of $449, or a year for $74",
+  "couponCodes": [],
+  "validity": "Ends Nov 30",
+  "latest": true
+}

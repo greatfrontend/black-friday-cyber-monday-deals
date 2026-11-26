@@ -1,0 +1,13 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Flowbite Pro",
+  "url": "https://flowbite.com/black-friday/",
+  "categories": [
+    "ui-kits-starter-kits"
+  ],
+  "description": "Tailwind CSS UI components, blocks and Figma design system.",
+  "offer": "Free one year TypeUI Creative subscription with a Flowbite Pro purchase (prices unchanged), limited to 250 Standard and 50 Team licenses",
+  "couponCodes": [],
+  "validity": "Ends Dec 3, 2026, 23:59 EET",
+  "latest": true
+}

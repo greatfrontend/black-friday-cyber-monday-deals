@@ -1,0 +1,13 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Creative Market",
+  "url": "https://creativemarket.com/finds/black-friday-cyber-monday-sale",
+  "categories": [
+    "design-kits"
+  ],
+  "description": "A marketplace of fonts, graphics, templates and illustrations sold by independent creators.",
+  "offer": "Cyber Sale: 10%, 20% and 30% off participating fonts, graphics and templates, up to 30% off select assets Nov 30 to Dec 2",
+  "couponCodes": [],
+  "validity": "Nov 24 to Dec 4, 2026",
+  "latest": true
+}

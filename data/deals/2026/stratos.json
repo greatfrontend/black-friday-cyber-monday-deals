@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Stratos",
+  "url": "https://stratosapp.dev/buy/",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Native macOS local development environment for PHP, Laravel, WordPress and Node.js without Docker.",
+  "offer": "20% off all paid plans with code **BFCM20** (Founder Lifetime $89 to $71.20, Pro Annual $39 to $31.20)",
+  "couponCodes": [
+    "BFCM20"
+  ],
+  "validity": "Nov 15 to Nov 30, 2026",
+  "latest": true
+}

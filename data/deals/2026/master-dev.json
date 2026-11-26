@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Master.dev (formerly Frontend Masters)",
+  "url": "https://master.dev/",
+  "categories": [
+    "courses"
+  ],
+  "description": "Video courses on frontend, full stack and AI engineering taught by working engineers.",
+  "offer": "40% off the first month with code **black2026**",
+  "couponCodes": [
+    "black2026"
+  ],
+  "validity": "Countdown on page (about 4 days left on Nov 26)",
+  "latest": true
+}

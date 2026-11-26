@@ -1,0 +1,13 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "macOS Apps Step by Step and Escape from Tutorial Hell",
+  "url": "https://troz.net/post/2026/black_friday_2026/",
+  "categories": [
+    "books-for-developers-and-software-engineers"
+  ],
+  "description": "Self-published Swift and macOS development books by Sarah Reichelt, with lifetime updates.",
+  "offer": "30% off both books",
+  "couponCodes": [],
+  "validity": "Until Dec 3",
+  "latest": true
+}

@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "shadcncraft",
+  "url": "https://shadcncraft.com",
+  "categories": [
+    "design-kits",
+    "ui-kits-starter-kits"
+  ],
+  "description": "A shadcn/ui design system with a Figma file covering all shadcn styles plus matching React components and full app templates.",
+  "offer": "40% off everything (bundles, licences and upgrades), applied at checkout with no code",
+  "couponCodes": [],
+  "validity": "Ends Dec 1",
+  "latest": true
+}

@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "TheCodeMan (.NET and AI courses)",
+  "url": "https://thecodeman.net/black-friday",
+  "categories": [
+    "courses"
+  ],
+  "description": ".NET and AI-for-developers courses, ebooks and community by Stefan Djokic.",
+  "offer": "Everything 40% off with code **BF26** (applied automatically)",
+  "couponCodes": [
+    "BF26"
+  ],
+  "validity": "Until Dec 1, 23:59 CET",
+  "latest": true
+}

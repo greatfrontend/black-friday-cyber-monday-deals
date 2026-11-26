@@ -1,0 +1,13 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "HTTP Toolkit",
+  "url": "https://httptoolkit.com/pricing/",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Open source tool for intercepting, debugging and testing HTTP(S) traffic.",
+  "offer": "Lifetime Pro account for the price of 2 years",
+  "couponCodes": [],
+  "validity": "Until Dec 1",
+  "latest": true
+}

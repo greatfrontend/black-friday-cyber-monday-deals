@@ -1,0 +1,13 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "CodedVisuals",
+  "url": "https://codedvisuals.com/pricing",
+  "categories": [
+    "ui-kits-starter-kits"
+  ],
+  "description": "Animated coded visuals for React marketing pages, built with Motion and themed by shadcn/ui.",
+  "offer": "40% off Solo and Team plans, applied automatically at checkout",
+  "couponCodes": [],
+  "validity": "Nov 23 to Dec 1, 2026",
+  "latest": true
+}

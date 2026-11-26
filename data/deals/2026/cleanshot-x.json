@@ -1,0 +1,13 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "CleanShot X",
+  "url": "https://cleanshot.com/pricing",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Screenshot and screen recording app for Mac.",
+  "offer": "30% off CleanShot Basic ($35 to $24.50) and 50% off the first year of CleanShot Pro, no code needed",
+  "couponCodes": [],
+  "validity": "-",
+  "latest": true
+}

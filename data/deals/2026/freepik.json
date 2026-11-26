@@ -1,0 +1,13 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Freepik (Magnific)",
+  "url": "https://www.magnific.com/pricing",
+  "categories": [
+    "design-kits"
+  ],
+  "description": "A stock library of vectors, photos, icons and PSD files with AI image and video tools, now sold under the Magnific name.",
+  "offer": "Up to 62% off annual plans plus gift AI credits; Business plans from 3 seats up to 40% off",
+  "couponCodes": [],
+  "validity": "Ends Dec 1, 08:00 CET",
+  "latest": true
+}

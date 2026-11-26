@@ -1,0 +1,13 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Iconscout",
+  "url": "https://iconscout.com/pricing",
+  "categories": [
+    "design-kits"
+  ],
+  "description": "A library of icons, illustrations, 3D assets and Lottie animations with Figma and other design tool plugins.",
+  "offer": "50% off the Individual plan (unlimited downloads plus AI tools)",
+  "couponCodes": [],
+  "validity": "Countdown on page (showed 0 days 22 hours left on Nov 26)",
+  "latest": true
+}

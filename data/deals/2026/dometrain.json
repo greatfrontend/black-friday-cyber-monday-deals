@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Dometrain",
+  "url": "https://dometrain.com/",
+  "categories": [
+    "courses",
+    "technical-interviews-preparation"
+  ],
+  "description": "Developer courses with hands-on exercises, system design practice and AI mock interviews.",
+  "offer": "40% off Pro and Lite for as long as you stay subscribed, plus 40% off courses and interview packs, with code **BLACKFRIDAY26**",
+  "couponCodes": [
+    "BLACKFRIDAY26"
+  ],
+  "validity": "-",
+  "latest": true
+}

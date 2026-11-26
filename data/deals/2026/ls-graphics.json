@@ -1,0 +1,13 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "ls.graphics",
+  "url": "https://www.ls.graphics",
+  "categories": [
+    "design-kits"
+  ],
+  "description": "A library of 3D device and branding mockups with browser mockup editors and a Figma plugin.",
+  "offer": "50% off everything, discount already applied at checkout",
+  "couponCodes": [],
+  "validity": "Ends Dec 1",
+  "latest": true
+}

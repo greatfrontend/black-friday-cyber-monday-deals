@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Udacity",
+  "url": "https://www.udacity.com/",
+  "categories": [
+    "courses"
+  ],
+  "description": "Project-based programs in AI, programming, data and cloud.",
+  "offer": "55% off all programs with code **BF55**",
+  "couponCodes": [
+    "BF55"
+  ],
+  "validity": "-",
+  "latest": true
+}

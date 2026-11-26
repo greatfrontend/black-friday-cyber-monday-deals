@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Shadcnblocks",
+  "url": "https://www.shadcnblocks.com/pricing",
+  "categories": [
+    "ui-kits-starter-kits"
+  ],
+  "description": "Premium shadcn/ui blocks, components and templates for React and Tailwind, with lifetime access.",
+  "offer": "40% off all plans with code **SHADCNBLOCKSFRI40**",
+  "couponCodes": [
+    "SHADCNBLOCKSFRI40"
+  ],
+  "validity": "-",
+  "latest": true
+}

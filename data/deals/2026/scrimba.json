@@ -1,0 +1,13 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Scrimba Pro",
+  "url": "https://scrimba.com/pricing",
+  "categories": [
+    "courses"
+  ],
+  "description": "Interactive coding courses for frontend, full stack and AI engineering.",
+  "offer": "40% off Pro, forever (annual plan $14.70/month instead of $49)",
+  "couponCodes": [],
+  "validity": "Countdown on page (about 3 days 16 hours left on Nov 26)",
+  "latest": true
+}
