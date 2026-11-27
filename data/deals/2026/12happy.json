@@ -5,11 +5,12 @@
   "categories": [
     "developer-tools"
   ],
-  "description": "Uptime monitoring and status pages.",
-  "offer": "3 months of Pro free with code **BLACKFRIDAY**. No card, first 100 accounts",
+  "description": "Monitor website uptime, receive outage alerts, and publish status pages on your own domain.",
+  "offer": "3 months of Pro free for new and existing free accounts with code **BLACKFRIDAY**. No card required",
   "couponCodes": [
     "BLACKFRIDAY"
   ],
-  "validity": "Until Dec 1, 2026, 23:59 UTC",
-  "latest": true
+  "validity": "Ends Dec 1, 2026 at 23:59 UTC or after 100 redemptions, whichever comes first",
+  "latest": true,
+  "addedAt": "2026-11-27T13:22:05Z"
 }
