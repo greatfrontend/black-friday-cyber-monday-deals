@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "SuperSaas",
+  "url": "https://supersaas.dev/pricing",
+  "categories": [
+    "ui-kits-starter-kits"
+  ],
+  "description": "A Nuxt starter kit with authentication, billing and a database integration.",
+  "offer": "50% off with code **BF50PAY**. Essentials is $74.50 and the full bundle is $99.50, both one-time purchases.",
+  "couponCodes": [
+    "BF50PAY"
+  ],
+  "validity": "-",
+  "latest": true,
+  "addedAt": "2026-11-27T23:47:24+08:00"
+}

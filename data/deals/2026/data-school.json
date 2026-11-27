@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Data School",
+  "url": "https://courses.dataschool.io/",
+  "categories": [
+    "developer-courses"
+  ],
+  "description": "Courses on Python, pandas, machine learning and data analysis.",
+  "offer": "All-Access Pass for $99/year, down from $129/year",
+  "couponCodes": [],
+  "validity": "Through Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T23:47:24+08:00"
+}

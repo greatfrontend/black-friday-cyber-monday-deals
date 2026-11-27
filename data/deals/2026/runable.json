@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Runable",
+  "url": "https://runable.com/offers/black-friday",
+  "categories": [
+    "general-ai-tools"
+  ],
+  "description": "An AI workspace for generating documents, presentations, images and video.",
+  "offer": "75% off Pro: $5 for the first month or $60 for the first year, applied at checkout",
+  "couponCodes": [],
+  "validity": "-",
+  "latest": true,
+  "addedAt": "2026-11-27T23:47:24+08:00"
+}

@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Proton Mail",
+  "url": "https://proton.me/mail/black-friday",
+  "categories": [
+    "utilities",
+    "productivity-tools"
+  ],
+  "description": "Encrypted email with custom domains and aliases on paid plans.",
+  "offer": "Mail Plus is $29.88 for the first year for new users, then $47.88/year",
+  "couponCodes": [],
+  "validity": "Through Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T23:47:24+08:00"
+}

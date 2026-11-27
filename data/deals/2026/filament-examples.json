@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Filament Examples",
+  "url": "https://filamentexamples.com/projects",
+  "categories": [
+    "developer-courses",
+    "ui-kits-starter-kits"
+  ],
+  "description": "Laravel Filament sample projects with source code and walkthroughs.",
+  "offer": "50% off Yearly and Lifetime memberships, applied automatically at checkout",
+  "couponCodes": [],
+  "validity": "Through Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T23:47:24+08:00"
+}

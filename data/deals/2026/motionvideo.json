@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "MotionVideo",
+  "url": "https://motionvideo.xyz/pro",
+  "categories": [
+    "design-tools",
+    "general-ai-tools"
+  ],
+  "description": "A motion-design reference library with reusable prompts and tools for creating motion graphics.",
+  "offer": "30% off Pro annual and lifetime plans for new customers, applied at checkout. Annual plans renew at regular pricing.",
+  "couponCodes": [],
+  "validity": "Through Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T23:47:24+08:00"
+}

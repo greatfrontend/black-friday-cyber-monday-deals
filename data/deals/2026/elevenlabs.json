@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "ElevenLabs",
+  "url": "https://elevenlabs.io/black-friday-promo",
+  "categories": [
+    "general-ai-tools",
+    "ai-powered-tools-for-developers"
+  ],
+  "description": "Voice generation, dubbing and transcription tools with APIs for audio and voice agents.",
+  "offer": "Up to 55% off the first year of Creator and Pro annual plans. Creator is $99; existing Pro monthly subscribers get 50% off when switching to annual.",
+  "couponCodes": [],
+  "validity": "Nov 16 to Dec 1, 2026 at 11:59 PM ET",
+  "latest": true,
+  "addedAt": "2026-11-27T23:47:24+08:00"
+}

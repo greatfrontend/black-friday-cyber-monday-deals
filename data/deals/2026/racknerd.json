@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "RackNerd",
+  "url": "https://www.racknerd.com/BlackFriday/",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "VPS, shared hosting, reseller hosting and dedicated servers.",
+  "offer": "VPS from $15.98/year and shared hosting from $9.49/year, while supplies last",
+  "couponCodes": [],
+  "validity": "While supplies last",
+  "latest": true,
+  "addedAt": "2026-11-27T23:47:24+08:00"
+}

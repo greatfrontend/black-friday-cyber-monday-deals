@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "NordPass",
+  "url": "https://nordpass.com/black-friday/",
+  "categories": [
+    "utilities"
+  ],
+  "description": "A password manager for individuals, families and businesses.",
+  "offer": "Up to 50% off annual Personal plans and 3 extra months on eligible plans. Business and Enterprise teams of up to 30 seats get 20% off with **BF20OFF**.",
+  "couponCodes": [
+    "BF20OFF"
+  ],
+  "validity": "Through Dec 9, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T23:47:24+08:00"
+}

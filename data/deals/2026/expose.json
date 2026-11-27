@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Expose",
+  "url": "https://expose.dev/",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Share local sites and receive webhooks through public HTTPS tunnels.",
+  "offer": "25% off the first year: Pro $59 instead of $79, Team $169 instead of $229",
+  "couponCodes": [],
+  "validity": "Through Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T23:47:24+08:00"
+}

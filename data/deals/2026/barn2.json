@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Barn2",
+  "url": "https://barn2.com/black-friday/",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "WordPress and WooCommerce plugins for product catalogs, ordering and store management.",
+  "offer": "30% off with code **BF2026**, plus a buy-one-get-one-free plugin offer",
+  "couponCodes": [
+    "BF2026"
+  ],
+  "validity": "Through Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T23:47:24+08:00"
+}

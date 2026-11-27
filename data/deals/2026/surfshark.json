@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Surfshark",
+  "url": "https://surfshark.com/pricing",
+  "categories": [
+    "utilities"
+  ],
+  "description": "A VPN with support for unlimited devices and optional security tools.",
+  "offer": "Up to 88% off eligible two-year VPN plans in the US, plus 3 extra months. Prices vary by region.",
+  "couponCodes": [],
+  "validity": "-",
+  "latest": true,
+  "addedAt": "2026-11-27T23:47:24+08:00"
+}

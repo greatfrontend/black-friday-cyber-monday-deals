@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "PureVPN",
+  "url": "https://www.purevpn.com/vpn-deals/blackfriday",
+  "categories": [
+    "utilities"
+  ],
+  "description": "A VPN for desktop, mobile and other devices.",
+  "offer": "88% off the five-year plan, plus 3 extra months. The advertised $1.49/month plan costs $93.87 upfront.",
+  "couponCodes": [],
+  "validity": "Through Dec 2, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T23:47:24+08:00"
+}

@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Laravel Herd",
+  "url": "https://herd.laravel.com/",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "A local PHP and Laravel development environment for macOS and Windows.",
+  "offer": "Herd Pro is $69/year (was $99), and Herd for Teams is $199/year (was $299) for 10 licenses. A limited-time lifetime license is also available.",
+  "couponCodes": [],
+  "validity": "Through Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T23:47:24+08:00"
+}

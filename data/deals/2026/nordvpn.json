@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "NordVPN",
+  "url": "https://nordvpn.com/black-friday/",
+  "categories": [
+    "utilities"
+  ],
+  "description": "A VPN for encrypting internet traffic across devices.",
+  "offer": "Up to 78% off two-year plans, plus 3 extra months. Pricing varies by region.",
+  "couponCodes": [],
+  "validity": "Through Dec 9, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T23:47:24+08:00"
+}

@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Uneed",
+  "url": "https://www.uneed.best/lifetime",
+  "categories": [
+    "marketing-seo"
+  ],
+  "description": "A launch directory for finding and promoting new software products.",
+  "offer": "Lifetime Pro for $149, including five priority launch credits. Limited to 100 purchases.",
+  "couponCodes": [],
+  "validity": "Through Dec 4, 2026 at 11:59 PM PT, or until sold out",
+  "latest": true,
+  "addedAt": "2026-11-27T23:47:24+08:00"
+}

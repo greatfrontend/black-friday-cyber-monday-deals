@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Unlearn",
+  "url": "https://unlearn.dev/pricing",
+  "categories": [
+    "developer-courses"
+  ],
+  "description": "Courses and hands-on workflows for developing software with AI coding agents.",
+  "offer": "50% off the first year ($149), 56% off Lifetime ($399), or Lifetime plus certifications and a live bootcamp for $999",
+  "couponCodes": [],
+  "validity": "Through Dec 1, 2026 at 11:59 PM CET",
+  "latest": true,
+  "addedAt": "2026-11-27T23:47:24+08:00"
+}

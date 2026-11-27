@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Laravel Daily",
+  "url": "https://laraveldaily.com/pricing",
+  "categories": [
+    "developer-courses"
+  ],
+  "description": "Laravel video courses, tutorials and sample projects.",
+  "offer": "50% off all memberships. Individual yearly access is $64.50 and lifetime access is $199.50.",
+  "couponCodes": [],
+  "validity": "Through Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T23:47:24+08:00"
+}

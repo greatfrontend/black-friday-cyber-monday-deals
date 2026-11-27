@@ -1,0 +1,17 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Namecheap",
+  "url": "https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Domain registration, web hosting and SSL certificates.",
+  "offer": "Up to 99% off select domain registrations with **THEGAMESTLD26** ($5.98 for .dev) and up to 80% off shared hosting with **THEGAMESHOST26**",
+  "couponCodes": [
+    "THEGAMESTLD26",
+    "THEGAMESHOST26"
+  ],
+  "validity": "Nov 20 to Dec 4, 2026 at 11:59 PM EST",
+  "latest": true,
+  "addedAt": "2026-11-27T23:47:24+08:00"
+}

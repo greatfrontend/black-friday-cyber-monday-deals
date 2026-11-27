@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Proton VPN",
+  "url": "https://protonvpn.com/black-friday",
+  "categories": [
+    "utilities"
+  ],
+  "description": "A VPN with open-source apps for desktop and mobile.",
+  "offer": "VPN Plus is $35.88 for the first year, then $83.88/year",
+  "couponCodes": [],
+  "validity": "Through Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T23:47:24+08:00"
+}

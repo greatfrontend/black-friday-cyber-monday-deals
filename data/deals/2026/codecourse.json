@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Codecourse",
+  "url": "https://codecourse.com/pro",
+  "categories": [
+    "developer-courses"
+  ],
+  "description": "Video courses on Laravel, PHP and building web applications.",
+  "offer": "40% off Pro for the first year: $12/month on monthly billing or $72 on yearly billing",
+  "couponCodes": [],
+  "validity": "Nov 23 to Dec 3, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T23:47:24+08:00"
+}
