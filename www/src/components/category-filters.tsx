@@ -1,37 +1,58 @@
 import { useId, type ReactNode } from 'react';
 import { LayoutGroup, motion } from 'motion/react';
 import {
-  Bot,
+  BookImage,
   BookOpen,
-  Boxes,
-  Code2,
+  Bot,
+  BriefcaseBusiness,
+  Ellipsis,
   GraduationCap,
+  HeartPulse,
   LayoutGrid,
-  Palette,
+  LibraryBig,
+  ListChecks,
+  Megaphone,
+  MessagesSquare,
+  Package,
+  PanelsTopLeft,
   PenTool,
+  Presentation,
+  Shapes,
+  Share2,
+  Sparkles,
   Terminal,
+  Wallet,
   Wrench,
+  type LucideIcon,
 } from 'lucide-react';
 import type { Catalog, CatalogIndex, Filters } from '../lib/types';
 import { categoryLabels } from '../lib/categories';
 import { cn } from '../lib/utils';
 import { Select } from './ui/select';
 
-const icons = {
-  'technical-interviews-preparation': Terminal,
-  'interview-preparation': Terminal,
+const categoryIcons: Partial<Record<string, LucideIcon>> = {
+  'technical-interviews-preparation': MessagesSquare,
   'developer-courses': GraduationCap,
-  'ui-kits-starter-kits': Boxes,
-  'ui-kits-templates-boilerplates': Boxes,
-  'developer-tools': Code2,
+  'ui-kits-starter-kits': PanelsTopLeft,
+  'developer-tools': Terminal,
   'books-for-developers-and-software-engineers': BookOpen,
-  'books-courses': BookOpen,
   'ai-powered-tools-for-developers': Bot,
-  'general-ai-tools': Bot,
-  'design-kits': Palette,
-  'design-courses': PenTool,
-  'design-books': BookOpen,
-  'productivity-tools': Wrench,
+  'design-kits': Shapes,
+  'design-courses': Presentation,
+  'design-books': BookImage,
+  'productivity-tools': ListChecks,
+  'general-ai-tools': Sparkles,
+  'design-tools': PenTool,
+  'marketing-seo': Megaphone,
+  'business-tools': BriefcaseBusiness,
+  'social-media-tools': Share2,
+  'finance-tools': Wallet,
+  utilities: Wrench,
+  'health-and-fitness': HeartPulse,
+  miscellaneous: Ellipsis,
+  'interview-preparation': MessagesSquare,
+  'ui-kits-templates-boilerplates': PanelsTopLeft,
+  'books-courses': LibraryBig,
 };
 
 const categoryButtonClassName = cn(
@@ -96,7 +117,7 @@ export function CategoryFilters({
               </span>
             </button>
             {catalog.categories.map((category) => {
-              const Icon = icons[category.id as keyof typeof icons] ?? Boxes;
+              const Icon = categoryIcons[category.id] ?? Package;
               const count = catalog.deals.filter((deal) =>
                 deal.categories.includes(category.id),
               ).length;
