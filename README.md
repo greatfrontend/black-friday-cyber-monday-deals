@@ -43,8 +43,8 @@ Get a **homepage hero slot**, a **pinned deal** with a Sponsored badge, and a me
 <!-- category-navigation:start -->
 
 - 🎓 [Technical interviews preparation](#technical-interviews-preparation) <!-- category:technical-interviews-preparation -->
-- 🛠️ [Developer tools](#developer-tools) <!-- category:developer-tools -->
 - 👩‍🏫 [Developer courses](#developer-courses) <!-- category:developer-courses -->
+- 🛠️ [Developer tools](#developer-tools) <!-- category:developer-tools -->
 - 🤖 [Developer AI](#ai-powered-tools-for-developers) <!-- category:ai-powered-tools-for-developers -->
 - 📚 [Developer books](#developer-books) <!-- category:books-for-developers-and-software-engineers -->
 - 💅 [UI kits & Starter kits](#ui-kits-and-starter-kits) <!-- category:ui-kits-starter-kits -->
@@ -81,19 +81,6 @@ Get a **homepage hero slot**, a **pinned deal** with a Sponsored badge, and a me
 <!-- category-link -->
 [View all Technical interviews preparation deals](https://ctrlfriday.com/?category=technical-interviews-preparation&year=2026#deals)
 
-## Developer tools
-
-| **Name** | **Description** | **Deal details** | **Validity** | **Latest** |
-| :- | :- | :- | :- | :- |
-| [BucketMate](https://bucketmate.app/pricing?ref=greatfrontend) | A Finder-style S3-compatible manager for macOS. | **BF2026** - 40% off lifetime licenses | Nov 2 to Dec 1, 2026 | ✅ |
-| [GitKraken](https://www.gitkraken.com/pricing) | Devtools that simplify & supercharge Git | **BLACKFRIDAY2026** - 60% off the first year | - | ✅ |
-| [Kinsta](https://kinsta.com/black-friday/) | Managed WordPress hosting, also application, database and static site hosting | 50% off monthly plans for 3 months, 3 months free on annual plans | Ends Dec 1 | ✅ |
-| [LocalCan](https://www.localcan.com/) | Develop apps with Public URLs and .local domains | 50% off the first year of Solo or Pro with **BF50**, or Lifetime for $69 (was $99) with **LIFETIME69** | Ends Dec 1 | ✅ |
-| [Proxyman](https://proxyman.com/) | Best-in-class native macOS app to capture, decrypt, and mock your HTTP(s) requests/ responses with powerful debugging tools | 30% off all plans with code **BF2026** | Nov 19 to Dec 3, 2026 | ✅ |
-
-<!-- category-link -->
-[View all Developer tools deals](https://ctrlfriday.com/?category=developer-tools&year=2026#deals)
-
 ## Developer courses
 
 <a name="courses"></a>
@@ -108,6 +95,19 @@ Get a **homepage hero slot**, a **pinned deal** with a Sponsored badge, and a me
 
 <!-- category-link -->
 [View all Developer courses deals](https://ctrlfriday.com/?category=developer-courses&year=2026#deals)
+
+## Developer tools
+
+| **Name** | **Description** | **Deal details** | **Validity** | **Latest** |
+| :- | :- | :- | :- | :- |
+| [BucketMate](https://bucketmate.app/pricing?ref=greatfrontend) | A Finder-style S3-compatible manager for macOS. | **BF2026** - 40% off lifetime licenses | Nov 2 to Dec 1, 2026 | ✅ |
+| [GitKraken](https://www.gitkraken.com/pricing) | Devtools that simplify & supercharge Git | **BLACKFRIDAY2026** - 60% off the first year | - | ✅ |
+| [Kinsta](https://kinsta.com/black-friday/) | Managed WordPress hosting, also application, database and static site hosting | 50% off monthly plans for 3 months, 3 months free on annual plans | Ends Dec 1 | ✅ |
+| [LocalCan](https://www.localcan.com/) | Develop apps with Public URLs and .local domains | 50% off the first year of Solo or Pro with **BF50**, or Lifetime for $69 (was $99) with **LIFETIME69** | Ends Dec 1 | ✅ |
+| [Proxyman](https://proxyman.com/) | Best-in-class native macOS app to capture, decrypt, and mock your HTTP(s) requests/ responses with powerful debugging tools | 30% off all plans with code **BF2026** | Nov 19 to Dec 3, 2026 | ✅ |
+
+<!-- category-link -->
+[View all Developer tools deals](https://ctrlfriday.com/?category=developer-tools&year=2026#deals)
 
 ## AI-powered tools for developers
 
