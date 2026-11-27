@@ -1,14 +1,14 @@
 {
   "$schema": "../../product.schema.json",
   "name": "Vibe Island",
-  "url": "https://vibeisland.app/",
+  "url": "https://vibeisland.app",
   "categories": [
     "ai-powered-tools-for-developers"
   ],
-  "description": "See coding agent sessions and prompts in the MacBook notch.",
-  "offer": "40% off 1 Mac ($19.99 → $11.99), 2 Macs $21.99, 3 Macs $31.99. No code needed",
+  "description": "Mac notch panel for Claude Code, Codex, Cursor and 27 more AI coding agents. Approve requests, answer questions or jump to the exact terminal tab.",
+  "offer": "40% off the one-Mac license ($19.99 → $11.99), two Macs $21.99, three Macs $31.99. One-time purchase, no code needed",
   "couponCodes": [],
-  "validity": "Ends Dec 1, 2026",
+  "validity": "Nov 25 to Dec 1, 2026 (ends 23:59 PT)",
   "latest": true,
   "addedAt": "2026-11-27T17:41:40+08:00"
 }
