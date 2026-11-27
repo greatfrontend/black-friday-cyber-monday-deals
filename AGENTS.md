@@ -21,3 +21,7 @@
 - Verify website changes from `www/` with `pnpm run typecheck` and `pnpm run build`. For deal data or tooling changes, also run `pnpm run data:check` and `pnpm test`.
 
 - Use Tailwind utility classes directly on JSX elements for component layout, typography, responsive behavior, and visual states. Use `cn` for conditional classes. Keep global CSS for theme tokens, document defaults, and shared keyframes; do not add component selectors or `@apply` wrappers. Inline `style` is reserved for runtime values. Split long utility lists into readable `cn` arguments.
+
+## Pull requests
+
+Start each PR description from the [default PR template](.github/pull_request_template.md). For a sponsor slot, use the [sponsor PR template](.github/PULL_REQUEST_TEMPLATE/sponsor.md). Keep the headings and checklist, fill in the requested details, and check only statements you can verify. When submitting through the CLI or API, send the completed template as the PR body (for example, `gh pr create --body-file <file>`).

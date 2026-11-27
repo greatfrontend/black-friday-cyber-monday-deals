@@ -102,6 +102,10 @@ Commit the product JSON and generated Markdown together. You can edit JSON direc
 
 Do not edit Markdown tables directly or commit `www/public/data/`. Exports are generated on development startup and before production builds. Pull requests check required fields, category IDs, filenames, URLs, and Markdown synchronization.
 
+## Open a pull request
+
+Fill in the [default PR template](.github/pull_request_template.md), or use the [sponsor PR template](.github/PULL_REQUEST_TEMPLATE/sponsor.md) when claiming a slot. If the description starts blank, copy the template into it. Keep the checklist and tick each statement that is true for your submission.
+
 ## Category and catalog maintenance
 
 The order of the `categories` array in [the 2026 catalog](data/catalogs/2026.json) defines the order in the website sidebar and both category lists in the README. Run `data:sync` after changing the order.

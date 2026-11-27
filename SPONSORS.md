@@ -50,14 +50,7 @@ pnpm --dir www run data:check
 
 Commit the JSON, the logo and the updated `README.md` together. If you edit on GitHub without running these commands, a maintainer can run `data:sync` for you.
 
-**In the description**, paste this and fill it in. Opening the pull request with `?template=sponsor.md` added to the URL fills it in for you.
-
-```md
-## Sponsor slot
-
-- Product:
-- Stripe receipt number:
-```
+Fill in the [sponsor PR template](.github/PULL_REQUEST_TEMPLATE/sponsor.md) with your product, Stripe receipt number, and checklist. To prefill the description on GitHub, include `template=sponsor.md` in the pull request URL’s query string.
 
 ## Eligibility
 
