@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "A Practical Guide to Writing a Software Technical Design Document",
+  "url": "https://gracehuang.gumroad.com/l/mqmUt/BLACKFRIDAY26",
+  "categories": [
+    "books-for-developers-and-software-engineers"
+  ],
+  "description": "Learn how to write effective Technical Design Documents (TDD) with real-life examples",
+  "offer": "40% off with code **BLACKFRIDAY26** ($16 to $9.60)",
+  "couponCodes": [
+    "BLACKFRIDAY26"
+  ],
+  "validity": "Ends Dec 2",
+  "latest": true,
+  "addedAt": "2026-11-27T14:29:05+08:00"
+}

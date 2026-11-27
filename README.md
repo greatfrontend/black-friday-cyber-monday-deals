@@ -183,6 +183,10 @@ We'd greatly appreciate if you could:
 | [macOS Apps Step by Step and Escape from Tutorial Hell](https://troz.net/post/2026/black_friday_2026/) | Self-published Swift and macOS development books by Sarah Reichelt, with lifetime updates. | 30% off both books | Until Dec 3 | ✅ |
 | [Exploring Java Libraries: A Developer's Guide (Volume 1)](https://leanpub.com/java-libraries-guide-1/c/BLACKFRIDAY50) | Practical guide covering 250 Java libraries for Core Systems, NIO, Concurrency, and JVM internals. | 50% off ($19.99 to $10.00) with code **BLACKFRIDAY50** (auto-applied on Leanpub, also on Gumroad) | Nov 25 to Dec 10, 2026 | ✅ |
 | [Exploring Java Libraries: A Developer's Guide (Volume 2)](https://leanpub.com/java-libraries-guide-2/c/BLACKFRIDAY50) | Advanced guide covering 200+ Java libraries for Performance, Networking, Data Processing, and Architecture. | 50% off ($19.99 to $10.00) with code **BLACKFRIDAY50** (auto-applied on Leanpub, also on Gumroad) | Nov 25 to Dec 10, 2026 | ✅ |
+| [Code Reviews in Tech: The Missing Guide](https://gracehuang.gumroad.com/l/codereviews/BLACKFRIDAY26) | A comprehensive guide to improving code review processes, intentions, and etiquettes | 40% off with code **BLACKFRIDAY26** | Ends Dec 2 | ✅ |
+| [macOS App Development: The SwiftUI Way](https://gracehuang.gumroad.com/l/macos-app-dev-swiftui/BLACKFRIDAY26) | A practical guide to building macOS apps with SwiftUI | 40% off with code **BLACKFRIDAY26** | Ends Dec 2 | ✅ |
+| [Nail A Coding Interview: Six-Step Mental Framework](https://gracehuang.gumroad.com/l/coding-interview/BLACKFRIDAY26) | A practical guide with a six-step mental framework to help candidates outperform in coding interviews | 40% off with code **BLACKFRIDAY26** | Ends Dec 2 | ✅ |
+| [A Practical Guide to Writing a Software Technical Design Document](https://gracehuang.gumroad.com/l/mqmUt/BLACKFRIDAY26) | Learn how to write effective Technical Design Documents (TDD) with real-life examples | 40% off with code **BLACKFRIDAY26** ($16 to $9.60) | Ends Dec 2 | ✅ |
 
 ## AI-powered tools for developers
 
