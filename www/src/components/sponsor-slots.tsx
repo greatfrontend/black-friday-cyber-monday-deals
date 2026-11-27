@@ -67,7 +67,7 @@ function getOpenSlotVisibilityClasses(index: number, occupiedCount: number) {
 
 const sponsorTicketClassName = cn(
   'group/deal relative isolate grid min-h-19 min-w-0 cursor-pointer rounded-xl',
-  'focus-visible:outline-2 focus-visible:outline-foreground',
+  'focus-visible:outline-1 focus-visible:outline-foreground',
 );
 
 const sponsorTicketColumnsClassName =

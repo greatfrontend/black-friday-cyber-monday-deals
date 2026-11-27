@@ -59,9 +59,10 @@
   --muted-foreground: #626262;
   --border: #dedede;
   --border-strong: #858585;
+  --brand: #ff8a2b;
   --primary: #202020;
   --primary-foreground: #ffffff;
-  --ring: #a94512;
+  --ring: #e65900;
 }
 
 @media (width <= 600px) {
@@ -130,7 +131,7 @@
   input:focus-visible,
   select:focus-visible,
   [tabindex]:focus-visible {
-    outline: 2px solid var(--ring);
+    outline: 1px solid var(--ring);
     outline-offset: 0;
   }
   ::selection {

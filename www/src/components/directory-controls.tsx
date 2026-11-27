@@ -61,8 +61,8 @@ export function DirectoryControls({
           <div
             className={cn(
               'flex min-h-12 min-w-0 flex-1 items-center gap-2.5 rounded-lg border border-border',
-              'bg-surface pr-2.5 pl-3.5 transition-[border-color,box-shadow] hover:border-border-strong/60 focus-within:border-ring',
-              'focus-within:outline-2 focus-within:outline-ring',
+              'bg-surface pr-2.5 pl-3.5 transition-[border-color,box-shadow] hover:border-border-strong/60',
+              'focus-within:outline-1 focus-within:outline-ring',
               'max-[600px]:gap-2 max-[600px]:pr-2 max-[600px]:pl-3',
             )}
           >

@@ -44,7 +44,7 @@ export function DealCard({
         'group/deal relative isolate grid grid-cols-1 cursor-pointer rounded-xl',
         'transition-[filter] duration-200',
         'drop-shadow-[0_2px_3px_var(--coupon-shadow)] hover:drop-shadow-[0_4px_7px_var(--coupon-shadow)]',
-        'has-[[data-card-open]:focus-visible]:outline-2',
+        'has-[[data-card-open]:focus-visible]:outline-1',
         'has-[[data-card-open]:focus-visible]:outline-foreground',
         list && 'min-[701px]:grid min-[701px]:grid-cols-[minmax(0,1fr)_minmax(0,1.05fr)]',
       )}
