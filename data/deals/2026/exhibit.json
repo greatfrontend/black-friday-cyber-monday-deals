@@ -1,7 +1,7 @@
 {
   "$schema": "../../product.schema.json",
   "name": "Exhibit",
-  "url": "https://chatexhibit.me",
+  "url": "https://chatexhibit.me/black-friday",
   "categories": [
     "utilities"
   ],
@@ -12,5 +12,5 @@
   ],
   "validity": "Through Dec 1, 2026, 11:59 p.m. US Eastern",
   "latest": true,
-  "addedAt": "2026-11-27T17:20:00-05:00"
+  "addedAt": "2026-11-28T07:24:11+08:00"
 }
