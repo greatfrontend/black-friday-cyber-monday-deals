@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Pixpa",
+  "url": "https://www.pixpa.com/blog/black-friday-cyber-monday-deals",
+  "categories": [
+    "design-tools"
+  ],
+  "description": "Website builder for portfolios, client galleries, blogs, and online stores.",
+  "offer": "Up to 55% off annual plans with **BLFPIXPA55**",
+  "couponCodes": [
+    "BLFPIXPA55"
+  ],
+  "validity": "Nov 27–Dec 31, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T21:37:17+08:00"
+}

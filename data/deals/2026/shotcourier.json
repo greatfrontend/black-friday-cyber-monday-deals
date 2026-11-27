@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Shotcourier",
+  "url": "https://high5labs.com/black-friday/",
+  "categories": [
+    "utilities"
+  ],
+  "description": "Collect Mac screenshots in one place to copy or share.",
+  "offer": "20% off the license ($23.20 instead of $29) with **SHOTCOURIER20**",
+  "couponCodes": [
+    "SHOTCOURIER20"
+  ],
+  "validity": "Ends Dec 1, 2026 at 11:59 PM ET",
+  "latest": true,
+  "addedAt": "2026-11-27T21:37:17+08:00"
+}

@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "LogicBalls",
+  "url": "https://logicballs.com/pricing",
+  "categories": [
+    "general-ai-tools"
+  ],
+  "description": "AI workspace for writing, content production, and SEO.",
+  "offer": "50% off the first payment on any paid plan with **BF2026**, including the full first year when billed annually. The sale applies the code at checkout",
+  "couponCodes": [
+    "BF2026"
+  ],
+  "validity": "Ends Dec 15, 2026 at 11:59 PM PT",
+  "latest": true,
+  "addedAt": "2026-11-27T21:37:17+08:00"
+}

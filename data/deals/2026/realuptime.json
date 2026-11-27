@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "RealUptime",
+  "url": "https://realuptime.io/pricing",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Uptime monitoring, error tracking, and hosted status pages.",
+  "offer": "50% off for as long as the first 20 paying customers keep their plan. After that, the offer is 40% off the first year. Applied at checkout",
+  "couponCodes": [],
+  "validity": "Ends Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T21:37:17+08:00"
+}

@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "LiveReacting",
+  "url": "https://www.livereacting.com/pricing",
+  "categories": [
+    "social-media-tools"
+  ],
+  "description": "Stream pre-recorded video and run live channels from the cloud.",
+  "offer": "50% off the first year of annual Small, Medium, Large, or 24/7 Streaming plans for new customers with **BF2026**",
+  "couponCodes": [
+    "BF2026"
+  ],
+  "validity": "Ends Dec 4, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T21:37:17+08:00"
+}

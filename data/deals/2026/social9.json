@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Social9",
+  "url": "https://social9.com/blog/black-friday-deals",
+  "categories": [
+    "social-media-tools"
+  ],
+  "description": "Social media scheduler with a publishing calendar and AI-assisted post creation.",
+  "offer": "30% off with **BF2026**",
+  "couponCodes": [
+    "BF2026"
+  ],
+  "validity": "Ends Dec 15, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T21:37:17+08:00"
+}

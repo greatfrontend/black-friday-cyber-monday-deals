@@ -3,7 +3,7 @@
   "name": "Build Your Own Pub/Sub Protocol (NATS)",
   "url": "https://protocol-zero.pmbanugo.me",
   "categories": [
-    "courses"
+    "developer-courses"
   ],
   "description": "Master Distributed Systems by building a Pub/Sub server from raw TCP/Sockets. A deep-dive course & workshop on building a [NATS-compatible](https://nats.io) server from scratch",
   "offer": "60+% only during Cyberweek ($49 Course / $129 Live Workshop), discount applied automatically",

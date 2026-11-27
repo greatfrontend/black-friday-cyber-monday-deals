@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "GlowTrans",
+  "url": "https://glowtrans.beautare.com/en/",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Translate text as you type on macOS or Windows.",
+  "offer": "A 365-day pass is $35, compared with $47.88 for twelve 30-day passes. One-time in-app purchase with no code",
+  "couponCodes": [],
+  "validity": "Ends Nov 30, 2026 at 11:59 PM PT",
+  "latest": true,
+  "addedAt": "2026-11-27T21:37:17+08:00"
+}

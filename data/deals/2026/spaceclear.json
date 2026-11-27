@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Spaceclear",
+  "url": "https://spaceclear.app/black-friday",
+  "categories": [
+    "utilities"
+  ],
+  "description": "Find duplicate photos, similar shots, and large videos on iPhone and iPad.",
+  "offer": "Spaceclear Pro is $5.99 instead of $7.99 in the US App Store as a one-time purchase. No code needed",
+  "couponCodes": [],
+  "validity": "Nov 27–30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T21:37:17+08:00"
+}

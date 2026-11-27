@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "GenPPT",
+  "url": "https://genppt.com/black-friday",
+  "categories": [
+    "general-ai-tools"
+  ],
+  "description": "AI presentation builder with web research and PowerPoint or PDF export.",
+  "offer": "30% off the first year of Growth Annual ($69.30 instead of $99) for new, free, and returning users. No code needed",
+  "couponCodes": [],
+  "validity": "Nov 19–30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T21:37:17+08:00"
+}

@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Overcal",
+  "url": "https://indiegoodies.com/blackfriday",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Mac menu bar calendar with an agenda, meeting countdowns, and world clocks.",
+  "offer": "The lifetime license is $3.99 instead of $7.99 with **INDIEGOODIESBF26**",
+  "couponCodes": [
+    "INDIEGOODIESBF26"
+  ],
+  "validity": "Nov 20–30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T21:37:17+08:00"
+}

@@ -42,16 +42,17 @@ Get a **homepage hero slot**, a **pinned deal** with a Sponsored badge, and a me
 
 <!-- category-navigation:start -->
 
-- 🎓 [Jump to Technical interviews preparation](#technical-interviews-preparation) <!-- category:technical-interviews-preparation -->
-- 🛠️ [Jump to Developer tools](#developer-tools) <!-- category:developer-tools -->
-- 👩‍🏫 [Jump to Developer courses](#developer-courses) <!-- category:courses -->
-- 🤖 [Jump to Developer AI](#ai-powered-tools-for-developers) <!-- category:ai-powered-tools-for-developers -->
-- 📚 [Jump to Books](#books-for-developers-and-software-engineers) <!-- category:books-for-developers-and-software-engineers -->
-- 💅 [Jump to UI kits & Starter kits](#ui-kits-and-starter-kits) <!-- category:ui-kits-starter-kits -->
+- 🎓 [Technical interviews preparation](#technical-interviews-preparation) <!-- category:technical-interviews-preparation -->
+- 🛠️ [Developer tools](#developer-tools) <!-- category:developer-tools -->
+- 👩‍🏫 [Developer courses](#developer-courses) <!-- category:developer-courses -->
+- 🤖 [Developer AI](#ai-powered-tools-for-developers) <!-- category:ai-powered-tools-for-developers -->
+- 📚 [Developer books](#developer-books) <!-- category:books-for-developers-and-software-engineers -->
+- 💅 [UI kits & Starter kits](#ui-kits-and-starter-kits) <!-- category:ui-kits-starter-kits -->
 - 🖌️ [Design tools](#design-tools) <!-- category:design-tools -->
-- 🎨 [Jump to Design kits](#design-kits) <!-- category:design-kits -->
-- 🧑‍🏫 [Jump to Design courses](#design-courses) <!-- category:design-courses -->
-- 🧠 [AI tools](#ai-tools) <!-- category:ai-tools -->
+- 🎨 [Design kits](#design-kits) <!-- category:design-kits -->
+- 🧑‍🏫 [Design courses](#design-courses) <!-- category:design-courses -->
+- 📖 [Design books](#design-books) <!-- category:design-books -->
+- 🧠 [AI tools](#ai-tools) <!-- category:general-ai-tools -->
 - ⚡ [Productivity](#productivity) <!-- category:productivity-tools -->
 - 🧰 [Utilities](#utilities) <!-- category:utilities -->
 - 💼 [Business tools](#business-tools) <!-- category:business-tools -->
@@ -106,7 +107,7 @@ Get a **homepage hero slot**, a **pinned deal** with a Sponsored badge, and a me
 | [GreatFrontEnd Projects](https://greatfrontend.com/projects?ref=bfcm&gnrs=bfcm) | A platform to build high quality project challenges with beautiful & modular designs, guided by ex-FAANG senior engineers and an active community | Extra 30% off all Projects plans with code **BF30**, on top of the existing plan and bundle discounts | Ends Nov 29 | ✅ |
 
 <!-- category-link -->
-[View all Developer courses deals](https://ctrlfriday.com/?category=courses&year=2026#deals)
+[View all Developer courses deals](https://ctrlfriday.com/?category=developer-courses&year=2026#deals)
 
 ## AI-powered tools for developers
 
@@ -121,7 +122,9 @@ Get a **homepage hero slot**, a **pinned deal** with a Sponsored badge, and a me
 <!-- category-link -->
 [View all AI-powered tools for developers deals](https://ctrlfriday.com/?category=ai-powered-tools-for-developers&year=2026#deals)
 
-## Books for developers and software engineers
+## Developer books
+
+<a name="books-for-developers-and-software-engineers"></a>
 
 | **Name** | **Description** | **Deal details** | **Validity** | **Latest** |
 | :- | :- | :- | :- | :- |
@@ -132,7 +135,7 @@ Get a **homepage hero slot**, a **pinned deal** with a Sponsored badge, and a me
 | [Exploring Java Libraries: A Developer's Guide (Volume 2)](https://leanpub.com/java-libraries-guide-2/c/BLACKFRIDAY50) | Advanced guide covering 200+ Java libraries for Performance, Networking, Data Processing, and Architecture. | 50% off ($19.99 to $10.00) with code **BLACKFRIDAY50** (auto-applied on Leanpub, also on Gumroad) | Nov 25 to Dec 10, 2026 | ✅ |
 
 <!-- category-link -->
-[View all Books for developers and software engineers deals](https://ctrlfriday.com/?category=books-for-developers-and-software-engineers&year=2026#deals)
+[View all Developer books deals](https://ctrlfriday.com/?category=books-for-developers-and-software-engineers&year=2026#deals)
 
 ## UI kits & Starter kits
 
@@ -184,6 +187,19 @@ Get a **homepage hero slot**, a **pinned deal** with a Sponsored badge, and a me
 <!-- category-link -->
 [View all Design courses deals](https://ctrlfriday.com/?category=design-courses&year=2026#deals)
 
+## Design books
+
+| **Name** | **Description** | **Deal details** | **Validity** | **Latest** |
+| :- | :- | :- | :- | :- |
+| [Practical UI](https://www.practical-ui.com/) | Adham Dannaway’s guide to designing accessible interfaces, with a Figma design system and a DESIGN.md file. | The book, Figma design system, and DESIGN.md are $79 USD plus tax as a bundle, compared with $138 for the book and design system separately. No code needed | Ends Nov 30, 2026 | ✅ |
+| [ARTBOOK Design Books](https://www.artbook.com/blog-event-black-friday-2026.html) | Books on graphic design, typography, and visual culture from museum and independent publishers. | 30% off eligible books with **blackfriday2026**. Limited editions and titles excluded from discounting are ineligible | Ends Nov 30, 2026 | ✅ |
+| [Counterprint Books](https://www.counter-print.co.uk/collections/counterprinttitles) | Independent publisher of books on visual identity, packaging, typography, and graphic design. | 20% off books published by Counterprint with **BFCM26**. The promotion also includes a free A5 risograph print | Ends Nov 30, 2026 at midnight GMT | ✅ |
+| [An Introduction to User Experience Design](https://www.routledge.com/An-Introduction-to-User-Experience-Design-Integrating-Research-Practitioner-and-Student-Perspectives/Studente/p/book/9781003785286) | A UX design textbook that brings together research, practitioner examples, and student perspectives. | 25% off through Routledge’s Black Friday book sale | Nov 17–Dec 3, 2026, ending at 6 PM GMT | ✅ |
+| [viction:ary Design Books](https://victionary.com/collections/stay-inspired) | Print books on typography, branding, illustration, and graphic design. | Up to 20% off select books, automatically applied. In USD, Mini Type In Use Bundle is $60 instead of $75 and A Book on Zines is $36 instead of $45 | Nov 26–30, 2026 | ✅ |
+
+<!-- category-link -->
+[View all Design books deals](https://ctrlfriday.com/?category=design-books&year=2026#deals)
+
 ## AI tools
 
 | **Name** | **Description** | **Deal details** | **Validity** | **Latest** |
@@ -195,7 +211,7 @@ Get a **homepage hero slot**, a **pinned deal** with a Sponsored badge, and a me
 | [Blumify](https://blumify.io/pro) | Follow mentions and interviews from leaders in technology, business, and markets. | 50% off the first year of Unlimited: $59.99 → $29.99/year, no code needed | Ends Nov 30, 2026, 23:59 PT | ✅ |
 
 <!-- category-link -->
-[View all AI tools deals](https://ctrlfriday.com/?category=ai-tools&year=2026#deals)
+[View all AI tools deals](https://ctrlfriday.com/?category=general-ai-tools&year=2026#deals)
 
 ## Productivity
 

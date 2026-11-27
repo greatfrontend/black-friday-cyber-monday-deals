@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "esigna",
+  "url": "https://esigna.app/black-friday",
+  "categories": [
+    "business-tools"
+  ],
+  "description": "Build email signatures for Gmail, Outlook, and Apple Mail.",
+  "offer": "One-time prices are $9 for one signature, $19 for up to ten, or $29 for Brand Kit, regularly $19, $29, and $49. No code needed",
+  "couponCodes": [],
+  "validity": "Nov 24–30, 2026, ending at 11:59 PM PT",
+  "latest": true,
+  "addedAt": "2026-11-27T21:37:17+08:00"
+}

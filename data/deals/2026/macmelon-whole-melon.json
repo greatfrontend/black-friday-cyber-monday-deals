@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "MacMelon Whole Melon",
+  "url": "https://macmelon.com/black-friday",
+  "categories": [
+    "utilities"
+  ],
+  "description": "Mac bundle with AccessWatch, ART, Disk Housekeeper, and Sentinely on a single license.",
+  "offer": "All four apps for $49 on one Mac, compared with $129 bought separately at regular prices. Multi-Mac bundles start at $79. The sale price is listed on the buy page",
+  "couponCodes": [],
+  "validity": "Ends Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T21:37:17+08:00"
+}

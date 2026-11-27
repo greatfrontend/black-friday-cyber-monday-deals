@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Atelier Social",
+  "url": "https://ateliersocial.io/black-friday",
+  "categories": [
+    "social-media-tools"
+  ],
+  "description": "Social publishing and scheduling for teams that manage multiple brands or locations.",
+  "offer": "83% off the first year, with Starter at $158 instead of $948. No code needed",
+  "couponCodes": [],
+  "validity": "Ends Dec 31, 2026 at 23:59 London time",
+  "latest": true,
+  "addedAt": "2026-11-27T21:37:17+08:00"
+}

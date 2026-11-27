@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Skillry",
+  "url": "https://skillry.dev/pricing",
+  "categories": [
+    "general-ai-tools"
+  ],
+  "description": "Installable skills for AI coding assistants that create slides, websites, and other media.",
+  "offer": "Pro is $9.99 instead of $19.90 for the first month, or $79 instead of $158 for the first year. Founding Lifetime is $169 instead of $249. Select the promotional price on the pricing page",
+  "couponCodes": [],
+  "validity": "Ends Nov 30, 2026 at 11:59 PM PT",
+  "latest": true,
+  "addedAt": "2026-11-27T21:37:17+08:00"
+}

@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "PastePal",
+  "url": "https://indiegoodies.com/blackfriday",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Search and organize clipboard history on Mac, iPhone, and iPad.",
+  "offer": "The standalone Mac lifetime license is $7.49 instead of $14.99 with **INDIEGOODIESBF26**",
+  "couponCodes": [
+    "INDIEGOODIESBF26"
+  ],
+  "validity": "Nov 20–30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T21:37:17+08:00"
+}

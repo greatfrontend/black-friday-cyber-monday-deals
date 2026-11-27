@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "viction:ary Design Books",
+  "url": "https://victionary.com/collections/stay-inspired",
+  "categories": [
+    "design-books"
+  ],
+  "description": "Print books on typography, branding, illustration, and graphic design.",
+  "offer": "Up to 20% off select books, automatically applied. In USD, Mini Type In Use Bundle is $60 instead of $75 and A Book on Zines is $36 instead of $45",
+  "couponCodes": [],
+  "validity": "Nov 26–30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T22:05:41+08:00"
+}

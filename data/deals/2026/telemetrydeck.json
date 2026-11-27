@@ -1,0 +1,17 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "TelemetryDeck",
+  "url": "https://telemetrydeck.com/",
+  "categories": [
+    "developer-tools",
+    "business-tools"
+  ],
+  "description": "Privacy-focused analytics for apps and websites.",
+  "offer": "30% off the first 12 months of a paid plan with **WEEK26**",
+  "couponCodes": [
+    "WEEK26"
+  ],
+  "validity": "Ends Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T21:37:17+08:00"
+}

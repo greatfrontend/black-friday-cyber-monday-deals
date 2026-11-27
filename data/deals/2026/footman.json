@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Footman",
+  "url": "https://high5labs.com/black-friday/",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Keyboard launcher for Mac that can run Alfred workflows.",
+  "offer": "20% off with **FOOTMAN20**, including $26.40 instead of $33 for the standard license and $44 instead of $55 for lifetime",
+  "couponCodes": [
+    "FOOTMAN20"
+  ],
+  "validity": "Ends Dec 1, 2026 at 11:59 PM ET",
+  "latest": true,
+  "addedAt": "2026-11-27T21:37:17+08:00"
+}

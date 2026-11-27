@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "WebinarFlow",
+  "url": "https://webinarflow.studio/black-friday",
+  "categories": [
+    "business-tools"
+  ],
+  "description": "Run recorded webinars on a schedule with automated audience Q&A.",
+  "offer": "83% off the first year for the first 100 new customers. Growth is $159 instead of $950 and Scale is $399 instead of $2,390. No code needed",
+  "couponCodes": [],
+  "validity": "Nov 20–Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T21:37:17+08:00"
+}

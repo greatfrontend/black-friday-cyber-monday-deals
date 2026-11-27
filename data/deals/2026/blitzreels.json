@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "BlitzReels",
+  "url": "https://blitzreels.com/black-friday",
+  "categories": [
+    "social-media-tools",
+    "general-ai-tools"
+  ],
+  "description": "Turn long videos into captioned clips and schedule them for social platforms.",
+  "offer": "First-year plans from $139, 60% less than paying monthly. No code needed. Renews at the regular annual price",
+  "couponCodes": [],
+  "validity": "Ends Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T21:37:17+08:00"
+}
