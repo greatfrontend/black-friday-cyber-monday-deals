@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Codeling",
+  "url": "https://codeling.dev",
+  "categories": [
+    "courses"
+  ],
+  "description": "Codeling is an interactive learning platform focused on backend development and Python. Courses cover everything from intro to programming through to Linux terminals and REST APIs",
+  "offer": "50% off any purchase with code **BF2026**",
+  "couponCodes": [
+    "BF2026"
+  ],
+  "validity": "Ends Dec 1",
+  "latest": true,
+  "addedAt": "2026-11-27T14:29:30+08:00"
+}
