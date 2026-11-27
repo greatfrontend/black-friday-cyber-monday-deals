@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "MultiTrim",
+  "url": "https://multitrim.app/",
+  "categories": [
+    "utilities"
+  ],
+  "description": "Trim leading and trailing silence from audio files without re-encoding.",
+  "offer": "The macOS Pro unlock is €4.99 instead of the regular €9.99 in the Mac App Store. Unlock at the sale price in the app",
+  "couponCodes": [],
+  "validity": "Ends Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T21:37:17+08:00"
+}

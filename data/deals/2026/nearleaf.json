@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Nearleaf",
+  "url": "https://nearleaf.page/faq#q-sale",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Keep a single searchable note and a sketch board across devices.",
+  "offer": "The first year of Pro Yearly is $9.99 instead of $14.99 in the US or ₹499 instead of ₹799 in India for first-time subscribers. The in-app offer needs no code",
+  "couponCodes": [],
+  "validity": "Ends Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T21:37:17+08:00"
+}

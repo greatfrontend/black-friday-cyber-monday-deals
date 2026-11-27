@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Wasmer Pro",
+  "url": "https://wasmer.io/black-friday-2026",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Cloud hosting for websites, apps, and APIs with GitHub deploys and custom domains.",
+  "offer": "50% off the Pro base subscription for 12 months for first-time Pro customers. Pay $5 a month or $50 for the first year with **BLACKFRIDAY26**. Metered usage is billed separately",
+  "couponCodes": [
+    "BLACKFRIDAY26"
+  ],
+  "validity": "Ends Nov 30, 2026 at 11:59 PM PT",
+  "latest": true,
+  "addedAt": "2026-11-27T21:37:17+08:00"
+}

@@ -20,16 +20,17 @@ import { Select } from './ui/select';
 const icons = {
   'technical-interviews-preparation': Terminal,
   'interview-preparation': Terminal,
-  courses: GraduationCap,
+  'developer-courses': GraduationCap,
   'ui-kits-starter-kits': Boxes,
   'ui-kits-templates-boilerplates': Boxes,
   'developer-tools': Code2,
   'books-for-developers-and-software-engineers': BookOpen,
   'books-courses': BookOpen,
   'ai-powered-tools-for-developers': Bot,
-  'ai-tools': Bot,
+  'general-ai-tools': Bot,
   'design-kits': Palette,
   'design-courses': PenTool,
+  'design-books': BookOpen,
   'productivity-tools': Wrench,
 };
 

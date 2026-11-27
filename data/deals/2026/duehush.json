@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "DueHush",
+  "url": "https://duehush.useglowlink.com/",
+  "categories": [
+    "finance-tools"
+  ],
+  "description": "Track subscription renewals and free-trial deadlines with email reminders.",
+  "offer": "25% off lifetime access ($21.75 instead of $29) with **DUEHUSH-BF25**",
+  "couponCodes": [
+    "DUEHUSH-BF25"
+  ],
+  "validity": "Ends Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T21:37:17+08:00"
+}

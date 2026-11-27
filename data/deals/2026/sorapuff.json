@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Sorapuff",
+  "url": "https://sorapuff.app/holiday-sale",
+  "categories": [
+    "miscellaneous"
+  ],
+  "description": "Flight turbulence forecasts and offline tools for travelers who feel anxious in the air.",
+  "offer": "Sorapuff Pro is $9.99 instead of $14.99 in the US App Store as a one-time purchase",
+  "couponCodes": [],
+  "validity": "Nov 27, 2026–Jan 4, 2027",
+  "latest": true,
+  "addedAt": "2026-11-27T21:37:17+08:00"
+}

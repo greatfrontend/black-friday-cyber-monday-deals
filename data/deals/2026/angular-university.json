@@ -3,7 +3,7 @@
   "name": "Angular University",
   "url": "https://angular-university.io/",
   "categories": [
-    "courses"
+    "developer-courses"
   ],
   "description": "Courses on Angular, TypeScript and RxJS.",
   "offer": "All courses 50% off: $64 for the first year",

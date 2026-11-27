@@ -1,0 +1,18 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "APEX HostMate",
+  "url": "https://apexhostmate.com/deals/year-end-sale",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Managed Oracle APEX hosting with ORDS and database backups.",
+  "offer": "New shared hosting orders save 15% for six months with **YEAREND15**, 30% for one year with **YEAREND30**, or 50% for two years with **YEAREND50**, compared with monthly billing. Regular prices apply on renewal",
+  "couponCodes": [
+    "YEAREND15",
+    "YEAREND30",
+    "YEAREND50"
+  ],
+  "validity": "Ends Dec 31, 2026 at 11:59 PM UTC+6",
+  "latest": true,
+  "addedAt": "2026-11-27T21:37:17+08:00"
+}

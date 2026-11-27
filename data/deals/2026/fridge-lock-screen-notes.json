@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Fridge: Lock Screen Notes",
+  "url": "https://apps.apple.com/us/app/fridge-lock-screen-notes/id6794317782",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Put shared lists and notes on the iPhone Lock Screen.",
+  "offer": "Fridge Plus Lifetime is on sale for $2.99 in the US App Store",
+  "couponCodes": [],
+  "validity": "Ends Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T21:37:17+08:00"
+}

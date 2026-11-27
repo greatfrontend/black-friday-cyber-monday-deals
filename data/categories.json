@@ -30,7 +30,7 @@
       "description": "Task management, notes, calendars, focus tools, and desktop workflows."
     },
     {
-      "const": "ai-tools",
+      "const": "general-ai-tools",
       "title": "AI tools",
       "description": "AI chat, writing, research, transcription, and automation tools."
     },
@@ -45,7 +45,7 @@
       "description": "Interview preparation, coding practice, and system design resources."
     },
     {
-      "const": "courses",
+      "const": "developer-courses",
       "title": "Developer courses",
       "description": "Technical courses and learning platforms."
     },
@@ -56,7 +56,7 @@
     },
     {
       "const": "books-for-developers-and-software-engineers",
-      "title": "Books & resources",
+      "title": "Developer books",
       "description": "Developer books and related resources."
     },
     {
@@ -68,6 +68,11 @@
       "const": "design-courses",
       "title": "Design courses",
       "description": "Design and UI/UX courses."
+    },
+    {
+      "const": "design-books",
+      "title": "Design books",
+      "description": "Books and ebooks about UI, UX, graphic design, and typography."
     },
     {
       "const": "design-tools",

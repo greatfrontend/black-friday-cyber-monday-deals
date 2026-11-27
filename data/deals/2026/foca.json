@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Foca",
+  "url": "https://foca.work/",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Pomodoro timer with ambient sounds and guided stretching for iPhone and Mac.",
+  "offer": "Lifetime access for $7.99 instead of $14.99 in the US App Store. iPhone and Mac are separate purchases. No code needed",
+  "couponCodes": [],
+  "validity": "Nov 27–Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T21:37:17+08:00"
+}

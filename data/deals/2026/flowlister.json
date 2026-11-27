@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "FlowLister",
+  "url": "https://flowlister.com/black-friday/",
+  "categories": [
+    "business-tools"
+  ],
+  "description": "Create eBay listings from photos and cross-list items on Poshmark and Mercari.",
+  "offer": "A year of Starter is $179.99 or Pro is $449.99, about 25% less than paying monthly. Includes 12 months of cross-listing. Use the sale's purchase link",
+  "couponCodes": [],
+  "validity": "Ends Dec 1, 2026 at 11:59 PM PT",
+  "latest": true,
+  "addedAt": "2026-11-27T21:37:17+08:00"
+}

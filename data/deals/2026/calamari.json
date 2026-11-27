@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Calamari",
+  "url": "https://www.calamari.io/black-friday",
+  "categories": [
+    "business-tools"
+  ],
+  "description": "HR modules for leave, time tracking, employee records, scheduling, and performance.",
+  "offer": "30% off the first payment for each module. Submit **BLACKFRIDAY2026** through Calamari's contact form",
+  "couponCodes": [
+    "BLACKFRIDAY2026"
+  ],
+  "validity": "Ends Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T21:37:17+08:00"
+}

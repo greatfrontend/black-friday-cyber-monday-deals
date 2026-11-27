@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "SaaS Toolkit",
+  "url": "https://saastoolkit.ai/black-friday",
+  "categories": [
+    "business-tools"
+  ],
+  "description": "Website analytics, visitor identification, chat, and sales follow-up tools.",
+  "offer": "83% off the first year with **BF2026**, limited to the first 100 buyers. Growth is $59 instead of $348 and Business is $99 instead of $588",
+  "couponCodes": [
+    "BF2026"
+  ],
+  "validity": "Nov 20–Dec 1, 2026, ending at 23:59 UK time",
+  "latest": true,
+  "addedAt": "2026-11-27T21:37:17+08:00"
+}

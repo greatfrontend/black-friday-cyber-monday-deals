@@ -1,4 +1,5 @@
 import { useEffect, useState } from 'react';
+import { normalizeCategoryId } from '../lib/categories';
 import { initializeTheme, themeStorageKey } from '../lib/theme-init';
 import type { Catalog, CatalogIndex, Filters } from '../lib/types';
 
@@ -20,7 +21,7 @@ function readFilters(index: CatalogIndex): Filters {
   return {
     ...defaults,
     query: params.get('q') ?? '',
-    category: params.get('category') ?? 'all',
+    category: normalizeCategoryId(params.get('category') ?? 'all'),
     year: index.catalogs.some((catalog) => catalog.year === year) ? year : defaults.year,
     sort: sort === 'discount' || sort === 'name' ? sort : 'curated',
     savedOnly: params.get('saved') === '1',

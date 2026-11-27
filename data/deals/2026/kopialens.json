@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Kopia Lens",
+  "url": "https://kopialens.com/pricing",
+  "categories": [
+    "utilities"
+  ],
+  "description": "Kopia-based backup app that shows how much storage files use across snapshots.",
+  "offer": "30% off with **BLACKFRIDAY2026**. Pro is $14 for the first year (regularly $20) or $35 for lifetime access (regularly $50)",
+  "couponCodes": [
+    "BLACKFRIDAY2026"
+  ],
+  "validity": "Ends Jan 1, 2027",
+  "latest": true,
+  "addedAt": "2026-11-27T21:37:17+08:00"
+}

@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "TeachingInk",
+  "url": "https://haloa.cc/",
+  "categories": [
+    "design-tools",
+    "utilities"
+  ],
+  "description": "Annotate your screen or use a whiteboard during presentations on Mac.",
+  "offer": "Lifetime Unlock is $2.49 instead of $4.99 in the US App Store. No code needed",
+  "couponCodes": [],
+  "validity": "Nov 27–30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T21:37:17+08:00"
+}

@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "noswitch",
+  "url": "https://www.nosub.dev/noswitch",
+  "categories": [
+    "productivity-tools",
+    "utilities"
+  ],
+  "description": "MacBook notch toolbar for clipboard history, files, screenshots, and coding agent status.",
+  "offer": "$7.49 instead of $14.99 for a one-time Mac license through the sale's buy link",
+  "couponCodes": [],
+  "validity": "Ends Nov 30, 2026 at 11:59 PM PT",
+  "latest": true,
+  "addedAt": "2026-11-27T21:37:17+08:00"
+}

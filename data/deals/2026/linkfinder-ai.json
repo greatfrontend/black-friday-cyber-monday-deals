@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "LinkFinder AI",
+  "url": "https://linkfinderai.com/lifetime-deal",
+  "categories": [
+    "marketing-seo"
+  ],
+  "description": "Find business contact details for sales prospecting through a web app or API.",
+  "offer": "One-time sale pricing of $149 for 2,500 credits per month or $299 for 7,500 credits per month. Credits refill monthly on the lifetime plan",
+  "couponCodes": [],
+  "validity": "Ends Cyber Monday, Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T21:37:17+08:00"
+}

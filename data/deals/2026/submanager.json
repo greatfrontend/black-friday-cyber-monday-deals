@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "SubManager",
+  "url": "https://submanager.app/",
+  "categories": [
+    "finance-tools"
+  ],
+  "description": "Track subscriptions and renewal reminders on Apple devices.",
+  "offer": "The one-time SubManager+ unlock is $4.99 instead of $9.99 in the US App Store",
+  "couponCodes": [],
+  "validity": "Nov 27–30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T21:37:17+08:00"
+}

@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Practical UI",
+  "url": "https://www.practical-ui.com/",
+  "categories": [
+    "design-books",
+    "books-for-developers-and-software-engineers",
+    "design-kits"
+  ],
+  "description": "Adham Dannaway’s guide to designing accessible interfaces, with a Figma design system and a DESIGN.md file.",
+  "offer": "The book, Figma design system, and DESIGN.md are $79 USD plus tax as a bundle, compared with $138 for the book and design system separately. No code needed",
+  "couponCodes": [],
+  "validity": "Ends Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T21:52:25+08:00"
+}
