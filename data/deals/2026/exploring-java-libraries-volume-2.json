@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Exploring Java Libraries: A Developer's Guide (Volume 2)",
+  "url": "https://leanpub.com/java-libraries-guide-2/c/BLACKFRIDAY50",
+  "categories": [
+    "books"
+  ],
+  "description": "Advanced guide covering 200+ Java libraries for Performance, Networking, Data Processing, and Architecture.",
+  "offer": "50% off ($19.99 to $10.00) with code **BLACKFRIDAY50** (auto-applied on Leanpub, also on Gumroad)",
+  "couponCodes": [
+    "BLACKFRIDAY50"
+  ],
+  "validity": "Nov 25 to Dec 10, 2026",
+  "latest": true
+}
