@@ -1,0 +1,17 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "AGNT",
+  "url": "https://agnt.gg/pricing",
+  "categories": [
+    "general-ai-tools",
+    "ai-powered-tools-for-developers"
+  ],
+  "description": "Desktop AI agent platform: build agents and workflows that run on your computer or a dedicated cloud instance.",
+  "offer": "40% off the first year of yearly plans (Pro $290 → $174, Team $990 → $594) with code **BLACKFRIDAY**, applied at checkout",
+  "couponCodes": [
+    "BLACKFRIDAY"
+  ],
+  "validity": "Ends Nov 30, 2026, 11:59 pm PT",
+  "latest": true,
+  "addedAt": "2026-11-27T16:30:00-05:00"
+}
