@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "APXY",
+  "url": "https://apxy.dev/?utm_source=github&utm_medium=bf_list&utm_campaign=bfcm2026",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Local HTTP/HTTPS debugging proxy with a CLI and MCP server so coding agents can check the real requests their code sends. macOS and Linux.",
+  "offer": "30% off the one-time APXY Pro licence for 3 devices ($99 → $69.30) with code **APXY2026**",
+  "couponCodes": [
+    "APXY2026"
+  ],
+  "validity": "-",
+  "latest": true,
+  "addedAt": "2026-11-27T13:45:00Z"
+}
