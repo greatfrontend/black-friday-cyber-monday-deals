@@ -10,7 +10,7 @@ import {
   validateProduct,
 } from './deal-validation.mjs';
 
-export const repoRoot = fileURLToPath(new URL('../../', import.meta.url));
+export const repoRoot = fileURLToPath(new URL('../', import.meta.url));
 
 async function listCatalogFiles(root) {
   const files = (await readdir(path.join(root, 'data/catalogs')))
@@ -100,9 +100,7 @@ export async function syncMarkdown(catalogs, { root = repoRoot, write = false } 
   const changes = await getMarkdownChanges(catalogs, root);
 
   if (!write && changes.length) {
-    throw new Error(
-      'Markdown is out of sync. Run pnpm --dir www run data:sync and commit the updated tables.',
-    );
+    throw new Error('Markdown is out of sync. Run vp run data:sync and commit the updated tables.');
   }
 
   for (const { file, rendered } of changes) {
@@ -135,14 +133,14 @@ async function readCategoryOptions(root) {
 }
 
 async function exportInitialData(catalogs, index, root) {
-  const destination = path.join(root, 'www/src/data');
+  const destination = path.join(root, 'src/data');
   await mkdir(destination, { recursive: true });
   const { $schema, ...catalog } = catalogs.find(({ year }) => year === index.currentYear);
   await writeJson(path.join(destination, 'initial-data.json'), { catalog, index });
 }
 
 export async function exportCatalogs(catalogs, root = repoRoot) {
-  const destination = path.join(root, 'www/public/data');
+  const destination = path.join(root, 'public/data');
   await mkdir(destination, { recursive: true });
 
   for (const { $schema, ...catalog } of catalogs) {
@@ -154,6 +152,6 @@ export async function exportCatalogs(catalogs, root = repoRoot) {
   await exportInitialData(catalogs, index, root);
   const categories = await readCategoryOptions(root);
   await writeJson(path.join(destination, 'categories.json'), categories);
-  await writeJson(path.join(root, 'www/src/data/categories.json'), categories);
+  await writeJson(path.join(root, 'src/data/categories.json'), categories);
   await exportSponsorLogos(catalogs, root);
 }

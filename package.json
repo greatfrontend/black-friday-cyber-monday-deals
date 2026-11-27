@@ -1,24 +1,21 @@
 {
-  "name": "black-friday-cyber-monday-deals",
+  "name": "ctrl-friday",
   "private": true,
   "type": "module",
   "scripts": {
-    "predev": "pnpm run data:export",
     "dev": "vp dev",
-    "prebuild": "pnpm run data:check && pnpm run data:export",
     "build": "vp build",
     "preview": "vp preview",
     "postinstall": "void prepare",
-    "typecheck": "void prepare && tsc --noEmit",
+    "typecheck": "pnpm run data:export && void prepare && tsc --noEmit",
     "data:validate": "node scripts/deals.mjs validate",
     "data:sync": "node scripts/deals.mjs sync",
     "data:check": "node scripts/deals.mjs check",
     "data:export": "node scripts/deals.mjs export",
-    "test": "node --test scripts/*.test.mjs",
+    "test": "vp test run",
     "format": "vp fmt --write .",
     "format:check": "vp fmt --check .",
-    "pretypecheck": "pnpm run data:export",
-    "pretest": "pnpm run data:export"
+    "verify": "vp check && vp run typecheck"
   },
   "dependencies": {
     "@base-ui/react": "^1.9.0",

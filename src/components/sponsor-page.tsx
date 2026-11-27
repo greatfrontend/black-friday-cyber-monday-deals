@@ -1,5 +1,5 @@
 import { useState, type ReactNode } from 'react';
-import { ArrowUpRight, BookOpen, Megaphone, PanelTop, Pin, Tag, Users } from 'lucide-react';
+import { BookOpen, Megaphone, PanelTop, Pin, Tag, Users } from 'lucide-react';
 import type { Catalog, Sponsorship } from '../lib/types';
 import { formatCheckedDate, repositoryUrl } from '../lib/deals';
 import { formatSlotAvailability, getActiveSponsorship, getSponsoredDealIds } from '../lib/sponsors';

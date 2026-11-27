@@ -93,15 +93,15 @@ A product can have multiple categories. Use one file with a `categories` array i
 For contributors working locally, install the website tools once and run:
 
 ```sh
-pnpm --dir www install --frozen-lockfile
-pnpm --dir www run data:sync
-pnpm --dir www run data:check
-pnpm --dir www test
+pnpm install --frozen-lockfile
+pnpm run data:sync
+pnpm run data:check
+pnpm test
 ```
 
 Commit the product JSON and generated Markdown together. You can edit JSON directly on GitHub, but the Markdown tables must be synchronized before merging; a maintainer can run `data:sync` for browser-only submissions.
 
-Do not edit Markdown tables directly or commit `www/public/data/`. Exports are generated on development startup and before production builds. Pull requests check required fields, category IDs, filenames, URLs, and Markdown synchronization.
+Do not edit Markdown tables directly or commit `public/data/`. Exports are generated on development startup and before production builds. Pull requests check required fields, category IDs, filenames, URLs, and Markdown synchronization.
 
 ## Open a pull request
 
@@ -117,7 +117,7 @@ The schemas in `data/product.schema.json` and `data/deal-catalog.schema.json` va
 
 ## Website data
 
-`data:export` combines the product files into `/data/<year>.json` and creates `/data/index.json`. It also exports `/data/categories.json` for website category labels and form options. The build copies these static files into `www/dist/client/data/`. No database is involved.
+`data:export` combines the product files into `/data/<year>.json` and creates `/data/index.json`. It also exports `/data/categories.json` for website category labels and form options. The build copies these static files into `dist/client/data/`. No database is involved.
 
 ## Sponsor slots
 
@@ -129,4 +129,4 @@ The hero shows these previews only when the year has no active sponsorship.
 
 Maintainers can set `featuredDealIds` in `data/catalogs/<year>.json` to choose up to six hero previews, in display order. Each ID is the product JSON filename without `.json`, from the same year. These are editorial selections, not popularity or discount rankings. Missing IDs, duplicates, and more than six selections fail validation. Catalogs without this optional field use their first six deals.
 
-Run `pnpm --dir www run data:export` after changing display labels or hero selections; the dev and build commands also regenerate these files.
+Run `pnpm run data:export` after changing display labels or hero selections; the dev and build commands also regenerate these files.

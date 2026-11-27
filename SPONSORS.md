@@ -43,9 +43,9 @@ If a maintainer told you a slot is being held for you, replace one `{ "reserved"
 Then regenerate the README and check your changes:
 
 ```sh
-pnpm --dir www install --frozen-lockfile
-pnpm --dir www run data:sync
-pnpm --dir www run data:check
+pnpm install --frozen-lockfile
+pnpm run data:sync
+pnpm run data:check
 ```
 
 Commit the JSON, the logo and the updated `README.md` together. If you edit on GitHub without running these commands, a maintainer can run `data:sync` for you.
@@ -74,4 +74,4 @@ You get a full refund if we decline your product, if every slot was taken before
 - **Verify a pull request.** Look up the receipt number in Stripe and confirm the payment belongs to the product in the pull request before merging.
 - **End the season.** After `endsOn`, set `status` to `"ended"` and run `data:sync`. The hero goes back to the catalog's `featuredDealIds`, pinned cards and labels are removed, and the README block is emptied. `data:check` prints a reminder once the date has passed.
 
-Run `pnpm --dir www run data:sync` after any change to the file.
+Run `pnpm run data:sync` after any change to the file.

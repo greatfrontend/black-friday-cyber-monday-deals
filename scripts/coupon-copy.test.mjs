@@ -1,5 +1,5 @@
 import assert from 'node:assert/strict';
-import test from 'node:test';
+import { test } from 'vite-plus/test';
 import { getCopiedCouponCode } from '../src/lib/coupon-copy.ts';
 
 test('shared coupon feedback belongs only to the copied product and catalog year', () => {

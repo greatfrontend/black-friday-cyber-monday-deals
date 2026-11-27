@@ -139,9 +139,9 @@ node_modules
 .DS_Store
 
 # Generated from the canonical catalogs in data/
-/www/public/data/
+/public/data/
 
 # Copied from assets/sponsors/ by the same export
-/www/public/sponsors/
+/public/sponsors/
 
-/www/src/data/
+/src/data/

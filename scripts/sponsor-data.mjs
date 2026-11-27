@@ -62,7 +62,7 @@ export async function readSponsorship(year, root) {
 }
 
 export async function exportSponsorLogos(catalogs, root) {
-  const destination = path.join(root, 'www/public/sponsors');
+  const destination = path.join(root, 'public/sponsors');
   await rm(destination, { recursive: true, force: true });
 
   for (const { year, sponsorship } of catalogs) {

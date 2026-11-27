@@ -1,4 +1,4 @@
-import test from 'node:test';
+import { test } from 'vite-plus/test';
 import assert from 'node:assert/strict';
 import { mkdtemp, mkdir, writeFile, readFile, rm } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
@@ -38,7 +38,7 @@ async function writeCatalogFixture(root, catalog) {
   await mkdir(path.join(root, 'data/catalogs'), { recursive: true });
   await writeFile(
     path.join(root, 'data/categories.json'),
-    await readFile(new URL('../../data/categories.json', import.meta.url), 'utf8'),
+    await readFile(new URL('../data/categories.json', import.meta.url), 'utf8'),
   );
   await mkdir(path.join(root, 'data/deals', String(catalog.year)), { recursive: true });
   await writeFile(
@@ -222,9 +222,11 @@ test('category ordering applies to Markdown and requires deals in that category'
   );
 });
 
-test('catalog files drive Markdown checks and static website exports', async (t) => {
+test('catalog files drive Markdown checks and static website exports', async ({
+  onTestFinished,
+}) => {
   const root = await mkdtemp(path.join(tmpdir(), 'bfcm-data-test-'));
-  t.after(() => rm(root, { recursive: true, force: true }));
+  onTestFinished(() => rm(root, { recursive: true, force: true }));
   const catalog = { ...fixture(), featuredDealIds: ['example-tool'] };
   catalog.deals[0].faviconUrl = 'https://example.com/favicon.ico';
   await writeCatalogFixture(root, catalog);
@@ -240,25 +242,23 @@ test('catalog files drive Markdown checks and static website exports', async (t)
     'Build tools';
   await writeFile(categorySchemaPath, JSON.stringify(categorySchema));
   await exportCatalogs(catalogs, root);
-  const index = JSON.parse(await readFile(path.join(root, 'www/public/data/index.json'), 'utf8'));
+  const index = JSON.parse(await readFile(path.join(root, 'public/data/index.json'), 'utf8'));
   assert.equal(index.currentYear, 2026);
   assert.equal(index.catalogs[0].dealCount, 1);
-  const exported = JSON.parse(await readFile(path.join(root, 'www/public/data/2026.json'), 'utf8'));
+  const exported = JSON.parse(await readFile(path.join(root, 'public/data/2026.json'), 'utf8'));
   assert.equal(exported.$schema, undefined);
   assert.deepEqual(exported.featuredDealIds, ['example-tool']);
   assert.equal(exported.deals[0].url, 'https://example.com/?ref=community&plan=annual');
   assert.equal(exported.deals[0].faviconUrl, 'https://example.com/favicon.ico');
   assert.equal(exported.deals[0].validity, 'Ends about Nov 30');
-  const initial = JSON.parse(
-    await readFile(path.join(root, 'www/src/data/initial-data.json'), 'utf8'),
-  );
+  const initial = JSON.parse(await readFile(path.join(root, 'src/data/initial-data.json'), 'utf8'));
   assert.deepEqual(initial.catalog, exported);
   assert.deepEqual(initial.index, index);
   const categories = JSON.parse(
-    await readFile(path.join(root, 'www/public/data/categories.json'), 'utf8'),
+    await readFile(path.join(root, 'public/data/categories.json'), 'utf8'),
   );
   const sourceCategories = JSON.parse(
-    await readFile(path.join(root, 'www/src/data/categories.json'), 'utf8'),
+    await readFile(path.join(root, 'src/data/categories.json'), 'utf8'),
   );
   assert.deepEqual(sourceCategories, categories);
   assert.ok(
@@ -268,9 +268,11 @@ test('catalog files drive Markdown checks and static website exports', async (t)
   );
 });
 
-test('individual product files can be added, updated and removed without editing a catalog index', async (t) => {
+test('individual product files can be added, updated and removed without editing a catalog index', async ({
+  onTestFinished,
+}) => {
   const root = await mkdtemp(path.join(tmpdir(), 'bfcm-products-test-'));
-  t.after(() => rm(root, { recursive: true, force: true }));
+  onTestFinished(() => rm(root, { recursive: true, force: true }));
   await writeCatalogFixture(root, fixture());
 
   const file = path.join(root, 'data/deals/2026/another-tool.json');
@@ -297,9 +299,9 @@ test('individual product files can be added, updated and removed without editing
   );
 });
 
-test('deals sort by explicit order, then addedAt, then filename', async (t) => {
+test('deals sort by explicit order, then addedAt, then filename', async ({ onTestFinished }) => {
   const root = await mkdtemp(path.join(tmpdir(), 'bfcm-added-deals-test-'));
-  t.after(() => rm(root, { recursive: true, force: true }));
+  onTestFinished(() => rm(root, { recursive: true, force: true }));
   const catalog = fixture();
   const [deal] = catalog.deals;
   catalog.deals.push(
@@ -325,9 +327,11 @@ test('deals sort by explicit order, then addedAt, then filename', async (t) => {
   );
 });
 
-test('invalid product files report the filename and reject unknown categories', async (t) => {
+test('invalid product files report the filename and reject unknown categories', async ({
+  onTestFinished,
+}) => {
   const root = await mkdtemp(path.join(tmpdir(), 'bfcm-invalid-product-'));
-  t.after(() => rm(root, { recursive: true, force: true }));
+  onTestFinished(() => rm(root, { recursive: true, force: true }));
   await writeCatalogFixture(root, fixture());
 
   const file = path.join(root, 'data/deals/2026/example-tool.json');

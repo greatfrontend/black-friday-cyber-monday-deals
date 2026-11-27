@@ -34,13 +34,13 @@ function isWebUrl(value) {
 }
 
 async function createSchemaValidator() {
-  const schemaUrl = new URL('../../data/deal-catalog.schema.json', import.meta.url);
+  const schemaUrl = new URL('../data/deal-catalog.schema.json', import.meta.url);
   const schema = JSON.parse(await readFile(schemaUrl, 'utf8'));
-  const productSchemaUrl = new URL('../../data/product.schema.json', import.meta.url);
+  const productSchemaUrl = new URL('../data/product.schema.json', import.meta.url);
   const productSchema = JSON.parse(await readFile(productSchemaUrl, 'utf8'));
-  const sponsorshipSchemaUrl = new URL('../../data/sponsorship.schema.json', import.meta.url);
+  const sponsorshipSchemaUrl = new URL('../data/sponsorship.schema.json', import.meta.url);
   const sponsorshipSchema = JSON.parse(await readFile(sponsorshipSchemaUrl, 'utf8'));
-  const categoriesUrl = new URL('../../data/categories.json', import.meta.url);
+  const categoriesUrl = new URL('../data/categories.json', import.meta.url);
   const categories = JSON.parse(await readFile(categoriesUrl, 'utf8'));
   const ajv = new Ajv({ allErrors: true });
 

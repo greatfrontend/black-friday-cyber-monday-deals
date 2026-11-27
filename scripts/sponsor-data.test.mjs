@@ -1,4 +1,4 @@
-import test from 'node:test';
+import { test } from 'vite-plus/test';
 import assert from 'node:assert/strict';
 import { mkdtemp, mkdir, writeFile, readFile, rm } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
@@ -87,7 +87,7 @@ async function writeRepositoryFixture(root, { logoBytes = 64 } = {}) {
   await mkdir(path.join(root, 'assets/sponsors/2026'), { recursive: true });
   await writeFile(
     path.join(root, 'data/categories.json'),
-    await readFile(new URL('../../data/categories.json', import.meta.url), 'utf8'),
+    await readFile(new URL('../data/categories.json', import.meta.url), 'utf8'),
   );
   await writeFile(path.join(root, 'data/catalogs/2026.json'), JSON.stringify(metadata));
   await writeFile(path.join(root, 'data/sponsors/2026.json'), JSON.stringify(sponsorshipFile()));
@@ -203,9 +203,11 @@ test('README category tables pin active sponsors ahead of other deals', () => {
   assert.match(table, /\[House Tool\][^\n]*\n\| \[Example <Tool>\][^\n]*\n\| \[Organic Tool\]/);
 });
 
-test('sponsorship files are read with the catalog and exported with their logos', async (t) => {
+test('sponsorship files are read with the catalog and exported with their logos', async ({
+  onTestFinished,
+}) => {
   const root = await mkdtemp(path.join(tmpdir(), 'bfcm-sponsors-test-'));
-  t.after(() => rm(root, { recursive: true, force: true }));
+  onTestFinished(() => rm(root, { recursive: true, force: true }));
   await writeRepositoryFixture(root);
 
   const catalogs = await readCatalogs(root);
@@ -218,14 +220,12 @@ test('sponsorship files are read with the catalog and exported with their logos'
   assert.equal(await syncMarkdown(catalogs, { root }), 0);
 
   await exportCatalogs(catalogs, root);
-  const exported = JSON.parse(await readFile(path.join(root, 'www/public/data/2026.json'), 'utf8'));
+  const exported = JSON.parse(await readFile(path.join(root, 'public/data/2026.json'), 'utf8'));
   assert.deepEqual(exported.sponsorship, catalogs[0].sponsorship);
-  const initial = JSON.parse(
-    await readFile(path.join(root, 'www/src/data/initial-data.json'), 'utf8'),
-  );
+  const initial = JSON.parse(await readFile(path.join(root, 'src/data/initial-data.json'), 'utf8'));
   assert.deepEqual(initial.catalog.sponsorship, exported.sponsorship);
   assert.equal(
-    await readFile(path.join(root, 'www/public/sponsors/2026/house-tool.svg'), 'utf8'),
+    await readFile(path.join(root, 'public/sponsors/2026/house-tool.svg'), 'utf8'),
     '<svg/>',
   );
 
@@ -234,9 +234,11 @@ test('sponsorship files are read with the catalog and exported with their logos'
   assert.equal(unsponsored[0].sponsorship, undefined);
 });
 
-test('sponsor logos must exist, stay small, and match the sponsorship year', async (t) => {
+test('sponsor logos must exist, stay small, and match the sponsorship year', async ({
+  onTestFinished,
+}) => {
   const root = await mkdtemp(path.join(tmpdir(), 'bfcm-sponsor-logos-test-'));
-  t.after(() => rm(root, { recursive: true, force: true }));
+  onTestFinished(() => rm(root, { recursive: true, force: true }));
 
   await writeRepositoryFixture(root, { logoBytes: 100 * 1024 + 1 });
   await assert.rejects(

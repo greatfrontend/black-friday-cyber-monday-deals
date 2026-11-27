@@ -10,19 +10,14 @@ permissions:
 jobs:
   validate:
     runs-on: ubuntu-latest
-    defaults:
-      run:
-        working-directory: www
     steps:
       - uses: actions/checkout@v4
-      - uses: pnpm/setup@v3
+      - uses: voidzero-dev/setup-vp@v1.21.2
         with:
-          working-directory: www
-          install: false
           cache: true
-      - run: pnpm install --frozen-lockfile
-      - run: pnpm run format:check
-      - run: pnpm run data:check
-      - run: pnpm test
-      - run: pnpm run typecheck
-      - run: pnpm run build
+          run-install: false
+      - run: vp install --frozen-lockfile
+      - run: vp run verify
+      - run: vp run data:check
+      - run: vp test run
+      - run: vp build

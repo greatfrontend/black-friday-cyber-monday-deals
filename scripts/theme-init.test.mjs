@@ -1,5 +1,5 @@
 import assert from 'node:assert/strict';
-import test from 'node:test';
+import { test } from 'vite-plus/test';
 import vm from 'node:vm';
 import { themeInitScript, themeStorageKey } from '../src/lib/theme-init.ts';
 
