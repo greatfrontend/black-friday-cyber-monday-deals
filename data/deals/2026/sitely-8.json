@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Sitely 8",
+  "url": "https://sitely.app/blog/black-friday-2026.html",
+  "categories": [
+    "design-tools"
+  ],
+  "description": "Visual website builder for Mac with layout and animation tools.",
+  "offer": "50% off new one-time licenses, 30% off the first subscription year, or 60% off eligible upgrades. The sale link applies the coupon",
+  "couponCodes": [],
+  "validity": "Ends Dec 8, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T21:37:17+08:00"
+}

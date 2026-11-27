@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "AtAt",
+  "url": "https://atatapp.com/black-friday",
+  "categories": [
+    "general-ai-tools"
+  ],
+  "description": "Use your AI assistant from text fields across macOS or from the terminal.",
+  "offer": "$39 for the first year of AtAt One, then $59 per year, or $89 for lifetime access instead of $169. No code needed",
+  "couponCodes": [],
+  "validity": "Ends Dec 15, 2026 at 11:59 PM UTC",
+  "latest": true,
+  "addedAt": "2026-11-27T21:37:17+08:00"
+}

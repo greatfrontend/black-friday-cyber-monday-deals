@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "ARTBOOK Design Books",
+  "url": "https://www.artbook.com/blog-event-black-friday-2026.html",
+  "categories": [
+    "design-books"
+  ],
+  "description": "Books on graphic design, typography, and visual culture from museum and independent publishers.",
+  "offer": "30% off eligible books with **blackfriday2026**. Limited editions and titles excluded from discounting are ineligible",
+  "couponCodes": [
+    "blackfriday2026"
+  ],
+  "validity": "Ends Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T22:03:21+08:00"
+}

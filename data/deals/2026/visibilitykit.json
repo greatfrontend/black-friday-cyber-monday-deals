@@ -1,0 +1,17 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "VisibilityKit",
+  "url": "https://visibilitykit.app/pricing",
+  "categories": [
+    "marketing-seo"
+  ],
+  "description": "Suite for SEO crawling, search indexing, website analytics, and tracking brand visibility in AI answers.",
+  "offer": "50% off Crawler one-time licenses, Tracker's first year, and Indexer Pro's first year with **BLACKFRIDAY2026**. 30% off the first six months of Intelligence with **VKBF30**. Codes are applied at checkout",
+  "couponCodes": [
+    "BLACKFRIDAY2026",
+    "VKBF30"
+  ],
+  "validity": "Ends Dec 2, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T21:37:17+08:00"
+}

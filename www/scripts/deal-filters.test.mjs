@@ -1,5 +1,6 @@
 import assert from 'node:assert/strict';
 import test from 'node:test';
+import { categoryLabels, normalizeCategoryId } from '../src/lib/categories.ts';
 import {
   filterDeals,
   getDiscount,
@@ -26,7 +27,7 @@ const catalog = {
   year: 2026,
   categories: [
     { id: 'developer-tools', name: 'Developer tools', heading: 'Developer tools' },
-    { id: 'courses', name: 'Courses', heading: 'Courses' },
+    { id: 'developer-courses', name: 'Developer courses', heading: 'Developer courses' },
   ],
   deals: [
     {
@@ -40,7 +41,7 @@ const catalog = {
     {
       id: 'course',
       name: 'A React Course',
-      categories: ['courses'],
+      categories: ['developer-courses'],
       description: 'Learn accessible interfaces.',
       offer: '$99 (was $199)',
       couponCodes: [],
@@ -80,6 +81,20 @@ test('category and saved filters combine without including other years', () => {
       (deal) => deal.id,
     ),
     ['tools'],
+  );
+});
+
+test('legacy category IDs resolve to the renamed catalog categories', () => {
+  const courses = normalizeCategoryId('courses');
+  const aiTools = normalizeCategoryId('ai-tools');
+  assert.equal(courses, 'developer-courses');
+  assert.equal(aiTools, 'general-ai-tools');
+  assert.equal(categoryLabels[courses], 'Developer courses');
+  assert.equal(categoryLabels[aiTools], 'AI tools');
+  assert.equal(normalizeCategoryId('design-courses'), 'design-courses');
+  assert.deepEqual(
+    filterDeals(catalog, { ...filters, category: courses }, []).map((deal) => deal.id),
+    ['course'],
   );
 });
 

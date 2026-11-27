@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Counterprint Books",
+  "url": "https://www.counter-print.co.uk/collections/counterprinttitles",
+  "categories": [
+    "design-books"
+  ],
+  "description": "Independent publisher of books on visual identity, packaging, typography, and graphic design.",
+  "offer": "20% off books published by Counterprint with **BFCM26**. The promotion also includes a free A5 risograph print",
+  "couponCodes": [
+    "BFCM26"
+  ],
+  "validity": "Ends Nov 30, 2026 at midnight GMT",
+  "latest": true,
+  "addedAt": "2026-11-27T22:03:21+08:00"
+}

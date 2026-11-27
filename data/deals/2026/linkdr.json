@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "LinkDR",
+  "url": "https://linkdr.com/black-friday",
+  "categories": [
+    "marketing-seo"
+  ],
+  "description": "Link-building service for finding prospects and arranging publisher placements.",
+  "offer": "20% off list price for the first three months of a monthly campaign with **BF2026**, limited to 10 new projects",
+  "couponCodes": [
+    "BF2026"
+  ],
+  "validity": "Nov 19–30, 2026, ending at 11:59 PM PT",
+  "latest": true,
+  "addedAt": "2026-11-27T21:37:17+08:00"
+}

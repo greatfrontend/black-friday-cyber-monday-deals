@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "JetBrains IDEs",
+  "url": "https://blog.jetbrains.com/blog/2026/11/25/black-friday-2026/",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Development environments including IntelliJ IDEA, PyCharm, WebStorm, and Rider.",
+  "offer": "40% off new individual IDE or ReSharper subscriptions and eligible upgrades to All Products Pack or dotUltimate with **BF2026**. Annual and prepaid two- or three-year terms qualify",
+  "couponCodes": [
+    "BF2026"
+  ],
+  "validity": "Nov 25–Dec 2, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T21:37:17+08:00"
+}

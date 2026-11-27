@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Clino",
+  "url": "https://clino.ch/en/black-friday",
+  "categories": [
+    "finance-tools",
+    "business-tools"
+  ],
+  "description": "Payroll, contracts, and social insurance paperwork for Swiss households that employ domestic staff.",
+  "offer": "CHF 191 for 12 months instead of CHF 238.80 on monthly billing. Select the offer on the sale page or in your dashboard. New customers start with a 30-day trial",
+  "couponCodes": [],
+  "validity": "Ends Nov 29, 2026 at 23:59 Swiss time",
+  "latest": true,
+  "addedAt": "2026-11-27T21:37:17+08:00"
+}

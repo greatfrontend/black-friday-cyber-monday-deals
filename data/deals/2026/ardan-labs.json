@@ -3,7 +3,7 @@
   "name": "Ardan Labs training",
   "url": "https://www.ardanlabs.com/black-friday",
   "categories": [
-    "courses"
+    "developer-courses"
   ],
   "description": "Self-paced and live training in Go, Rust, Docker, Kubernetes and AI.",
   "offer": "40% off every self-paced training bundle; 25% off live AI workshops",

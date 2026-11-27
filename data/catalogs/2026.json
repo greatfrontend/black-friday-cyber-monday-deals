@@ -18,7 +18,7 @@
       "heading": "Developer tools"
     },
     {
-      "id": "courses",
+      "id": "developer-courses",
       "name": "Developer courses",
       "heading": "Developer courses"
     },
@@ -29,8 +29,8 @@
     },
     {
       "id": "books-for-developers-and-software-engineers",
-      "name": "Books for developers and software engineers",
-      "heading": "Books for developers and software engineers"
+      "name": "Developer books",
+      "heading": "Developer books"
     },
     {
       "id": "ui-kits-starter-kits",
@@ -53,7 +53,12 @@
       "heading": "Design courses"
     },
     {
-      "id": "ai-tools",
+      "id": "design-books",
+      "name": "Design books",
+      "heading": "Design books"
+    },
+    {
+      "id": "general-ai-tools",
       "name": "AI tools",
       "heading": "AI tools"
     },

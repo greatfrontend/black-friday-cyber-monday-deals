@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Skywall",
+  "url": "https://getskywall.app/black-friday/",
+  "categories": [
+    "miscellaneous"
+  ],
+  "description": "Watch several live TV channels side by side on iPhone, iPad, and Mac.",
+  "offer": "Skywall Full is $3.99 instead of $5.99 in the US App Store as a one-time purchase. No code needed",
+  "couponCodes": [],
+  "validity": "Nov 27–30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T21:37:17+08:00"
+}

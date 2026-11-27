@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "AirCalendar",
+  "url": "https://haloa.cc/",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Mac menu bar calendar for seeing upcoming events and tasks.",
+  "offer": "Lifetime Unlock is $0.99 instead of $1.99 in the US App Store. No code needed",
+  "couponCodes": [],
+  "validity": "Nov 27–30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T21:37:17+08:00"
+}

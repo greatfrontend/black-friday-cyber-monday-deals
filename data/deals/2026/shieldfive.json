@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "ShieldFive",
+  "url": "https://shieldfive.com/pricing",
+  "categories": [
+    "utilities"
+  ],
+  "description": "Cloud storage that encrypts files on your device before upload.",
+  "offer": "Up to 50% off the first year for new customers. Annual plans are $30 instead of $60 for 1 TB, $48 instead of $96 for 2 TB, or $115 instead of $192 for 5 TB. 5 TB Founding Lifetime is $279 before rising to $335. The pricing page lists both offers",
+  "couponCodes": [],
+  "validity": "Lifetime ends Nov 30, 2026. Annual ends Dec 7, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T21:37:17+08:00"
+}
