@@ -29,6 +29,7 @@ export function filterDeals(catalog: Catalog, filters: Filters, saved: string[])
   const matching = catalog.deals.filter((deal) => {
     if (filters.category !== 'all' && !deal.categories.includes(filters.category)) return false;
     if (filters.savedOnly && !saved.includes(getDealKey(catalog.year, deal.id))) return false;
+    if (words.length === 0) return true;
 
     const searchText = plainText(
       [

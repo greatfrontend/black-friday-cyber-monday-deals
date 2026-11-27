@@ -1,7 +1,9 @@
-import { useEffect, useState } from 'react';
+import { startTransition, useEffect, useState } from 'react';
 import { normalizeCategoryId } from '../lib/categories';
 import { initializeTheme, themeStorageKey } from '../lib/theme-init';
 import type { Catalog, CatalogIndex, Filters } from '../lib/types';
+
+const searchDebounceMs = 300;
 
 export function defaultFilters(year: number): Filters {
   return {
@@ -45,10 +47,16 @@ function writeFilters(filters: Filters, currentYear: number) {
 
 export function useDirectoryFilters(index: CatalogIndex) {
   const [filters, setFilters] = useState<Filters>(() => defaultFilters(index.currentYear));
+  const [resultsQuery, setResultsQuery] = useState(filters.query);
   const [ready, setReady] = useState(false);
+  const { query } = filters;
 
   useEffect(() => {
-    const restore = () => setFilters(readFilters(index));
+    const restore = () => {
+      const restored = readFilters(index);
+      setFilters(restored);
+      setResultsQuery(restored.query);
+    };
     restore();
     setReady(true);
     window.addEventListener('popstate', restore);
@@ -59,15 +67,27 @@ export function useDirectoryFilters(index: CatalogIndex) {
     if (ready) writeFilters(filters, index.currentYear);
   }, [filters, index.currentYear, ready]);
 
+  useEffect(() => {
+    if (query === resultsQuery) return;
+    const timer = window.setTimeout(() => {
+      startTransition(() => setResultsQuery(query));
+    }, searchDebounceMs);
+    return () => window.clearTimeout(timer);
+  }, [query, resultsQuery]);
+
   function updateFilters(changes: Partial<Filters>) {
     setFilters((previous) => ({ ...previous, ...changes }));
+    if (changes.query !== undefined && changes.query.trim() === '') {
+      setResultsQuery(changes.query);
+    }
   }
 
   function clearFilters() {
     setFilters((previous) => defaultFilters(previous.year));
+    setResultsQuery('');
   }
 
-  return { filters, updateFilters, clearFilters };
+  return { filters, resultsQuery, updateFilters, clearFilters };
 }
 
 export function useCatalog(initial: Catalog, year: number) {

@@ -1,5 +1,5 @@
 import { categoryLabels } from '../lib/categories';
-import { useEffect, useRef, useState } from 'react';
+import { useEffect, useMemo, useRef, useState } from 'react';
 import { Check, Clock3, X } from 'lucide-react';
 import type { Catalog, CatalogIndex, CopiedCoupon, Deal, Filters } from '../lib/types';
 import { getCopiedCouponCode } from '../lib/coupon-copy';
@@ -45,8 +45,9 @@ function revealDealsHeading() {
 }
 
 export function Directory({ initialCatalog, index, builtAt }: DirectoryProps) {
-  const { filters, updateFilters, clearFilters } = useDirectoryFilters(index);
-  const { catalog, error, retry } = useCatalog(initialCatalog, filters.year);
+  const { filters, resultsQuery, updateFilters, clearFilters } = useDirectoryFilters(index);
+  const { category, savedOnly, sort, year } = filters;
+  const { catalog, error, retry } = useCatalog(initialCatalog, year);
   const { saved, toggleSaved } = useSavedDeals();
   const [view, setView] = useState<'grid' | 'list'>('grid');
   const [selected, setSelected] = useState<{ deal: Deal; year: number } | null>(null);
@@ -61,7 +62,13 @@ export function Directory({ initialCatalog, index, builtAt }: DirectoryProps) {
   const timerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
   const sponsorship = getActiveSponsorship(initialCatalog);
   const displayedCatalog = catalog ?? initialCatalog;
-  const deals = catalog ? filterDeals(catalog, filters, saved) : [];
+  const deals = useMemo(
+    () =>
+      catalog
+        ? filterDeals(catalog, { category, query: resultsQuery, savedOnly, sort, year }, saved)
+        : [],
+    [catalog, category, resultsQuery, saved, savedOnly, sort, year],
+  );
   const savedCount = saved.filter((key) => key.startsWith(`${filters.year}/`)).length;
   const hasActiveFilters =
     filters.category !== 'all' || Boolean(filters.query) || filters.savedOnly;
@@ -157,6 +164,7 @@ export function Directory({ initialCatalog, index, builtAt }: DirectoryProps) {
 
   function changeFilters(changes: Partial<Filters>) {
     updateFilters(changes);
+    if (changes.query !== undefined) return;
     if (mobileFilters) {
       revealDealsAfterDrawer.current = true;
     } else {
