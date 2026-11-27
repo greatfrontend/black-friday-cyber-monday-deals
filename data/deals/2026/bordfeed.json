@@ -1,0 +1,17 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Bordfeed",
+  "url": "https://bordfeed.com/black-friday",
+  "categories": [
+    "ai-powered-tools-for-developers",
+    "developer-tools"
+  ],
+  "description": "Job data API for agents and builders: 500k+ live jobs from company hiring pages, refreshed nightly, via REST API, webhooks, email digests or MCP.",
+  "offer": "50% off the first 3 months on monthly plans or the first year on annual plans with code **BFCM50**, for new subscriptions only (Pro monthly: $79 → $39.50/mo)",
+  "couponCodes": [
+    "BFCM50"
+  ],
+  "validity": "Nov 27 – Dec 4, 2026, 23:59 CET",
+  "latest": null,
+  "addedAt": "2026-11-27T23:25:04+08:00"
+}
