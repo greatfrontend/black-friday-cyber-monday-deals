@@ -1,27 +1,10 @@
 # Ctrl Friday — Black Friday & Cyber Monday Deals 2026
 
-Black Friday and Cyber Monday 2026 deals for software engineers, developers, and designers. Find discounts on technical interview preparation resources, UI kits, AI tools, books, and courses.
+**[Browse all deals on Ctrl Friday →](https://ctrlfriday.com/)**
 
-**[Browse the latest deals on Ctrl Friday](https://ctrlfriday.com/)**
-
-Each product has its own JSON file in [data/deals/2026/](data/deals/2026/). To add or update a deal, follow the [contribution guide](CONTRIBUTING.md) or use the **Add or update a deal** issue form. The tables below are generated from JSON.
-
-> ⚠️ Feel free to send a pull request. **If you're advertising your product, star the repo first.**
->
-> Products that we deem to be low quality may be removed or reordered at our discretion.
->
-> Want a sponsored slot at the top of the site and this README? See [SPONSORS.md](SPONSORS.md).
-
-⭐ **Star this repo to stay updated on new Black Friday deals for developers.**
-
-We'd greatly appreciate if you could:
-
-- 👍 [Contribute a deal](CONTRIBUTING.md) with a pull request or issue
-- ⭐ Star this repo and come back next year for the latest deals
-- ♻️ Share this repo with your friends so more people benefit and contribute
-- 📖 Bookmark this page to help the community discover the best deals
-
-**Deals last checked: 26 Nov 2026.** Offers change fast, so check the seller's own page before you buy.
+- Search by product, keyword, or coupon code. Filter by category and sort by discount or name.
+- Save deals in your browser and copy coupon codes in one click.
+- Share a link that opens with your search, category, and sort order applied.
 
 <!-- sponsors:start -->
 
@@ -36,9 +19,13 @@ We'd greatly appreciate if you could:
   </tr>
 </table>
 
+Get a **homepage hero slot**, a **pinned deal** with a Sponsored badge, and a mention in GreatFrontEnd’s **Cyber Monday roundup** on LinkedIn, Instagram, and X.
+
 **5 slots remaining** at $199 each, live until 31 Dec 2026. [Become a sponsor](SPONSORS.md).
 
 <!-- sponsors:end -->
+
+**Deals last checked: 26 Nov 2026.**
 
 ---
 
@@ -63,6 +50,7 @@ We'd greatly appreciate if you could:
 - 🤖 [Jump to AI-powered tools](#ai-powered-tools-for-developers)
 - 🎨 [Jump to Design kits](#design-kits)
 - 🧑‍🏫 [Jump to Design courses](#design-courses)
+- [Contribute a deal](#contributing)
 
 ## Technical interviews preparation
 
@@ -234,7 +222,15 @@ We'd greatly appreciate if you could:
 
 ⭐ **Star this repository** to get notified about Black Friday and Cyber Monday deals for developers and designers in 2026.
 
-🔖 **[Bookmark Ctrl Friday](https://ctrlfriday.com/)** for the latest deals, or contribute a deal via pull request or issue.
+🔖 **[Bookmark Ctrl Friday](https://ctrlfriday.com/)** for the latest deals.
+
+---
+
+## Contributing
+
+To add or update a deal, follow the [contribution guide](CONTRIBUTING.md) to open a pull request, or use the **Add or update a deal** issue form. The tables are generated from the product files in [data/deals/2026/](data/deals/2026/).
+
+If you're submitting your own product, star the repo first. We may remove or reorder low-quality listings.
 
 ---
 

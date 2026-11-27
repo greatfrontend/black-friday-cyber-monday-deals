@@ -150,8 +150,11 @@ export function renderSponsorBlock(catalog) {
     .filter((slot) => slot.dealId)
     .map((sponsor) => `    ${renderSponsorCell(catalog, sponsor)}`);
   const table = cells.length ? ['<table>', '  <tr>', ...cells, '  </tr>', '</table>', ''] : [];
+  const perks =
+    'Get a **homepage hero slot**, a **pinned deal** with a Sponsored badge, and a mention in ' +
+    'GreatFrontEnd’s **Cyber Monday roundup** on LinkedIn, Instagram, and X.';
 
-  return ['## Sponsors', '', ...table, renderSponsorAvailability(catalog)].join('\n');
+  return ['## Sponsors', '', ...table, perks, '', renderSponsorAvailability(catalog)].join('\n');
 }
 
 function replaceSponsorBlock(markdown, catalog) {
