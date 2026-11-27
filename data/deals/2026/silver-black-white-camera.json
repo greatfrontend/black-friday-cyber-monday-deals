@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "SILVER: Black & White Camera",
+  "url": "https://apps.apple.com/app/id6813106996?pt=128535281&ct=bf26-ctrlfriday",
+  "categories": [
+    "miscellaneous"
+  ],
+  "description": "Black-and-white film camera for iPhone and iPad with six free films and a private photo journal.",
+  "offer": "40% off SILVER Pro (one-time purchase). US pricing: $4.99 → $2.99 USD; local prices vary. Applied automatically in the App Store, no code needed",
+  "couponCodes": [],
+  "validity": "Until Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T18:35:54+05:30"
+}
