@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Yado",
+  "url": "https://yado.house/",
+  "categories": [
+    "utilities"
+  ],
+  "description": "Manage and clean up an iPhone from a Mac: export photos, clear duplicates and large videos, uninstall apps and keep backups.",
+  "offer": "20% off the one-time license, $19 → $15.20, applied automatically at checkout, no code. Pay once",
+  "validity": "Nov 27 to Nov 30, 2026",
+  "couponCodes": [],
+  "latest": true,
+  "addedAt": "2026-11-27T18:56:57+08:00"
+}

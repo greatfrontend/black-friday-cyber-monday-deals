@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Pake",
+  "url": "https://pake.run/",
+  "categories": [
+    "developer-tools",
+    "productivity-tools"
+  ],
+  "description": "Turn websites into lightweight desktop apps for Mac, Windows and Linux, built on the open-source Pake CLI.",
+  "offer": "20% off the one-time license, $19 → $15.20, applied automatically at checkout, no code. Pay once",
+  "validity": "Nov 27 to Nov 30, 2026",
+  "couponCodes": [],
+  "latest": true,
+  "addedAt": "2026-11-27T18:56:57+08:00"
+}
