@@ -66,6 +66,7 @@ test('schema rejects malformed contributions instead of silently accepting them'
     [{ categories: ['missing'] }, /Unknown category/],
     [{ couponCodes: ['SAVE30', 'SAVE30'] }, /duplicate/],
     [{ latest: 'yes' }, /\/latest/],
+    [{ addedAt: '2026-11-27T09:00:00' }, /\/addedAt.*date-time/],
     [{ active: true }, /additional properties/],
   ]) {
     const catalog = fixture();
@@ -212,6 +213,34 @@ test('individual product files can be added, updated and removed without editing
   assert.deepEqual(
     remaining[0].deals.map((deal) => deal.id),
     ['example-tool'],
+  );
+});
+
+test('deals sort by explicit order, then addedAt, then filename', async (t) => {
+  const root = await mkdtemp(path.join(tmpdir(), 'bfcm-added-deals-test-'));
+  t.after(() => rm(root, { recursive: true, force: true }));
+  const catalog = fixture();
+  const [deal] = catalog.deals;
+  catalog.deals.push(
+    { ...deal, id: 'curated-tool', order: 3 },
+    { ...deal, id: 'z-added-first', addedAt: '2026-11-27T09:00:00+08:00', order: 1 },
+    { ...deal, id: 'a-added-second', addedAt: '2026-11-27T01:30:00Z', order: 1 },
+    { ...deal, id: 'b-added-second', addedAt: '2026-11-27T01:30:00Z', order: 1 },
+    { ...deal, id: 'unordered-dated-tool', addedAt: '2026-11-26T00:00:00Z' },
+  );
+  await writeCatalogFixture(root, catalog);
+
+  const [loaded] = await readCatalogs(root);
+  assert.deepEqual(
+    loaded.deals.map((deal) => deal.id),
+    [
+      'z-added-first',
+      'a-added-second',
+      'b-added-second',
+      'curated-tool',
+      'example-tool',
+      'unordered-dated-tool',
+    ],
   );
 });
 

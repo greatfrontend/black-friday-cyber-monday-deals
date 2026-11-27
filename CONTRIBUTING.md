@@ -68,7 +68,8 @@ A product can have multiple categories. Use one file with a `categories` array i
 - Descriptions and offers support Markdown. Include coupon codes in `offer` for the README and in `couponCodes` for the website.
 - Preserve uncertainty in `validity`; use `-` if unknown. Do not invent exact deadlines, timezones, or discounts.
 - `latest` preserves the original Latest column: `true`, `false`, or `null` for unknown. It does **not** mean currently active or independently verified.
-- `order` is optional. Existing products have it to preserve the original listing order. New products can omit it and will appear after ordered products, sorted by filename. Renumbering existing products is unnecessary.
+- Default listings show sponsors in slot order first. The remaining deals sort by `order` from lowest to highest, with unnumbered deals after numbered ones.
+- `addedAt` records when a deal first joins the directory. Set it when accepting a new deal, using an ISO 8601 timestamp with a time zone, such as `2026-11-27T09:30:00+08:00`. Use the original timestamp when updating the deal. When `order` ties or is absent on both deals, undated entries appear first, then dated entries from oldest to newest. Matching timestamps sort alphabetically by filename.
 - `allDealsPlacements` in `data/catalogs/<year>.json` can place a `dealId` immediately after an `afterDealId` in the default All deals view. Placements apply in the order listed.
 - A category in `data/catalogs/<year>.json` can list `lastDealIds` for deals that appear at the end of its default order and README table, in the order listed.
 - The catalog's `lastChecked` applies to the entire year. Use a calendar date or an ISO 8601 timestamp with a time zone. Update it only after reviewing the whole catalog.

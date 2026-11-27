@@ -69,13 +69,13 @@ We'd greatly appreciate if you could:
 | **Name** | **Description** | **Deal details** | **Validity** | **Latest** |
 | :- | :- | :- | :- | :- |
 | [GreatFrontEnd Interviews](https://greatfrontend.com/?ref=bfcm&gnrs=bfcm) | Complete front end interview prep platform built by ex-FAANG engineers. 500+ practice questions across coding, UI, system design with detailed solutions. By the author of Blind 75 | 30% off all plans with code **BF30**, on top of the lifetime and bundle discounts already on the site (bundle: 51% off list price) | Ends Nov 29 | ✅ |
-| [Hello Interview](https://www.hellointerview.com?ref=greatfrontend) | System design practice and writeups by staff-level engineers from Meta and Amazon | Black Friday: 35% off a year of Premium ($77, was $119). 1 month $41 (was $59), lifetime $299 (was $399). No code | Ends about Nov 28 | ✅ |
-| [AlgoMonster](https://shareasale.com/r.cfm?b=1873647&u=3114753&m=114505&urllink=&afftrack=) | Structured way to prepare for coding interviews | Pro Lifetime $159 (was $378) | Ends Nov 30, 11:59 PM EST | ✅ |
 | [Design Gurus](https://www.designgurus.io/?aff=kJSIoU) | One-stop portal For tech interviews. By the creators of Grokking the System Design Interview | Thanksgiving Sale: 70% off everything, 90% off the All Courses bundle | Ends about Nov 27 | ✅ |
 | [Educative](https://www.educative.io/?aff=x23W) | Offers interactive text-based courses on coding interviews, system design, and software engineering | Up to 60% off; Unlimited annual plans 55% off | - | ✅ |
-| [certificates.dev](https://certificates.dev/?utm_source=greatfrontend&utm_medium=github&utm_campaign=cert_bf2025_bf) | Get ready for your interview with a certification! Get certified in React, Angular, JavaScript, Nuxt or Vue.js | **BLACKFRIDAYSPECIAL** - up to 60% off (60% on Vue.js and Nuxt, 47% on React, Angular, JavaScript and Laravel) + free bonuses | Ends Dec 2 | ✅ |
-| [Aced (formerly Exponent)](https://www.aced.io/?ref=techinterviewhandbook) | Interview prep for software engineering, PM and tech roles, including mock interview practice | 40% off any plan with code **CYBER40** | - | ✅ |
 | [ByteByteGo](https://bytebytego.com/?fpr=techinterviewhandbook) | Visual system design, coding and ML interview courses by Alex Xu | 50% off launch sale: lifetime $499 (was $999), one year $189 (was $399) | - | ✅ |
+| [AlgoMonster](https://shareasale.com/r.cfm?b=1873647&u=3114753&m=114505&urllink=&afftrack=) | Structured way to prepare for coding interviews | Pro Lifetime $159 (was $378) | Ends Nov 30, 11:59 PM EST | ✅ |
+| [certificates.dev](https://certificates.dev/?utm_source=greatfrontend&utm_medium=github&utm_campaign=cert_bf2025_bf) | Get ready for your interview with a certification! Get certified in React, Angular, JavaScript, Nuxt or Vue.js | **BLACKFRIDAYSPECIAL** - up to 60% off (60% on Vue.js and Nuxt, 47% on React, Angular, JavaScript and Laravel) + free bonuses | Ends Dec 2 | ✅ |
+| [Hello Interview](https://www.hellointerview.com?ref=greatfrontend) | System design practice and writeups by staff-level engineers from Meta and Amazon | Black Friday: 35% off a year of Premium ($77, was $119). 1 month $41 (was $59), lifetime $299 (was $399). No code | Ends about Nov 28 | ✅ |
+| [Aced (formerly Exponent)](https://www.aced.io/?ref=techinterviewhandbook) | Interview prep for software engineering, PM and tech roles, including mock interview practice | 40% off any plan with code **CYBER40** | - | ✅ |
 | [Dometrain](https://dometrain.com/) | Developer courses with hands-on exercises, system design practice and AI mock interviews. | 40% off Pro and Lite for as long as you stay subscribed, plus 40% off courses and interview packs, with code **BLACKFRIDAY26** | - | ✅ |
 | [interviewing.io](https://iio.sh/r/DMCa) | Anonymous mock interviews and coaching with engineers from top companies | $200 to $700 off 5 and 10 session dedicated coaching packages | Ends Nov 30, 11:59 PM PT | ✅ |
 | [LeetCode Premium](https://leetcode.com/subscribe/) | Coding interview practice platform; Premium adds company-tagged questions and solutions. | $30 off the annual subscription with code **THANKS2026** | - | ✅ |
@@ -86,21 +86,21 @@ We'd greatly appreciate if you could:
 | **Name** | **Description** | **Deal details** | **Validity** | **Latest** |
 | :- | :- | :- | :- | :- |
 | [GreatFrontEnd Interviews](https://greatfrontend.com/?ref=bfcm&gnrs=bfcm) | Complete front end interview prep platform built by ex-FAANG engineers. 500+ practice questions across coding, UI, system design with detailed solutions. By the author of Blind 75 | 30% off all plans with code **BF30**, on top of the lifetime and bundle discounts already on the site (bundle: 51% off list price) | Ends Nov 29 | ✅ |
-| [GreatFrontEnd Projects](https://greatfrontend.com/projects?ref=bfcm&gnrs=bfcm) | A platform to build high quality project challenges with beautiful & modular designs, guided by ex-FAANG senior engineers and an active community | Extra 30% off all Projects plans with code **BF30**, on top of the existing plan and bundle discounts | Ends Nov 29 | ✅ |
 | [Design Gurus](https://www.designgurus.io/?aff=kJSIoU) | One-stop portal For tech interviews. By the creators of Grokking the System Design Interview | Thanksgiving Sale: 70% off everything, 90% off the All Courses bundle | Ends about Nov 27 | ✅ |
 | [Educative](https://www.educative.io/?aff=x23W) | Offers interactive text-based courses on coding interviews, system design, and software engineering | Up to 60% off; Unlimited annual plans 55% off | - | ✅ |
-| [Taro](https://www.jointaro.com/?ref=greatfrontend) | Expert courses to accelerate your software engineering career | **BLACKFRIDAY26** - 25% off | - | ✅ |
-| [The Joy of React](https://www.joyofreact.com/?ref=greatfrontend) | The interactive learning experience that teaches you how to build rich, dynamic web apps with React | Ultimate $349 (was $599), Pro $299 (was $399), Basic $209 (was $249) | Ends about Dec 2 | ✅ |
+| [ByteByteGo](https://bytebytego.com/?fpr=techinterviewhandbook) | Visual system design, coding and ML interview courses by Alex Xu | 50% off launch sale: lifetime $499 (was $999), one year $189 (was $399) | - | ✅ |
+| [GreatFrontEnd Projects](https://greatfrontend.com/projects?ref=bfcm&gnrs=bfcm) | A platform to build high quality project challenges with beautiful & modular designs, guided by ex-FAANG senior engineers and an active community | Extra 30% off all Projects plans with code **BF30**, on top of the existing plan and bundle discounts | Ends Nov 29 | ✅ |
+| [Code With Mosh](https://codewithmosh.com/) | High-quality video courses on programming, web development, and software engineering fundamentals | Black Friday Sale 2026: lifetime access $199 (was $499), single courses also discounted | Ends about Dec 1 | ✅ |
+| [CSS Demystified](https://thecascade.dev/courses/css-demystified) | Courses on CSS by Kevin Powell, easy to follow and in-depth explanations | CSS Demystified: 32% off ($249 to $169), applied automatically | Ends Dec 1 | ✅ |
 | [CSS for JavaScript Developers](https://css-for-js.dev/?ref=greatfrontend) | The interactive learning experience designed to help JavaScript developers become confident with CSS | Ultimate $239 (was $399), Pro $219 (was $279), Basic $129 (was $149) | Ends about Dec 2 | ✅ |
 | [Joy for JavaScript Developers](https://www.joyforjs.com/?ref=greatfrontend) | Develop a deep understanding of CSS and React with two flagship courses, CSS for JavaScript Developers and The Joy of React. | Black Friday sale: bundle $498, more than 60% off | Ends about Dec 3 | ✅ |
+| [LabEx](https://labex.io/learn) | Learn Linux, DevOps & Cybersecurity with Hands-on Labs | Black Friday 2026: **2026BF30** - 30% off or **2026BF50** - 50% off | Ends about Nov 28 | ✅ |
+| [Taro](https://www.jointaro.com/?ref=greatfrontend) | Expert courses to accelerate your software engineering career | **BLACKFRIDAY26** - 25% off | - | ✅ |
+| [The Joy of React](https://www.joyofreact.com/?ref=greatfrontend) | The interactive learning experience that teaches you how to build rich, dynamic web apps with React | Ultimate $349 (was $599), Pro $299 (was $399), Basic $209 (was $249) | Ends about Dec 2 | ✅ |
 | [VueSchool](https://vueschool.io/) | Learn Vue.js and modern, cutting-edge front-end technologies from core-team members and industry experts with our premium tutorials and video courses | Black Friday: up to 55% off; Yearly $149 (was $300), Lifetime $499 (was $900) | Ends Dec 1 | ✅ |
 | [Zero To Mastery](https://zerotomastery.io/courses/) | The most up-to-date tech courses online. | **BFCM26** - 66% off annual membership, plus a MacBook Pro giveaway | - | ✅ |
-| [Code With Mosh](https://codewithmosh.com/) | High-quality video courses on programming, web development, and software engineering fundamentals | Black Friday Sale 2026: lifetime access $199 (was $499), single courses also discounted | Ends about Dec 1 | ✅ |
-| [LabEx](https://labex.io/learn) | Learn Linux, DevOps & Cybersecurity with Hands-on Labs | Black Friday 2026: **2026BF30** - 30% off or **2026BF50** - 50% off | Ends about Nov 28 | ✅ |
-| [CSS Demystified](https://thecascade.dev/courses/css-demystified) | Courses on CSS by Kevin Powell, easy to follow and in-depth explanations | CSS Demystified: 32% off ($249 to $169), applied automatically | Ends Dec 1 | ✅ |
 | [Angular University](https://angular-university.io/) | Courses on Angular, TypeScript and RxJS. | All courses 50% off: $64 for the first year | Ends Tue Dec 1 | ✅ |
 | [Ardan Labs training](https://www.ardanlabs.com/black-friday) | Self-paced and live training in Go, Rust, Docker, Kubernetes and AI. | 40% off every self-paced training bundle; 25% off live AI workshops | - | ✅ |
-| [ByteByteGo](https://bytebytego.com/?fpr=techinterviewhandbook) | Visual system design, coding and ML interview courses by Alex Xu | 50% off launch sale: lifetime $499 (was $999), one year $189 (was $399) | - | ✅ |
 | [Codecademy Pro](https://www.codecademy.com/pricing) | Interactive courses in programming, web development, data and AI. | 60% off a year of Pro or Pro Student with code **BF2026** | Ends Nov 28 (countdown on page) | ✅ |
 | [Coursera Plus](https://www.coursera.org/courseraplus) | Annual subscription to 10,000+ courses and certificates from universities and companies. | Coursera Plus Annual for $239 instead of $399 | Ends Nov 30, 2026 | ✅ |
 | [DataCamp](https://www.datacamp.com/promo/biggest-annual-sale-26) | Online courses and career tracks in Python, SQL, data and AI. | 60% off annual DataCamp Premium, Teams or DataLab Premium | Nov 11 to Nov 29, 2026 (countdown on page) | ✅ |
@@ -121,13 +121,13 @@ We'd greatly appreciate if you could:
 
 | **Name** | **Description** | **Deal details** | **Validity** | **Latest** |
 | :- | :- | :- | :- | :- |
-| [Next.js Templates](https://getnextjstemplates.com/) | Next.js Templates for Your Upcoming Projects | **BFCM** - 40% off all templates | Ends about Dec 1 | ✅ |
-| [TailGrids](https://tailgrids.com/) | Tailwind CSS UI Components, Blocks and Templates | **BLFCM2026** - up to 80% off all products | Ends about Dec 2 | ✅ |
 | [daisyUI](https://daisyui.com/store/) | Official templates made by daisyUI | A new code every day; the discount drops 5% a day (25% off on Nov 26). Find the current code in the banner on the store page | Ends Dec 1 (00:00 UTC) | ✅ |
-| [TailAdmin](https://tailadmin.com/) | Open source Tailwind CSS Admin Dashboard Template | **BLFCM2026** - up to 80% off all products | - | ✅ |
 | [FormBold](https://formbold.com/) | A complete web form solution that includes a form API, backend, and builder. Get website form submissions directly to your inbox, Slack, Sheet, Notion, Telegram and more | **BLFCM2026** - up to 80% off all products | Ends Dec 1, 23:59 UTC | ✅ |
-| [UIDeck](https://uideck.com/) | 100+ High-quality templates, landing pages, and UI kits for startups and SaaS businesses | **BLFCM2026** - up to 80% off all products | Ends about Dec 2 | ✅ |
 | [MDB Bootstrap Pro/Bundle](https://mdbootstrap.com/) | MDB - Material Design for Bootstrap v5 | MDB AI Bundle $149, 30% off other offers, code **BF2026** | - | ✅ |
+| [Next.js Templates](https://getnextjstemplates.com/) | Next.js Templates for Your Upcoming Projects | **BFCM** - 40% off all templates | Ends about Dec 1 | ✅ |
+| [TailAdmin](https://tailadmin.com/) | Open source Tailwind CSS Admin Dashboard Template | **BLFCM2026** - up to 80% off all products | - | ✅ |
+| [TailGrids](https://tailgrids.com/) | Tailwind CSS UI Components, Blocks and Templates | **BLFCM2026** - up to 80% off all products | Ends about Dec 2 | ✅ |
+| [UIDeck](https://uideck.com/) | 100+ High-quality templates, landing pages, and UI kits for startups and SaaS businesses | **BLFCM2026** - up to 80% off all products | Ends about Dec 2 | ✅ |
 | [Aceternity UI Pro](https://ui.aceternity.com/pricing) | Premium animated blocks and landing page templates built with Next.js, Tailwind CSS and Motion. | 30% off all plans with code **BLACKFRIDAY30** | Countdown on page (4 days 5 hours left on Nov 26) | ✅ |
 | [AdminMart](https://adminmart.com/) | Admin dashboard templates for React, Next.js, Angular, Vue, Bootstrap, Tailwind and shadcn. | 40% off with code **BFCM** | Countdown on page (5 days 22 hours left on Nov 26) | ✅ |
 | [Backpack for Laravel](https://backpackforlaravel.com/black-friday) | A Laravel admin panel toolkit for building CRUD interfaces. | 50% off your first year, or 30% off forever, on the SILVER and GOLD plans | Ends Dec 1 | ✅ |
@@ -152,12 +152,12 @@ We'd greatly appreciate if you could:
 
 | **Name** | **Description** | **Deal details** | **Validity** | **Latest** |
 | :- | :- | :- | :- | :- |
+| [BucketMate](https://bucketmate.app/pricing?ref=greatfrontend) | A Finder-style S3-compatible manager for macOS. | **BF2026** - 40% off lifetime licenses | - | ✅ |
 | [GitKraken](https://www.gitkraken.com/pricing) | Devtools that simplify & supercharge Git | **BLACKFRIDAY2026** - 60% off the first year | - | ✅ |
+| [Kinsta](https://kinsta.com/black-friday/) | Managed WordPress hosting, also application, database and static site hosting | 50% off monthly plans for 3 months, 3 months free on annual plans | Ends Dec 1 | ✅ |
 | [LocalCan](https://www.localcan.com/) | Develop apps with Public URLs and .local domains | **BF50** - 50% off the first year of Solo or Pro yearly | Ends Dec 1 | ✅ |
 | [Proxyman](https://proxyman.com/) | Best-in-class native macOS app to capture, decrypt, and mock your HTTP(s) requests/ responses with powerful debugging tools | **BF2026** - 30% off, this week only | - | ✅ |
-| [BucketMate](https://bucketmate.app/pricing?ref=greatfrontend) | A Finder-style S3-compatible manager for macOS. | **BF2026** - 40% off lifetime licenses | - | ✅ |
 | [RunJS](https://runjs.app/) | The JavaScript playground for your desktop | **BLACKFRIDAY2026** - 30% off | Ends about Dec 2 | ✅ |
-| [Kinsta](https://kinsta.com/black-friday/) | Managed WordPress hosting, also application, database and static site hosting | 50% off monthly plans for 3 months, 3 months free on annual plans | Ends Dec 1 | ✅ |
 | [1bench](https://1bench.dev/black-friday) | Desktop database GUI for 25+ SQL, NoSQL, vector and search databases on Mac, Windows and Linux. | 50% off Solo Lifetime ($199 to $99) with code **FCBF26** | Nov 14 to Dec 7, 2026 | ✅ |
 | [CleanShot X](https://cleanshot.com/pricing) | Screenshot and screen recording app for Mac. | 30% off CleanShot Basic ($35 to $24.50) and 50% off the first year of CleanShot Pro, no code needed | - | ✅ |
 | [Cloudways](https://www.cloudways.com/en/) | Managed cloud hosting for WordPress, PHP and Node.js apps. | 80% off the first 2 months for new accounts with code **BFCM802**, up to $200 off per month | Sign up by Dec 4 | ✅ |
@@ -181,15 +181,17 @@ We'd greatly appreciate if you could:
 | [LabEx](https://labex.io/learn) | Learn Linux, DevOps & Cybersecurity with Hands-on Labs | Black Friday 2026: **2026BF30** - 30% off or **2026BF50** - 50% off | Ends about Nov 28 | ✅ |
 | [Nil Coalescing Swift and SwiftUI books](https://nilcoalescing.com/black-friday) | In-depth ebooks on SwiftUI, Swift Charts and the Swift language by Natalia Panferova, plus the SwiftFairy code review tool. | 30% off all books ($35 to $25 each), SwiftFairy and apps | Nov 18 to Dec 2 | ✅ |
 | [macOS Apps Step by Step and Escape from Tutorial Hell](https://troz.net/post/2026/black_friday_2026/) | Self-published Swift and macOS development books by Sarah Reichelt, with lifetime updates. | 30% off both books | Until Dec 3 | ✅ |
+| [Exploring Java Libraries: A Developer's Guide (Volume 1)](https://leanpub.com/java-libraries-guide-1/c/BLACKFRIDAY50) | Practical guide covering 250 Java libraries for Core Systems, NIO, Concurrency, and JVM internals. | 50% off ($19.99 to $10.00) with code **BLACKFRIDAY50** (auto-applied on Leanpub, also on Gumroad) | Nov 25 to Dec 10, 2026 | ✅ |
+| [Exploring Java Libraries: A Developer's Guide (Volume 2)](https://leanpub.com/java-libraries-guide-2/c/BLACKFRIDAY50) | Advanced guide covering 200+ Java libraries for Performance, Networking, Data Processing, and Architecture. | 50% off ($19.99 to $10.00) with code **BLACKFRIDAY50** (auto-applied on Leanpub, also on Gumroad) | Nov 25 to Dec 10, 2026 | ✅ |
 
 ## AI-powered tools for developers
 
 | **Name** | **Description** | **Deal details** | **Validity** | **Latest** |
 | :- | :- | :- | :- | :- |
 | [BoltAI](https://boltai.com) | Switch between top AI services and local models. All from a single native app on your Mac | **BFCM2026** - 64% off | Ends Dec 1 | ✅ |
+| [GoStudio.ai](https://www.gostudio.ai/?ref=greatfrontend) | Create custom, studio-quality AI headshots and branded portraits in minutes—perfect for founders, creators, and professionals who want high-credibility visuals without photoshoots | 30% off | Ends Dec 1 | ✅ |
 | [inReels.ai](https://www.inreels.ai) | Create stunning videos in seconds using AI. Turn text, PDFs, or images into videos. Repurpose content for YouTube, TikTok, Reels, and more | **BLACKFRIDAY2026** - 50% off yearly plans | Ends about Dec 1 | ✅ |
 | [SharpAPI](https://sharpapi.com/en/pricing) | AI workflow automation API for product descriptions, resume parsing, job match scoring, SEO tags, and more | **BF2026** - 40% off every plan, valid 12 months | Ends Nov 30 | ✅ |
-| [GoStudio.ai](https://www.gostudio.ai/?ref=greatfrontend) | Create custom, studio-quality AI headshots and branded portraits in minutes—perfect for founders, creators, and professionals who want high-credibility visuals without photoshoots | 30% off | Ends Dec 1 | ✅ |
 | [Creative Tim](https://www.creative-tim.com/ui/black-friday-2026) | UI kits, templates and AI app-building kits; the Black Friday bundle includes AI kits, templates and App Builder credits. | Black Friday bundles from $129 one-time (up to 79% off), limited quantity | Through Nov 29 | ✅ |
 | [Fixa](https://fixa.dev/black-friday) | AI software engineer that takes a GitHub issue, writes the fix and a test, and opens a pull request. | 50% off the first year of a yearly plan (Starter $96 to $48) with code **BLACKFRIDAY**, applied at checkout | Until Dec 1 | ✅ |
 | [TypingMind](https://www.typingmind.com/) | Chat interface for ChatGPT, Claude, Gemini and other models using your own API keys. | 60% off Premium | Ends Nov 30 | ✅ |
@@ -210,6 +212,7 @@ We'd greatly appreciate if you could:
 | [Iconscout](https://iconscout.com/pricing) | A library of icons, illustrations, 3D assets and Lottie animations with Figma and other design tool plugins. | 50% off the Individual plan (unlimited downloads plus AI tools) | Countdown on page (showed 0 days 22 hours left on Nov 26) | ✅ |
 | [ls.graphics](https://www.ls.graphics) | A library of 3D device and branding mockups with browser mockup editors and a Figma plugin. | 50% off everything, discount already applied at checkout | Ends Dec 1 | ✅ |
 | [shadcncraft](https://shadcncraft.com) | A shadcn/ui design system with a Figma file covering all shadcn styles plus matching React components and full app templates. | 40% off everything (bundles, licences and upgrades), applied at checkout with no code | Ends Dec 1 | ✅ |
+| [LogoGoGo](https://logogogo.app/) | Turn 1 master SVG logo into every color variation, vector/PNG/favicon export, and a permanent branded client delivery portal. | 50% off Annual Pro ($95/yr, reg $190) and Studio ($245/yr, reg $490) plans with code **BF50** | Nov 26 to Nov 30, 2026 | ✅ |
 
 ## Design courses
 

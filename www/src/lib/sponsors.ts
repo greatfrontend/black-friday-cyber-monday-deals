@@ -23,6 +23,16 @@ export function getSponsoredDealIds(catalog: Pick<Catalog, 'sponsorship'>) {
   return slots.flatMap((slot) => ('dealId' in slot ? [slot.dealId] : []));
 }
 
+export function pinSponsoredDeals(deals: Deal[], catalog: Pick<Catalog, 'sponsorship'>) {
+  const sponsoredIds = getSponsoredDealIds(catalog);
+  if (sponsoredIds.length === 0) return deals;
+
+  const sponsored = sponsoredIds.flatMap((id) => deals.find((deal) => deal.id === id) ?? []);
+  const organic = deals.filter((deal) => !sponsoredIds.includes(deal.id));
+
+  return [...sponsored, ...organic];
+}
+
 /** One entry per slot, so the hero always shows the full row including open slots. */
 export function getHeroSlots(catalog: SponsoredCatalog): HeroSlot[] {
   const sponsorship = getActiveSponsorship(catalog);

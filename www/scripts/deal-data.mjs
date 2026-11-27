@@ -48,7 +48,10 @@ async function readProducts(year, root) {
 
   return products.sort((first, second) => {
     const order = (first.order ?? Infinity) - (second.order ?? Infinity);
-    return order || first.id.localeCompare(second.id, 'en');
+    const firstAddedAt = first.addedAt ? Date.parse(first.addedAt) : -Infinity;
+    const secondAddedAt = second.addedAt ? Date.parse(second.addedAt) : -Infinity;
+    const addedAt = firstAddedAt - secondAddedAt;
+    return order || addedAt || first.id.localeCompare(second.id, 'en');
   });
 }
 

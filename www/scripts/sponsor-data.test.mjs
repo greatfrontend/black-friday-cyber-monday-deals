@@ -5,7 +5,7 @@ import { tmpdir } from 'node:os';
 import path from 'node:path';
 import { exportCatalogs, readCatalogs, syncMarkdown } from './deal-data.mjs';
 import { validateCatalog, validateSponsorship } from './deal-validation.mjs';
-import { renderMarkdown } from './deal-markdown.mjs';
+import { renderMarkdown, renderTable } from './deal-markdown.mjs';
 
 function product(name) {
   return {
@@ -176,6 +176,13 @@ test('the README sponsor block is generated between its markers and stays stable
   const unsponsored = sponsoredCatalog();
   delete unsponsored.sponsorship;
   assert.ok(!renderMarkdown(unsponsored, markdown).includes('## Sponsors'));
+});
+
+test('README category tables pin active sponsors ahead of other deals', () => {
+  const catalog = sponsoredCatalog();
+  catalog.deals.unshift({ id: 'organic-tool', ...product('Organic Tool'), order: 1 });
+  const table = renderTable(catalog, 'developer-tools');
+  assert.match(table, /\[House Tool\][^\n]*\n\| \[Example <Tool>\][^\n]*\n\| \[Organic Tool\]/);
 });
 
 test('sponsorship files are read with the catalog and exported with their logos', async (t) => {

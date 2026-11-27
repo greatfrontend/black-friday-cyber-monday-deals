@@ -69,6 +69,11 @@
         "null"
       ]
     },
+    "addedAt": {
+      "description": "Timestamp when the deal was first added to the directory.",
+      "type": "string",
+      "format": "date-time"
+    },
     "order": {
       "type": "integer",
       "minimum": 1

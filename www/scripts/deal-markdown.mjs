@@ -1,5 +1,6 @@
 import path from 'node:path';
 import { moveDealsToEnd } from '../src/lib/deal-order.ts';
+import { pinSponsoredDeals } from '../src/lib/sponsors.ts';
 
 const tablePattern = /(^\|[^\n]*(?:\n|$))+/m;
 const sponsorBlockPattern = /<!-- sponsors:start -->[\s\S]*?<!-- sponsors:end -->/;
@@ -40,9 +41,8 @@ export function renderTable(catalog, categoryId) {
 
   const deals = catalog.deals.filter((deal) => deal.categories.includes(categoryId));
   const category = catalog.categories.find(({ id }) => id === categoryId);
-  const rows = moveDealsToEnd(deals, category?.lastDealIds).map((deal) =>
-    createDealRow(deal, catalog.hasLatestColumn),
-  );
+  const ordered = pinSponsoredDeals(moveDealsToEnd(deals, category?.lastDealIds), catalog);
+  const rows = ordered.map((deal) => createDealRow(deal, catalog.hasLatestColumn));
 
   return [headers, headers.map(() => ':-'), ...rows].map(renderRow).join('\n');
 }

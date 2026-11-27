@@ -9,6 +9,7 @@ export interface Deal {
   couponCodes: string[];
   validity: string;
   latest: boolean | null;
+  addedAt?: string;
   order?: number;
 }
 

@@ -1,6 +1,6 @@
 import { categoryLabels } from './categories.ts';
 import { moveDealAfter, moveDealsToEnd } from './deal-order.ts';
-import { getSponsoredDealIds } from './sponsors.ts';
+import { pinSponsoredDeals } from './sponsors.ts';
 import type { Catalog, Deal, Filters } from './types';
 
 export const repositoryUrl = 'https://github.com/greatfrontend/black-friday-cyber-monday-deals';
@@ -55,17 +55,6 @@ export function filterDeals(catalog: Catalog, filters: Filters, saved: string[])
     return pinSponsoredDeals(ordered, catalog);
   }
   return matching;
-}
-
-// Sponsors lead the curated order only; an explicit name or discount sort is left alone.
-function pinSponsoredDeals(deals: Deal[], catalog: Pick<Catalog, 'sponsorship'>) {
-  const sponsoredIds = getSponsoredDealIds(catalog);
-  if (sponsoredIds.length === 0) return deals;
-
-  const sponsored = sponsoredIds.flatMap((id) => deals.find((deal) => deal.id === id) ?? []);
-  const organic = deals.filter((deal) => !sponsoredIds.includes(deal.id));
-
-  return [...sponsored, ...organic];
 }
 
 export function formatCheckedDate(value: string | null) {
