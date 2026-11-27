@@ -3,14 +3,15 @@
   "name": "Wireway",
   "url": "https://wireway.dev/black-friday/",
   "categories": [
-    "developer-tools"
+    "developer-tools",
+    "ai-powered-tools-for-developers"
   ],
-  "description": "Native macOS HTTPS debugging proxy for desktop, mobile, and simulator traffic.",
+  "description": "Native macOS HTTPS debugging proxy for desktop, mobile, and simulator traffic, with a built-in MCP server for AI coding agents.",
   "offer": "75% off the first year of Pro (€9.99 instead of €39.99) with **BF2026**. Keep using the Pro versions released during your paid term",
   "couponCodes": [
     "BF2026"
   ],
   "validity": "Nov 27–Dec 1, 2026",
   "latest": true,
-  "addedAt": "2026-11-27T21:37:17+08:00"
+  "addedAt": "2026-11-27T23:04:28+08:00"
 }
