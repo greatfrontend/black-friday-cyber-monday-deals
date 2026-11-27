@@ -1,0 +1,17 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "QuietCraft UI Pro",
+  "url": "https://jumpertheme.gumroad.com/l/quietcraft-ui-pro/FIRST50",
+  "categories": [
+    "ui-kits-starter-kits"
+  ],
+  "description": "Clean React 19 and Tailwind CSS v4 component kit with 4px tokens, dark/light palettes, zero-build HTML kit, and AGENTS.md guardrails.",
+  "offer": "40% off ($5 to $3) with code **FIRST50** (or 60% off first 10 buyers with **FIRST10**, $2)",
+  "couponCodes": [
+    "FIRST50",
+    "FIRST10"
+  ],
+  "validity": "Through Dec 1, 2026; timezone not stated",
+  "latest": true,
+  "addedAt": "2026-11-28T01:54:06+08:00"
+}
