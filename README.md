@@ -136,6 +136,7 @@ Get a **homepage hero slot**, a **pinned deal** with a Sponsored badge, and a me
 | [Tailkits UI](https://tailkits.com/ui/) | 237 Tailwind CSS sections in HTML and shadcn/React with MCP support. | 60% off any plan, code **BLACKFRIDAY2026** applied automatically at checkout | Until Dec 1 | ✅ |
 | [Tailwind Admin](https://tailwind-admin.com/pricing) | React admin dashboard templates built with Tailwind CSS and shadcn/ui. | 40% off with code **BFCM** | Countdown on page (5 days 22 hours left on Nov 26) | ✅ |
 | [WrapPixel](https://wrappixel.com/) | Admin dashboard and website templates for React, Next.js, Vue, Angular and more. | 40% off with code **BFCM** | Countdown on page (5 days 22 hours left on Nov 26) | ✅ |
+| [ShadcnDeck](https://www.shadcndeck.com/all-access-bundle) | Shadcn/ui templates for landing pages, portfolios, and dashboards, built with React, Next.js, Tailwind CSS, and TypeScript. | Extra 40% off the All-Access Bundle with code **BLACKFRIDAY40** ($53.40) | Ends Dec 4, 2026 at 11:59 PM UTC or after 100 buyers, whichever comes first | ✅ |
 
 ## Developer tools
 
