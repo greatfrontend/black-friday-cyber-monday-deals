@@ -2,6 +2,7 @@ import { startTransition, useEffect, useState } from 'react';
 import { normalizeCategoryId } from '../lib/categories';
 import { initializeTheme, themeStorageKey } from '../lib/theme-init';
 import type { Catalog, CatalogIndex, Filters } from '../lib/types';
+import { readBrowseYear } from './use-deal-dialog';
 
 const searchDebounceMs = 300;
 
@@ -18,7 +19,7 @@ export function defaultFilters(year: number): Filters {
 function readFilters(index: CatalogIndex): Filters {
   const params = new URLSearchParams(window.location.search);
   const defaults = defaultFilters(index.currentYear);
-  const year = Number(params.get('year'));
+  const year = Number(readBrowseYear(params));
   const sort = params.get('sort');
   return {
     ...defaults,
@@ -31,18 +32,22 @@ function readFilters(index: CatalogIndex): Filters {
 }
 
 function writeFilters(filters: Filters, currentYear: number) {
-  const params = new URLSearchParams();
-  if (filters.query) params.set('q', filters.query);
-  if (filters.category !== 'all') params.set('category', filters.category);
-  if (filters.year !== currentYear) params.set('year', String(filters.year));
-  if (filters.sort !== 'curated') params.set('sort', filters.sort);
-  if (filters.savedOnly) params.set('saved', '1');
-  const query = params.size ? `?${params}` : '';
-  window.history.replaceState(
-    null,
-    '',
-    `${window.location.pathname}${query}${window.location.hash}`,
-  );
+  const url = new URL(window.location.href);
+  for (const [key, value] of Object.entries({
+    q: filters.query,
+    category: filters.category === 'all' ? '' : filters.category,
+    ...(!url.searchParams.has('deal') && {
+      year: filters.year === currentYear ? '' : String(filters.year),
+    }),
+    sort: filters.sort === 'curated' ? '' : filters.sort,
+    saved: filters.savedOnly ? '1' : '',
+  })) {
+    if (value) url.searchParams.set(key, value);
+    else url.searchParams.delete(key);
+  }
+  if (url.href !== window.location.href) {
+    window.history.replaceState(window.history.state, '', url);
+  }
 }
 
 export function useDirectoryFilters(index: CatalogIndex) {

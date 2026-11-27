@@ -11,6 +11,7 @@ import { SponsoredBadge } from './sponsored-badge';
 interface DealDetailProps {
   deal: Deal | null;
   year: number;
+  status?: 'loading' | 'unavailable';
   sponsored?: boolean;
   onClose: () => void;
   onCopy: (code: string) => void;
@@ -20,6 +21,7 @@ interface DealDetailProps {
 export function DealDetail({
   deal,
   year,
+  status,
   sponsored = false,
   onClose,
   onCopy,
@@ -27,11 +29,11 @@ export function DealDetail({
 }: DealDetailProps) {
   return (
     <Dialog
-      open={deal !== null}
+      open={deal !== null || status !== undefined}
       onOpenChange={(open) => {
         if (!open) onClose();
       }}
-      title={deal?.name ?? 'Deal details'}
+      title={deal?.name ?? (status === 'loading' ? 'Loading deal…' : 'Deal details')}
       icon={
         deal && (
           <ProductMark websiteUrl={deal.url} faviconUrl={deal.faviconUrl} className="size-9" />
@@ -46,6 +48,9 @@ export function DealDetail({
         )
       }
     >
+      {status === 'unavailable' && (
+        <p className="mt-5 text-sm text-muted-foreground">This deal could not be loaded.</p>
+      )}
       {deal && (
         <div className="mt-5 space-y-5">
           <p className="text-sm leading-6 text-muted-foreground">{plainText(deal.description)}</p>

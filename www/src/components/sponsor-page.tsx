@@ -1,9 +1,10 @@
 import { useState, type ReactNode } from 'react';
 import { ArrowUpRight, BookOpen, Megaphone, PanelTop, Pin, Tag, Users } from 'lucide-react';
-import type { Catalog, Deal, Sponsorship } from '../lib/types';
+import type { Catalog, Sponsorship } from '../lib/types';
 import { formatCheckedDate, repositoryUrl } from '../lib/deals';
-import { formatSlotAvailability, getActiveSponsorship } from '../lib/sponsors';
+import { formatSlotAvailability, getActiveSponsorship, getSponsoredDealIds } from '../lib/sponsors';
 import { cn } from '../lib/utils';
+import { useDealDialog } from '../hooks/use-deal-dialog';
 import { ContributeDialog } from './contribute-dialog';
 import { DealDetail } from './deal-detail';
 import { SiteFooter } from './site-footer';
@@ -254,9 +255,13 @@ function SponsorshipDetails({ year, sponsorship }: { year: number; sponsorship: 
 
 export function SponsorPage({ catalog }: { catalog: Catalog }) {
   const [contributing, setContributing] = useState(false);
-  const [selected, setSelected] = useState<Deal | null>(null);
+  const { selection, openDeal, closeDeal } = useDealDialog(catalog.year);
   const [copiedCode, setCopiedCode] = useState('');
   const sponsorship = getActiveSponsorship(catalog);
+  const selectedDeal =
+    selection?.year === catalog.year
+      ? catalog.deals.find((deal) => deal.id === selection.id)
+      : undefined;
 
   async function copyCoupon(code: string) {
     try {
@@ -322,7 +327,7 @@ export function SponsorPage({ catalog }: { catalog: Catalog }) {
                   catalog={catalog}
                   sponsorship={sponsorship}
                   sponsorHref="#become-a-sponsor"
-                  onDetails={setSelected}
+                  onDetails={(deal) => openDeal(deal.id, catalog.year)}
                 />
                 <p className="mx-auto mt-3 max-w-[444px] text-xs leading-5 text-muted-foreground min-[821px]:mr-0">
                   These are the current homepage slots. Open slots show a plus sign.
@@ -351,10 +356,11 @@ export function SponsorPage({ catalog }: { catalog: Catalog }) {
       </main>
       <SiteFooter year={catalog.year} onContribute={() => setContributing(true)} />
       <DealDetail
-        deal={selected}
+        deal={selectedDeal ?? null}
         year={catalog.year}
-        sponsored
-        onClose={() => setSelected(null)}
+        status={selection && !selectedDeal ? 'unavailable' : undefined}
+        sponsored={selectedDeal && getSponsoredDealIds(catalog).includes(selectedDeal.id)}
+        onClose={closeDeal}
         onCopy={(code) => void copyCoupon(code)}
         copiedCode={copiedCode}
       />

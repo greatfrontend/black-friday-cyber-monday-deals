@@ -10,6 +10,7 @@ import {
   getSponsoredDealIds,
   sponsorPagePath,
 } from '../lib/sponsors';
+import { useDealDialog } from '../hooks/use-deal-dialog';
 import { useCatalog, useDirectoryFilters, useSavedDeals } from '../hooks/use-directory';
 import { cn } from '../lib/utils';
 import { ArrowButton, ArrowLink } from './ui/arrow-button';
@@ -48,9 +49,10 @@ export function Directory({ initialCatalog, index, builtAt }: DirectoryProps) {
   const { filters, resultsQuery, updateFilters, clearFilters } = useDirectoryFilters(index);
   const { category, savedOnly, sort, year } = filters;
   const { catalog, error, retry } = useCatalog(initialCatalog, year);
+  const { selection, openDeal, closeDeal } = useDealDialog(index.currentYear);
+  const dealYear = selection?.year ?? year;
   const { saved, toggleSaved } = useSavedDeals();
   const [view, setView] = useState<'grid' | 'list'>('grid');
-  const [selected, setSelected] = useState<{ deal: Deal; year: number } | null>(null);
   const [contributing, setContributing] = useState(false);
   const [mobileFilters, setMobileFilters] = useState(false);
   const [copiedCoupon, setCopiedCoupon] = useState<CopiedCoupon | null>(null);
@@ -72,10 +74,16 @@ export function Directory({ initialCatalog, index, builtAt }: DirectoryProps) {
   const savedCount = saved.filter((key) => key.startsWith(`${filters.year}/`)).length;
   const hasActiveFilters =
     filters.category !== 'all' || Boolean(filters.query) || filters.savedOnly;
-  // A deal opens from the hero (current year) or from the results (the browsed year).
-  const selectedCatalog = selected?.year === initialCatalog.year ? initialCatalog : catalog;
+  const selectedCatalog =
+    dealYear === initialCatalog.year ? initialCatalog : dealYear === year ? catalog : null;
+  const selectedDeal = selection && selectedCatalog?.deals.find((deal) => deal.id === selection.id);
+  const loadingDeal = dealYear === year && !selectedCatalog && !error;
+  const dealStatus =
+    selection && !selectedDeal ? (loadingDeal ? 'loading' : 'unavailable') : undefined;
   const selectedIsSponsored = Boolean(
-    selected && selectedCatalog && getSponsoredDealIds(selectedCatalog).includes(selected.deal.id),
+    selectedDeal &&
+    selectedCatalog &&
+    getSponsoredDealIds(selectedCatalog).includes(selectedDeal.id),
   );
 
   useEffect(() => {
@@ -159,7 +167,7 @@ export function Directory({ initialCatalog, index, builtAt }: DirectoryProps) {
   }
 
   function openCurrentDeal(deal: Deal) {
-    setSelected({ deal, year: initialCatalog.year });
+    openDeal(deal.id, initialCatalog.year);
   }
 
   function changeFilters(changes: Partial<Filters>) {
@@ -332,25 +340,22 @@ export function Directory({ initialCatalog, index, builtAt }: DirectoryProps) {
               onClear={resetFilters}
               onSave={saveDeal}
               onCopy={(deal, code) => void copyText(code, { year: filters.year, dealId: deal.id })}
-              onDetails={(deal) => setSelected({ deal, year: filters.year })}
+              onDetails={(deal) => openDeal(deal.id, year)}
             />
           </div>
         </section>
       </main>
       <SiteFooter year={index.currentYear} onContribute={() => setContributing(true)} />
       <DealDetail
-        deal={selected?.deal ?? null}
-        year={selected?.year ?? filters.year}
+        deal={selectedDeal ?? null}
+        year={dealYear}
+        status={dealStatus}
         sponsored={selectedIsSponsored}
-        onClose={() => setSelected(null)}
+        onClose={closeDeal}
         onCopy={(code) => {
-          if (selected) void copyText(code, { year: selected.year, dealId: selected.deal.id });
+          if (selectedDeal) void copyText(code, { year: dealYear, dealId: selectedDeal.id });
         }}
-        copiedCode={getCopiedCouponCode(
-          copiedCoupon,
-          selected?.year ?? filters.year,
-          selected?.deal.id ?? '',
-        )}
+        copiedCode={getCopiedCouponCode(copiedCoupon, dealYear, selectedDeal?.id ?? '')}
       />
       <ContributeDialog open={contributing} onOpenChange={setContributing} year={filters.year} />
       <Dialog
