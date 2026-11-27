@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Galore",
+  "url": "https://trygalore.com",
+  "categories": [
+    "finance-tools"
+  ],
+  "description": "Social investing app: turn a belief or any post (TikTok, YouTube, X) into stock ideas, test an idea on past prices, follow the public trades of creators and investors, and approve every trade yourself. Paper trading today; live trading not yet available. Not investment advice.",
+  "offer": "Free access to the entire Galore platform right now, plus 20% off Galore membership when it opens with code **BLACKFRIDAY** (normally $89.99/year or $11.99/month)",
+  "couponCodes": [
+    "BLACKFRIDAY"
+  ],
+  "validity": "-",
+  "latest": true,
+  "addedAt": "2026-11-28T10:00:00+04:00"
+}
