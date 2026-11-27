@@ -54,8 +54,31 @@ async function writeCatalogFixture(root, catalog) {
   }
 }
 
-const markdown =
-  '# Developer deals\n\nIntroduction and disclosure.\n\n## Tools\n\n| Name | Description | Deal | Validity | Latest |\n| :- | :- | :- | :- | :- |\n\n---\n\n## Disclaimer\n\nAffiliate disclosure.\n';
+const markdown = `# Developer deals
+
+Introduction and disclosure.
+
+<!-- category-navigation:start -->
+
+- [Tools](#tools) <!-- category:developer-tools -->
+
+<!-- category-navigation:end -->
+
+<!-- category-sections:start -->
+
+## Tools
+
+| Name | Description | Deal | Validity | Latest |
+| :- | :- | :- | :- | :- |
+
+<!-- category-sections:end -->
+
+---
+
+## Disclaimer
+
+Affiliate disclosure.
+`;
 
 test('schema rejects malformed contributions instead of silently accepting them', () => {
   for (const [patch, error] of [
@@ -124,6 +147,64 @@ test('Markdown preserves links, uncertain validity, surrounding prose and unknow
     () => renderMarkdown(fixture(), '# Missing category\n'),
     /missing or ambiguous heading/,
   );
+});
+
+test('README previews five deals per category and links to the full category on Ctrl Friday', () => {
+  const catalog = fixture();
+  const [example] = catalog.deals;
+  catalog.deals = Array.from({ length: 6 }, (_, index) => ({
+    ...example,
+    id: `tool-${index + 1}`,
+    name: `Tool ${index + 1}`,
+  }));
+
+  const readme = renderMarkdown(catalog, markdown);
+  assert.match(
+    readme,
+    /\| \*\*Name\*\* \| \*\*Description\*\* \| \*\*Deal details\*\* \| \*\*Validity\*\* \| \*\*Latest\*\* \|/,
+  );
+  assert.deepEqual(
+    readme.match(/^\| \[Tool \d\]/gm),
+    [1, 2, 3, 4, 5].map((number) => `| [Tool ${number}]`),
+  );
+  assert.match(
+    readme,
+    /\| \[Tool 5\][^\n]+\n\n<!-- category-link -->\n\[View all Developer tools deals\]\(https:\/\/ctrlfriday\.com\/\?category=developer-tools&year=2026#deals\)/,
+  );
+
+  const archive = renderMarkdown({ ...catalog, source: 'archives/2025.md' }, markdown);
+  assert.match(archive, /\| \[Tool 6\]/);
+  assert.doesNotMatch(archive, /<!-- category-link -->/);
+
+  catalog.deals.pop();
+  assert.equal(renderMarkdown(catalog, readme), readme);
+});
+
+test('README navigation and sections follow the catalog category order', () => {
+  const catalog = fixture();
+  catalog.categories.unshift({ id: 'design-tools', name: 'Design tools', heading: 'Design' });
+  const source = markdown
+    .replace(
+      '\n\n<!-- category-navigation:end -->',
+      '\n- 🎨 [Design](#design) <!-- category:design-tools -->\n\n<!-- category-navigation:end -->',
+    )
+    .replace(
+      '<!-- category-sections:end -->',
+      '## Design\n\nDesign resources.\n\n| Name | Description | Deal | Validity | Latest |\n| :- | :- | :- | :- | :- |\n\n<!-- category-sections:end -->',
+    );
+
+  const readme = renderMarkdown(catalog, source);
+  const categoryIds = catalog.categories.map(({ id }) => id);
+  assert.deepEqual(
+    [...readme.matchAll(/<!-- category:([a-z0-9-]+) -->/g)].map((match) => match[1]),
+    categoryIds,
+  );
+  assert.deepEqual(
+    [...readme.matchAll(/\?category=([a-z0-9-]+)&year=2026#deals/g)].map((match) => match[1]),
+    categoryIds,
+  );
+  assert.match(readme, /^## Design\n\nDesign resources\.\n\n\| /m);
+  assert.equal(renderMarkdown(catalog, readme), readme);
 });
 
 test('category ordering applies to Markdown and requires deals in that category', () => {

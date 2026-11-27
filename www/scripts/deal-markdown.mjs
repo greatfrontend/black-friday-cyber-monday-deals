@@ -2,8 +2,9 @@ import path from 'node:path';
 import { moveDealsToEnd } from '../src/lib/deal-order.ts';
 import { pinSponsoredDeals } from '../src/lib/sponsors.ts';
 
-const tablePattern = /(^\|[^\n]*(?:\n|$))+/m;
+const tablePattern = /(?:^\|[^\n]*(?:\n|$))+(?:\n<!-- category-link -->\n[^\n]*(?:\n|$))?/m;
 const sponsorBlockPattern = /<!-- sponsors:start -->[\s\S]*?<!-- sponsors:end -->/;
+const readmeDealsPerCategory = 5;
 
 function formatLatestFlag(latest) {
   if (latest === true) {
@@ -32,7 +33,7 @@ function renderRow(cells) {
   return `| ${escapedCells.join(' | ')} |`;
 }
 
-export function renderTable(catalog, categoryId) {
+export function renderTable(catalog, categoryId, maxDeals) {
   const headers = ['**Name**', '**Description**', '**Deal details**', '**Validity**'];
 
   if (catalog.hasLatestColumn) {
@@ -42,7 +43,9 @@ export function renderTable(catalog, categoryId) {
   const deals = catalog.deals.filter((deal) => deal.categories.includes(categoryId));
   const category = catalog.categories.find(({ id }) => id === categoryId);
   const ordered = pinSponsoredDeals(moveDealsToEnd(deals, category?.lastDealIds), catalog);
-  const rows = ordered.map((deal) => createDealRow(deal, catalog.hasLatestColumn));
+  const rows = ordered
+    .slice(0, maxDeals)
+    .map((deal) => createDealRow(deal, catalog.hasLatestColumn));
 
   return [headers, headers.map(() => ':-'), ...rows].map(renderRow).join('\n');
 }
@@ -66,6 +69,11 @@ function findCategorySection(markdown, heading, source) {
   };
 }
 
+function renderCategoryLink(catalog, category) {
+  const params = new URLSearchParams({ category: category.id, year: String(catalog.year) });
+  return `[View all ${category.name} deals](https://ctrlfriday.com/?${params}#deals)`;
+}
+
 function replaceCategoryTable(markdown, catalog, category) {
   const section = findCategorySection(markdown, category.heading, catalog.source);
   const match = section.body.match(tablePattern);
@@ -74,11 +82,66 @@ function replaceCategoryTable(markdown, catalog, category) {
     throw new Error(`${catalog.source}: no table under ${category.heading}`);
   }
 
+  const isReadme = catalog.source === 'README.md';
+  const table = renderTable(catalog, category.id, isReadme ? readmeDealsPerCategory : undefined);
+  const link = isReadme
+    ? `\n\n<!-- category-link -->\n${renderCategoryLink(catalog, category)}`
+    : '';
   const trailingNewline = match[0].endsWith('\n') ? '\n' : '';
-  const replacement = renderTable(catalog, category.id) + trailingNewline;
-  const updatedBody = section.body.replace(tablePattern, () => replacement);
+  const updatedBody = section.body.replace(tablePattern, () => table + link + trailingNewline);
 
   return section.before + updatedBody + section.after;
+}
+
+function reorderReadmeBlock(markdown, blockName, keys, readEntries, separator) {
+  const start = `<!-- ${blockName}:start -->`;
+  const end = `<!-- ${blockName}:end -->`;
+  const pattern = new RegExp(`^${start}$([\\s\\S]*?)^${end}$`, 'gm');
+  const [match, extra] = markdown.matchAll(pattern);
+
+  if (!match || extra) {
+    throw new Error(`README.md: expected one ${blockName} block`);
+  }
+
+  const entries = readEntries(match[1].trim());
+  const entriesByKey = new Map(entries);
+  const ordered = keys.map((key) => entriesByKey.get(key));
+
+  if (entries.length !== keys.length || ordered.includes(undefined)) {
+    throw new Error(`README.md: ${blockName} must have one entry for each catalog category`);
+  }
+
+  return markdown.replace(pattern, () => `${start}\n\n${ordered.join(separator)}\n\n${end}`);
+}
+
+function readCategoryNavigation(block) {
+  return block
+    .split('\n')
+    .map((line) => [line.match(/^- .+ <!-- category:([a-z0-9-]+) -->$/)?.[1], line]);
+}
+
+function readCategorySections(block) {
+  return block
+    .split(/(?=^## )/m)
+    .map((section) => [section.match(/^## ([^\n]+)\n/)?.[1], section.trimEnd()]);
+}
+
+function orderReadmeCategories(markdown, categories) {
+  const navigation = reorderReadmeBlock(
+    markdown,
+    'category-navigation',
+    categories.map(({ id }) => id),
+    readCategoryNavigation,
+    '\n',
+  );
+
+  return reorderReadmeBlock(
+    navigation,
+    'category-sections',
+    categories.map(({ heading }) => heading),
+    readCategorySections,
+    '\n\n',
+  );
 }
 
 function formatDate(value) {
@@ -180,6 +243,10 @@ function replaceSponsorBlock(markdown, catalog) {
 export function renderMarkdown(catalog, markdown) {
   for (const category of catalog.categories) {
     markdown = replaceCategoryTable(markdown, catalog, category);
+  }
+
+  if (catalog.source === 'README.md') {
+    markdown = orderReadmeCategories(markdown, catalog.categories);
   }
 
   markdown = replaceSponsorBlock(markdown, catalog);

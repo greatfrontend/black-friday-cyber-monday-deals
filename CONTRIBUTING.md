@@ -2,6 +2,8 @@
 
 Each product has its own JSON file in `data/deals/<year>/`. The website and Markdown tables are generated from these files. No command-line editor is needed.
 
+The README shows up to five deals per category and links to the full category on Ctrl Friday.
+
 ## Submit without editing files
 
 Open an issue and choose **Add or update a deal**. Include the product link, offer, coupon codes, validity, and source. A maintainer reviews the submission and updates the product file. Submitting an issue does not create a PR or publish a deal automatically.
@@ -81,7 +83,7 @@ A product can have multiple categories. Use one file with a `categories` array i
 - Default listings show sponsors in slot order first. The remaining deals sort by `order` from lowest to highest, with unnumbered deals after numbered ones.
 - `addedAt` records when a deal first joins the directory. Set it when accepting a new deal, using an ISO 8601 timestamp with a time zone, such as `2026-11-27T09:30:00+08:00`. Use the original timestamp when updating the deal. When `order` ties or is absent on both deals, undated entries appear first, then dated entries from oldest to newest. Matching timestamps sort alphabetically by filename.
 - `allDealsPlacements` in `data/catalogs/<year>.json` can place a `dealId` immediately after an `afterDealId` in the default All deals view. Placements apply in the order listed.
-- A category in `data/catalogs/<year>.json` can list `lastDealIds` for deals that appear at the end of its default order and README table, in the order listed.
+- A category in `data/catalogs/<year>.json` can list `lastDealIds` for deals that appear at the end of its default order, in the order listed.
 - The catalog's `lastChecked` applies to the entire year. Use a calendar date or an ISO 8601 timestamp with a time zone. Update it only after reviewing the whole catalog.
 - A previous year's listing is not evidence of a current sale.
 
@@ -102,7 +104,9 @@ Do not edit Markdown tables directly or commit `www/public/data/`. Exports are g
 
 ## Category and catalog maintenance
 
-To add a category, update the allowed values in `data/categories.json`, add its heading to the year's `data/catalogs/<year>.json`, and add the corresponding `##` heading and empty Markdown table to the source document. Update its navigation links, then run `data:sync`.
+The order of the `categories` array in [the 2026 catalog](data/catalogs/2026.json) defines the order in the website sidebar and both category lists in the README. Run `data:sync` after changing the order.
+
+To add a category, update `data/categories.json` and the annual catalog, then add its `##` heading and an empty table between the `category-sections` markers in the README. Add the matching navigation link between the `category-navigation` markers and end its line with `<!-- category:your-category-id -->`. Run `data:sync` to populate the table and put both entries in catalog order.
 
 The schemas in `data/product.schema.json` and `data/deal-catalog.schema.json` validate product fields and catalog metadata. The category schema provides the shared allowed values without duplicating them in the product schema.
 

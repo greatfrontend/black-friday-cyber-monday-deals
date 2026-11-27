@@ -13,19 +13,19 @@
       "heading": "Technical interviews preparation"
     },
     {
-      "id": "courses",
-      "name": "Courses",
-      "heading": "Courses"
-    },
-    {
-      "id": "ui-kits-starter-kits",
-      "name": "UI kits & Starter kits",
-      "heading": "UI kits & Starter kits"
-    },
-    {
       "id": "developer-tools",
       "name": "Developer tools",
       "heading": "Developer tools"
+    },
+    {
+      "id": "courses",
+      "name": "Developer courses",
+      "heading": "Developer courses"
+    },
+    {
+      "id": "ai-powered-tools-for-developers",
+      "name": "AI-powered tools for developers",
+      "heading": "AI-powered tools for developers"
     },
     {
       "id": "books-for-developers-and-software-engineers",
@@ -33,9 +33,14 @@
       "heading": "Books for developers and software engineers"
     },
     {
-      "id": "ai-powered-tools-for-developers",
-      "name": "AI-powered tools for developers",
-      "heading": "AI-powered tools for developers"
+      "id": "ui-kits-starter-kits",
+      "name": "UI kits & Starter kits",
+      "heading": "UI kits & Starter kits"
+    },
+    {
+      "id": "design-tools",
+      "name": "Design tools",
+      "heading": "Design tools"
     },
     {
       "id": "design-kits",
@@ -48,29 +53,29 @@
       "heading": "Design courses"
     },
     {
-      "id": "productivity-tools",
-      "name": "Productivity",
-      "heading": "Productivity"
-    },
-    {
       "id": "ai-tools",
       "name": "AI tools",
       "heading": "AI tools"
     },
     {
-      "id": "design-tools",
-      "name": "Design tools",
-      "heading": "Design tools"
+      "id": "productivity-tools",
+      "name": "Productivity",
+      "heading": "Productivity"
     },
     {
-      "id": "marketing-seo",
-      "name": "Marketing & SEO",
-      "heading": "Marketing and SEO"
+      "id": "utilities",
+      "name": "Utilities",
+      "heading": "Utilities"
     },
     {
       "id": "business-tools",
       "name": "Business tools",
       "heading": "Business tools"
+    },
+    {
+      "id": "marketing-seo",
+      "name": "Marketing & SEO",
+      "heading": "Marketing and SEO"
     },
     {
       "id": "social-media-tools",
@@ -81,11 +86,6 @@
       "id": "finance-tools",
       "name": "Finance",
       "heading": "Finance"
-    },
-    {
-      "id": "utilities",
-      "name": "Utilities",
-      "heading": "Utilities"
     },
     {
       "id": "health-and-fitness",

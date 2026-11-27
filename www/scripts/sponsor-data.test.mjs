@@ -58,8 +58,26 @@ function sponsoredCatalog() {
   };
 }
 
-const markdown =
-  '# Developer deals\n\n<!-- sponsors:start -->\n<!-- sponsors:end -->\n\n## Tools\n\n| Name | Description | Deal | Validity | Latest |\n| :- | :- | :- | :- | :- |\n';
+const markdown = `# Developer deals
+
+<!-- sponsors:start -->
+<!-- sponsors:end -->
+
+<!-- category-navigation:start -->
+
+- [Tools](#tools) <!-- category:developer-tools -->
+
+<!-- category-navigation:end -->
+
+<!-- category-sections:start -->
+
+## Tools
+
+| Name | Description | Deal | Validity | Latest |
+| :- | :- | :- | :- | :- |
+
+<!-- category-sections:end -->
+`;
 
 async function writeRepositoryFixture(root, { logoBytes = 64 } = {}) {
   const { deals, sponsorship, ...metadata } = sponsoredCatalog();
