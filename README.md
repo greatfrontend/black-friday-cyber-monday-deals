@@ -116,6 +116,7 @@ We'd greatly appreciate if you could:
 | [Udacity](https://www.udacity.com/) | Project-based programs in AI, programming, data and cloud. | 55% off all programs with code **BF55** | - | ✅ |
 | [Udemy](https://www.udemy.com/) | Marketplace of video courses, including programming and web development. | Courses from $11.99; 40% off the Team Plan | Courses offer ends Nov 27; Team Plan offer through Dec 21 | ✅ |
 | [Vue Mastery](https://www.vuemastery.com/black-friday/) | Video courses on Vue.js, Nuxt and Pinia. | 70% off a year of Vue Mastery, plus bundles with Nuxt and Pinia courses and certifications (up to 77% off) | - | ✅ |
+| [Codeling](https://codeling.dev) | Codeling is an interactive learning platform focused on backend development and Python. Courses cover everything from intro to programming through to Linux terminals and REST APIs | 50% off any purchase with code **BF2026** | Ends Dec 1 | ✅ |
 
 ## UI kits & Starter kits
 
