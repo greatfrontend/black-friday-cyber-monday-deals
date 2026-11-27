@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Exhibit",
+  "url": "https://chatexhibit.me",
+  "categories": [
+    "utilities"
+  ],
+  "description": "Native macOS app that exports iMessage, WhatsApp, Signal and more to one court-ready PDF.",
+  "offer": "30% off the one-time license with code **EXHIBITBF30** (Personal $19.99 → $13.99, Firm $59 → $41.30)",
+  "couponCodes": [
+    "EXHIBITBF30"
+  ],
+  "validity": "Through Dec 1, 2026, 11:59 p.m. US Eastern",
+  "latest": true,
+  "addedAt": "2026-11-27T17:20:00-05:00"
+}
