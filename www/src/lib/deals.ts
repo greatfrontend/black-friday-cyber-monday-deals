@@ -57,14 +57,14 @@ export function filterDeals(catalog: Catalog, filters: Filters, saved: string[])
   return matching;
 }
 
-export function formatCheckedDate(value: string | null) {
+export function formatCheckedDate(value: string | null, timeZone = 'Asia/Singapore') {
   if (!value) return 'Checking date not recorded';
   const hasTime = value.length > 10;
   return new Intl.DateTimeFormat(hasTime ? 'en-SG' : 'en-GB', {
     day: 'numeric',
     month: 'short',
     year: 'numeric',
-    timeZone: 'Asia/Singapore',
+    timeZone,
     ...(hasTime && {
       hour: '2-digit',
       minute: '2-digit',

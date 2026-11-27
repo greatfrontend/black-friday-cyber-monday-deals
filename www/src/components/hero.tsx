@@ -1,3 +1,4 @@
+import { useEffect, useState } from 'react';
 import type { Catalog, Deal } from '../lib/types';
 import { formatCheckedDate, getFeaturedDeals } from '../lib/deals';
 import { getActiveSponsorship } from '../lib/sponsors';
@@ -8,12 +9,17 @@ import { HeroSlots } from './hero-slots';
 interface HeroProps {
   year: number;
   catalog: Catalog;
+  builtAt: string;
   onDetails: (deal: Deal) => void;
 }
 
-export function Hero({ year, catalog, onDetails }: HeroProps) {
+export function Hero({ year, catalog, builtAt, onDetails }: HeroProps) {
   const sponsorship = getActiveSponsorship(catalog);
-  const { lastChecked } = catalog;
+  const [timeZone, setTimeZone] = useState<string>();
+
+  useEffect(() => {
+    setTimeZone(Intl.DateTimeFormat().resolvedOptions().timeZone);
+  }, []);
 
   return (
     <section
@@ -56,11 +62,16 @@ export function Hero({ year, catalog, onDetails }: HeroProps) {
             )}
           >
             For developers and designers
-            {lastChecked && (
-              <>
+            {timeZone ? (
+              <span className="motion-safe:animate-[fade-in_300ms_ease-out_both]">
                 {', updated '}
-                <time dateTime={lastChecked}>{formatCheckedDate(lastChecked)}</time>
-              </>
+                <time dateTime={builtAt}>{formatCheckedDate(builtAt, timeZone)}</time>
+              </span>
+            ) : (
+              <noscript>
+                {', updated '}
+                <time dateTime={builtAt}>{formatCheckedDate(builtAt)}</time>
+              </noscript>
             )}
             .
           </p>
