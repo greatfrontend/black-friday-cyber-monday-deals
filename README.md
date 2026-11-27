@@ -199,6 +199,7 @@ We'd greatly appreciate if you could:
 | [Creative Tim](https://www.creative-tim.com/ui/black-friday-2026) | UI kits, templates and AI app-building kits; the Black Friday bundle includes AI kits, templates and App Builder credits. | Black Friday bundles from $129 one-time (up to 79% off), limited quantity | Through Nov 29 | ✅ |
 | [Fixa](https://fixa.dev/black-friday) | AI software engineer that takes a GitHub issue, writes the fix and a test, and opens a pull request. | 50% off the first year of a yearly plan (Starter $96 to $48) with code **BLACKFRIDAY**, applied at checkout | Until Dec 1 | ✅ |
 | [TypingMind](https://www.typingmind.com/) | Chat interface for ChatGPT, Claude, Gemini and other models using your own API keys. | 60% off Premium | Ends Nov 30 | ✅ |
+| [Screenpipe](https://screenpipe.com/black-friday?utm_source=github&utm_medium=deal-list&utm_campaign=black_friday_2026&utm_content=greatfrontend) | Open-source local screen and audio memory for Claude, Codex, Cursor, and AI agents over MCP (macOS, Windows, Linux). | 20% off first year of annual plans: Business $400/seat (was $500) and Basic $200 (was $250), auto-applied at checkout. | Ends Nov 30, 11:59 PM PT | ✅ |
 
 ## Design kits
 

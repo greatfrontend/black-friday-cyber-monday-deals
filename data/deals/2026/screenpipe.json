@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Screenpipe",
+  "url": "https://screenpipe.com/black-friday?utm_source=github&utm_medium=deal-list&utm_campaign=black_friday_2026&utm_content=greatfrontend",
+  "categories": [
+    "ai-powered-tools-for-developers"
+  ],
+  "description": "Open-source local screen and audio memory for Claude, Codex, Cursor, and AI agents over MCP (macOS, Windows, Linux).",
+  "offer": "20% off first year of annual plans: Business $400/seat (was $500) and Basic $200 (was $250), auto-applied at checkout.",
+  "couponCodes": [],
+  "validity": "Ends Nov 30, 11:59 PM PT",
+  "latest": true,
+  "addedAt": "2026-11-27T14:29:19+08:00"
+}
