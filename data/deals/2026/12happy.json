@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "12happy",
+  "url": "https://www.12hpy.com/deals/black-friday?utm_source=greatfrontend&utm_medium=deal-list&utm_campaign=black-friday-2026",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Uptime monitoring and status pages.",
+  "offer": "3 months of Pro free with code **BLACKFRIDAY**. No card, first 100 accounts",
+  "couponCodes": [
+    "BLACKFRIDAY"
+  ],
+  "validity": "Until Dec 1, 2026, 23:59 UTC",
+  "latest": true
+}
