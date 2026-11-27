@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Aloud",
+  "url": "https://aloudapp.app/black-friday/",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "A native macOS app that reads selected text, PDFs, screenshots and web articles out loud.",
+  "offer": "30% off the one-time license ($19 → $13.30) with code **BF30**",
+  "couponCodes": [
+    "BF30"
+  ],
+  "validity": "Nov 27 to Dec 1, 2026 (US Eastern)",
+  "latest": true
+}
