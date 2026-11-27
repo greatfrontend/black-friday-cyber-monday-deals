@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Bencho",
+  "url": "https://bencho.dev/pricing",
+  "categories": [
+    "ui-kits-starter-kits"
+  ],
+  "description": "Interactive React components and micro-interactions with live previews, interface sounds and MCP access on paid plans.",
+  "offer": "Pro for €79/year (was €99/year) or Forever for €99 one-time",
+  "couponCodes": [],
+  "validity": "Through Nov 30, 2026 at 11:59 PM CET",
+  "latest": true,
+  "addedAt": "2026-11-28T00:07:55+08:00"
+}
