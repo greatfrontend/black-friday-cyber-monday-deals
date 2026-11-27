@@ -213,17 +213,6 @@
   }
 }
 
-@keyframes count-reveal {
-  from {
-    opacity: 0.5;
-    translate: 0 3px;
-  }
-  to {
-    opacity: 1;
-    translate: 0 0;
-  }
-}
-
 @keyframes ticket-settle {
   0% {
     translate: 0 8px;

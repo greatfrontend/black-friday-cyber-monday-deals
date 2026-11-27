@@ -1,3 +1,4 @@
+import NumberFlow from '@number-flow/react';
 import { categoryLabels } from '../lib/categories';
 import { useEffect, useMemo, useRef, useState } from 'react';
 import { Check, Clock3, X } from 'lucide-react';
@@ -278,12 +279,13 @@ export function Directory({ initialCatalog, index, builtAt }: DirectoryProps) {
               <p className="text-sm text-muted-foreground">
                 {catalog ? (
                   <>
-                    <span
-                      key={deals.length}
-                      className="inline-block font-medium text-foreground tabular-nums motion-safe:animate-[count-reveal_180ms_ease-out]"
-                    >
-                      {deals.length}
-                    </span>{' '}
+                    <span className="sr-only">{deals.length}</span>
+                    <NumberFlow
+                      value={deals.length}
+                      locales="en"
+                      className="font-medium text-foreground tabular-nums"
+                      aria-hidden="true"
+                    />{' '}
                     {deals.length === 1 ? 'deal' : 'deals'}
                     {filters.category === 'all' ? (
                       <span className="max-[600px]:sr-only"> available</span>
