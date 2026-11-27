@@ -1,14 +1,16 @@
 {
   "$schema": "../../product.schema.json",
   "name": "ShadcnDeck",
-  "url": "https://www.shadcndeck.com",
+  "url": "https://www.shadcndeck.com/all-access-bundle",
   "categories": [
-    "developer-tools"
+    "ui-kits-starter-kits"
   ],
-  "description": "Premium shadcn/ui templates, UI kits, and starter kits built with React, Next.js, Tailwind CSS, and TypeScript to help developers build faster and ship sooner.",
-  "offer": "40% off sitewide, including the All Access Bundle",
-  "couponCodes": [],
-  "validity": "Black Friday 2026",
+  "description": "Shadcn/ui templates for landing pages, portfolios, and dashboards, built with React, Next.js, Tailwind CSS, and TypeScript.",
+  "offer": "Extra 40% off the All-Access Bundle with code **BLACKFRIDAY40** ($53.40)",
+  "couponCodes": [
+    "BLACKFRIDAY40"
+  ],
+  "validity": "Ends Dec 4, 2026 at 11:59 PM UTC or after 100 buyers, whichever comes first",
   "latest": true,
-  "addedAt": "2026-11-27T00:00:00+05:30"
+  "addedAt": "2026-11-27T17:07:27+08:00"
 }
