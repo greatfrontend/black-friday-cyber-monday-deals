@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Context.dev",
+  "url": "https://www.context.dev/pricing",
+  "categories": [
+    "ai-powered-tools-for-developers"
+  ],
+  "description": "Web search, scraping and crawling APIs for AI agents and applications.",
+  "offer": "**30% off** new purchases of paid plans for **one year**, automatically applied; no code needed. Developer **$14/month** (regular $20/month).",
+  "couponCodes": [],
+  "validity": "Ends Dec 1, 2026; starts Nov 27, 2026; cutoff timezone not stated",
+  "latest": null,
+  "addedAt": "2026-11-28T03:54:53+08:00"
+}
