@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "UGC Script",
+  "url": "https://ugcscript.app/",
+  "categories": [
+    "social-media-tools"
+  ],
+  "description": "Get timestamped transcripts from public short-form video links.",
+  "offer": "20% off Lifetime, no code needed: $49 → $39 one-time payment",
+  "couponCodes": [],
+  "validity": "Nov 26 to Nov 30, 2026, 11:59 P.M ET",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Karve",
+  "url": "https://karve.dev/pricing/",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Run requests from repository HTTP files in a native Windows client.",
+  "offer": "75% off: one-time $39.99 → $9.99 on the Microsoft Store, no code needed, 15-day free trial",
+  "couponCodes": [],
+  "validity": "Ends Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

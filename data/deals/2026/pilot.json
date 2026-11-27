@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Pilot",
+  "url": "https://appsthere.com/black-friday#pilot",
+  "categories": [
+    "miscellaneous"
+  ],
+  "description": "Record flight time and export pilot logbook records on Apple devices.",
+  "offer": "33% off Pro, one-time in-app purchase: $29.99 → $19.99 USD, covers Mac, iPhone and iPad. Applied automatically in the App Store, no code needed",
+  "couponCodes": [],
+  "validity": "Nov 27 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

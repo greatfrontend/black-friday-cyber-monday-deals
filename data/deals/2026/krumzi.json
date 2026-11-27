@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Krumzi",
+  "url": "https://www.krumzi.com/pricing",
+  "categories": [
+    "design-tools"
+  ],
+  "description": "Make editable social graphics, flyers, and video frames in the browser.",
+  "offer": "60% off the first year of yearly plans: Starter $190 → $76, Pro $390 → $156, Studio $890 → $356. No code needed, new customers and monthly users switching",
+  "couponCodes": [],
+  "validity": "Nov 20 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

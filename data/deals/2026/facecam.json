@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "FaceCam",
+  "url": "https://gracehuang.gumroad.com/l/facecam/BF2026",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Show your camera feed over other Mac apps during calls or recordings.",
+  "offer": "40% off ($10 → $6) with code **BF2026** on Gumroad",
+  "couponCodes": [
+    "BF2026"
+  ],
+  "validity": "Nov 27 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "UtilEngine",
+  "url": "https://utilengine.com/",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Open browser utilities, search, snippets, and AI chat from a keyboard launcher.",
+  "offer": "30% off lifetime access: $49 → $34.30 one-time, applied automatically at checkout, no code needed",
+  "couponCodes": [],
+  "validity": "Starts Nov 20, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

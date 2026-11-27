@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Tapelark",
+  "url": "https://tapelark.com/black-friday/",
+  "categories": [
+    "utilities"
+  ],
+  "description": "Record internet radio and keep local copies of songs or episodes.",
+  "offer": "$10 off the one-time licence: $39 → $29 (also €29, CHF 29, £25), no code needed. One licence per system; Tapelark Pro is not reduced",
+  "couponCodes": [],
+  "validity": "Nov 27 to Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

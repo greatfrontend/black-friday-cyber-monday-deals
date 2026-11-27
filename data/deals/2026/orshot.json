@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Orshot",
+  "url": "https://orshot.com/pricing",
+  "categories": [
+    "social-media-tools"
+  ],
+  "description": "Generate and publish social media images and videos via an API.",
+  "offer": "25% off any paid plan for 12 months (Launch $39 → $29.25/mo, or $390 → $292.50 for the first year billed annually) with code **BF2026**",
+  "couponCodes": [
+    "BF2026"
+  ],
+  "validity": "Nov 27 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

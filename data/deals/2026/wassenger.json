@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Wassenger",
+  "url": "https://wassenger.com/black-friday",
+  "categories": [
+    "business-tools"
+  ],
+  "description": "Handle WhatsApp customer conversations with a shared inbox and AI assistant.",
+  "offer": "40% off the first 6 months of any monthly plan with code **BLACKFRIDAY40**: Professional €39.90 → €23.94/mo, Business €69.90 → €41.94/mo. New subscriptions",
+  "couponCodes": [
+    "BLACKFRIDAY40"
+  ],
+  "validity": "Ends Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

@@ -1,0 +1,17 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "KloudUtils",
+  "url": "https://kloudutils.com/",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Desktop utilities for code, diagrams, APIs, files, and cloud storage.",
+  "offer": "$30 off with code **BFCM2026_PRO** for Pro license: $79.00 → $49.00 (3 devices - Macs, Windows or Linux) - $10 off with code **BFCM2026_STD** for Standard license (1 device)",
+  "couponCodes": [
+    "BFCM2026_PRO",
+    "BFCM2026_STD"
+  ],
+  "validity": "Nov 16 to Dec 6, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

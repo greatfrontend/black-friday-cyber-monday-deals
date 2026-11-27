@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Tim Time Tracker",
+  "url": "https://tim.neat.software/",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Track hours by project, task, and tag from macOS.",
+  "offer": "40% off Tim Pro Lifetime with code **NEATBF26**: $24.99 → $14.99",
+  "couponCodes": [
+    "NEATBF26"
+  ],
+  "validity": "Nov 20 to Dec 2, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

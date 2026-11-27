@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Forma",
+  "url": "https://useforma.app",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Plan tasks with checklists and notes on a free-form Mac canvas.",
+  "offer": "47% off Lifetime Pro ($14.99 → $7.99) with code **BLACKFRIDAY50**, redeem in the app via \"Have a code?\"",
+  "couponCodes": [
+    "BLACKFRIDAY50"
+  ],
+  "validity": "Nov 20 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

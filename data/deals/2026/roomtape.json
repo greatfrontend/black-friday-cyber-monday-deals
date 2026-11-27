@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Roomtape",
+  "url": "https://extensions.loopspec.com/roomtape",
+  "categories": [
+    "utilities"
+  ],
+  "description": "Record online meetings locally without adding a recording bot.",
+  "offer": "69% off lifetime license: $29 → $9 one-time, 3 years of updates. Applied automatically at checkout, no code needed",
+  "couponCodes": [],
+  "validity": "Nov 5 to Dec 2, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

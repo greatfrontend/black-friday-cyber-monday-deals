@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Channel Surfer",
+  "url": "https://channelsurfer.tv/upgrade/?code=BLACKFRIDAY50",
+  "categories": [
+    "miscellaneous"
+  ],
+  "description": "Browse YouTube channels in a TV-guide-style interface.",
+  "offer": "50% off Supporter Monthly with code **BLACKFRIDAY50** (US$4.50/month for six months, then US$9/month). For accounts without an active paid subscription",
+  "couponCodes": [
+    "BLACKFRIDAY50"
+  ],
+  "validity": "Nov 27 to Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

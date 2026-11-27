@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "WooPeek",
+  "url": "https://wpfinity.com/products/woopeek/",
+  "categories": [
+    "utilities"
+  ],
+  "description": "View WooCommerce stock, orders, and revenue in a browser sidebar.",
+  "offer": "50% off Pro and Agency with code **BFCM26** (first year on annual plans): Pro Lifetime $99 → $49.50, Pro $39 → $19.50/yr",
+  "couponCodes": [
+    "BFCM26"
+  ],
+  "validity": "Ends Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

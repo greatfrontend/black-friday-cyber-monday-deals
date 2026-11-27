@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Magic Automa AI",
+  "url": "https://www.magicautoma.com/#pricing",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Automate repeatable editing actions in video software on Mac or Windows.",
+  "offer": "40% off with code **BLACKFRIDAY2026**: Studio €49.99 → €29.99, Studio Max €149.99 → €89.99. Lifetime licences, no subscription",
+  "couponCodes": [
+    "BLACKFRIDAY2026"
+  ],
+  "validity": "Nov 13 to Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

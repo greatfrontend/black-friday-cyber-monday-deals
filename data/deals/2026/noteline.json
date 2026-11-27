@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Noteline",
+  "url": "https://noteline.io/pricing",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Write notes in local Markdown files on Mac, Windows, or Linux.",
+  "offer": "50% off the one-time license ($9.99 → $4.99), applied automatically at checkout",
+  "couponCodes": [],
+  "validity": "Ends Nov 30, 2026, Pacific time",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

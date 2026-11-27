@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "OpenIn",
+  "url": "https://loshadki.app/openin4/",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Open links in a specific Mac app, browser, or browser profile by rule.",
+  "offer": "60% off, one-time purchase: Mac App Store $11.99 → $4.79, no code needed; or $11.99 → $4.80 on loshadki.app with code **BLACKFRIDAY26**",
+  "couponCodes": [
+    "BLACKFRIDAY26"
+  ],
+  "validity": "Nov 14 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

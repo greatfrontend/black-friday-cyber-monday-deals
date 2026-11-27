@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Horcrux Email Backup",
+  "url": "https://thehorcrux.com/pricing/#black-friday-2026",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Archive IMAP, Outlook, and Gmail messages and restore them to a mailbox.",
+  "offer": "30% off the Horcrux 5 one-time purchase (US $49.99 → $34.99) with code **BLACKFRIDAY2026**, direct or on the Mac App Store",
+  "couponCodes": [
+    "BLACKFRIDAY2026"
+  ],
+  "validity": "Nov 25 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

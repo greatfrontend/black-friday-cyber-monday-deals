@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Big Weather",
+  "url": "https://urtti.com/weather",
+  "categories": [
+    "utilities"
+  ],
+  "description": "See the current temperature and a short forecast in the Mac menu bar.",
+  "offer": "33% off Premium Lifetime, a one-time in-app purchase: $29.99 → $19.99 in the Mac App Store (about a third off in every storefront), no code needed. Subscriptions unchanged",
+  "couponCodes": [],
+  "validity": "Nov 16 to Dec 3, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Pagecloud",
+  "url": "https://www.pagecloud.com/black-friday",
+  "categories": [
+    "design-tools"
+  ],
+  "description": "Use AI and an editor to build a small-business website.",
+  "offer": "40% off the first year of any annual plan with code **BLACKFRIDAY40**: Launch $268 → $160.80, Grow $432 → $259.20, Optimize $828 → $496.80. Choose annual billing at checkout",
+  "couponCodes": [
+    "BLACKFRIDAY40"
+  ],
+  "validity": "Ends Nov 30, 2026, 11:59 P.M PT",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

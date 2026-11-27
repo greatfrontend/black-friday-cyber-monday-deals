@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "SupaYatta",
+  "url": "https://supayatta.com",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "See when Claude, Cursor, and other agents need your attention on a Mac.",
+  "offer": "65% off Lifetime ($19.99 → $6.99) · code **YATTADEAL**",
+  "couponCodes": [
+    "YATTADEAL"
+  ],
+  "validity": "-",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

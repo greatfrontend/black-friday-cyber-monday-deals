@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "PageDuel",
+  "url": "https://pageduel.com/pricing",
+  "categories": [
+    "business-tools"
+  ],
+  "description": "Run A/B tests and connect website activity to funnels and revenue.",
+  "offer": "40% off for 12 months with code **BF2026**: plans from $9 → $5.40/mo",
+  "couponCodes": [
+    "BF2026"
+  ],
+  "validity": "Ends Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

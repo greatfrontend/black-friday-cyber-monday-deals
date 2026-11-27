@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Until Nxt",
+  "url": "https://margaritasi.github.io/until-nxt-legal/black-friday.html",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Count down to important dates with iPhone widgets and reminders.",
+  "offer": "60% off the first year of Yearly: $14.99 → $5.99, then $14.99/year. Code **UNTILNXTBF26** ([redeem](https://apps.apple.com/redeem?ctx=offercodes&id=6771397857&code=UNTILNXTBF26)). New subscribers. US pricing; local prices may vary",
+  "couponCodes": [
+    "UNTILNXTBF26"
+  ],
+  "validity": "Nov 23 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

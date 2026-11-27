@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "DataCheck",
+  "url": "https://datacheck.cc/en/pricing",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Find duplicates and numerical anomalies in research tables using preset rules.",
+  "offer": "30% off all standard one-time packs (Single HK$116 → HK$81.20 / ~$10.35, 5-check HK$469 → HK$328.30 / ~$41.85, 30-check HK$1,175 → HK$822.50 / ~$104.85) & perpetual Windows desktop licenses (HK$15,288 → HK$10,701.60 / ~$1,364.18, offline HK$19,992 → HK$13,994.40 / ~$1,783.93). Applied automatically at checkout, no code needed (excludes HK$35 first trial)",
+  "couponCodes": [],
+  "validity": "Nov 23 to Dec 5, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

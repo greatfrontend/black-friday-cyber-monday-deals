@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Mixpost",
+  "url": "https://mixpost.app",
+  "categories": [
+    "social-media-tools"
+  ],
+  "description": "Manage social calendars and approvals across a team.",
+  "offer": "25% off all Cloud plans for 12 months, and 25% off the self-hosted license. Automatically applied",
+  "couponCodes": [],
+  "validity": "Nov 23 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

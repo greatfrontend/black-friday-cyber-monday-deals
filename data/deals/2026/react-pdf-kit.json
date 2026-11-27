@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "React PDF Kit",
+  "url": "https://www.react-pdf-kit.dev/pricing",
+  "categories": [
+    "ui-kits-starter-kits"
+  ],
+  "description": "Add a customizable PDF viewer with search and highlights to React apps.",
+  "offer": "50% off Developer ($89 → $44.50) & Organization ($239 → $119.50) licenses with code **BFCM2026**",
+  "couponCodes": [
+    "BFCM2026"
+  ],
+  "validity": "Ends Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

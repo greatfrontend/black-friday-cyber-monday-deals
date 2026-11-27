@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "FastScribe",
+  "url": "https://fastscribe.org/pricing?offer=black-friday-2026",
+  "categories": [
+    "ai-tools"
+  ],
+  "description": "Generate transcripts and captions from files and media links.",
+  "offer": "$31 off Pro first year: $89 (normally $120/year), then $120/year; 6,500 bonus credits valid 365 days. Accounts without an active subscription only; no code needed",
+  "couponCodes": [],
+  "validity": "Nov 17 to Nov 30, 2026, 11:59 PM Pacific",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

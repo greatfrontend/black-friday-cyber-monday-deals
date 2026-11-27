@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Relationship tracker: Duo",
+  "url": "https://apps.apple.com/us/app/relationship-tracker-duo/id6759326768",
+  "categories": [
+    "utilities"
+  ],
+  "description": "Share memories and relationship milestones in a private space.",
+  "offer": "Lifetime in-app purchase for $7.49 USD in the US (normally from $14.99), no code needed. Regional prices vary",
+  "couponCodes": [],
+  "validity": "Nov 23 to Dec 1, 2026, 00:00 UTC (end exclusive)",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Meetily",
+  "url": "https://meetily.ai/pricing",
+  "categories": [
+    "ai-tools"
+  ],
+  "description": "Record and transcribe meetings locally with a Mac or Windows app.",
+  "offer": "55% off Annual Pro with code **BLACKFRIDAY55**, applied automatically at checkout: $120 → $54/license/year",
+  "couponCodes": [
+    "BLACKFRIDAY55"
+  ],
+  "validity": "Nov 25 to Dec 2, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

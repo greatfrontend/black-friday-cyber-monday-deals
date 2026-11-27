@@ -1,0 +1,17 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Craft",
+  "url": "https://www.craft.do/pricing",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Write documents, keep project notes, and manage tasks together.",
+  "offer": "40% off yearly Plus ($8 → $4.80/mo, US price; local prices vary) and Family with code **BLACKFRIDAY26-A**, 20% off monthly with code **BLACKFRIDAY26-M**. The discount stays on every renewal. Free plan stays free",
+  "couponCodes": [
+    "BLACKFRIDAY26-A",
+    "BLACKFRIDAY26-M"
+  ],
+  "validity": "Nov 16 to Dec 9, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

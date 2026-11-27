@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "utobo Email",
+  "url": "https://utobo.com/email/pricing",
+  "categories": [
+    "marketing-seo"
+  ],
+  "description": "Use SMTP or an API for transactional email or build marketing campaigns.",
+  "offer": "New customers only. 50% off the first year of any annual plan with code **BFF50**. Starting Transactional or Marketing annual plan: $86 → $43 for year one; renewals at standard rate",
+  "couponCodes": [
+    "BFF50"
+  ],
+  "validity": "Nov 21 to Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

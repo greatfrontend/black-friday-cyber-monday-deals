@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Nutrify - AI Calorie Tracker",
+  "url": "https://nutrifytracker.com/api/go?store=auto&campaign=holiday_sale&medium=deal_list",
+  "categories": [
+    "health-and-fitness"
+  ],
+  "description": "Log meals and estimate calories and macros from photos.",
+  "offer": "60% off the first year of Yearly: $49.99 → $19.99 USD, then $49.99/year, for new subscribers. Lifetime: $99 → $79 USD (one-time purchase). Applied automatically in the app, no code needed. US pricing; local prices vary",
+  "couponCodes": [],
+  "validity": "Nov 20 to Dec 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

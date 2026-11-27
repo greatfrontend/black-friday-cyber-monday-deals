@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "TCP Viewer",
+  "url": "https://tcpviewer.proxyman.com/pricing",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Inspect live TCP and UDP traffic and saved packet captures on macOS.",
+  "offer": "30% off all plans with code **BF2026**. Standard: $29 → $20.30, Combo: $39 → $27.30, Lifetime: $79 → $55.30 USD",
+  "couponCodes": [
+    "BF2026"
+  ],
+  "validity": "Nov 19 to Dec 3, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "RenewRoster",
+  "url": "https://renewroster.com/pricing",
+  "categories": [
+    "business-tools"
+  ],
+  "description": "Track domain and certificate renewals for client websites.",
+  "offer": "Founding offer + Black Friday deal: 50% off annual plans, no code needed (applied automatically at checkout): Starter $150 → $75/yr, Agency $390 → $195/yr, Scale $990 → $495/yr",
+  "couponCodes": [],
+  "validity": "Nov 3 to Dec 2, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

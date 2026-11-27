@@ -6,9 +6,10 @@
     "developer-tools"
   ],
   "description": "Develop apps with Public URLs and .local domains",
-  "offer": "**BF50** - 50% off the first year of Solo or Pro yearly",
+  "offer": "50% off the first year of Solo or Pro with **BF50**, or Lifetime for $69 (was $99) with **LIFETIME69**",
   "couponCodes": [
-    "BF50"
+    "BF50",
+    "LIFETIME69"
   ],
   "validity": "Ends Dec 1",
   "latest": true,

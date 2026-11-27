@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "DevWorkspace Pro",
+  "url": "https://devworkspacepro.com/",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Keep a project's files, terminal sessions, and service logs in one desktop workspace.",
+  "offer": "40% off all plans for new purchases with code **BLACKFRIDAY40OFF**. Monthly plans get the discount on the first month",
+  "couponCodes": [
+    "BLACKFRIDAY40OFF"
+  ],
+  "validity": "Nov 10 to Dec 10, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

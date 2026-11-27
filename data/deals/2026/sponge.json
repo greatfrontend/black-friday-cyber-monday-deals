@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Sponge",
+  "url": "https://sponge.computer/pricing",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Read and highlight a local library of articles and PDFs with Markdown export.",
+  "offer": "50% off Sponge Plus for your first 12 months with code **SPONGEBF26**: $5 → $2.50/month on the web. New subscribers",
+  "couponCodes": [
+    "SPONGEBF26"
+  ],
+  "validity": "Nov 18 to Dec 2, 2026, Pacific time",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

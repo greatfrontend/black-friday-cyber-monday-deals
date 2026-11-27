@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Toast Karaoke",
+  "url": "https://toastkaraoke.app/",
+  "categories": [
+    "miscellaneous"
+  ],
+  "description": "Play local karaoke videos and adjust guide vocals on Mac or Windows.",
+  "offer": "Yearly 25% off the first year ($59.99 → $44.92) and Lifetime 30% off ($199 → $139.21), applied automatically at checkout, no code needed",
+  "couponCodes": [],
+  "validity": "Nov 20 to Nov 30, 2026, 23:59 UTC+7",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

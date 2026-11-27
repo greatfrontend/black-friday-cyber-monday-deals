@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "PartnerLens",
+  "url": "https://partnerlens.app/pricing",
+  "categories": [
+    "marketing-seo"
+  ],
+  "description": "Track marketplace rankings and competitors for Shopify apps.",
+  "offer": "Up to 65% off the first year of annual plans, no code needed (applied automatically at checkout): Solo $190 → $95/yr, Growth $390 → $156/yr, Portfolio $990 → $346.50/yr",
+  "couponCodes": [],
+  "validity": "Ends Dec 2, 2026, 00:00 UTC",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

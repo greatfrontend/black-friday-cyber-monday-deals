@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Burnpedia",
+  "url": "https://burnpedia.app/black-friday",
+  "categories": [
+    "social-media-tools"
+  ],
+  "description": "Design, schedule, and measure Pinterest posts from one dashboard.",
+  "offer": "40% off the first year of any yearly plan (Basic $89 → $53.40, Pro $149 → $89.40, Agency $489 → $293.40), no code needed",
+  "couponCodes": [],
+  "validity": "Ends Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

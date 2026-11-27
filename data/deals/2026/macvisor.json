@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "MacVisor",
+  "url": "https://scaleninja.com/macvisor/",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Manage macOS, Windows, Linux, and FreeBSD virtual machines on a Mac.",
+  "offer": "15% off with code **BLACKFRIDAY15**",
+  "couponCodes": [
+    "BLACKFRIDAY15"
+  ],
+  "validity": "Nov 12 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

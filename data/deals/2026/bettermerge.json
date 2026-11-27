@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "BetterMerge",
+  "url": "https://bettermerge.com/pricing?billing=year",
+  "categories": [
+    "marketing-seo"
+  ],
+  "description": "Send personalized Gmail messages using data from Google Sheets.",
+  "offer": "50% off the first year of any yearly plan, no code needed (applied at checkout): Lite $79.90 → $39.95, Plus $169.90 → $84.95, Pro $299.90 → $149.95 per year",
+  "couponCodes": [],
+  "validity": "Ends Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

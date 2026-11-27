@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Bilang",
+  "url": "https://bilang.org/pricing",
+  "categories": [
+    "miscellaneous"
+  ],
+  "description": "Practice speaking and writing for everyday language situations or interviews.",
+  "offer": "20% off all plans with code **BF26**. Learner €4.99 → €3.99/mo, €50.90 → €40.72/yr. Teacher €7.99 → €6.39/mo, €81.50 → €65.20/yr",
+  "couponCodes": [
+    "BF26"
+  ],
+  "validity": "Nov 15 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

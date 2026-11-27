@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "AlertOnDown",
+  "url": "https://alertondown.com/black-friday",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Monitor uptime, SSL, and HTTP performance with custom status pages.",
+  "offer": "30% off all recurring plans for 12 months with code **BFCM2026** (Starter $66 → $46.20/yr, Pro $228 → $159.60/yr, Scale $564 → $394.80/yr)",
+  "couponCodes": [
+    "BFCM2026"
+  ],
+  "validity": "Nov 27 to Dec 16, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

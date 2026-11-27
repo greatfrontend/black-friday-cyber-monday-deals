@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "DeskRest",
+  "url": "https://deskrest.com/offers",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Schedule breaks and eye-rest reminders on a Mac.",
+  "offer": "80% off lifetime licenses with code **BLACKFRIDAY80**",
+  "couponCodes": [
+    "BLACKFRIDAY80"
+  ],
+  "validity": "Nov 9 to Dec 10, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

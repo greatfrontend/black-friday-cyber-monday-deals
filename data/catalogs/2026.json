@@ -2,7 +2,7 @@
   "$schema": "../deal-catalog.schema.json",
   "year": 2026,
   "title": "Black Friday & Cyber Monday Deals 2026",
-  "description": "Black Friday and Cyber Monday 2026 deals for software engineers, developers, and designers. Find discounts on technical interview preparation resources, UI kits, AI tools, books, and courses.",
+  "description": "Black Friday and Cyber Monday 2026 discounts on developer tools, interview prep, courses, design, AI, productivity, business software, and consumer apps.",
   "source": "README.md",
   "lastChecked": "2026-11-26T14:06:43+05:30",
   "hasLatestColumn": true,
@@ -46,6 +46,56 @@
       "id": "design-courses",
       "name": "Design courses",
       "heading": "Design courses"
+    },
+    {
+      "id": "productivity-tools",
+      "name": "Productivity",
+      "heading": "Productivity"
+    },
+    {
+      "id": "ai-tools",
+      "name": "AI tools",
+      "heading": "AI tools"
+    },
+    {
+      "id": "design-tools",
+      "name": "Design tools",
+      "heading": "Design tools"
+    },
+    {
+      "id": "marketing-seo",
+      "name": "Marketing & SEO",
+      "heading": "Marketing and SEO"
+    },
+    {
+      "id": "business-tools",
+      "name": "Business tools",
+      "heading": "Business tools"
+    },
+    {
+      "id": "social-media-tools",
+      "name": "Social media",
+      "heading": "Social media"
+    },
+    {
+      "id": "finance-tools",
+      "name": "Finance",
+      "heading": "Finance"
+    },
+    {
+      "id": "utilities",
+      "name": "Utilities",
+      "heading": "Utilities"
+    },
+    {
+      "id": "health-and-fitness",
+      "name": "Health & fitness",
+      "heading": "Health and fitness"
+    },
+    {
+      "id": "miscellaneous",
+      "name": "Miscellaneous",
+      "heading": "Miscellaneous"
     }
   ],
   "featuredDealIds": [

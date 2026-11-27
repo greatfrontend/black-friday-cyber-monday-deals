@@ -1,0 +1,17 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "ScreenSage Pro",
+  "url": "https://screensage.pro/bf2026",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Record and edit demos on macOS with cursor effects and camera layouts.",
+  "offer": "Up to 53% off. Lifetime $449 → $209.90 with code **BFS2026L** (53% off); Pro 3 Macs $149 → $79.90 with code **BFS2026P** (46% off), pay once",
+  "couponCodes": [
+    "BFS2026L",
+    "BFS2026P"
+  ],
+  "validity": "Ends Dec 15, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

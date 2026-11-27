@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Outpublished",
+  "url": "https://outpublished.com/black-friday",
+  "categories": [
+    "marketing-seo"
+  ],
+  "description": "Find pages or topics competitors cover that your website is missing.",
+  "offer": "40% off every plan, monthly or yearly, kept while you stay subscribed, no code needed: Starter $39 → $23/mo, Pro $99 → $59/mo, Agency $229 → $137/mo. First 150 accounts",
+  "couponCodes": [],
+  "validity": "Nov 20 to Dec 4, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

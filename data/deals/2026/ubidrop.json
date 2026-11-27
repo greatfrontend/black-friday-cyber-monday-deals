@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Ubidrop",
+  "url": "https://www.ubidrop.com/",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Send files over your local network between a Mac and a phone.",
+  "offer": "60% off with code **BLACKFRIDAY2026**: 1 Mac $29 → $11.60, 2 Macs $49 → $19.60, 5 Macs $99 → $39.60",
+  "couponCodes": [
+    "BLACKFRIDAY2026"
+  ],
+  "validity": "Ends Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

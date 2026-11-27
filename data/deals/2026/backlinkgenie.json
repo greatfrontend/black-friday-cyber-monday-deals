@@ -1,0 +1,17 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "BacklinkGenie",
+  "url": "https://backlinkgenie.com/pricing/",
+  "categories": [
+    "marketing-seo"
+  ],
+  "description": "Find potential backlink placements and manage outreach for them.",
+  "offer": "30% off monthly or 50% off yearly, kept for as long as you stay subscribed, applied automatically at checkout (codes **BFCM30** / **BFCM50**): Starter $99 → $69.30/mo or $990 → $495/yr, Growth $249 → $174.30/mo or $2,490 → $1,245/yr, Agency $499 → $349.30/mo or $4,990 → $2,495/yr. Black Friday through Dec 1, then continues as the year-end offer until Dec 31, 2026",
+  "couponCodes": [
+    "BFCM30",
+    "BFCM50"
+  ],
+  "validity": "Ends Dec 31, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Lingon Pro",
+  "url": "https://www.peterborgapps.com/lingon",
+  "categories": [
+    "utilities"
+  ],
+  "description": "Schedule Mac apps, scripts, and shortcuts to run at chosen times.",
+  "offer": "20% off $23.99 → $19.19 (automatically applied)",
+  "couponCodes": [],
+  "validity": "Nov 23 to Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

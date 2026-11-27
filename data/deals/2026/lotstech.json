@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "LotsTech",
+  "url": "https://www.lotstech.com/black-friday-deals",
+  "categories": [
+    "business-tools"
+  ],
+  "description": "Use a suite of connected apps for running a small business.",
+  "offer": "70% off yearly plans, and the price is kept every year you renew (Business suite $290 → $87 a year per business), no code needed. 20% off monthly plans for the first 3 months",
+  "couponCodes": [],
+  "validity": "Ends Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

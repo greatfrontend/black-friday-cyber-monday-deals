@@ -58,6 +58,16 @@ For 2026, use:
 | `ai-powered-tools-for-developers` | AI applications and developer APIs |
 | `design-kits` | Icons, design assets, and design systems |
 | `design-courses` | Design and UI/UX courses |
+| `productivity-tools` | Notes, tasks, calendars, focus tools, and desktop workflows |
+| `ai-tools` | General-purpose AI chat, writing, research, and automation tools |
+| `design-tools` | Visual design, prototyping, and illustration apps |
+| `marketing-seo` | Email marketing, advertising, audience research, and search optimization |
+| `business-tools` | Business operations, analytics, billing, and support software |
+| `social-media-tools` | Social content creation, publishing, and analytics |
+| `finance-tools` | Budgeting, invoicing, investment tracking, and financial research |
+| `utilities` | File, device, media, privacy, and system tools |
+| `health-and-fitness` | Exercise, sleep, nutrition, and wellness apps |
+| `miscellaneous` | Other consumer and specialty apps, including travel and entertainment |
 
 A product can have multiple categories. Use one file with a `categories` array instead of duplicating the product. Historical catalogs retain their original categories; `data/catalogs/<year>.json` defines the category headings available for each year.
 

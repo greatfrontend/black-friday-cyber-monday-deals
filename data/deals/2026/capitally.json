@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Capitally",
+  "url": "https://www.mycapitally.com/?discount=BLACK26",
+  "categories": [
+    "finance-tools"
+  ],
+  "description": "Track a multi-asset portfolio with end-to-end encrypted records.",
+  "offer": "30% off yearly and 5-year Navigator and Captain plans with code **BLACK26**: Navigator €150 → €105/year, Captain €300 → €210/year. 14-day free trial, no credit card",
+  "couponCodes": [
+    "BLACK26"
+  ],
+  "validity": "Nov 24 to Dec 7, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

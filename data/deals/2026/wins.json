@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Wins",
+  "url": "https://wins.cool/",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Snap windows and preview open apps from the macOS Dock.",
+  "offer": "40% off all plans with code **BF_26**",
+  "couponCodes": [
+    "BF_26"
+  ],
+  "validity": "Nov 11 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

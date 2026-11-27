@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Terry: Pedometer Step Counter",
+  "url": "https://apps.apple.com/app/id6818785615",
+  "categories": [
+    "health-and-fitness"
+  ],
+  "description": "Track step goals on an iPhone with a virtual llama.",
+  "offer": "60% off the first year of Terry+ Yearly with code **TERRYBF** ([redeem](https://apps.apple.com/redeem?ctx=offercodes&id=6818785615&code=TERRYBF)). US pricing: $29.99 → $11.99 USD for the first year; local prices vary. For new or returning subscribers",
+  "couponCodes": [
+    "TERRYBF"
+  ],
+  "validity": "Ends Dec 31, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

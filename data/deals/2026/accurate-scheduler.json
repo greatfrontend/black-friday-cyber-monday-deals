@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Accurate Scheduler",
+  "url": "https://accuratescheduler.com/pricing/",
+  "categories": [
+    "business-tools"
+  ],
+  "description": "Schedule appointments, manage staff calendars, and take payments online.",
+  "offer": "50% off paid monthly and yearly plans with code **FSBFCM2026** at checkout. Starter: $3 → $1.50 monthly or $30 → $15 yearly",
+  "couponCodes": [
+    "FSBFCM2026"
+  ],
+  "validity": "-",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

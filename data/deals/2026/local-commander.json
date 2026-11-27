@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Local Commander",
+  "url": "https://localcmd.app/",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Give an AI assistant access to your own computers across desktop platforms.",
+  "offer": "60% off the first month of a pack of 10 extra computers ($8 → $3.20) or 75% off the first year ($67.20 → $16.80). No code needed. New subscriptions",
+  "couponCodes": [],
+  "validity": "Ends Dec 1, 2026, 23:59 UTC",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

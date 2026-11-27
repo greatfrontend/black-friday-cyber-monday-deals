@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "ActionClip",
+  "url": "https://actionclip.app/black-friday-deal",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Run custom AI actions on selected text from a floating Mac menu.",
+  "offer": "25% off Individual lifetime: $12 → $9 for 1 Mac. Also $15 for up to 3 Macs or $29 for up to 10 Macs. Lifetime access and updates; automatically applied, no code needed",
+  "couponCodes": [],
+  "validity": "Ends Nov 29, 2026, 23:59 UTC",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

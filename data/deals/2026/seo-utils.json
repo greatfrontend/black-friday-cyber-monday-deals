@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "SEO Utils",
+  "url": "https://seoutils.app/",
+  "categories": [
+    "marketing-seo"
+  ],
+  "description": "Run keyword and website research in a cross-platform desktop app.",
+  "offer": "20% off the Desktop License Key with code **BF26**: $79 → $63.20, one-time payment with a year of updates",
+  "couponCodes": [
+    "BF26"
+  ],
+  "validity": "Ends Dec 7, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "SoundScrub",
+  "url": "https://soundscrub.video/pricing/",
+  "categories": [
+    "ai-tools"
+  ],
+  "description": "Remove selected music, voices, or noise from a video by describing them.",
+  "offer": "40% off one credit top-up per account (first $100 of credit): $0.25 → $0.15 per 30 seconds of video, applied at checkout, no code needed",
+  "couponCodes": [],
+  "validity": "Ends Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

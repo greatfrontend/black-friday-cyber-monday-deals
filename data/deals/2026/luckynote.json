@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Luckynote",
+  "url": "https://luckynote.io/pricing",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Save links, notes, and files and extract useful details from shared content.",
+  "offer": "Black Friday 2026 first-year annual pricing: Plus $59.99 → $39.99, Pro $119.99 → $89.99 (USD). The offer is applied automatically at web checkout; both plans renew at their regular annual price unless canceled",
+  "couponCodes": [],
+  "validity": "-",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

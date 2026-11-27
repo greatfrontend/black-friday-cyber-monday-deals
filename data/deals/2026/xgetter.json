@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "XGetter",
+  "url": "https://xgetter.com/#pricing",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Save downloadable video and audio from supported sites on desktop.",
+  "offer": "30% off all plans with code **BF2026**: Pro $10 → $7, Extended $15 → $10.50",
+  "couponCodes": [
+    "BF2026"
+  ],
+  "validity": "Ends Dec 2, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Voxipaw",
+  "url": "https://voxipaw.kionesis.com/",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Use a browser focus timer with an animated pet.",
+  "offer": "51% off Lifetime Plus (all 8 animals and every home): $99.99 → $49 one-time, no code needed",
+  "couponCodes": [],
+  "validity": "Ends Dec 1, 2026, 12:00 AM PT",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Knowii Voice AI",
+  "url": "https://www.store.dsebastien.net/product/knowii-voice-ai/",
+  "categories": [
+    "miscellaneous"
+  ],
+  "description": "Dictate text into apps using speech recognition on your own computer.",
+  "offer": "20% off with code **BLACKFRIDAY2026**, Nov 23 - Nov 30, 2026 (23:59 CET). List price €49 (store price on Nov 18, 2026), €39.20 with the code, VAT added at checkout where applicable. One-time payment",
+  "couponCodes": [
+    "BLACKFRIDAY2026"
+  ],
+  "validity": "Nov 18 to Nov 30, 2026, 23:59 CET",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "CleanClip",
+  "url": "https://pricing.cleanclip.cc/src",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Search and reuse clipboard history from a Mac quick-paste menu.",
+  "offer": "30% off, Standard $19.99 → $13.99, Pro $29.99 → $20.99 (one-time purchase), code **BF2026**",
+  "couponCodes": [
+    "BF2026"
+  ],
+  "validity": "Nov 4 to Dec 15, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

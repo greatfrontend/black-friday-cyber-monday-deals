@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Rebit Pro",
+  "url": "https://rebit.cc/",
+  "categories": [
+    "miscellaneous"
+  ],
+  "description": "Play your own retro game files on the web or phone with synced saves.",
+  "offer": "40% off the first year of Pro on the web ($8.99 instead of $14.99) with code **BLACKFRIDAY40**",
+  "couponCodes": [
+    "BLACKFRIDAY40"
+  ],
+  "validity": "Nov 22 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

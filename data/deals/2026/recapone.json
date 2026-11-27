@@ -1,0 +1,17 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "RecapOne",
+  "url": "https://recapone.com/blackfriday",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Read or listen to saved articles, books, newsletters, feeds, and podcasts in one app.",
+  "offer": "35% off forever Monthly/Annual ($9.99 → $6.49/mo, $99.99 → $64.99/yr) with code **BF2026**, or $200 off Lifetime ($399 → $199) with code **BFLTD**. New customers (now – Dec 1)",
+  "couponCodes": [
+    "BF2026",
+    "BFLTD"
+  ],
+  "validity": "Ends Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

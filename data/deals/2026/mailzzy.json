@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Mailzzy",
+  "url": "https://mailzzy.com/emails-savings-sale/",
+  "categories": [
+    "marketing-seo"
+  ],
+  "description": "Design and send email campaigns using editable templates and writing assistance.",
+  "offer": "70% off the first year on annual plans (Standard $97.20 → $32.40/yr) or 60% off the first 3 months on monthly plans (Standard $9 → $3.60/mo). No code needed, applied automatically at checkout. Prices shown for 500 contacts; renews at the regular price. New subscriptions on Standard and Premium. Free 30-day trial also available",
+  "couponCodes": [],
+  "validity": "Nov 16 to Dec 14, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

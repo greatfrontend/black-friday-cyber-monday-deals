@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Spacepal",
+  "url": "https://getspacepal.com/black-friday/",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Name Mac virtual desktops and switch among live previews.",
+  "offer": "20% off the launch price ($9.99 → $7.99), one-time for up to 3 Macs. Applied automatically at checkout, no code",
+  "couponCodes": [],
+  "validity": "Nov 27 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

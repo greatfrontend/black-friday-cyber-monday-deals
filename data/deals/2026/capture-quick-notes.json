@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Capture - Quick Notes",
+  "url": "https://apps.apple.com/app/apple-store/id6458535284",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Save quick notes and send them to other Apple apps.",
+  "offer": "50% off Lifetime (one-time purchase). US pricing: $19.99 → $9.99 USD; local prices vary. No code needed",
+  "couponCodes": [],
+  "validity": "Nov 23 to Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

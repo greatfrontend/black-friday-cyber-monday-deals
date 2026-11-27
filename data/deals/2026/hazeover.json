@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "HazeOver",
+  "url": "https://hazeover.com/buynow.html",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Focus on the active Mac window by dimming the ones behind it.",
+  "offer": "60% off one-time purchase ($4.99 → $1.99) on the Mac App Store and hazeover.com, no code needed",
+  "couponCodes": [],
+  "validity": "Nov 27 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

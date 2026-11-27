@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Let's Trip",
+  "url": "https://letstrip.ai/pricing",
+  "categories": [
+    "ai-tools"
+  ],
+  "description": "Create a trip itinerary and track prices with an AI planner.",
+  "offer": "50% off Premium: monthly $10 → $5/month or yearly $100 → $50/year",
+  "couponCodes": [],
+  "validity": "Nov 11 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

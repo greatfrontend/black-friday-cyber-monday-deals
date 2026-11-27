@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "quso.ai",
+  "url": "https://quso.ai/pricing",
+  "categories": [
+    "social-media-tools"
+  ],
+  "description": "Turn longer videos into captioned short clips and schedule their release.",
+  "offer": "50% off yearly plans, kept at every renewal while subscribed, no code needed (Lite $348 → $174/year, Essential $468 → $234/year, Growth $588 → $294/year). New yearly plans. Free plan available",
+  "couponCodes": [],
+  "validity": "Nov 20 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

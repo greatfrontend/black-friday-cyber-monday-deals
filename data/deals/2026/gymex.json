@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Gymex",
+  "url": "https://gymex.fitness/blackfriday",
+  "categories": [
+    "health-and-fitness"
+  ],
+  "description": "Record strength training and review workout data with an AI coach.",
+  "offer": "Black Friday: Lifetime for the first time, one payment instead of a subscription: Core £30 (normally £7.49/month), Premium £60 (normally £15/month). Or 50% off any monthly plan for your first 6 months: Premium £15 → £7.50/month. Code **BLACKFRIDAY**, already applied on the page. GBP pricing",
+  "couponCodes": [
+    "BLACKFRIDAY"
+  ],
+  "validity": "Ends Nov 30, 2026, 23:59 UK",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

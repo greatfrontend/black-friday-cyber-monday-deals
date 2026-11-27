@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Super Monitoring",
+  "url": "https://www.supermonitoring.com/",
+  "categories": [
+    "business-tools"
+  ],
+  "description": "Monitor the uptime, performance, and behavior of websites and web apps.",
+  "offer": "50% off, one-time, only for new customers. Coupon code: **SUPERBLACK26**. Deal valid",
+  "couponCodes": [
+    "SUPERBLACK26"
+  ],
+  "validity": "Nov 27 to Dec 15, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

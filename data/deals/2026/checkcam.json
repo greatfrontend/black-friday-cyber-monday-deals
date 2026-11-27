@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "CheckCam",
+  "url": "https://checkcam.zorrinapps.com/#black-friday",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Turn photos into reminders outside your main camera roll.",
+  "offer": "Lifetime for $7.49 USD (regularly $14.99) with code **BFCM26**",
+  "couponCodes": [
+    "BFCM26"
+  ],
+  "validity": "Ends Dec 1, 2026, Pacific Time",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

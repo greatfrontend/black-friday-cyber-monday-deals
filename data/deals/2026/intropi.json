@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "intropi",
+  "url": "https://intropi.app/black-friday",
+  "categories": [
+    "health-and-fitness"
+  ],
+  "description": "Listen to guided meditation or self-hypnosis sessions.",
+  "offer": "Premium Lifetime $89.99 once, regularly $189.99 on iPhone/web or $149.99 on Android. US app stores and web in USD. No code",
+  "couponCodes": [],
+  "validity": "Nov 25 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

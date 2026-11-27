@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Renderly",
+  "url": "https://renderly.video/pricing?code=BLACKFRIDAY2026",
+  "categories": [
+    "ai-powered-tools-for-developers"
+  ],
+  "description": "Generate MP4s from templates and data through a video rendering API.",
+  "offer": "30% off the first payment of a new subscription with code **BLACKFRIDAY2026**: Creator $29 → $20.30 first month ($290 → $203 first year billed annually), Business $99 → $69.30 first month ($990 → $693 first year billed annually)",
+  "couponCodes": [
+    "BLACKFRIDAY2026"
+  ],
+  "validity": "Nov 27 to Dec 1, 2026, UTC",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Keyword Race",
+  "url": "https://keywordrace.com/",
+  "categories": [
+    "marketing-seo"
+  ],
+  "description": "Research app keywords and discover competing listings in the App Store.",
+  "offer": "40% off lifetime access ($59 → $35), one payment, no code needed",
+  "couponCodes": [],
+  "validity": "Ends Dec 2, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

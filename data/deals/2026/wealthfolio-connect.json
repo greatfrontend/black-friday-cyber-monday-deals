@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Wealthfolio Connect",
+  "url": "https://wealthfolio.app/connect/black-friday/",
+  "categories": [
+    "finance-tools"
+  ],
+  "description": "Sync and back up Wealthfolio records with optional brokerage connections.",
+  "offer": "35% off the first year of annual Basic, Essentials and Duo with code **BLACKFRIDAY35**: Basic $29 → $18.85, Essentials $79 → $51.35, Duo $129 → $83.85 USD. Nov 8–30, 2026, ends Nov 30 at 11:59 p.m. Eastern. Renews at the regular annual price",
+  "couponCodes": [
+    "BLACKFRIDAY35"
+  ],
+  "validity": "Nov 8 to Nov 30, 2026, 11:59 P.M Eastern",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

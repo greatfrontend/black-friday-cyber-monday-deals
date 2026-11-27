@@ -1,0 +1,17 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "SIGNUM HQ",
+  "url": "https://apps.apple.com/app/signum-hq-stock-market-intel/id6783130444",
+  "categories": [
+    "finance-tools"
+  ],
+  "description": "Follow US stock prices and market summaries from an iPhone.",
+  "offer": "50% off the first year of PRO with code **BLACKFRIDAY50**: $74.99 → $37.49/year (US price; local prices vary). Monthly: 50% off the first 3 months with code **BFCM50** ($9.99 → $4.99/mo). Redeem on the [App Store](https://apps.apple.com/redeem?ctx=offercodes&id=6783130444&code=BLACKFRIDAY50) or via \"Redeem code\" on the in-app PRO screen. Renews at the regular price; cancel anytime. Android: 1 month of PRO free via [this link](https://www.signumhq.com/app?from=bf_tony_1122)",
+  "couponCodes": [
+    "BLACKFRIDAY50",
+    "BFCM50"
+  ],
+  "validity": "Nov 22 to Dec 2, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

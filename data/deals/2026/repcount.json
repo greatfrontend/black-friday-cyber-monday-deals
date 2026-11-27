@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "RepCount",
+  "url": "https://www.repcountapp.com/black-friday",
+  "categories": [
+    "health-and-fitness"
+  ],
+  "description": "Log gym workouts, exercise history, and personal records on mobile.",
+  "offer": "50% off the first year of Premium (yearly plan): $29.99 → $14.99 USD in the US; local prices vary. The offer appears in the app (banner, popup and Premium screen), no code needed",
+  "couponCodes": [],
+  "validity": "Nov 22 to Dec 2, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

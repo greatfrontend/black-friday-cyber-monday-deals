@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Finance Three: Budget Tracker",
+  "url": "https://zhorzhua.studio/blackfriday/",
+  "categories": [
+    "finance-tools"
+  ],
+  "description": "Track bills, spending, and savings envelopes on an iPhone.",
+  "offer": "50% off. US pricing: Plus Lifetime $39.99 → $19.99 USD (one-time purchase directly in the app, no code needed), or Plus Annual first year $24.99 → $12.49 USD (one-tap App Store redeem link on deal page)",
+  "couponCodes": [],
+  "validity": "Nov 27 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

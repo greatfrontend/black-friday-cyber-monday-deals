@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Comic Weather",
+  "url": "https://comicweather.app/black-friday",
+  "categories": [
+    "miscellaneous"
+  ],
+  "description": "View iPhone weather predictions in a comic format.",
+  "offer": "40% off Comic Weather Full (one-time in-app purchase): $4.99 → $2.99 USD on the [App Store](https://apps.apple.com/app/apple-store/id6816097524), free download, no code needed. Local prices vary",
+  "couponCodes": [],
+  "validity": "Nov 27 to Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

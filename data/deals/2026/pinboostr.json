@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "PinBoostr",
+  "url": "https://pinboostr.com/pricing/",
+  "categories": [
+    "miscellaneous"
+  ],
+  "description": "Generate and schedule Pinterest posts from a blog or shop.",
+  "offer": "Black Friday yearly prices, locked for as long as you stay subscribed. Applied automatically at checkout, no code needed. Scheduler $79.99 → $29/year, Starter $199 → $49/year, Growth $399 → $99/year",
+  "couponCodes": [],
+  "validity": "Nov 23 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

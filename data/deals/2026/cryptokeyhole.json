@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "CryptoKeyhole",
+  "url": "https://cryptokeyhole.com/pricing/",
+  "categories": [
+    "finance-tools"
+  ],
+  "description": "Explore crypto derivatives, network activity, and ETF data.",
+  "offer": "50% off the first three months of Plus or Pro on monthly billing (Plus is $18 → $9 a month for three months, then $18), or 30% off the first year on yearly billing (Plus is $180 → $126 for the first year, then $180), for new subscribers. No code is needed: the price is taken off at checkout. 14-day money-back guarantee",
+  "couponCodes": [],
+  "validity": "Nov 20 to Dec 1, 2026, 23:59 UTC",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

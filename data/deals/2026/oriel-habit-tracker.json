@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Oriel: Habit Tracker",
+  "url": "https://zhorzhua.studio/blackfriday/",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Track daily habits with visual rewards and no streak reset.",
+  "offer": "50% off. US pricing: Plus Forever (lifetime) $34.99 → $17.49 USD, or Plus Annual first year $14.99 → $7.49 USD (one-tap App Store redeem links on deal page)",
+  "couponCodes": [],
+  "validity": "Nov 27 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Roost",
+  "url": "https://roostmail.app/black-friday",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Read multiple mail accounts together in a native Mac app.",
+  "offer": "14% off lifetime licence, below the $29 launch price every buyer has paid since Nov 4: $29 → $25, one payment, up to 3 Macs, every future update. No code needed, applied at checkout. Free for 3 days first. Nov 27 - Dec 1, 2026",
+  "couponCodes": [],
+  "validity": "Nov 4 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

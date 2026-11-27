@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "ClaudeKit",
+  "url": "https://claudekit.app/pricing",
+  "categories": [
+    "ai-tools"
+  ],
+  "description": "See usage quotas and reset times while using Claude in Chrome.",
+  "offer": "$8 off the first year of Pro annual: $28 → $20/year, no code needed, applied at checkout in the extension",
+  "couponCodes": [],
+  "validity": "Ends Dec 1, 2026, 11:59 PM PT",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

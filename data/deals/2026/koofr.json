@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Koofr",
+  "url": "https://koofr.eu/black-friday/",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Store and share files using a cloud storage service based in the EU.",
+  "offer": "55% off yearly plans 250 GB to 5TB, including gift cards. Use promo code **BF2026**",
+  "couponCodes": [
+    "BF2026"
+  ],
+  "validity": "Nov 16 to Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

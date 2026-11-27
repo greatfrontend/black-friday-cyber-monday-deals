@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Fotilo",
+  "url": "https://fotilo.app/",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Record your Mac screen and combine screenshots on an annotation canvas.",
+  "offer": "50% off lifetime, no code needed, applied automatically: Screenshot & Recording Pro $59 → $29.50, Screenshot Pro $19 → $9.50 (one-time purchase; 50% off local prices in every region). Subscriptions excluded",
+  "couponCodes": [],
+  "validity": "Nov 23 to Dec 1, 2026, 11:59 PM PT",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

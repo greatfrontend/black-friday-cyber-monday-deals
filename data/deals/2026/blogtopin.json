@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "BlogToPin",
+  "url": "https://blogtopin.com/black-friday",
+  "categories": [
+    "social-media-tools"
+  ],
+  "description": "Create and schedule Pinterest graphics from a blog or store.",
+  "offer": "40% off any annual plan with code **BF40**, Nov 2 - Dec 1, 2026 (Starter $299 → $179.40/year, Agency $599 → $359.40/year, Enterprise $1499 → $899.40/year)",
+  "couponCodes": [
+    "BF40"
+  ],
+  "validity": "Nov 2 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

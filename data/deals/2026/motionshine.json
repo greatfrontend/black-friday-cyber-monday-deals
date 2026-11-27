@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "MotionShine",
+  "url": "https://motionshine.com/#pricing",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Record the Mac screen and add cursor effects, captions, or backgrounds.",
+  "offer": "50% off every paid plan with code **BF50**, one-time purchase: Pro Forever $99 → $49.50, Pro $49 → $24.50, Agency $179 → $89.50",
+  "couponCodes": [
+    "BF50"
+  ],
+  "validity": "Nov 12 to Dec 5, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

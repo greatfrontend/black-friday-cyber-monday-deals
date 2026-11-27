@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "ShiftApp",
+  "url": "https://shiftapp.com/black-friday",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Schedule shifts, track leave, and coordinate staff from web and mobile apps.",
+  "offer": "88% off the first 8 months on new Essential monthly orders. Essential E10: $24 → $2.88 USD/month for 8 months, then $24/month before tax. Code **BLACKFRIDAY2026** auto-applied",
+  "couponCodes": [
+    "BLACKFRIDAY2026"
+  ],
+  "validity": "Nov 23 to Dec 12, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

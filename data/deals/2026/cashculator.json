@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Cashculator",
+  "url": "https://cashculator.app",
+  "categories": [
+    "finance-tools"
+  ],
+  "description": "Plan cash flow and budgets in a personal finance app.",
+  "offer": "50% off ($130 → $65) Lifetime",
+  "couponCodes": [],
+  "validity": "Ends Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

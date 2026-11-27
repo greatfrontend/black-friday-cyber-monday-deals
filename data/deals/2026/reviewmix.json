@@ -1,0 +1,17 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "ReviewMix",
+  "url": "https://reviewmix.eu/pricing",
+  "categories": [
+    "marketing-seo"
+  ],
+  "description": "Embed Google reviews and customer testimonials in website widgets.",
+  "offer": "30% off your first paid billing period with code **BF30** (until Nov 29, 2026, 23:59 Bucharest time), then 20% off with code **CM20** (Nov 30 to Dec 1, 2026, 23:59 Bucharest time). First year on annual plans, first month on monthly plans. New subscriptions only; renewals at list price: Pro €12/mo, Agency €29/mo, Studio €69/mo (or €120, €288, €690 a year)",
+  "couponCodes": [
+    "BF30",
+    "CM20"
+  ],
+  "validity": "Nov 30 to Dec 1, 2026, 23:59 Bucharest time",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

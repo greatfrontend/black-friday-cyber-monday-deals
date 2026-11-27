@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Beamly",
+  "url": "https://beamly.com",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Host and manage a podcast from one publishing platform.",
+  "offer": "30% off on new annual plans. Starter $216 → $151/year, Creator $360 → $252/year, Business $768 → $537",
+  "couponCodes": [],
+  "validity": "Ends Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

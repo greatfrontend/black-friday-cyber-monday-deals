@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Cadran",
+  "url": "https://cadranapp.com/en#pricing",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Display a clock directly on the Mac desktop wallpaper.",
+  "offer": "50% off Cadran Pro, one-time purchase for up to 3 Macs: $9.99 → $4.99 with code **BF50**. The free version stays free",
+  "couponCodes": [
+    "BF50"
+  ],
+  "validity": "Nov 20 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

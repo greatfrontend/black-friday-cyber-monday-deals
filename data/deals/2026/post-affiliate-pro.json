@@ -1,0 +1,17 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Post Affiliate Pro",
+  "url": "https://www.postaffiliatepro.com/black-friday/",
+  "categories": [
+    "marketing-seo"
+  ],
+  "description": "Run an affiliate program and track links, sales, and commissions.",
+  "offer": "75% off the first 6 months of yearly plans with code **BFPAP-75Y** (Starter $79 → $19.75/mo), or 50% off monthly plans with code **BFPAP-50M** ($89 → $44.50/mo). New customers",
+  "couponCodes": [
+    "BFPAP-75Y",
+    "BFPAP-50M"
+  ],
+  "validity": "Ends Dec 15, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

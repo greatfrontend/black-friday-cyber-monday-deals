@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Cloister Ink",
+  "url": "https://cloisterink.com/",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Write and sync plain Markdown files across Apple devices.",
+  "offer": "33% off one-time unlock: $59.99 → $39.99, no code needed, 7-day free trial. Nov 27 - Dec 7, 2026. Back to $59.99 Dec 8",
+  "couponCodes": [],
+  "validity": "Nov 27 to Dec 8, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

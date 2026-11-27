@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Etona: Notes & Ideas",
+  "url": "https://etona.app",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Collect notes and ideas across Mac, iPhone, and iPad.",
+  "offer": "40% off the first year with code **ETONALAUNCH** ([redeem](https://apps.apple.com/redeem?ctx=offercodes&id=6761552424&code=ETONALAUNCH)): Yearly $49.99 → $29.99, then $49.99/yr. New and returning subscribers; the 14-day free trial is kept. US App Store",
+  "couponCodes": [
+    "ETONALAUNCH"
+  ],
+  "validity": "Ends Dec 7, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

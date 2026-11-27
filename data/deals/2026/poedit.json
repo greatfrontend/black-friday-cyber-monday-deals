@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Poedit",
+  "url": "https://poedit.com/purchase/",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Edit localization files for websites and apps, including PO, XLIFF, and JSON.",
+  "offer": "30% off with code **BF26**. Pro $29.99 → $20.99, Pro+ $39.99/yr → $27.99/yr",
+  "couponCodes": [
+    "BF26"
+  ],
+  "validity": "Nov 4 to Dec 3, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

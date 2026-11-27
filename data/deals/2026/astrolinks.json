@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Astrolinks",
+  "url": "https://astrolinks.org/black-friday/",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Track time per client and build timesheets on Mac or Windows.",
+  "offer": "60% off the first year of Pro (Yearly): $90 → $36/yr with code **BF60YEAR** (applied automatically on Pro Yearly at checkout)",
+  "couponCodes": [
+    "BF60YEAR"
+  ],
+  "validity": "Nov 26 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

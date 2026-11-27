@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Sightline",
+  "url": "https://sightlinemac.com/black-friday/",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Capture and edit images and videos of the Mac screen.",
+  "offer": "23% off lifetime Pro (US $29.99 → $22.99) with App Store offer code **SIGHTLINELIFEDISCOUNT26**. Local prices vary (€29.99 → €24.99). Redeem at https://apps.apple.com/redeem/?code=**SIGHTLINELIFEDISCOUNT26**&id=6812521593",
+  "couponCodes": [
+    "SIGHTLINELIFEDISCOUNT26"
+  ],
+  "validity": "Ends Dec 31, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

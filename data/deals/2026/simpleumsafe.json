@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "SimpleumSafe",
+  "url": "https://simpleum.com/en/safe/buy/",
+  "categories": [
+    "utilities"
+  ],
+  "description": "Store sensitive files in an encrypted vault across Apple devices.",
+  "offer": "30% off one-time purchases and the first year of annual subscriptions. One-time purchase: Mac $99.99 → $69.99; iPhone/iPad $29.99 → $20.99. US prices; local prices vary. Automatically applied in the App Store; no code needed",
+  "couponCodes": [],
+  "validity": "Nov 16 to Dec 6, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

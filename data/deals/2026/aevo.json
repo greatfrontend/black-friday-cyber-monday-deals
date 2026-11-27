@@ -1,0 +1,17 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Aevo",
+  "url": "https://aevo.so/en/pricing",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Organize tasks and notes and compare their effort and priority visually.",
+  "offer": "25% off Pro Lifetime with code **BLACKFRIDAY26LIFETIME**: €199 → €149 one-time or 30% off for 1 year with code **BLACKFRIDAY26**: €70 → €49",
+  "couponCodes": [
+    "BLACKFRIDAY26LIFETIME",
+    "BLACKFRIDAY26"
+  ],
+  "validity": "Nov 27 to Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

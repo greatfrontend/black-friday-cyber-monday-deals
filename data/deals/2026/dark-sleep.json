@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Dark Sleep",
+  "url": "https://darksleep.app/#pricing",
+  "categories": [
+    "health-and-fitness"
+  ],
+  "description": "Play calming sounds or use guided breathing and a sleep alarm.",
+  "offer": "Black Friday: Lifetime $29.99 → $19.99 (one-time purchase, no subscription) and Annual $19.99 → $9.99 for the first year (new subscribers). Applied automatically in the App Store, no code needed. US pricing; local prices vary",
+  "couponCodes": [],
+  "validity": "Nov 3 to Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

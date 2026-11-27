@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Gratly",
+  "url": "https://gratly.app/pricing",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Save and read uncluttered copies of recipes from websites.",
+  "offer": "40% off Lifetime (one-time purchase): $99 → $59, applied at checkout, no code needed",
+  "couponCodes": [],
+  "validity": "Nov 27 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

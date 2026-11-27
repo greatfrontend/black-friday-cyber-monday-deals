@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Git On The Go",
+  "url": "https://gitonthego.com/",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Work with full Git repositories, including LFS, on iPhone and iPad.",
+  "offer": "40% off, no code needed: $9.99 → $5.99 (£9.99 → £5.99)",
+  "couponCodes": [],
+  "validity": "Nov 27 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

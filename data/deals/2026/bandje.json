@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Band·je",
+  "url": "https://band.je/",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Record and transcribe calls from multiple Mac apps.",
+  "offer": "50% off Band·je Unlimited, one-time purchase for Mac, iPhone and iPad: €19.99 → €9.99. App Store price lowered, no code needed; band.je download with code **BLACKFRIDAY**",
+  "couponCodes": [
+    "BLACKFRIDAY"
+  ],
+  "validity": "Nov 27 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

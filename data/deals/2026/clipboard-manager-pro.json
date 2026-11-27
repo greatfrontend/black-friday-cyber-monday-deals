@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Clipboard Manager Pro",
+  "url": "https://clipboardman.com/",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Search past clipboard entries to reuse previously copied items.",
+  "offer": "35% off Pro Yearly ($23.99 → $15.59/year) with code **BF2026**. Free plan stays free, 30-day money-back",
+  "couponCodes": [
+    "BF2026"
+  ],
+  "validity": "Nov 27 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

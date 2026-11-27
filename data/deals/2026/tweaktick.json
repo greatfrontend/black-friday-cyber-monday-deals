@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "TweakTick",
+  "url": "https://tweaktick.com/founding?code=BFCM26",
+  "categories": [
+    "business-tools"
+  ],
+  "description": "Collect client comments and approvals on design and project deliverables.",
+  "offer": "20% off the Founding lifetime licence with code **BFCM26**, one payment: Tier 1 $59 → $47.20, Tier 2 $149 → $119.20, Tier 3 $249 → $199.20 (+ VAT/sales tax where it applies). First 100 customers only",
+  "couponCodes": [
+    "BFCM26"
+  ],
+  "validity": "Nov 12 to Dec 2, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

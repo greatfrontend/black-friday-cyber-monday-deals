@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "LidAwake Pro",
+  "url": "https://erstgebaut.de/lidawake/",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Keep a closed MacBook awake with protections for heat and battery level.",
+  "offer": "20% off (€9.99 → €7.99, one-time) with code **AWESOMEBF20**",
+  "couponCodes": [
+    "AWESOMEBF20"
+  ],
+  "validity": "Nov 16 to Dec 3, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

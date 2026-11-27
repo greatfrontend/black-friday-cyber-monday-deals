@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "SmoothCut",
+  "url": "https://smoothcut.studio/pricing",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Record demos on Mac or Windows with cursor smoothing and automatic zoom.",
+  "offer": "40% off Personal ($79 → $47.40) and Pro ($169 → $101.40) with code **BLACKFRIDAY40** (applied automatically at checkout)",
+  "couponCodes": [
+    "BLACKFRIDAY40"
+  ],
+  "validity": "Ends Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

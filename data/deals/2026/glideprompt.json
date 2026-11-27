@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "GlidePrompt",
+  "url": "https://apps.microsoft.com/detail/9P5QVX0SN0CL?cid=awesomebf",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Display a teleprompter over your other Windows apps.",
+  "offer": "20% off one-time purchase on the Microsoft Store: $9.99 → $7.99, no code needed",
+  "couponCodes": [],
+  "validity": "Ends Dec 2, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

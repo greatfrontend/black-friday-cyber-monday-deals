@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Orchard",
+  "url": "https://orchard.5km.tech/black-friday",
+  "categories": [
+    "ai-powered-tools-for-developers"
+  ],
+  "description": "Expose local Mac tasks to your AI assistant through MCP.",
+  "offer": "33% off with code **BF2026**: Pro Annual first year $24.99 → $16.74, Lifetime $39.99 → $26.79",
+  "couponCodes": [
+    "BF2026"
+  ],
+  "validity": "Nov 20 to Dec 6, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

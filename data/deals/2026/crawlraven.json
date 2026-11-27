@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "CrawlRaven",
+  "url": "https://crawlraven.com/pricing",
+  "categories": [
+    "marketing-seo"
+  ],
+  "description": "Combine site crawls, Search Console, and GA4 data for technical SEO reviews.",
+  "offer": "50% off every lifetime plan with code **CRBFCM50**: Starter $190 → $95 (1 site), Pro $390 → $195 (3 sites), Agency Lite $990 → $495 (10 sites), Agency $1,990 → $995 (20 sites). One-time payment",
+  "couponCodes": [
+    "CRBFCM50"
+  ],
+  "validity": "Nov 9 to Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "DropCue",
+  "url": "https://dropcue.app/pricing",
+  "categories": [
+    "miscellaneous"
+  ],
+  "description": "Organize music libraries, share playlists, and pitch recordings privately.",
+  "offer": "25% off your first month on any monthly plan with code **BLACKFRIDAY25**, new customers only. Artist $10 → $7.50, Pro 1K $19 → $14.25",
+  "couponCodes": [
+    "BLACKFRIDAY25"
+  ],
+  "validity": "Nov 24 to Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

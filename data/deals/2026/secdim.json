@@ -1,0 +1,17 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "SecDim",
+  "url": "https://secdim.com/pricing",
+  "categories": [
+    "courses"
+  ],
+  "description": "Practice secure coding and vulnerability remediation in interactive exercises.",
+  "offer": "35% off Professional ($239.88 → $155.92/yr) with code **APPSECONABUDGET2026**; 25% off Team ($348 → $261/user/yr) with code **APPSECTEAM2026**",
+  "couponCodes": [
+    "APPSECONABUDGET2026",
+    "APPSECTEAM2026"
+  ],
+  "validity": "Nov 20 to Dec 5, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "OkayTab",
+  "url": "https://okaytab.app/",
+  "categories": [
+    "miscellaneous"
+  ],
+  "description": "Screen browser links and shops for signs of phishing or fraud.",
+  "offer": "30% off your first period with code **BLACKFRIDAY2026**, now -. Monthly $3.59 → $2.51, 3 months $8.59 → $6.01, yearly $22.99 → $16.09",
+  "couponCodes": [
+    "BLACKFRIDAY2026"
+  ],
+  "validity": "Ends Dec 5, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

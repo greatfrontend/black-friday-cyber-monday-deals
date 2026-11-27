@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Inkfree",
+  "url": "https://inkfree.app/signature-savings-sale/",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Send documents for electronic signatures and manage approvals.",
+  "offer": "70% off the first year on annual plans or 60% off the first 3 months on monthly plans (Basic $15 → $6/seat/mo, Standard $35 → $14, Business $50 → $20). No code needed, applied automatically at checkout. Renews at the regular price. Lifetime Free plan (3 sign requests/month) is not part of the offer",
+  "couponCodes": [],
+  "validity": "Nov 16 to Dec 14, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

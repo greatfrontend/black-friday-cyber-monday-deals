@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Expandi",
+  "url": "https://expandi.io/bfcm-promo/",
+  "categories": [
+    "marketing-seo"
+  ],
+  "description": "Coordinate LinkedIn and email outreach in one campaign.",
+  "offer": "Up to 58% off for the first 12 months, no code needed (applied at checkout). Billed yearly, per LinkedIn account/mo: 1 account $79 → $53, 2 accounts $69 → $53, 3-10 $69 → $47, 11-24 $59 → $47, 25-49 $49 → $31, 50 $49 → $23. Billed monthly: 1 account $99 → $74, 2 accounts $89 → $74, 3-10 $89 → $59, 11-24 $79 → $59, 25-49 $69 → $39, 50 $69 → $29. Regular prices as listed on expandi.io/pricing. New subscriptions only",
+  "couponCodes": [],
+  "validity": "Nov 20 to Dec 4, 2026, 11:59PM CET",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

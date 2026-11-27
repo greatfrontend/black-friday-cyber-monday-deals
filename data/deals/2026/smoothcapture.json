@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "SmoothCapture",
+  "url": "https://www.smoothcapture.app/pricing",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Record polished software demos with zoom effects and device mockups.",
+  "offer": "50% off with code **BLACKFRIDAY26** (applied automatically on the pricing page): Lifetime ($149 → $74.50), Personal ($79 → $39.50), Chronoid + SmoothCapture bundle ($199 → $99.50)",
+  "couponCodes": [
+    "BLACKFRIDAY26"
+  ],
+  "validity": "Nov 3 to Dec 2, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

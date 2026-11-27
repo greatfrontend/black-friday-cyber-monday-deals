@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Argon",
+  "url": "https://argonmac.com/",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Put media controls, a clipboard, and a file tray in the MacBook notch.",
+  "offer": "27% off: €14.99 → €10.99 one-time, no code needed. 48-hour free trial, 2 Macs per license",
+  "couponCodes": [],
+  "validity": "Ends Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

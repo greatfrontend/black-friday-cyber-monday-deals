@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Carry",
+  "url": "https://carry.md/#pricing",
+  "categories": [
+    "ai-tools"
+  ],
+  "description": "Save conversations from popular AI chat services as Markdown files.",
+  "offer": "$20 off lifetime license: $79 → $59 with code **BLACKFRIDAY20**. One-time payment",
+  "couponCodes": [
+    "BLACKFRIDAY20"
+  ],
+  "validity": "-",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "IvaBoard",
+  "url": "https://ivaboard.com/lifetime/",
+  "categories": [
+    "business-tools"
+  ],
+  "description": "Publish a feedback board, roadmap, changelog, or waitlist for a product.",
+  "offer": "30% off lifetime plans with code **BF30**. Hosted Solo, one payment: Stage 1 €55 → €38.50 while Stage 1 licenses last; Stage 2 €66 → €46.20; Stage 3 €109 → €76.30. Offer",
+  "couponCodes": [
+    "BF30"
+  ],
+  "validity": "Ends Nov 30, 2026, 11:59 P.M Pacific Time",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

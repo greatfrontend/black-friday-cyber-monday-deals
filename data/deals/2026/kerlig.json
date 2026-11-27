@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Kerlig",
+  "url": "https://www.kerlig.com/",
+  "categories": [
+    "ai-tools"
+  ],
+  "description": "Draft and rewrite text or chat with AI from a Mac.",
+  "offer": "50% off, no code needed, applied at checkout: Basic (1 Mac) $49 → $25, Pro (2 Macs) $79 → $40",
+  "couponCodes": [],
+  "validity": "Ends Dec 1, 2026, Pacific time",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

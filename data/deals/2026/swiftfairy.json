@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "SwiftFairy",
+  "url": "https://tools.nilcoalescing.com/swiftfairy/",
+  "categories": [
+    "ai-powered-tools-for-developers"
+  ],
+  "description": "Spot Swift and SwiftUI issues with local static analysis built for coding agents.",
+  "offer": "30% off Weekly $34 → $23.80/wk, Monthly $80 → $56/mo, Yearly $360 → $252/yr and Lifetime $470 → $329 with code **BF2026**",
+  "couponCodes": [
+    "BF2026"
+  ],
+  "validity": "Nov 18 to Dec 2, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

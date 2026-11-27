@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "uncompressed.io",
+  "url": "https://uncompressed.io/black-friday",
+  "categories": [
+    "miscellaneous"
+  ],
+  "description": "Host films, collect client reviews, and deliver video files or sell access.",
+  "offer": "30% off all yearly plans, at every renewal for as long as you stay subscribed, no code needed: Lite $99 → $69.30, Pro $429 → $300.30, Max $1,089 → $762.30, Studio $2,409 → $1,686.30 per year. Nov 23, 12:01 am - Nov 30, 2026, 11:59 pm Eastern",
+  "couponCodes": [],
+  "validity": "Nov 23 to Nov 30, 2026, 11:59 PM Eastern",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

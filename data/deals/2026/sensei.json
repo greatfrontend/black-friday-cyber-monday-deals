@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Sensei",
+  "url": "https://cindori.com/sensei",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Monitor Mac system performance and hardware.",
+  "offer": "50% off $59 → $29.50 one-time (or $14.50 first year), free Sensei 3 upgrade (Apple silicon, macOS 26+), no code needed",
+  "couponCodes": [],
+  "validity": "Nov 24 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

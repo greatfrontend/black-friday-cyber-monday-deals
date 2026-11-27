@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "AbcTab",
+  "url": "https://solocraft.app/abctab",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Switch Mac apps by typing their first letter in English or Pinyin.",
+  "offer": "50% off Lifetime License, one-time purchase, no subscription ($9.99 → $4.99). Code **BF50**",
+  "couponCodes": [
+    "BF50"
+  ],
+  "validity": "Nov 27 to Dec 2, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Social0",
+  "url": "https://social0.app/pricing",
+  "categories": [
+    "social-media-tools"
+  ],
+  "description": "Plan content and schedule publishing across multiple social networks.",
+  "offer": "20% off for as long as you stay subscribed with code **BLACKFRIDAY**: Creator (15 accounts) $29.90 → $23.92/mo, Agency (59 accounts) $59.90 → $47.92/mo",
+  "couponCodes": [
+    "BLACKFRIDAY"
+  ],
+  "validity": "Nov 24 to Dec 7, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

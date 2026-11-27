@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Blip AI",
+  "url": "https://www.blipai.app/black-friday",
+  "categories": [
+    "ai-tools"
+  ],
+  "description": "Use AI dictation and meeting notes in the same app.",
+  "offer": "Flat 50% off all plans, on every bill (not just the first), with code **BLACKFRIDAY2026**: Pro yearly $144 → $72/year, Pro monthly $15 → $7.50/month, for as long as you stay subscribed",
+  "couponCodes": [
+    "BLACKFRIDAY2026"
+  ],
+  "validity": "Nov 23 to Dec 2, 2026, 11:59 PM PT",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Parlo",
+  "url": "https://parlohub.com/black-friday",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Dictate text and take meeting notes directly on your Mac.",
+  "offer": "26% off Lifetime: $80 → $59, one payment, no code needed. Or 50% off Monthly for the first 3 months: $8 → $4/month after the 14-day free trial. The lifetime plan retires after the sale",
+  "couponCodes": [],
+  "validity": "Nov 20 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

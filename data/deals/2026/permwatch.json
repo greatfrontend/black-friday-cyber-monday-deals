@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "PermWatch",
+  "url": "https://permwatch.com/alerts/",
+  "categories": [
+    "miscellaneous"
+  ],
+  "description": "Track dates and milestones for employment-based US immigration filings.",
+  "offer": "10% off the first year of Pro yearly: $49 → $44.10, then $49 a year. Until green card (one-time): $79 → $71.10. Applied at checkout, no code needed. Now -",
+  "couponCodes": [],
+  "validity": "Ends Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Screenshot Studio",
+  "url": "https://appstorescreenshotstudio.com/",
+  "categories": [
+    "design-tools"
+  ],
+  "description": "Create localized App Store screenshots from templates and raw captures.",
+  "offer": "Up to 50% off the first period for new subscribers: Weekly $4.99 → $2.49, Monthly $9.99 → $4.99, Yearly $54.90 → $27.99. 33% off Lifetime: $89.99 → $59.99. No code needed",
+  "couponCodes": [],
+  "validity": "Nov 4 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

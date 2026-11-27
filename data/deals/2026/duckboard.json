@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Duckboard",
+  "url": "https://www.duckboard.pro/",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Pin interactive sections of websites to desktop dashboards.",
+  "offer": "20% off Extended plan with code **BLACK2026FRIDAY**: $29.00 → $23.20 USD. One-time purchase",
+  "couponCodes": [
+    "BLACK2026FRIDAY"
+  ],
+  "validity": "Nov 5 to Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

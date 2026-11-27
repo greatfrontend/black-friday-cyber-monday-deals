@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Two Minute Reports",
+  "url": "https://twominutereports.com/promotions",
+  "categories": [
+    "marketing-seo"
+  ],
+  "description": "Create marketing reports from advertising, social, and SEO data sources.",
+  "offer": "50% off the first year of any annual plan with code **BF502026**: 3 accounts per connector $972 → $486/yr, 30 accounts $2,976 → $1,488/yr, 100 accounts $5,976 → $2,988/yr. New customers",
+  "couponCodes": [
+    "BF502026"
+  ],
+  "validity": "Nov 16 to Nov 30, 2026, 11:59 PM PT",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

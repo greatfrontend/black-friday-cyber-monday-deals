@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Zhenzhu",
+  "url": "https://zhenzhu.app/#pricing",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Look up Chinese words and save example sentences on macOS.",
+  "offer": "69% off Pro lifetime license with code **BF2026** (applied automatically via zhenzhu.app/buy): $29 → $9, one-time purchase covering 3 Macs & all future updates",
+  "couponCodes": [
+    "BF2026"
+  ],
+  "validity": "Nov 22 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

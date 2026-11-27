@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Mockvid",
+  "url": "https://mockvid.com/",
+  "categories": [
+    "design-tools"
+  ],
+  "description": "Turn your site into an animated video with 3D device mockups.",
+  "offer": "20% off Studio, first year: $49 → $39.20/yr. No code needed",
+  "couponCodes": [],
+  "validity": "Nov 23 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

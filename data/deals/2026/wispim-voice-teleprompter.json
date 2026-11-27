@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Wispim: Voice Teleprompter",
+  "url": "https://wispim.com/black-friday",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Read a script from a teleprompter that scrolls as you speak.",
+  "offer": "50% off Lifetime Pro (one-time purchase): $199.99 → $99.99, no code needed. November 27–30, 2026. Back to $199.99 on Dec 1",
+  "couponCodes": [],
+  "validity": "Nov 27 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

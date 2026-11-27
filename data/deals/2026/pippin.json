@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Pippin",
+  "url": "https://usepippin.com/pricing/",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Maintain a Mac task list based on your on-screen activity.",
+  "offer": "51% off Lifetime, no code needed: $59 → $29 USD. One-time purchase",
+  "couponCodes": [],
+  "validity": "Ends Dec 2, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

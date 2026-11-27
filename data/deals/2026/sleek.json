@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Sleek",
+  "url": "https://sleek.design/",
+  "categories": [
+    "design-tools"
+  ],
+  "description": "Generate editable mobile app screen designs from a written prompt.",
+  "offer": "48% off Pro yearly: $360 → $189. No code needed",
+  "couponCodes": [],
+  "validity": "Nov 20 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "AppScreenPro",
+  "url": "https://appscreenpro.com/",
+  "categories": [
+    "design-tools"
+  ],
+  "description": "Design App Store and Google Play listing screenshots in a browser.",
+  "offer": "30% off the lifetime license ($29 to $20.30) with code **30BF2026**",
+  "couponCodes": [
+    "30BF2026"
+  ],
+  "validity": "Nov 12 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

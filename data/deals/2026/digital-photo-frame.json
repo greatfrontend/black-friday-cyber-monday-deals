@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Digital Photo Frame",
+  "url": "https://digitalphotoframeapp.com/",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Turn an Apple device into a photo slideshow.",
+  "offer": "50% off the annual plan ($19.99 to $9.99 USD), no code needed",
+  "couponCodes": [],
+  "validity": "Nov 27 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

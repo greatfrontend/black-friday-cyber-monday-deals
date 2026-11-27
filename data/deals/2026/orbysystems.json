@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "OrbySystems",
+  "url": "https://orbysystems.ai/offers",
+  "categories": [
+    "finance-tools"
+  ],
+  "description": "Query uploaded financial statements with an AI app running locally.",
+  "offer": "75% off Plus and Premium with code **BLACKFRIDAY26**: Plus $49.95 → $12.49, Premium $249.95 → $62.49 (Premium US only). Covers 2027 and all earlier statement years. Now –",
+  "couponCodes": [
+    "BLACKFRIDAY26"
+  ],
+  "validity": "Ends Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

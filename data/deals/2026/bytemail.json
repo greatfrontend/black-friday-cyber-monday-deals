@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "bytemail",
+  "url": "https://bytemailapp.com/black-friday",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Read mail across accounts in one native Mac app.",
+  "offer": "30% off lifetime licence: $99 → $69, one payment, up to 5 devices, no code needed",
+  "couponCodes": [],
+  "validity": "Nov 17 to Dec 7, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

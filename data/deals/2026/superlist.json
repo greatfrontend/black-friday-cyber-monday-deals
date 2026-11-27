@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Superlist",
+  "url": "https://www.superlist.com/blackfriday2026",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Manage work and personal tasks alongside notes and meeting summaries.",
+  "offer": "50% off your first year on yearly plans with code **SUPERFRIDAY2026**: Basic $59 → $29.50, Super $199 → $99.50",
+  "couponCodes": [
+    "SUPERFRIDAY2026"
+  ],
+  "validity": "Nov 23 to Nov 29, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

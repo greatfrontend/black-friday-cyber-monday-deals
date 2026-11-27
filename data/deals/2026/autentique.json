@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Autentique",
+  "url": "https://www.autentique.com.br/en",
+  "categories": [
+    "business-tools"
+  ],
+  "description": "Send documents for electronic signature and track their signing status.",
+  "offer": "30% off the annual Professional plan ($179 → $119/year), no code needed. Extra 20% off with code **BFF61H8**, which stacks with the annual discount",
+  "couponCodes": [
+    "BFF61H8"
+  ],
+  "validity": "Ends Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Pangalin Space Manager",
+  "url": "https://pangalin.com/space-manager/",
+  "categories": [
+    "utilities"
+  ],
+  "description": "Free Mac disk space by moving large items to external storage.",
+  "offer": "30% off the first year with code **BLACKFRIDAY** (applied automatically from the site): $25 → $17.50 for the first year, then $25/year. 14-day full refund",
+  "couponCodes": [
+    "BLACKFRIDAY"
+  ],
+  "validity": "Nov 16 to Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

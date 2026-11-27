@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Remotr",
+  "url": "https://remotr.app/#pricing",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Access a Mac remotely from an RDP client.",
+  "offer": "30% off Personal ($9.99 → $6.99) and Pro ($29.99 → $20.99) with code **1RDUW7I6**",
+  "couponCodes": [
+    "1RDUW7I6"
+  ],
+  "validity": "Nov 10 to Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

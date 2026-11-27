@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "My2Do",
+  "url": "https://my2do.app/pricing",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Create tasks from natural-language commands in a to-do app.",
+  "offer": "30% off Pro Lifetime ($69 instead of $99), applied automatically at checkout",
+  "couponCodes": [],
+  "validity": "Nov 20 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

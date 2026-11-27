@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Diffacto",
+  "url": "https://diffacto.com/#pricing",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Compare folders and inspect differences across code, documents, images, and other files.",
+  "offer": "40% off Pro, no code needed: one-time license $149 → $89.40, yearly $96 → $57.60 for the first year",
+  "couponCodes": [],
+  "validity": "Nov 23 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

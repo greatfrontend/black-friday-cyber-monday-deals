@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "RDPyon",
+  "url": "https://rdpyon.com/",
+  "categories": [
+    "utilities"
+  ],
+  "description": "Access your Mac from the built-in Windows Remote Desktop client.",
+  "offer": "30% off ($19 → $13.30, one-time purchase) with code **BF2026RDP**",
+  "couponCodes": [
+    "BF2026RDP"
+  ],
+  "validity": "Nov 24 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

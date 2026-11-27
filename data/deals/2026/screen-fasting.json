@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Screen Fasting",
+  "url": "https://tryscreenfasting.com/mac",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Set a stricter iPhone Screen Time lock from macOS.",
+  "offer": "60% off Pro with code **BLACKCYBER60**: Annual ($45 → $18/yr). The free version stays free",
+  "couponCodes": [
+    "BLACKCYBER60"
+  ],
+  "validity": "Nov 23 to Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

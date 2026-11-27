@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Placify",
+  "url": "https://apps.apple.com/us/app/placify-map-trip-planner/id6739698007",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Save and organize places on a personal trip map for iPhone and iPad.",
+  "offer": "40% off Pro Lifetime (one-time purchase). US pricing: $49.99 → $29.99 USD; local prices vary. No code needed",
+  "couponCodes": [],
+  "validity": "Ends Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Transcrybe",
+  "url": "https://transcrybe.app/#download",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Show translated captions for meetings or presentations on your Mac.",
+  "offer": "50% off the one-time purchase, US$29.99 → US$14.99. Automatic on the Mac App Store and at direct checkout",
+  "couponCodes": [],
+  "validity": "Nov 16 to Dec 2, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

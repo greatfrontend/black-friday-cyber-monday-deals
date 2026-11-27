@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "EagleFiler",
+  "url": "https://c-command.com/store/sale/",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Organize documents, archived mail, saved web pages, and notes on a Mac.",
+  "offer": "25% off with code **BLACKFRIDAY2026** ($69.99 → $52.49)",
+  "couponCodes": [
+    "BLACKFRIDAY2026"
+  ],
+  "validity": "Nov 20 to Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

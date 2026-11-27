@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "FlowSpeak",
+  "url": "https://smolkapps.com/flowspeak/#pricing",
+  "categories": [
+    "ai-tools"
+  ],
+  "description": "Use a push-to-talk shortcut to dictate text with local speech recognition.",
+  "offer": "34% off Lifetime Pro ($29 → $19 one-time, up to 3 personal computers, no code needed)",
+  "couponCodes": [],
+  "validity": "Nov 24 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

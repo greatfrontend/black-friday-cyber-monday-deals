@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Rakazo",
+  "url": "https://rakazo.com/black-friday/",
+  "categories": [
+    "ai-tools"
+  ],
+  "description": "Configure persistent AI teammates to work across compatible tools.",
+  "offer": "30% off the first year of any new yearly plan with code **BLACKFRIDAY30** (from $12/mo to $8.40/mo)",
+  "couponCodes": [
+    "BLACKFRIDAY30"
+  ],
+  "validity": "Ends Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

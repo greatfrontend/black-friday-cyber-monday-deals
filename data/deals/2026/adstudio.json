@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Adstudio",
+  "url": "https://useadstudio.com/pricing",
+  "categories": [
+    "marketing-seo"
+  ],
+  "description": "Manage campaigns across major advertising networks from one tool.",
+  "offer": "50% off your first year on yearly plans, no code needed (e.g. Hobby $192 → $96/year, Business $384 → $192/year per workspace, until Dec 1, 2026)",
+  "couponCodes": [],
+  "validity": "Ends Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

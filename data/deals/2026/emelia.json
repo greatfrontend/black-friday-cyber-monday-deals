@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Emelia",
+  "url": "https://emelia.io/blackfriday",
+  "categories": [
+    "marketing-seo"
+  ],
+  "description": "Manage cold-email and LinkedIn campaigns and prospecting in one tool.",
+  "offer": "30% to 40% off annual plans: Start €259 instead of €370, Grow €630.50 instead of €970, Scale €1,782 instead of €2,970. Applied at checkout, no code needed",
+  "couponCodes": [],
+  "validity": "-",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Doubles",
+  "url": "https://doubles.dev/pricing",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Pair program remotely with interactive screen sharing and browser access for guests.",
+  "offer": "50% off with code **DOUBLES50**: $169 → $84.50",
+  "couponCodes": [
+    "DOUBLES50"
+  ],
+  "validity": "Nov 20 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

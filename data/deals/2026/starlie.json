@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Starlie",
+  "url": "https://starlie.app/",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Use Jira issues and sprint boards from a native macOS app.",
+  "offer": "50% off Lifetime, no code needed: $49.99 → $24.99 USD on the Mac App Store. One-time purchase",
+  "couponCodes": [],
+  "validity": "Nov 24 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

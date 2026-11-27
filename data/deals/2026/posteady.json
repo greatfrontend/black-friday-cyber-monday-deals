@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Posteady",
+  "url": "https://www.posteady.com/black-friday?promo=BF26",
+  "categories": [
+    "social-media-tools"
+  ],
+  "description": "Turn a link or idea into a draft social media post.",
+  "offer": "50% off annual plans with code **BF26**: Creator $29/mo → $14.50/mo billed yearly ($174/yr), Pro $79/mo → $39.50/mo ($474/yr), Team $149/mo → $74.50/mo ($894/yr). Annual price is kept while you stay on the annual plan. Monthly: 20% off the first 3 months for new subscribers",
+  "couponCodes": [
+    "BF26"
+  ],
+  "validity": "Nov 20 to Dec 3, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

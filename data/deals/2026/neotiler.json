@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "NeoTiler",
+  "url": "https://getneotiler.com/",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Arrange Mac windows into custom layouts using keys and gestures.",
+  "offer": "30% off Lifetime License ($6.99) with code **BF30**",
+  "couponCodes": [
+    "BF30"
+  ],
+  "validity": "Ends Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

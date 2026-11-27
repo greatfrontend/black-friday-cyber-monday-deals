@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "SurfacedBy",
+  "url": "https://surfacedby.com/pricing?promotion=holiday_2026&billing=monthly#plans",
+  "categories": [
+    "marketing-seo"
+  ],
+  "description": "Track brand recommendations across AI tools for a defined market.",
+  "offer": "50% off your first 3 months on any monthly plan, or 25% off the first year. No code needed. New customers",
+  "couponCodes": [],
+  "validity": "Ends Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

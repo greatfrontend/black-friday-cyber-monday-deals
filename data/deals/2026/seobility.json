@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Seobility",
+  "url": "https://www.seobility.net/en/lp/blackfriday26/",
+  "categories": [
+    "marketing-seo"
+  ],
+  "description": "Audit websites and monitor search and AI visibility.",
+  "offer": "60 days of Premium free, then 15% off the monthly Premium price for as long as you stay on Premium ($69.90 → $59.41/mo) with code **blackfriday26ext**",
+  "couponCodes": [
+    "blackfriday26ext"
+  ],
+  "validity": "Nov 17 to Dec 6, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

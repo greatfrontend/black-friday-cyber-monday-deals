@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "MindPal",
+  "url": "https://mindpal.io/pricing",
+  "categories": [
+    "ai-tools"
+  ],
+  "description": "Build AI agents and share repeatable multi-agent workflows with a team.",
+  "offer": "60% off your first year on any annual plan with code **BLACKFRIDAY2026**, applied at checkout. Billed yearly: Pro $39 → $16/mo, Advanced $149 → $60/mo, Ultra $374 → $150/mo",
+  "couponCodes": [
+    "BLACKFRIDAY2026"
+  ],
+  "validity": "Ends Dec 11, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

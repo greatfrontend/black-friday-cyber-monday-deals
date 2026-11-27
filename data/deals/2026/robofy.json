@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Robofy",
+  "url": "https://www.robofy.ai/black-friday",
+  "categories": [
+    "business-tools"
+  ],
+  "description": "Offer customers branded AI agents through a reseller platform.",
+  "offer": "Black Friday: Save $200 on all annual plans! White Label Accelerator: $799 → $599/year (10 client licenses). White Label Pro: $1,099 → $899/year (20 client licenses). Business plans also included, starting at $320 → $120/year. Limited to the first 100 purchases. No coupon required; discount automatically applied at checkout",
+  "couponCodes": [],
+  "validity": "Oct 19 to Dec 6, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

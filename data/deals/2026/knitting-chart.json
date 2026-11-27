@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Knitting Chart",
+  "url": "https://knittingchart.com/pricing",
+  "categories": [
+    "design-tools"
+  ],
+  "description": "Create knitting patterns and charts for lace, cables, and colorwork.",
+  "offer": "32% off Lifetime Pro: $40.12 once (was $59). No code needed",
+  "couponCodes": [],
+  "validity": "Nov 23 to Nov 30, 2026, Pacific time",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

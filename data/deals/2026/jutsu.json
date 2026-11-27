@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Jutsu",
+  "url": "https://jutsu.ai/cyberweek",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Monitor and manage cybersecurity risks for small businesses.",
+  "offer": "33% off annual plans, e.g. Startup $3,588 → $2,404/year, plus 3 months free on top. Cyber Week. The first 33 companies also get a free custom setup with our team",
+  "couponCodes": [],
+  "validity": "Nov 24 to Dec 4, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

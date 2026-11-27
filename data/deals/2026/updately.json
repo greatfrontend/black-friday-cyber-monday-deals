@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Updately",
+  "url": "https://updately.ai/pricing",
+  "categories": [
+    "marketing-seo"
+  ],
+  "description": "Use company and hiring signals to prioritize outreach prospects.",
+  "offer": "30% off the first 12 months with code **UPDATELYBF30**: Starter $39 → $27.30/mo, Growth $69 → $48.30/mo, Scale $99 → $69.30/mo. 10-day free trial",
+  "couponCodes": [
+    "UPDATELYBF30"
+  ],
+  "validity": "Ends Dec 2, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

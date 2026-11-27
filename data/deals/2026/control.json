@@ -1,0 +1,17 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Control",
+  "url": "https://cntrl.site/black-friday-2026",
+  "categories": [
+    "design-tools"
+  ],
+  "description": "Design responsive websites on a freeform canvas.",
+  "offer": "First-year annual pricing with **PRBF30** for Pro ($228 to $156) or **STBF30** for Studio ($468 to $324). Both renew at the regular price",
+  "couponCodes": [
+    "PRBF30",
+    "STBF30"
+  ],
+  "validity": "Nov 26 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

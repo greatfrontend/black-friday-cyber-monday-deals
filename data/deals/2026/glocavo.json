@@ -1,0 +1,17 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Glocavo",
+  "url": "https://gbpseotools.com/pricing",
+  "categories": [
+    "marketing-seo"
+  ],
+  "description": "Manage local search rankings and visibility across multiple businesses.",
+  "offer": "30% off your first 3 months on any monthly plan with code **BF26MONTH** (applied at checkout): Starter $21.99 → $15.39/mo, Basic $39.99 → $27.99/mo, Studio $79.99 → $55.99/mo, Agency $169.99 → $118.99/mo. Or 15% off the first year of any yearly plan with code **BF26YEAR** (Starter $219.90 → $186.91/yr)",
+  "couponCodes": [
+    "BF26MONTH",
+    "BF26YEAR"
+  ],
+  "validity": "Nov 24 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "PropShift",
+  "url": "https://propshift.com/black-friday",
+  "categories": [
+    "social-media-tools"
+  ],
+  "description": "Turn property photos and listings into short real-estate videos.",
+  "offer": "Black Friday: Starter annual $348 → $234 and Growth annual $708 → $414 for the first year, then regular annual pricing. Monthly plans are 40% off the first 3 payments (Growth $69 → $41.40/mo), then regular monthly pricing. Discount applied automatically",
+  "couponCodes": [],
+  "validity": "Ends Nov 30, 2026, 11:59 P.M ET",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

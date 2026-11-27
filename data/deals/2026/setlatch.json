@@ -1,0 +1,17 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "SetLatch",
+  "url": "https://setlatch.com/cyber-monday",
+  "categories": [
+    "business-tools"
+  ],
+  "description": "Manage privacy requests across an agency's client sites.",
+  "offer": "30% off the first year of any yearly plan: Agency (5 sites) $990 → $693 with code **CYBER-AGENCY**, Single site $290 → $203 with code **CYBER-SITE**. New customers",
+  "couponCodes": [
+    "CYBER-AGENCY",
+    "CYBER-SITE"
+  ],
+  "validity": "Nov 27 to Dec 4, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

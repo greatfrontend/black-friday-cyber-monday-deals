@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Timeless",
+  "url": "https://timeless-app.github.io/#pricing",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Show a large Windows stage timer for live events.",
+  "offer": "30% off one-time license with code **BLACKFRIDAY26**: Individual $29 → $20.30, Team (3 computers) $79 → $55.30",
+  "couponCodes": [
+    "BLACKFRIDAY26"
+  ],
+  "validity": "Nov 19 to Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

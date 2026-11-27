@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Nuelink",
+  "url": "https://offer.nuelink.com/mcp/",
+  "categories": [
+    "social-media-tools"
+  ],
+  "description": "Schedule social posts across supported platforms from a web app or AI client.",
+  "offer": "50% off yearly plans (6 months free) or 25% off your first 3 monthly payments with code **BFCM26** (Standard $288 → $144 for the first year, or $24 → $18/mo)",
+  "couponCodes": [
+    "BFCM26"
+  ],
+  "validity": "Nov 6 to Nov 30, 2026, 23:59 UTC",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

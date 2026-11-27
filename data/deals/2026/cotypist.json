@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Cotypist",
+  "url": "https://cotypist.app/blackfriday",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Get sentence completions while typing across Mac apps.",
+  "offer": "20% off the first year, no code needed: Plus $72 → $57.60, Pro $108 → $86.40. Monthly plans get 20% off the first month",
+  "couponCodes": [],
+  "validity": "Nov 26 to Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

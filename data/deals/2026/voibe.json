@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Voibe",
+  "url": "https://www.getvoibe.com/pricing/",
+  "categories": [
+    "ai-tools"
+  ],
+  "description": "Dictate text and record meetings with local processing on Mac and Windows.",
+  "offer": "25% off every plan (Dictation and Work, monthly, annual and lifetime) with code **BFCM26**. Monthly keeps 25% off every month. Dictation lifetime $199 → $149.25, Work lifetime $399 → $299.25",
+  "couponCodes": [
+    "BFCM26"
+  ],
+  "validity": "Ends Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

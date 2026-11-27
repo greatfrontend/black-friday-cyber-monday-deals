@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "SideNotes",
+  "url": "https://www.apptorium.com/sidenotes",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Keep organized notes in a sidebar that opens at the edge of your Mac.",
+  "offer": "35% off one-time purchase: $19.99 → $12.99",
+  "couponCodes": [],
+  "validity": "Nov 20 to Dec 6, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

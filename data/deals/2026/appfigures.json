@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Appfigures",
+  "url": "https://appfigures.com/platform/pricing",
+  "categories": [
+    "marketing-seo"
+  ],
+  "description": "Track App Store and Google Play rankings, keywords, and competitors.",
+  "offer": "50% off monthly or annual plans for 12 months with code **BF2650**: Monitor $44.99 → $22.49/mo (annual $35.99 → $17.99/mo), Boost 5 $399.99 → $199.99/mo (annual $349.99 → $174.99/mo); up to $200/mo off; upgrade required for existing members",
+  "couponCodes": [
+    "BF2650"
+  ],
+  "validity": "Nov 23 to Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

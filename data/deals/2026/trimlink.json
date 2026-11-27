@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "TrimLink",
+  "url": "https://trimlink.co/pricing",
+  "categories": [
+    "marketing-seo"
+  ],
+  "description": "Create branded short links and QR codes with privacy controls.",
+  "offer": "50% off the first year of Pro or Growth billed yearly: Pro $120 → $60/year, Growth $390 → $195/year. Applied at checkout, no code needed",
+  "couponCodes": [],
+  "validity": "Nov 27 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

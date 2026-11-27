@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "DuePal",
+  "url": "https://elevenapril.com/duepal",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Set task alarms and see countdowns in iPhone and Apple Watch widgets.",
+  "offer": "30% off Lifetime Premium with code **BLACKFRIDAY** : US pricing $29.99 → $20.99 USD (one-time purchase, no subscription)",
+  "couponCodes": [
+    "BLACKFRIDAY"
+  ],
+  "validity": "Nov 16 to Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Leave Me Alone",
+  "url": "https://leavemealone.com/pricing/",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Unsubscribe from unwanted mail and block repeat senders.",
+  "offer": "83% off the Unlimited plan ($30/mo → $4.92/mo, billed $59/year): every feature, every inbox you own, same price when you renew. No code, the discount is applied on the pricing page",
+  "couponCodes": [],
+  "validity": "Nov 16 to Dec 8, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

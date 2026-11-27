@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Mailflare",
+  "url": "https://mailflare.co/macos#black-friday",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Host your own email, calendar, booking, and file workspace on Cloudflare or Docker.",
+  "offer": "40% off Pro and Team licenses with code **TONYBF2026**. Pro $29 → $17.40, Team $249 → $149.40",
+  "couponCodes": [
+    "TONYBF2026"
+  ],
+  "validity": "Nov 20 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

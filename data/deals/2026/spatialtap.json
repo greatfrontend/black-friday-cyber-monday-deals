@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "SpatialTap",
+  "url": "https://spatialtap.com",
+  "categories": [
+    "utilities"
+  ],
+  "description": "Use spatial audio and head tracking in compatible Mac apps.",
+  "offer": "30% off $9.99 → $6.99 one-time for 3 Macs with code **BLACKFRIDAY26**. 7-day free trial, no account",
+  "couponCodes": [
+    "BLACKFRIDAY26"
+  ],
+  "validity": "Nov 27 to Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

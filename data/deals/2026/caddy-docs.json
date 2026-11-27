@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Caddy Docs",
+  "url": "https://apps.apple.com/us/app/caddy-docs/id6802867430",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Keep project documents and notes in tabs at the edge of your Mac screen.",
+  "offer": "38% off the one-time purchase: $21 → $12.99 USD on the Mac App Store, no code needed",
+  "couponCodes": [],
+  "validity": "Nov 25 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

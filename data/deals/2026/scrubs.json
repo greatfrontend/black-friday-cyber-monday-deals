@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Scrubs",
+  "url": "https://getscrubs.app/black-friday",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Visualize where space is being used across a Mac drive.",
+  "offer": "10% off ($9.99 → $8.99) for a license for 3 Macs, with code **BLACKFRIDAY26**",
+  "couponCodes": [
+    "BLACKFRIDAY26"
+  ],
+  "validity": "Nov 27 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

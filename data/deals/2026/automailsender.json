@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "AutoMailSender",
+  "url": "https://automailsender.app/black-friday.html",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Send files as email attachments by dragging them onto a Mac app.",
+  "offer": "40% off Unlimited (€9.99 → €5.99, one-time purchase), no code needed: the price drops in the Mac App Store",
+  "couponCodes": [],
+  "validity": "Nov 27 to Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

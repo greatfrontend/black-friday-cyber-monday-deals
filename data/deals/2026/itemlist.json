@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Itemlist",
+  "url": "https://www.getitemlist.app/black-friday/",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Catalog belongings by room, location, and container on iPhone or iPad.",
+  "offer": "50% off lifetime PRO: $59.99 → $29.99. No code needed",
+  "couponCodes": [],
+  "validity": "Nov 18 to Dec 4, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

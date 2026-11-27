@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Ticketdesk AI",
+  "url": "https://ticketdesk.ai/",
+  "categories": [
+    "business-tools"
+  ],
+  "description": "Handle customer email, chat, and support tickets with AI assistance.",
+  "offer": "30% off with code **BF2026**: Basic $29 → $20.3, Pro $79 → $55.3, Business $249 → $174.3",
+  "couponCodes": [
+    "BF2026"
+  ],
+  "validity": "Ends Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

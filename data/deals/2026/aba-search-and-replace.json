@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Aba Search and Replace",
+  "url": "https://www.abareplace.com",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Find and replace text across files and run common developer text conversions.",
+  "offer": "50% off lifetime deal ($30 → $15) with code **Sale2026**",
+  "couponCodes": [
+    "Sale2026"
+  ],
+  "validity": "Ends Dec 31, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

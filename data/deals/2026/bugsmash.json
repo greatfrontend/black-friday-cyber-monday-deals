@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "BugSmash",
+  "url": "https://bugsmash.io/pricing",
+  "categories": [
+    "business-tools"
+  ],
+  "description": "Collect design reviews and approvals with comments pinned to the work.",
+  "offer": "50% off the first year on all yearly plans with code **BLACKFRIDAY50**: Starter $228 → $114, Team $588 → $294, Agency $1,188 → $594",
+  "couponCodes": [
+    "BLACKFRIDAY50"
+  ],
+  "validity": "Nov 25 to Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Deface: Blur Faces in Video",
+  "url": "https://apps.apple.com/us/app/deface-blur-faces-in-video/id6767766955",
+  "categories": [
+    "utilities"
+  ],
+  "description": "Detect and blur faces in photos and videos using an iPhone or iPad.",
+  "offer": "40% off Pro Lifetime: $24.99 → $14.99 one-time in-app purchase, no code needed, the sale price shows on the upgrade screen in the app. Local prices vary",
+  "couponCodes": [],
+  "validity": "Nov 20 to Dec 2, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

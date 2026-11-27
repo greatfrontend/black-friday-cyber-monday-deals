@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "DevUtils",
+  "url": "https://devutils.com",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "An offline macOS toolbox for common software development tasks.",
+  "offer": "60% off with code **BLACKFRIDAY2026**",
+  "couponCodes": [
+    "BLACKFRIDAY2026"
+  ],
+  "validity": "-",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

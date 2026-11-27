@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Wallper",
+  "url": "https://www.wallper.app/pricing",
+  "categories": [
+    "design-tools"
+  ],
+  "description": "Set moving high-resolution wallpaper on a Mac desktop and Lock Screen.",
+  "offer": "50% off the one-time license: Pro (3 Macs) $14.99 → $7.49, Pro+ (5 Macs) $24.99 → $12.49. No code needed, applied at checkout. 7-day free trial",
+  "couponCodes": [],
+  "validity": "Nov 23 to Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

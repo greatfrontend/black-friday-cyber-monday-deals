@@ -1,0 +1,17 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Sip",
+  "url": "https://sipapp.io/blackfriday/",
+  "categories": [
+    "design-tools"
+  ],
+  "description": "Sample and organize color palettes across Mac design workflows.",
+  "offer": "50% off with code **BLACKFRIDAY26** on [Black Friday](https://sipapp.io/blackfriday/) Nov 27–29, and **CYBERMONDAY26** on [Cyber Monday](https://sipapp.io/cybermonday/) Nov 30–Dec 2, 2026",
+  "couponCodes": [
+    "BLACKFRIDAY26",
+    "CYBERMONDAY26"
+  ],
+  "validity": "Nov 27 to Dec 2, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

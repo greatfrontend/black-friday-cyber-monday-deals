@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Thastock",
+  "url": "https://thastock.com/black-friday",
+  "categories": [
+    "finance-tools"
+  ],
+  "description": "Compare AI-generated arguments for and against a US stock.",
+  "offer": "$5/month for life on Pro instead of $9 (44% off), no code needed. The $5 price stays for as long as you stay subscribed, ends at midnight New York time",
+  "couponCodes": [],
+  "validity": "Nov 26 to Nov 30, 2026, midnight",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

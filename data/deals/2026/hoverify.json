@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Hoverify",
+  "url": "https://tryhoverify.com/pricing",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Inspect site styles, test layouts, and capture pages from a browser extension.",
+  "offer": "30% off all plans, applied automatically at checkout, no code needed: Yearly $35 → $24.50, Lifetime $99 → $69.30",
+  "couponCodes": [],
+  "validity": "Starts Nov 20, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

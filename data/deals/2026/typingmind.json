@@ -6,8 +6,10 @@
     "ai-powered-tools-for-developers"
   ],
   "description": "Chat interface for ChatGPT, Claude, Gemini and other models using your own API keys.",
-  "offer": "60% off Premium",
-  "couponCodes": [],
+  "offer": "60% off the Premium lifetime license ($198 to $79.20) with code **BLACKFRIDAY2026**",
+  "couponCodes": [
+    "BLACKFRIDAY2026"
+  ],
   "validity": "Ends Nov 30",
   "latest": true,
   "addedAt": "2026-11-26T12:25:03+05:30"

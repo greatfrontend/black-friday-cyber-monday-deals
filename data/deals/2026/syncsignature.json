@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "SyncSignature",
+  "url": "https://syncsignature.com/",
+  "categories": [
+    "marketing-seo"
+  ],
+  "description": "Manage email signatures centrally for Google Workspace and Microsoft 365.",
+  "offer": "50% off Teams plan: 2 years for the price of 1 ($360 → $180 for 24 months, up to 5 users). No code needed",
+  "couponCodes": [],
+  "validity": "Nov 10 to Dec 4, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

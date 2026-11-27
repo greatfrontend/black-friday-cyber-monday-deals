@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Orwellix",
+  "url": "https://orwellix.com/lifetime-deal",
+  "categories": [
+    "ai-tools"
+  ],
+  "description": "Use an AI editor to suggest and apply changes to a whole document in the browser.",
+  "offer": "Black Friday Lifetime plan: $468/year (Premium) $249 one-time, with more AI credits, grammar characters and plagiarism words than Premium every month. No code needed. Only 300 deals",
+  "couponCodes": [],
+  "validity": "Ends Dec 31, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

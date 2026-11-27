@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Invoice Factory",
+  "url": "https://apps.apple.com/us/app/id6744819252",
+  "categories": [
+    "finance-tools"
+  ],
+  "description": "Create invoices and track business income and expenses as a freelancer.",
+  "offer": "50% off the first year of the Premium annual plan. $179.99 → $89.99 US pricing; local prices vary. No code needed",
+  "couponCodes": [],
+  "validity": "Nov 5 to Dec 6, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

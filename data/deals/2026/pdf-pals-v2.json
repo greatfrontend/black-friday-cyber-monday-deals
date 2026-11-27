@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "PDF Pals v2",
+  "url": "https://pdfpals.com/buy",
+  "categories": [
+    "ai-tools"
+  ],
+  "description": "Ask questions about local documents using AI models on your Mac.",
+  "offer": "Lifetime $249 → $149 (4 Macs, every update), no code needed. 20% off Basic ($59 → $47.20) and Plus ($99 → $79.20) with code **BF20**",
+  "couponCodes": [
+    "BF20"
+  ],
+  "validity": "Ends Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

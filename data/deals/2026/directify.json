@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Directify",
+  "url": "https://directify.app/founders",
+  "categories": [
+    "business-tools"
+  ],
+  "description": "Build and publish searchable directories without code.",
+  "offer": "56% off: 2 years of the Growth plan for $599 ($1,368), no code needed. Includes 5 websites and a price-locked renewal, limited to 20 passes",
+  "couponCodes": [],
+  "validity": "Nov 24 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

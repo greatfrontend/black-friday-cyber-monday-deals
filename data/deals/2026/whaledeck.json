@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "WhaleDeck",
+  "url": "https://apps.apple.com/us/app/docker-manager-gui-whaledeck/id1581548562",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Manage Docker hosts and containers from Apple devices.",
+  "offer": "WhaleDeck Lifetime for $35 (regularly about $57)",
+  "couponCodes": [],
+  "validity": "Nov 27 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

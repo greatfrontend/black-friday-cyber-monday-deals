@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Reelloft",
+  "url": "https://reelloft.com",
+  "categories": [
+    "utilities"
+  ],
+  "description": "Browse local videos and cast them to another screen over your network.",
+  "offer": "40% off Lifetime license ($15 → $9, one-time purchase) with code **REELLOFTBF**",
+  "couponCodes": [
+    "REELLOFTBF"
+  ],
+  "validity": "Nov 24 to Dec 2, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

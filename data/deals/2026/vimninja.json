@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "VimNinja",
+  "url": "https://www.vimninja.com/upgrade",
+  "categories": [
+    "courses"
+  ],
+  "description": "Practice Vim motions and editing commands interactively in a browser.",
+  "offer": "34% off lifetime Pro: $29 → $19, one payment, no code needed (applied automatically)",
+  "couponCodes": [],
+  "validity": "Nov 25 to Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

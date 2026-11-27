@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "BatchSet",
+  "url": "https://batchset.com/pricing",
+  "categories": [
+    "utilities"
+  ],
+  "description": "Process batches of images and PDFs in a browser.",
+  "offer": "50% off Seller plan for 3 months with code **BFCM26** ($9 → $4.50/mo, Nov 26 - Dec 2, 2026)",
+  "couponCodes": [
+    "BFCM26"
+  ],
+  "validity": "Nov 26 to Dec 2, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

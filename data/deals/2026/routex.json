@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "RouteX",
+  "url": "https://apps.apple.com/app/id6753095851",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Record outdoor routes and check the timing of golden hour.",
+  "offer": "33% off Lifetime ($14.99 → $9.99 USD). No code needed, applied in the app",
+  "couponCodes": [],
+  "validity": "Nov 26 to Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

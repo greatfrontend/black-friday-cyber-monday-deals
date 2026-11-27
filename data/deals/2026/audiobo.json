@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "AudioBo",
+  "url": "https://apps.apple.com/us/app/audiobo-m4b-audiobook-maker/id6754019673",
+  "categories": [
+    "utilities"
+  ],
+  "description": "Package audio files as M4B audiobooks with chapters and metadata.",
+  "offer": "50% off the app, a one-time purchase: $9.99 → $4.99, no code needed (Mac App Store price)",
+  "couponCodes": [],
+  "validity": "Nov 26 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

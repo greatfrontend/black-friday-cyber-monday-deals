@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Habit Pixel",
+  "url": "https://habitpixel.com",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Track habits offline and visualize your check-ins as a grid of pixels.",
+  "offer": "33% off Lifetime (one-time purchase). US pricing: $29.99 → $19.99 USD; local prices vary. Discount applied automatically in the app, no code needed",
+  "couponCodes": [],
+  "validity": "Nov 19 to Dec 2, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

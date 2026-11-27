@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "BaroqTech",
+  "url": "https://baroqtech.com/black-friday",
+  "categories": [
+    "finance-tools"
+  ],
+  "description": "Review MetaTrader 5 strategies and their results after trading costs.",
+  "offer": "Black plan, first year €599 instead of €1,249 (€1.64 a day, billed for year one). 7 days free · 14-day refund. No code needed, 23:59 Zurich. Renews at €3.42 a day (€1,249/yr)",
+  "couponCodes": [],
+  "validity": "Ends Nov 30, 2026, 23:59",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

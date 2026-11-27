@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Rearview",
+  "url": "https://rearview.page/pricing/",
+  "categories": [
+    "finance-tools"
+  ],
+  "description": "Evaluate trading rules against historical data for multiple asset types on a Mac.",
+  "offer": "$199 instead of the $349 list price with code **BLACKFRIDAY**: a one-time licence with a year of updates, no subscription. 30-day free trial, no card",
+  "couponCodes": [
+    "BLACKFRIDAY"
+  ],
+  "validity": "Nov 20 to Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

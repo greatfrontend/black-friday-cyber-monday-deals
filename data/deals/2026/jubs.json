@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Jubs",
+  "url": "https://www.tryjubs.com/black-friday",
+  "categories": [
+    "miscellaneous"
+  ],
+  "description": "Use animated holiday widgets on an iPhone or iPad.",
+  "offer": "Black Friday: US$2.99 → US$1.99 for Jubs Premium (save US$1, about 33%). One-time purchase, no subscription; all Premium scenes, including future additions to this collection. Applied automatically in the app, no code needed. US pricing; local prices and sale timing vary",
+  "couponCodes": [],
+  "validity": "Nov 27 to Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Loudwell",
+  "url": "https://loudwell.app/black-friday/?s=bf-awe",
+  "categories": [
+    "social-media-tools"
+  ],
+  "description": "Use local media to build a week of posts on an Apple silicon Mac.",
+  "offer": "40% off your first year with code **BF40**: Solo £49.99 → £29.99/year or £4.99 → £2.99/mo, Studio £99.99 → £59.99/year or £9.99 → £5.99/mo, for the first 12 months",
+  "couponCodes": [
+    "BF40"
+  ],
+  "validity": "Nov 27 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

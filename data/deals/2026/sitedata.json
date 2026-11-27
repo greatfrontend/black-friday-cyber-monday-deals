@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "SiteData",
+  "url": "https://sitedata.dev/black-friday",
+  "categories": [
+    "marketing-seo"
+  ],
+  "description": "Research traffic, search terms, and ad activity across websites.",
+  "offer": "50% off annual plans, 30% off monthly plans · discounted renewals while subscribed · auto-applied at Stripe checkout, no code needed. Starter: US$99 → US$49.50/year or US$29 → US$20.30/month. Nov 24–30, 2026 (ends Nov 30 at 16:00 UTC)",
+  "couponCodes": [],
+  "validity": "Nov 24 to Nov 30, 2026, 16:00 UTC",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

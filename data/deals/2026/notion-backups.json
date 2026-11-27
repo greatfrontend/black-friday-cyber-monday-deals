@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Notion Backups",
+  "url": "https://notionbackups.com",
+  "categories": [
+    "utilities"
+  ],
+  "description": "Back up and restore Notion data or synchronize it with Google Sheets.",
+  "offer": "26% off annual plans. Use code **BLACKFRIDAY2026** at checkout",
+  "couponCodes": [
+    "BLACKFRIDAY2026"
+  ],
+  "validity": "Ends Dec 8, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "pline.ai",
+  "url": "https://www.pline.ai/pricing",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Extract structured web content through an API.",
+  "offer": "30% off first 3 months (monthly $14=> $9.80) or first year (yearly $144=>100.80) no code required·, new & existing users",
+  "couponCodes": [],
+  "validity": "Nov 25 to Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

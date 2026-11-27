@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Shot Video",
+  "url": "https://shot.video/black-friday",
+  "categories": [
+    "ai-tools"
+  ],
+  "description": "Use a computer and phones as cameras in a video production setup.",
+  "offer": "80% off the first year on annual billing, no code needed: Creator $190 → $39, Pro $390 → $79, Studio $790 → $159. New paying customers only, first 100 buyers. Nov 20 - Dec 1, 2026 (UK time)",
+  "couponCodes": [],
+  "validity": "Nov 20 to Dec 1, 2026, UK",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

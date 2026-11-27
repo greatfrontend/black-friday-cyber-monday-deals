@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Pimosa",
+  "url": "https://pimosa.app",
+  "categories": [
+    "utilities"
+  ],
+  "description": "Convert and edit media, GIFs, or PDFs with desktop tools that work offline.",
+  "offer": "40% off one-time licenses, automatically applied at checkout with code **BLACKFRIDAY40**: Personal $29 → $17.40, Plus $49 → $29.40",
+  "couponCodes": [
+    "BLACKFRIDAY40"
+  ],
+  "validity": "Ends Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

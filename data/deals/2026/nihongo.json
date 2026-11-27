@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Nihongo",
+  "url": "https://nihongo-app.com/",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Look up Japanese words with a camera and turn lookups into flashcards.",
+  "offer": "50% off Nihongo Pro lifetime, US$179.99 → US$89.99. Applied automatically in the app",
+  "couponCodes": [],
+  "validity": "Nov 16 to Dec 2, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "RightBlogger",
+  "url": "https://rightblogger.com/pricing?offer=bf2026",
+  "categories": [
+    "marketing-seo"
+  ],
+  "description": "Draft and publish blog posts using AI trained on your writing style.",
+  "offer": "50% off every annual plan, kept on every renewal, no code needed: Solo $588 → $294/yr, Pro $828 → $414/yr, Agency $2,388 → $1,194/yr",
+  "couponCodes": [],
+  "validity": "Ends Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

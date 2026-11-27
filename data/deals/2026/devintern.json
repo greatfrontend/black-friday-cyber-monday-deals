@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "DevIntern",
+  "url": "https://devintern.com/pricing/",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Run your coding agent on tracker tickets and turn proposed changes into pull requests.",
+  "offer": "40% off the first invoice with code **BLACKFRIDAY26**. Team $99 → $59.40 first month or $990 → $594 first year; Business $299 → $179.40 first month or $2,990 → $1,794 first year; Supporter License $99 → $59.40",
+  "couponCodes": [
+    "BLACKFRIDAY26"
+  ],
+  "validity": "Nov 20 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

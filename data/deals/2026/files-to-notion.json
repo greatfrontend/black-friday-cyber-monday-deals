@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Files to Notion",
+  "url": "https://www.files2notion.com/",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Turn local files into searchable Notion database entries with links back to the originals.",
+  "offer": "20% off Extended plan with code **BLACK2026FRIDAY**: $39.00 → $31.20 USD. One-time purchase",
+  "couponCodes": [
+    "BLACK2026FRIDAY"
+  ],
+  "validity": "Nov 5 to Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

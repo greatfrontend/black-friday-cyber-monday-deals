@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "JitSuites",
+  "url": "https://jitsuites.com/pricing/",
+  "categories": [
+    "marketing-seo"
+  ],
+  "description": "Build marketing funnels, landing pages, and related small-business campaigns.",
+  "offer": "50% off any monthly plan for 12 months with code **BLACKFRIDAY50**: Starter $29 → $14.50/mo, Standard $59 → $29.50/mo, Professional $99 → $49.50/mo, Enterprise $199 → $99.50/mo",
+  "couponCodes": [
+    "BLACKFRIDAY50"
+  ],
+  "validity": "Ends Dec 2, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

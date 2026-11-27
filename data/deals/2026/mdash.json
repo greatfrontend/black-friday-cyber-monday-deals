@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "MDash",
+  "url": "https://apps.apple.com/app/apple-store/id6792581826",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Export Markdown as print-ready PDFs on a Mac.",
+  "offer": "50% off the one-time unlock: $39.99 → $19.99, no code needed",
+  "couponCodes": [],
+  "validity": "Nov 25 to Dec 7, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

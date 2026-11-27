@@ -1,0 +1,17 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "FluidCast: Podcast Player",
+  "url": "https://fluidcastapp.com/event",
+  "categories": [
+    "miscellaneous"
+  ],
+  "description": "Follow podcasts with synchronized playback and audio controls across devices.",
+  "offer": "50% off the first year of Annual and 50% off Lifetime (regular £89.99 → £44.99, one-time). Annual: automatic on iOS/Android, code **BLACKFRIDAY2026** on Windows/Linux. Lifetime: code **BLACKFRIDAY2026LT** on iOS, automatic on Android, code **BLACKFRIDAY2026** on Windows/Linux. Black Friday 2026",
+  "couponCodes": [
+    "BLACKFRIDAY2026",
+    "BLACKFRIDAY2026LT"
+  ],
+  "validity": "Ends Nov 30, 2026, 23:59 UK",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

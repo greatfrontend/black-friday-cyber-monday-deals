@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "QRGenie",
+  "url": "https://qrgenie.app/black-friday",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Generate QR codes on Apple devices and export them in image or vector formats.",
+  "offer": "50% off lifetime: $19.99 → $9.99. No code needed",
+  "couponCodes": [],
+  "validity": "Nov 18 to Dec 4, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

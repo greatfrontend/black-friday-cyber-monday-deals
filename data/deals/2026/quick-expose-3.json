@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Quick Exposé 3",
+  "url": "https://noteifyapp.com/quick-expose/",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "See windows and workspaces together in an overview for macOS.",
+  "offer": "30% off with code **MACPLUSBLACKFRIDAY26**: $39.99 → $27.99",
+  "couponCodes": [
+    "MACPLUSBLACKFRIDAY26"
+  ],
+  "validity": "Nov 1 to Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

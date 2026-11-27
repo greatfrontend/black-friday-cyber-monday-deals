@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Clappia",
+  "url": "https://www.clappia.com/black-friday-offer",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Build internal tools and process automations on a no-code platform.",
+  "offer": "50% off all annual plans with code **BLACKFRD** for new customers",
+  "couponCodes": [
+    "BLACKFRD"
+  ],
+  "validity": "Nov 1 to Dec 31, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

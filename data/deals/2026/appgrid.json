@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "AppGrid",
+  "url": "https://appgridmac.com/pricing/",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Group applications and browse them in a customizable Mac launcher.",
+  "offer": "50% off lifetime Direct Pro for up to five Macs ($25 → $12.50 USD before tax). Code **BF2026** is applied at checkout",
+  "couponCodes": [
+    "BF2026"
+  ],
+  "validity": "Nov 20 to Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

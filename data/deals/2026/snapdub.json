@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "SnapDub",
+  "url": "https://snapdub.ai/",
+  "categories": [
+    "social-media-tools"
+  ],
+  "description": "Extract captioned vertical clips from long videos and livestreams.",
+  "offer": "20% off your first month on any plan with code **BLACKFRIDAY20**, now -",
+  "couponCodes": [
+    "BLACKFRIDAY20"
+  ],
+  "validity": "Ends Dec 4, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

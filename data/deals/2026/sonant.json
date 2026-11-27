@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Sonant",
+  "url": "https://sonant.soluneal.com/",
+  "categories": [
+    "utilities"
+  ],
+  "description": "Show playback controls and synced lyrics in the Mac menu bar.",
+  "offer": "€5 off: €14.99 → €9.99 one-time with code **BLACKFRIDAY**. Apple Silicon, macOS 14.2+",
+  "couponCodes": [
+    "BLACKFRIDAY"
+  ],
+  "validity": "Ends Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Paperkeep",
+  "url": "https://paperkeep.be/pro.html",
+  "categories": [
+    "finance-tools"
+  ],
+  "description": "Download and name software invoices through a browser extension.",
+  "offer": "30% off the first year of Pro with code **PAPERKEEP30**: €39 → €27.30/year (VAT included). New subscribers, enter the code on the payment page",
+  "couponCodes": [
+    "PAPERKEEP30"
+  ],
+  "validity": "Nov 24 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

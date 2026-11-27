@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Swept: Photo & Video Cleaner",
+  "url": "https://apps.apple.com/app/id6786665535",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Sort iPhone photos and videos by swiping to keep or remove them.",
+  "offer": "40% off Swept Pro (one-time in-app purchase). US pricing: $4.99 → $2.99 USD. No code needed",
+  "couponCodes": [],
+  "validity": "Nov 24 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

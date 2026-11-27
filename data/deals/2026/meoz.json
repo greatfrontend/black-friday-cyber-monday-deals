@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Meoz",
+  "url": "https://meoz.ai/black-friday",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Get a prompt when you drift from your intended task on a Mac.",
+  "offer": "50% off with code **BLACKFRIDAY2026** (applied automatically at checkout from the deal page): Annual ($40 → $20 for the first year), Monthly ($5 → $2.50 for the first month)",
+  "couponCodes": [
+    "BLACKFRIDAY2026"
+  ],
+  "validity": "Nov 27 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

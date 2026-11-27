@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Remote Control - Droid edition",
+  "url": "https://rcloudsystems.com/live/remote-control-2/",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Control Android TV and streaming devices from Windows.",
+  "offer": "5 devices $5/year (regular price $15/year) (COUPON CODE: **RCSBF2026**) 66.7% off",
+  "couponCodes": [
+    "RCSBF2026"
+  ],
+  "validity": "Nov 26 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

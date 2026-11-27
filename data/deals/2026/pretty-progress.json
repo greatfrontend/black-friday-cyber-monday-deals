@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Pretty Progress",
+  "url": "https://prettyprogress.app/download",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Put countdowns and progress widgets for deadlines on your Apple devices.",
+  "offer": "50% off Lifetime: 59.99 USD → 29.99 USD. Discount available directly in the app. No code needed",
+  "couponCodes": [],
+  "validity": "Nov 20 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

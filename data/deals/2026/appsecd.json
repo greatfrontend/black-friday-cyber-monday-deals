@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "AppSecD",
+  "url": "https://dedsecops.com/pricing?src=bfcm2026",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Check application code and dependencies for security risks from one platform.",
+  "offer": "30% off all AppSecD paid plans, now through Dec 31, 2026 (auto-applied at checkout): Starter $20 → $14/mo, Team $50 → $35/mo, Premium $200 → $140/mo, Scale $500 → $350/mo. Plus a free 14-day evaluation (1 DAST + 1 SAST scan, company email, no card)",
+  "couponCodes": [],
+  "validity": "Ends Dec 31, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

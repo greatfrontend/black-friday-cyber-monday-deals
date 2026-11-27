@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Mushroom",
+  "url": "https://www.getmushroom.app",
+  "categories": [
+    "health-and-fitness"
+  ],
+  "description": "Get movement, hydration, and eye-break reminders while using a computer.",
+  "offer": "30% off with code **BLACKFRIDAY30**: one-time $9.99 → $6.99 for 5 Macs and Windows PCs. 7-day free trial first",
+  "couponCodes": [
+    "BLACKFRIDAY30"
+  ],
+  "validity": "Nov 27 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "palmscreen",
+  "url": "https://www.palmscreen.app/black-friday/",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Capture, annotate, and edit Mac screenshots and recordings.",
+  "offer": "$19 instead of $29 with code **BLACKWEEK** (active Nov 23 - Nov 30, 2026)",
+  "couponCodes": [
+    "BLACKWEEK"
+  ],
+  "validity": "Nov 23 to Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

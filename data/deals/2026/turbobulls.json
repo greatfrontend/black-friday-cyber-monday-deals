@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Turbobulls",
+  "url": "https://www.turbobulls.com/pricing",
+  "categories": [
+    "finance-tools"
+  ],
+  "description": "Follow investment holdings and budgets in an encrypted workspace.",
+  "offer": "40% off the first year of a new yearly subscription with code **BLACKFRIDAY2026**: Turbo Pro yearly €79.90 → €47.94",
+  "couponCodes": [
+    "BLACKFRIDAY2026"
+  ],
+  "validity": "Nov 23 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

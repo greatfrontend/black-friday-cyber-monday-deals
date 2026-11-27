@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Unduped",
+  "url": "https://apps.apple.com/app/apple-store/id6819014192",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Find duplicate files on a Mac and its attached drives.",
+  "offer": "50% off ($14.99 → $7.49) on the one-time Unlock in-app purchase, applied automatically in the App Store",
+  "couponCodes": [],
+  "validity": "Nov 24 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

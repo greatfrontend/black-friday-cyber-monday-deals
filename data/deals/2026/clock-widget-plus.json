@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Clock Widget+",
+  "url": "https://apps.apple.com/us/app/clock-widget/id6664064747",
+  "categories": [
+    "miscellaneous"
+  ],
+  "description": "Put customizable world clock faces on a phone or tablet.",
+  "offer": "50% off Lifetime (one-time purchase) on the App Store and Google Play. US pricing: $19.99 → $9.99 USD; local prices vary. Applied automatically, no code needed",
+  "couponCodes": [],
+  "validity": "Nov 27 to Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Sidekick",
+  "url": "https://heysidekick.app/black-friday/",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Use Google Tasks from compatible AI apps or a floating task list.",
+  "offer": "33% off Premium, paid once: $9 → $6 with code **BLACKFRIDAY**",
+  "couponCodes": [
+    "BLACKFRIDAY"
+  ],
+  "validity": "Nov 26 to Dec 4, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

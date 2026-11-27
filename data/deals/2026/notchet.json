@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Notchet",
+  "url": "https://aqibjaved.dev/apps/notchet/",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Open searchable clipboard history from a MacBook notch.",
+  "offer": "50% off Lifetime ($9.99 → $4.99) with code **NOTCHET50**",
+  "couponCodes": [
+    "NOTCHET50"
+  ],
+  "validity": "Ends Dec 2, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

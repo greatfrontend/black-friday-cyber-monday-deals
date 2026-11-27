@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "License Store",
+  "url": "https://www.apptorium.com/license-store/black-friday",
+  "categories": [
+    "utilities"
+  ],
+  "description": "Keep software license keys, receipts, and downloads in a searchable Mac library.",
+  "offer": "50% off: $7.99 → $3.99 one-time purchase, no subscription. Includes updates for the current major version. No code needed",
+  "couponCodes": [],
+  "validity": "Nov 13 to Dec 6, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

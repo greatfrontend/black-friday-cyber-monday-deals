@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "True Cinema Captions",
+  "url": "https://www.truecinemaentertainment.com/captions",
+  "categories": [
+    "social-media-tools"
+  ],
+  "description": "Generate animated video captions on a Mac and edit them word by word.",
+  "offer": "$10 off the one-time license ($39 → $29), no code needed",
+  "couponCodes": [],
+  "validity": "Nov 25 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

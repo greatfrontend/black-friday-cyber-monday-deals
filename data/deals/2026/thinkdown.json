@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Thinkdown",
+  "url": "https://thinkdown.app",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Keep a voice journal across Apple devices and the web.",
+  "offer": "33% off the first year of Pro Yearly: $59.99 → $39.99 USD, no code needed (App Store). New subscribers",
+  "couponCodes": [],
+  "validity": "Ends Dec 31, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

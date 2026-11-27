@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Kindclerk",
+  "url": "https://kindclerk.com/#pricing",
+  "categories": [
+    "ai-tools"
+  ],
+  "description": "Use an AI assistant to handle routine questions and sales interactions for a shop.",
+  "offer": "30% off your first 3 months on any plan, no code needed (applied at checkout): Starter $20 → $14/mo, Business $49 → $34.30/mo, Enterprise $99 → $69.30/mo. New businesses",
+  "couponCodes": [],
+  "validity": "Ends Dec 31, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

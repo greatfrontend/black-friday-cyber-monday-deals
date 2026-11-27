@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "BabaPic",
+  "url": "https://www.babapic.cc/",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Compress, resize, rename, and convert batches of images on a Mac.",
+  "offer": "50% off Pro with code **BABAPIC2026**: one-time $19 → $9.50",
+  "couponCodes": [
+    "BABAPIC2026"
+  ],
+  "validity": "Nov 22 to Dec 31, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Quiet Winners",
+  "url": "https://quietwinners.com/",
+  "categories": [
+    "business-tools"
+  ],
+  "description": "Discover fast-growing websites through a monthly ranking.",
+  "offer": "50% off your first month or year of Pro, no code needed: monthly from $39 → $19.50 for the first month, yearly from $312 → $156 for the first year, then the regular price",
+  "couponCodes": [],
+  "validity": "-",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

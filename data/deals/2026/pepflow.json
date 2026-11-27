@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "PepFlow",
+  "url": "https://pepflow.app/download",
+  "categories": [
+    "health-and-fitness"
+  ],
+  "description": "Record and schedule reminders for a personal peptide routine.",
+  "offer": "50% off the first year of the annual plan: 29.99 USD → 14.99 USD. Discount available directly in the app. No code needed",
+  "couponCodes": [],
+  "validity": "Nov 20 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

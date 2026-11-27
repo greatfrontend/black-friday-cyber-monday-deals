@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Babelize",
+  "url": "https://www.babelize.co/#pricing",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Extract interface strings for localization and review the changes in a pull request.",
+  "offer": "50% off the first year of Pro yearly with code **BLACKFRIDAY26**: $84 → $42/year",
+  "couponCodes": [
+    "BLACKFRIDAY26"
+  ],
+  "validity": "Ends Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

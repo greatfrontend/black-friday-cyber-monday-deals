@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Paddock",
+  "url": "https://loshadki.app/paddock/",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "See Mac system information and recent resource history from the menu bar.",
+  "offer": "60% off Paddock Pro: $9.99 → $4.00 with code **BLACKFRIDAY26**, one-time purchase for up to 5 Macs",
+  "couponCodes": [
+    "BLACKFRIDAY26"
+  ],
+  "validity": "Nov 14 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "HeySummit",
+  "url": "https://heysummit.com/pricing?coupon=V3UlY3Iz",
+  "categories": [
+    "marketing-seo"
+  ],
+  "description": "Host workshops, summits, and other online events.",
+  "offer": "New customers save 40% on their first year of annual Starter, Growth or Success (annual Starter US$390 → US$234). Start a 14-day free trial from 19 November through the end of 30 November 2026 GMT. The link applies code **V3UlY3Iz**. No card required. Extra attendee capacity and renewals are charged at the standard rate",
+  "couponCodes": [
+    "V3UlY3Iz"
+  ],
+  "validity": "Nov 19 to Nov 30, 2026, GMT",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

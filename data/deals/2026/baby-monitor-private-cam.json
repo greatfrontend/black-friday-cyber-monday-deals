@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Baby Monitor: Private Cam",
+  "url": "https://apps.apple.com/app/id6785552555",
+  "categories": [
+    "miscellaneous"
+  ],
+  "description": "Use two phones on the same network as a baby monitor.",
+  "offer": "50% off the first year of Pro yearly on iPhone with code **BLACKFRIDAY50** ([redeem](https://apps.apple.com/redeem?ctx=offercodes&id=6785552555&code=BLACKFRIDAY50)). US pricing: $14.99 → $7.49 USD; local prices vary. iOS only, Android has no discount",
+  "couponCodes": [
+    "BLACKFRIDAY50"
+  ],
+  "validity": "Nov 25 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

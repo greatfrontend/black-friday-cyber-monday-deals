@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Y-Pod",
+  "url": "https://www.y-pod.app/#black-friday",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Plan goals, tasks, habits, spending, and journal entries on Apple mobile devices.",
+  "offer": "Scheduled 50% off Pro Lifetime (one-time purchase). US pricing: $99.99 → $49.99 USD; local prices vary",
+  "couponCodes": [],
+  "validity": "Nov 23 to Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Zipic",
+  "url": "https://zipic.app/black-friday",
+  "categories": [
+    "utilities"
+  ],
+  "description": "Compress images from desktop apps or a Mac command line.",
+  "offer": "33% off one-time licenses with code **BF2026**: Solo $19.99 → $13.39, Personal $29.99 → $20.09, Team $129.99 → $87.09. One license works on Mac and Windows",
+  "couponCodes": [
+    "BF2026"
+  ],
+  "validity": "Nov 20 to Dec 6, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

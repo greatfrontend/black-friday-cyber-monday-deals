@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "post2all",
+  "url": "https://www.post2all.com/pricing",
+  "categories": [
+    "social-media-tools"
+  ],
+  "description": "Schedule posts to multiple social networks through AI integrations.",
+  "offer": "25% off the first year of any annual plan with code **BFCM25** (Creator $90 → $67.50, Business $190 → $142.50, Agency $390 → $292.50)",
+  "couponCodes": [
+    "BFCM25"
+  ],
+  "validity": "Nov 18 to Dec 7, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

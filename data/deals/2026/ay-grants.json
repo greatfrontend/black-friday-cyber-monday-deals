@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "AY Grants",
+  "url": "https://grants.ayskilllab.com/#pricing",
+  "categories": [
+    "business-tools"
+  ],
+  "description": "Browse open public grant programs in the US, UK, and EU.",
+  "offer": "50% off the first month on the monthly plan, no code needed (applied automatically at checkout): $9 → $4.50 for the first month, then renews at $9/mo",
+  "couponCodes": [],
+  "validity": "Nov 22 to Nov 30, 2026, 11:59 PM US Pacific",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

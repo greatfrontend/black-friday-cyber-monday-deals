@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Aurio",
+  "url": "https://aurio.dev/",
+  "categories": [
+    "utilities"
+  ],
+  "description": "Reduce background noise from the Mac microphone in calls.",
+  "offer": "25% off, $30 (was $40) for the app to keep plus a year of updates, with code **BLACKFRIDAY26**",
+  "couponCodes": [
+    "BLACKFRIDAY26"
+  ],
+  "validity": "Nov 24 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Apper",
+  "url": "https://apper.io/black-friday",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Build and publish apps and websites through compatible AI chat clients.",
+  "offer": "50% off Team and Company plans for one year, automatically applied, no code needed. Annual: Team $15.99 → $8/mo; Company $39 → $19.50/mo. Monthly: Team $19.99 → $10/mo; Company $49 → $24.50/mo",
+  "couponCodes": [],
+  "validity": "Nov 23 to Dec 31, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Pulse",
+  "url": "https://www.pulseticker.app/black-friday",
+  "categories": [
+    "finance-tools"
+  ],
+  "description": "Show stock quotes and charts in the Mac menu bar.",
+  "offer": "40% off the one-time website license with code **BLACKFRIDAY**: $19.99 → $11.99. One key for up to 3 Macs, future updates included, 30-day free trial. Website edition only (not the Mac App Store)",
+  "couponCodes": [
+    "BLACKFRIDAY"
+  ],
+  "validity": "Ends Dec 1, 2026, 23:59 UTC+8",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

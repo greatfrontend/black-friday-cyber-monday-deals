@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Radar Lab",
+  "url": "https://partnershipintel.com/#pricing",
+  "categories": [
+    "marketing-seo"
+  ],
+  "description": "Find and compare newsletters that sell sponsorships to your intended audience.",
+  "offer": "67% off Pro yearly: $299 → $99/year, locked at $99 for as long as you stay. No code needed",
+  "couponCodes": [],
+  "validity": "Ends Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

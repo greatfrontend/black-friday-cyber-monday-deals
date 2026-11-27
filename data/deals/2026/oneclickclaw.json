@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "OneClickClaw",
+  "url": "https://oneclickclaw.io/plans",
+  "categories": [
+    "business-tools"
+  ],
+  "description": "Host a personal OpenClaw or Hermes Agent server in the EU.",
+  "offer": "Up to 33% off the first month on monthly plans, no code needed (applied automatically at checkout): Starter €14.99 → €9.99, Hobbyist €25.99 → €17.99, Pro €49.99 → €34.99. Then the regular monthly price",
+  "couponCodes": [],
+  "validity": "Nov 10 to Dec 1, 2026, 10:00 Athens time",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

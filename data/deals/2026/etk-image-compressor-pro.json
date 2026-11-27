@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "ETK Image Compressor Pro",
+  "url": "https://shakster24.gumroad.com/l/fcnkut",
+  "categories": [
+    "utilities"
+  ],
+  "description": "Compress and enhance images locally, with batch processing and upscaling.",
+  "offer": "66% off with code **ETKBF66**. Standard: $30 → $10.20 USD, lifetime license",
+  "couponCodes": [
+    "ETKBF66"
+  ],
+  "validity": "-",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

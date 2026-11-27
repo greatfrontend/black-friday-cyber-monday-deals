@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Synclet",
+  "url": "https://synclet.dev/",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Synchronize dotfiles and app settings across Mac and Linux with end-to-end encryption.",
+  "offer": "50% off one-time license ($14.99 → $7.49), applied automatically at checkout, no code needed",
+  "couponCodes": [],
+  "validity": "Nov 20 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

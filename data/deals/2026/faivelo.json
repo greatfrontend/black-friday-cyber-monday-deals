@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Faivelo",
+  "url": "https://faivelo.com/black-friday",
+  "categories": [
+    "business-tools"
+  ],
+  "description": "Host email mailboxes and aliases on your own domain.",
+  "offer": "80% off: $12 for the whole year ($60), and it renews at $12 while you stay. No code needed. New customers only, first 500 accounts",
+  "couponCodes": [],
+  "validity": "Ends Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

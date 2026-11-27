@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Pizazoo",
+  "url": "https://pizazoo.com",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Sort and find screenshots on Apple devices.",
+  "offer": "Up to 33% off Pizazoo Pro (one-time purchase). Mac, on pizazoo.com: 30% off any plan with code **BLACKFRIDAY30**, 1 Mac $15 → $10.50. iPhone and iPad, in the App Store, no code needed: 1 device $14.99 → $9.99, 3 devices $24.99 → $16.99, 5 devices $34.99 → $23.99. US prices",
+  "couponCodes": [
+    "BLACKFRIDAY30"
+  ],
+  "validity": "Nov 24 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

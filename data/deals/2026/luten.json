@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Luten",
+  "url": "https://apps.apple.com/app/id6777673392",
+  "categories": [
+    "health-and-fitness"
+  ],
+  "description": "Play audio programs for sleep, focus, or relaxation on Apple devices.",
+  "offer": "50% off Lifetime (one-time purchase): $119.99 → $59.99 USD; local prices vary. Applied automatically in the App Store, no code needed",
+  "couponCodes": [],
+  "validity": "Nov 26 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

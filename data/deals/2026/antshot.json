@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "AntShot",
+  "url": "https://antshot.com/",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Capture full web pages as screenshots in Chrome or Edge.",
+  "offer": "35% off Pro Lifetime with code **BLACKFRIDAY26**: $39 → $25.35 one-time, includes all future updates",
+  "couponCodes": [
+    "BLACKFRIDAY26"
+  ],
+  "validity": "Nov 12 to Dec 2, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

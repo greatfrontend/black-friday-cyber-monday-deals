@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Ninja Compress",
+  "url": "https://ninjacompress.app/",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Compress videos locally on iPhone or Android.",
+  "offer": "50% off Ninja Pro Lifetime (one-time purchase), no code needed: App Store $19.99 → $9.99, Google Play $14.99 → $7.49 (US prices; about 50% off local prices elsewhere)",
+  "couponCodes": [],
+  "validity": "Nov 25 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

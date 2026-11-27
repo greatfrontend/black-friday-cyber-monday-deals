@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "ClipUGC",
+  "url": "https://clipugc.com/black-friday",
+  "categories": [
+    "ai-tools"
+  ],
+  "description": "Create promotional videos using AI-generated presenters.",
+  "offer": "50% off any plan for your first 2 months with code **BLACKFRIDAY**. Professional $14.99 → $7.50/mo",
+  "couponCodes": [
+    "BLACKFRIDAY"
+  ],
+  "validity": "Ends Dec 6, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

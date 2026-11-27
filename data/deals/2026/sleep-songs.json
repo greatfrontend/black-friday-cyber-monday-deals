@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Sleep Songs",
+  "url": "https://apps.apple.com/us/app/sleep-songs/id481128551",
+  "categories": [
+    "health-and-fitness"
+  ],
+  "description": "Play soft songs for sleep with a playlist and timer.",
+  "offer": "80% off the one-time purchase: $4.99 → $0.99 USD; local prices vary. No code needed",
+  "couponCodes": [],
+  "validity": "Nov 26 to Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

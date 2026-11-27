@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Scribbble",
+  "url": "https://www.scribbble.app",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Draw, highlight, and annotate directly over other Mac apps.",
+  "offer": "35% off with code **BFCMSCRIB** ($12 → $7.80)",
+  "couponCodes": [
+    "BFCMSCRIB"
+  ],
+  "validity": "Nov 20 to Dec 2, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

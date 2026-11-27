@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Two Minute Billing",
+  "url": "https://twominutebilling.com/pricing",
+  "categories": [
+    "business-tools"
+  ],
+  "description": "Manage subscriptions with open-source billing software connected to your payment gateway.",
+  "offer": "60% off the first year of any yearly plan (compared with paying monthly), no code needed: Launch $348 → $139.20/yr, Growth $1,188 → $475.20/yr, Scale $3,588 → $1,435.20/yr. Sign up by Dec 3, 2026 to keep the offer",
+  "couponCodes": [],
+  "validity": "Ends Dec 3, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Quotion",
+  "url": "https://quotion.co/#pricing",
+  "categories": [
+    "marketing-seo"
+  ],
+  "description": "Publish a blog, portfolio, or portal from Apple Notes.",
+  "offer": "30% off all paid plans for 12 months, monthly or annual, with code **BLACKFRIDAY2026**. Lite $12 → $8.40/mo; Pro $29 → $20.30/mo",
+  "couponCodes": [
+    "BLACKFRIDAY2026"
+  ],
+  "validity": "Nov 9 to Dec 2, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

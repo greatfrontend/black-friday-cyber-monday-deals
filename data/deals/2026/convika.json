@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Convika",
+  "url": "https://convika.com/black-friday/",
+  "categories": [
+    "ai-powered-tools-for-developers"
+  ],
+  "description": "Share an AI-generated HTML page at a hosted link.",
+  "offer": "50% off the first year of Pro yearly, no code needed: $108 → $54/year. New customers",
+  "couponCodes": [],
+  "validity": "Nov 23 to Dec 31, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

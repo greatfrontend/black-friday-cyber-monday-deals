@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Crest",
+  "url": "https://crestnotch.app/",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Manage media, clipboard, calendar, and coding agent status from the Mac notch.",
+  "offer": "Crest Pro $9.99 once, no code needed. Nov 24 to Dec 1, 23:59 UTC, then $14.99 from Dec 2",
+  "couponCodes": [],
+  "validity": "Nov 24 to Dec 1, 2026, 23:59 UTC",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

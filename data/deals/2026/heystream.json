@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "HeyStream",
+  "url": "https://heystream.com/pricing?coupon=BF2026",
+  "categories": [
+    "marketing-seo"
+  ],
+  "description": "Run branded webinar sessions and live streams.",
+  "offer": "New customers who start a seven-day trial through the offer link from 19 to 30 November 2026 inclusive (GMT) get 40% off their first year on an annual Launch, Growth or Scale plan. Code **BF2026**. Annual Growth is US$1,072.80 for the first year, then US$1,788 per year, before applicable tax. Plans renew at the regular annual price",
+  "couponCodes": [
+    "BF2026"
+  ],
+  "validity": "Nov 19 to Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

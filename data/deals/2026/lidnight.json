@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Lidnight",
+  "url": "https://lidnight.app/en/buy/",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Keep a MacBook running with its lid closed and monitor coding agent activity.",
+  "offer": "50% off with code **BF50**",
+  "couponCodes": [
+    "BF50"
+  ],
+  "validity": "Nov 23 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

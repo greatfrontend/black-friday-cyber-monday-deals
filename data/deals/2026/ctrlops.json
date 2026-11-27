@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "CtrlOps",
+  "url": "https://ctrlops.io/pricing",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Manage, troubleshoot, and audit Linux servers from a desktop app.",
+  "offer": "31% off all Yearly and Lifetime plans with code **BFCM31**, kept on every Yearly renewal: Personal Yearly $90 → $62.10/yr, Lifetime $349 → $240.81; Team (5 seats) Yearly $390 → $269.10/yr, Lifetime $849 → $585.81",
+  "couponCodes": [
+    "BFCM31"
+  ],
+  "validity": "Nov 21 to Dec 2, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

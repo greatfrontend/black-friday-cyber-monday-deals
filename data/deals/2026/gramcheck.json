@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Gramcheck",
+  "url": "https://extensions.loopspec.com/gramcheck",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Check spelling and grammar in Chrome with local processing.",
+  "offer": "51% off lifetime license: $39 → $19 one-time, 5 years of updates. Applied automatically at checkout, no code needed",
+  "couponCodes": [],
+  "validity": "Nov 5 to Dec 2, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "TabHold",
+  "url": "https://studiobluegrove.com/tabhold/",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Back up browser windows and tab groups to disk and restore them later.",
+  "offer": "40% off TabHold Pro (one-time purchase) with code **BF2026**: $12.99 → $7.79",
+  "couponCodes": [
+    "BF2026"
+  ],
+  "validity": "Nov 24 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

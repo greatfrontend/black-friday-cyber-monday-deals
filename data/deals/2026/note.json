@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Note",
+  "url": "https://apps.apple.com/app/note/id1602765272",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Keep short notes in a minimalist iPhone and iPad app.",
+  "offer": "40% off One-time purchase: $4.99 → $2.99",
+  "couponCodes": [],
+  "validity": "Nov 19 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

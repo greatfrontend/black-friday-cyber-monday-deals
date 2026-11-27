@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Vitra Health",
+  "url": "https://vitrahealth.app/",
+  "categories": [
+    "health-and-fitness"
+  ],
+  "description": "View your Oura Ring metrics locally on Mac or Windows.",
+  "offer": "20% off both one-time licences, applied automatically at checkout. Solo €19 → €15.20, Pro €29 → €23.20 (US: $23 → $18.40, $35 → $28)",
+  "couponCodes": [],
+  "validity": "Ends Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

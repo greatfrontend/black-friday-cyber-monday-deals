@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Lasso",
+  "url": "https://www.trylasso.online/",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Draw highlights, circles, and arrows over anything on your Mac screen.",
+  "offer": "50% off one-time purchase with code **LASSOBF50**: $9.99 → $4.99. No subscription",
+  "couponCodes": [
+    "LASSOBF50"
+  ],
+  "validity": "Nov 21 to Dec 31, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "LeadMerlin",
+  "url": "https://leadmerlin.com/black-friday/",
+  "categories": [
+    "marketing-seo"
+  ],
+  "description": "Find local business prospects for workflows and assistants.",
+  "offer": "40% off your first payment with code **BF2026**, so the whole first year on yearly plans: Starter $348 → $208.80/yr, Pro $468 → $280.80/yr, Agency $948 → $568.80/yr. Monthly plans: 40% off the first month",
+  "couponCodes": [
+    "BF2026"
+  ],
+  "validity": "Ends Dec 2, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

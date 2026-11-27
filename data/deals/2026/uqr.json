@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "UQR",
+  "url": "https://uqr.ai/pricing",
+  "categories": [
+    "marketing-seo"
+  ],
+  "description": "Create dynamic QR codes and change their destination after printing.",
+  "offer": "50% off your first bill on every plan, monthly or yearly, no code needed (applied at checkout): Lite $64 → $32, Pro $160 → $80, Business $392 → $196 for the first year",
+  "couponCodes": [],
+  "validity": "Nov 20 to Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

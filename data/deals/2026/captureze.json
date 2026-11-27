@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Captureze",
+  "url": "https://captureze.com/",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Schedule website captures and compare the resulting screenshots over time.",
+  "offer": "Up to 50% off annual plans, no code needed (Starter $190 -> $95/yr, Pro $490 -> $245/yr, Business $1490 -> $1043/yr)",
+  "couponCodes": [],
+  "validity": "Ends Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

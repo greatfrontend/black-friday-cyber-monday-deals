@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Pulsedive",
+  "url": "https://pulsedive.com/",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Look up threat intelligence on domains, URLs, and IP addresses.",
+  "offer": "35% off first year of [Pulsedive Pro](https://pulsedive.com/pro) annual plans with code **BFCM26**. [REDEEM](https://pulsedive.com/purchase/pro)",
+  "couponCodes": [
+    "BFCM26"
+  ],
+  "validity": "Ends Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

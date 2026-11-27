@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Everlog Journal",
+  "url": "https://apps.apple.com/app/everlog-journal/id1519935634",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Keep a private journal with Markdown and iCloud sync on Apple devices.",
+  "offer": "50% off Premium. US pricing: Lifetime $59.99 → $29.99 USD, first year of Yearly $29.99 → $14.99 USD; local prices vary. No code needed, the offer appears in the app",
+  "couponCodes": [],
+  "validity": "Nov 27 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

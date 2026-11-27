@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Zorga",
+  "url": "https://www.organize.io/black-friday/",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Turn goals and habits into a daily plan.",
+  "offer": "50% off: Lifetime $99 (was $199) or $49 your first year on Annual, with a 7-day free trial. Applied automatically, no code needed",
+  "couponCodes": [],
+  "validity": "Ends Dec 2, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

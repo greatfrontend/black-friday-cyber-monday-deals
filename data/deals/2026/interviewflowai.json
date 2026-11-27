@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "InterviewFlowAI",
+  "url": "https://interviewflowai.com/black-friday",
+  "categories": [
+    "business-tools"
+  ],
+  "description": "Manage early-stage candidate screening with automated phone and video interviews.",
+  "offer": "40% off the first year of yearly Growth ($3,600 → $2,160) or Scale ($6,000 → $3,600) with code **BFCM40**. Renews at $3,000 / $5,000 a year",
+  "couponCodes": [
+    "BFCM40"
+  ],
+  "validity": "Ends Dec 4, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Spencer",
+  "url": "https://macspencer.app/",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Restore a saved set of Mac windows, displays, and workspaces.",
+  "offer": "40% off lifetime license ($25 → $15) with code **BLACK26**",
+  "couponCodes": [
+    "BLACK26"
+  ],
+  "validity": "Ends Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

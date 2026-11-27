@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "GridPin",
+  "url": "https://gridpin.dev/buy#snapshot",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Geocode addresses offline with per-country datasets and no API calls.",
+  "offer": "40% off the one-time Snapshot, the November 2026 build of all 13 countries: $199 → $119, paid in USDC, applied automatically, no code needed",
+  "couponCodes": [],
+  "validity": "Ends Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

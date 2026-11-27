@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Culla",
+  "url": "https://getculla.com/",
+  "categories": [
+    "design-tools"
+  ],
+  "description": "Review and select photos on Apple devices before importing them.",
+  "offer": "40% off the one-time purchase: $24.99 → $14.99 on the App Store, one purchase for Mac, iPhone and iPad (local prices vary). No code needed",
+  "couponCodes": [],
+  "validity": "Nov 27 to Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "SlapMac",
+  "url": "https://slapmac.com/",
+  "categories": [
+    "miscellaneous"
+  ],
+  "description": "Use MacBook motion to trigger sound effects or a movement alarm.",
+  "offer": "30% off ($12.99 → $9.09) with code **BLACKFRIDAY26**, first 100 buyers",
+  "couponCodes": [
+    "BLACKFRIDAY26"
+  ],
+  "validity": "Nov 3 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

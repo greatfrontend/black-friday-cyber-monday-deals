@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Deckloud",
+  "url": "https://deckloud.com/black-friday/",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Manage Nextcloud Deck boards offline on desktop and mobile.",
+  "offer": "40% off Pro Lifetime, one-time ($39 → $22.99, 39 € → 22,99 €; about 40% off local prices elsewhere), applied automatically on the App Store and Google Play, no code needed. Desktop-only Pro $19 → $11.40 with code **BF2026**. Subscriptions excluded",
+  "couponCodes": [
+    "BF2026"
+  ],
+  "validity": "Nov 27 to Dec 2, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

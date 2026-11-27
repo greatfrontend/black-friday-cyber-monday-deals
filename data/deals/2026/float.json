@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Float",
+  "url": "https://float.gilla.fun/#pricing",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Open a floating Markdown scratchpad from any Mac workspace.",
+  "offer": "40% off Float Pro lifetime: $4.99 → $2.99, one payment, with code **BF26FLOAT**",
+  "couponCodes": [
+    "BF26FLOAT"
+  ],
+  "validity": "Nov 26 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

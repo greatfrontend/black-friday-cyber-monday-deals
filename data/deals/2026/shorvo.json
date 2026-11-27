@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Shorvo",
+  "url": "https://shorvostudio.com/pricing/",
+  "categories": [
+    "social-media-tools"
+  ],
+  "description": "Build a YouTube Short from a script or topic on Windows.",
+  "offer": "40% off Pro Lifetime (one-time payment) with code **BF40**: $129 → $77.40",
+  "couponCodes": [
+    "BF40"
+  ],
+  "validity": "Ends Dec 10, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

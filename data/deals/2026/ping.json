@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Ping",
+  "url": "https://ping.neat.software/",
+  "categories": [
+    "utilities"
+  ],
+  "description": "Monitor the availability of websites, APIs, and local devices from the Mac menu bar.",
+  "offer": "40% off Ping Pro Lifetime with code **NEATBF26**: $14.99 → $8.99",
+  "couponCodes": [
+    "NEATBF26"
+  ],
+  "validity": "Nov 20 to Dec 2, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

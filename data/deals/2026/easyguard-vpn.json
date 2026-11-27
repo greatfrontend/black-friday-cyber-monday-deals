@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "EasyGuard VPN",
+  "url": "https://easyguard.app/#deal",
+  "categories": [
+    "utilities"
+  ],
+  "description": "Use a WireGuard-based VPN on desktop and mobile.",
+  "offer": "Up to 75% off, no code needed (prices shown on the site): 1 month $9.99 → $2.49, 6 months $29.99 → $9.99, 12 months $49.99 → $14.99",
+  "couponCodes": [],
+  "validity": "Ends Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

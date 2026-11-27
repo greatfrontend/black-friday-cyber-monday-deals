@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Sleep Sounds",
+  "url": "https://apps.apple.com/us/app/sleep-sounds/id390555459",
+  "categories": [
+    "health-and-fitness"
+  ],
+  "description": "Mix nature sounds for sleep and set a playback timer.",
+  "offer": "80% off the one-time purchase: $4.99 → $0.99 USD; local prices vary. No code needed",
+  "couponCodes": [],
+  "validity": "Nov 26 to Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

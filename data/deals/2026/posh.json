@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "POSH",
+  "url": "https://poshtui.com/black-friday",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Browse Ruby and Rails documentation for your project's versions via terminal or MCP.",
+  "offer": "30% off for as long as you stay subscribed with code **BLACKFRIDAY2026**: €5 → €3.50/month, €45 → €31.50/year",
+  "couponCodes": [
+    "BLACKFRIDAY2026"
+  ],
+  "validity": "Ends Dec 2, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

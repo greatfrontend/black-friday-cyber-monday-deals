@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Keystro",
+  "url": "https://keystro.app",
+  "categories": [
+    "utilities"
+  ],
+  "description": "Show keystrokes and cursor movements during tutorials and presentations.",
+  "offer": "30% off one-time licenses, automatically applied at checkout with code **BFKEYSTRO26**: Standard (1 device) $6.99 → $4.89, Extended (3 devices) $14 → $9.80, Team (10 devices) $39",
+  "couponCodes": [
+    "BFKEYSTRO26"
+  ],
+  "validity": "-",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

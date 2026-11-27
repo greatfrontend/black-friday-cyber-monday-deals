@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Trickster",
+  "url": "https://tricksterapp.com",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Reopen recently used files and links from the macOS menu bar.",
+  "offer": "50% off ($30 → $15)",
+  "couponCodes": [],
+  "validity": "Ends Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Dayora",
+  "url": "https://www.dayora.ai/black-friday",
+  "categories": [
+    "health-and-fitness"
+  ],
+  "description": "Keep a voice or text journal with AI reflections and mood tracking.",
+  "offer": "40% off Plus yearly for your first year: $72 → $43.20 USD; local prices vary. New subscribers on the web, no code needed",
+  "couponCodes": [],
+  "validity": "Nov 24 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

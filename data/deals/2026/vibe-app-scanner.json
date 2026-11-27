@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Vibe App Scanner",
+  "url": "https://vibeappscanner.com/black-friday",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Review live apps and source code for security issues with evidence and suggested fixes.",
+  "offer": "60% off the first month of Go or Pro, automatically applied. New-account Go $29 → $11.60, then $29/month; Pro $49 → $19.60, then $49/month (USD). First subscriptions only; previous subscriptions and AppSumo excluded",
+  "couponCodes": [],
+  "validity": "Nov 10 to Nov 30, 2026, 11:59PM Toronto time",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

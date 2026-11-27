@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Whisper Memos",
+  "url": "https://whispermemos.com/changelog/2026-11-black-friday",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Record voice notes with your iPhone or Apple Watch and get transcripts.",
+  "offer": "30% off Yearly: $69.99 → $49.99/year, price stays as long as you stay subscribed. 7-day free trial for new users. Applied automatically in the app, no code needed",
+  "couponCodes": [],
+  "validity": "Nov 16 to Dec 6, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

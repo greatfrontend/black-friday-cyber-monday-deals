@@ -1,0 +1,17 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Layerbase",
+  "url": "https://layerbase.com/pricing",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Host database and search services with flat monthly pricing.",
+  "offer": "50% off your first month: **BFSOLO26** = Solo $2.50 first month (then $5/mo), **BFPRO26** = Pro $7.50 first month (then $15/mo). First 50 redemptions per code",
+  "couponCodes": [
+    "BFSOLO26",
+    "BFPRO26"
+  ],
+  "validity": "Ends Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

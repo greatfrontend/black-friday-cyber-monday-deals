@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "ZeroRank",
+  "url": "https://zerorank.ai",
+  "categories": [
+    "marketing-seo"
+  ],
+  "description": "Monitor brand mentions and citations across AI search services.",
+  "offer": "About 45% off the first annual year vs 12 standard monthly payments, or 28% off the first 3 monthly payments. Standard rates apply afterward. Eligible subscriptions only; no stacking. Click the Black Friday deal to auto-apply the discount at checkout. [Offer terms](https://zerorank.ai/pricing). Ends November 30, 2026 at 23:59 Europe/Tirane",
+  "couponCodes": [],
+  "validity": "Ends Nov 30, 2026, 23:59",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

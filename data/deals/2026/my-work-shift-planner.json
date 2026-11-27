@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "My Work Shift Planner",
+  "url": "https://apps.apple.com/us/app/id6769349635",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Keep track of shifts with a mobile calendar for shift workers.",
+  "offer": "50% off Yearly and Monthly, no code needed. US pricing: Yearly $24.99 → $12.49/yr, Monthly $4.99 → $2.49/mo. 7-day free trial first, and the deal price stays as long as you stay subscribed. Shown automatically in the app with a BLACK WEEK badge; local prices vary",
+  "couponCodes": [],
+  "validity": "Ends Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

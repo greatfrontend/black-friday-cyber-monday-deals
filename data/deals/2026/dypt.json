@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "dypt",
+  "url": "https://dypt.app/#pricing",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Break large projects into smaller, manageable tasks.",
+  "offer": "50% off the first year of annual Pro ($48 → $24) or VIP ($84 → $42) with code **BLACKFRIDAY**, applied automatically from the pricing page. Also in £ and €. New subscriptions only; renews at the regular price. Nov 20 – Nov 30, 2026 ([terms](https://dypt.app/promo))",
+  "couponCodes": [
+    "BLACKFRIDAY"
+  ],
+  "validity": "Nov 20 to Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

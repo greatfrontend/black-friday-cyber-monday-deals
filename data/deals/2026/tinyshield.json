@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "TinyShield",
+  "url": "https://tinyshield.proxyman.com/pricing",
+  "categories": [
+    "utilities"
+  ],
+  "description": "Monitor app network connections and block unwanted traffic on macOS.",
+  "offer": "30% off all plans with code **BF2026**. Standard: $29 → $20.30, Combo: $39 → $27.30, Lifetime: $69 → $48.30 USD",
+  "couponCodes": [
+    "BF2026"
+  ],
+  "validity": "Nov 19 to Dec 3, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

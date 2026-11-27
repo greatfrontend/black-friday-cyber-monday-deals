@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Fileside",
+  "url": "https://fileside.app/",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Arrange as many file panes as you need in saved desktop workspaces.",
+  "offer": "50% off a lifetime license ($33 to $16.50) with code **BLKFRD26**. Covers all your Windows and Mac computers",
+  "couponCodes": [
+    "BLKFRD26"
+  ],
+  "validity": "Nov 23 to Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

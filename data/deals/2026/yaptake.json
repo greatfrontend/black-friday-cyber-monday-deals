@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Yaptake",
+  "url": "https://yaptake.com/#pricing",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Edit a video by editing its transcript and rearranging clips.",
+  "offer": "50% off the first year with code **YAPTAKEBF26**: Monthly $9.99 → $4.99/month for 12 months, Yearly $79 → $39.50 for the first year. New subscribers",
+  "couponCodes": [
+    "YAPTAKEBF26"
+  ],
+  "validity": "Nov 18 to Dec 2, 2026, Pacific time",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

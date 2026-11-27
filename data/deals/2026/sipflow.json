@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "SipFlow",
+  "url": "https://apps.apple.com/app/id6819768243",
+  "categories": [
+    "health-and-fitness"
+  ],
+  "description": "Track water intake from mobile or Apple Watch with a virtual companion.",
+  "offer": "67% off Plus Lifetime (one-time purchase). iPhone: $29.99 → $9.99 with code **BLACKFRIDAY** ([redeem](https://apps.apple.com/redeem?ctx=offercodes&id=6819768243&code=BLACKFRIDAY)). Android: $29.99 → $9.99, no code needed, Nov 27 – Dec 1. US pricing; local prices vary. Until Dec 1, 2026",
+  "couponCodes": [
+    "BLACKFRIDAY"
+  ],
+  "validity": "Nov 27 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

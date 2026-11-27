@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "own.page",
+  "url": "https://own.page/pricing",
+  "categories": [
+    "marketing-seo"
+  ],
+  "description": "Build a personal website from live content widgets.",
+  "offer": "40% off the first year of Pro, no code needed (applied automatically at checkout on yearly plans): $79.90 → $47.94/yr (€70 → €42). Business 30% off: $199 → $139.30/yr (€179 → €125.30)",
+  "couponCodes": [],
+  "validity": "Nov 20 to Nov 30, 2026, 23:59 CET",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

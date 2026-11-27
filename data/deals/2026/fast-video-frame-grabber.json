@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Fast Video Frame Grabber",
+  "url": "https://fast-video-frame-grabber.codystools.online/",
+  "categories": [
+    "utilities"
+  ],
+  "description": "Step through local video files and save individual frames.",
+  "offer": "30% off: $19 → $13.30, one-time license for Mac, Windows and Linux, with code **BLACKFRIDAY30**. 14-day free trial",
+  "couponCodes": [
+    "BLACKFRIDAY30"
+  ],
+  "validity": "Nov 18 to Dec 15, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

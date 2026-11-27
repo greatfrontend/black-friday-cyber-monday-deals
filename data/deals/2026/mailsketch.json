@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "MailSketch",
+  "url": "https://mailsketch.com/pricing",
+  "categories": [
+    "marketing-seo"
+  ],
+  "description": "Build marketing and transactional emails from a template library.",
+  "offer": "60% off the first year of any yearly plan with code **BLACKFRIDAY60**: Solo $144 → $57.60/yr, Team $336 → $134.40/yr, Business $720 → $288/yr, then the regular yearly price. Or lifetime plans from $99, paid once, no code",
+  "couponCodes": [
+    "BLACKFRIDAY60"
+  ],
+  "validity": "Ends Dec 6, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

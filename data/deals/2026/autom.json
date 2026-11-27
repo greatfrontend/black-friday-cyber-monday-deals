@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Autom",
+  "url": "https://www.autom.dev/",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Retrieve search results from multiple search engines through one API.",
+  "offer": "50% off one time on the Starter plan with code **BLACKFRIDAY50**",
+  "couponCodes": [
+    "BLACKFRIDAY50"
+  ],
+  "validity": "Ends Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

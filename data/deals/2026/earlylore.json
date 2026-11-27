@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "EarlyLore",
+  "url": "https://earlylore.com/pricing",
+  "categories": [
+    "business-tools"
+  ],
+  "description": "Research products and competitors with an AI-assisted discovery tool.",
+  "offer": "25% off Annual (Year 1): Pro $144 → $108/yr ($9/mo), Max $384 → $288/yr ($24/mo); 1-Year Pass eligible. Auto-applied or code **BF2026**; renews at $144/$384",
+  "couponCodes": [
+    "BF2026"
+  ],
+  "validity": "Nov 24 to Nov 30, 2026, 11:59 PM PT",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

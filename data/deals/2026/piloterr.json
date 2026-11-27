@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Piloterr",
+  "url": "https://www.piloterr.com/",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Retrieve web data through an API that manages browser infrastructure.",
+  "offer": "50% off for 3 months with code **BLACKFRIDAY50**",
+  "couponCodes": [
+    "BLACKFRIDAY50"
+  ],
+  "validity": "Ends Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

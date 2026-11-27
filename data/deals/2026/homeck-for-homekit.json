@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Homeck for HomeKit",
+  "url": "https://homeck.app/black-friday",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Operate HomeKit devices and automations from an iPhone or iPad.",
+  "offer": "40% off Homeck Pro, no code needed. US pricing: Yearly $24.99 → $14.99 for the first year, then $24.99 a year; Lifetime $49.99 → $29.99 (one-time purchase). Sale price shows in the app; local prices vary",
+  "couponCodes": [],
+  "validity": "Nov 23 to Dec 6, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

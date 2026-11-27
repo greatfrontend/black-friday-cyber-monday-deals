@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Transcribee",
+  "url": "https://transcribee.io/black-friday/",
+  "categories": [
+    "ai-tools"
+  ],
+  "description": "Transcribe audio and video files with support for many languages.",
+  "offer": "40% off Unlimited with code **BF2026**: monthly $25.99 → $15.59 for the first month, yearly $199.99 → $119.99 for the first year",
+  "couponCodes": [
+    "BF2026"
+  ],
+  "validity": "Nov 19 to Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

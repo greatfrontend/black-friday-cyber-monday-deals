@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Guidejar",
+  "url": "https://www.guidejar.com",
+  "categories": [
+    "business-tools"
+  ],
+  "description": "Create interactive guides for customer onboarding, training, or handoffs.",
+  "offer": "40% off on all plans with code **BFCM26**. Pro $11.40/mo (was $19), Plus $15/mo (was $25), Business $41.40/mo (was $69), billed yearly",
+  "couponCodes": [
+    "BFCM26"
+  ],
+  "validity": "Nov 24 to Dec 2, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Scrap.io",
+  "url": "https://scrap.io/pricing",
+  "categories": [
+    "marketing-seo"
+  ],
+  "description": "Find public business listings and contact details from Google Maps data.",
+  "offer": "50% off all annual plans, no code needed (applied on the pricing page): Basic $708 → $354/year, Professional $1,428 → $714/year, Agency $2,868 → $1,434/year, Company $7,188 → $3,594/year. Unused credits roll over month to month, and the price stays the same at renewal",
+  "couponCodes": [],
+  "validity": "-",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "TOWeb 15",
+  "url": "https://www.lauyan.com/en/pricing/",
+  "categories": [
+    "design-tools"
+  ],
+  "description": "Build and edit websites or online stores in a desktop app.",
+  "offer": "30% off every paid edition with code **BLACKFRIDAY30**: Premium €99 → €69.30, e-Commerce €199 → €139.30, Studio €399 → €279.30, one-time purchase, upgrades from TOWeb 14 included",
+  "couponCodes": [
+    "BLACKFRIDAY30"
+  ],
+  "validity": "Nov 26 to Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

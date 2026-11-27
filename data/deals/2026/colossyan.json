@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Colossyan",
+  "url": "https://www.colossyan.com/pricing",
+  "categories": [
+    "ai-tools"
+  ],
+  "description": "Turn training documents and slides into narrated video lessons.",
+  "offer": "40% off the first year of Professional (yearly) with code **BLACKFRIDAY40**: $59 → $35.40/mo billed yearly ($708 → $424.80 for the first year). Extra editors get 40% off too. Yearly plans only",
+  "couponCodes": [
+    "BLACKFRIDAY40"
+  ],
+  "validity": "Nov 23 to Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

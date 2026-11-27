@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Looq",
+  "url": "https://parcse.com/looq",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Extend macOS Quick Look with previews for code, Markdown, databases, and archives.",
+  "offer": "10% off with code **PARCSEBLACKFRIDAY** on parcse.com. Single (1 Mac): $10 → $9, Personal (3 Macs): $15 → $13.50, Team (10 Macs): $35 → $31.50",
+  "couponCodes": [
+    "PARCSEBLACKFRIDAY"
+  ],
+  "validity": "Nov 7 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Ratio",
+  "url": "https://useratio.app/",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Write and evaluate calculations inside a desktop notepad.",
+  "offer": "30% off with code **BLACKFRIDAY26** : 1 computer $9.99 → $6.99, 2 computers $14.99 → $10.49, 3 computers $19.99 → $13.99. Direct purchase only",
+  "couponCodes": [
+    "BLACKFRIDAY26"
+  ],
+  "validity": "Nov 24 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "BrassWell",
+  "url": "https://brasswell.app/black-friday",
+  "categories": [
+    "finance-tools"
+  ],
+  "description": "Keep invoices, receipts, mileage, and other self-employment records together.",
+  "offer": "25% off the first year of Pro yearly with code **BLACKFRIDAY25**: $299 → $224.25. New subscribers. 14-day free trial, no card",
+  "couponCodes": [
+    "BLACKFRIDAY25"
+  ],
+  "validity": "Nov 23 to Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

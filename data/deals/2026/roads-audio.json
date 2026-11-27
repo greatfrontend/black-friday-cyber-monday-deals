@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Roads Audio",
+  "url": "https://roadsaudio.com",
+  "categories": [
+    "miscellaneous"
+  ],
+  "description": "Leave and exchange voice messages with close contacts.",
+  "offer": "Roads Audio Plus Lifetime for $49.99 (one-time purchase; Increases to $99.99 on December 2, 2026). November 26 – December 1, 2026. Applied in the app, no code needed. US pricing; local prices vary",
+  "couponCodes": [],
+  "validity": "Nov 26 to Dec 2, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

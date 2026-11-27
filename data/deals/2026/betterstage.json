@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "BetterStage",
+  "url": "https://betterstage.app/pricing",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Save and restore multi-monitor window arrangements on macOS.",
+  "offer": "20% off lifetime Pro ($19.99 → $15.99 for 1 Mac, $39.99 → $31.99 for 3 Macs, $49.99 → $39.99 for 5 Macs) with code **BLACKFRIDAY20**",
+  "couponCodes": [
+    "BLACKFRIDAY20"
+  ],
+  "validity": "Nov 23 to Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

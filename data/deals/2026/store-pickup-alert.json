@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Store Pickup Alert",
+  "url": "https://storepickupalert.com/",
+  "categories": [
+    "miscellaneous"
+  ],
+  "description": "Get alerts when tracked electronics are available for pickup.",
+  "offer": "20% off your first month with code **BLACKFRIDAY20**, now -",
+  "couponCodes": [
+    "BLACKFRIDAY20"
+  ],
+  "validity": "Ends Dec 4, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

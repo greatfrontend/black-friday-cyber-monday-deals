@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "MeetingDebrief",
+  "url": "https://meetingdebrief.com/pricing",
+  "categories": [
+    "ai-tools"
+  ],
+  "description": "Record, transcribe, and summarize calls locally without a meeting bot.",
+  "offer": "35% off lifetime license with code **BFCM2026**: $18 → $11.70 for 1 device, one-time purchase",
+  "couponCodes": [
+    "BFCM2026"
+  ],
+  "validity": "Nov 22 to Dec 5, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

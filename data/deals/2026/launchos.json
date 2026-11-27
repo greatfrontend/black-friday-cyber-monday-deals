@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "LaunchOS",
+  "url": "https://launchosapp.com/",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Arrange and launch Mac apps from a Launchpad-style grid.",
+  "offer": "Black Friday prices: $5.40 (1 Mac), $8.10 (2 Macs), $13.50 (5 Macs), plus an extra 8% off with code **BLACKFRIDAY2026**. Current prices → final prices with code: 1 Mac $6.60 → $4.97, 2 Macs $9.90 → $7.45, 5 Macs $16.60 → $12.42",
+  "couponCodes": [
+    "BLACKFRIDAY2026"
+  ],
+  "validity": "Nov 23 to Dec 2, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

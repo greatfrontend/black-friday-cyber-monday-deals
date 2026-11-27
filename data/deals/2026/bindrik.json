@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Bindrik",
+  "url": "https://bindrik.com/en",
+  "categories": [
+    "miscellaneous"
+  ],
+  "description": "Prepare book cover and interior print files for Amazon KDP.",
+  "offer": "43% off, $39 (was $69), one-time purchase, with code **BLACKFRIDAY2026**",
+  "couponCodes": [
+    "BLACKFRIDAY2026"
+  ],
+  "validity": "Nov 23 to Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

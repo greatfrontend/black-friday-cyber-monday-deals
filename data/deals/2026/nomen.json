@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Nomen",
+  "url": "https://astrvm.app/apps/nomen/",
+  "categories": [
+    "utilities"
+  ],
+  "description": "Rename photos in batches using capture date and camera metadata.",
+  "offer": "28% off Nomen Pro: $6.99 → $4.99, one-time in-app purchase, no code. Free version: basic rules, no file limit. Local prices vary",
+  "couponCodes": [],
+  "validity": "Nov 26 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Paperweight",
+  "url": "https://www.paperweight.email/pricing#black-friday",
+  "categories": [
+    "utilities"
+  ],
+  "description": "Review and clean up accounts and subscriptions found in your inbox.",
+  "offer": "Black Friday Exclusive: Lifetime Pro $149 one-time, normally unavailable. Regular Pro is $60/year. $139 with crypto. No code needed",
+  "couponCodes": [],
+  "validity": "Nov 16 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

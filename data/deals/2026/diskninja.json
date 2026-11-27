@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "DiskNinja",
+  "url": "https://diskninja.app/blackfriday/",
+  "categories": [
+    "utilities"
+  ],
+  "description": "Find large files and folders with a visual disk map.",
+  "offer": "50% off the first year of Pro Yearly ($14.99 → $7.49) with code **NINJABF26**. Works on the website and in the Mac App Store. New subscribers",
+  "couponCodes": [
+    "NINJABF26"
+  ],
+  "validity": "Nov 24 to Dec 2, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "GitCMS",
+  "url": "https://gitcms.dev/#pricing",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Give clients an editor for sites built with Astro or Next.js.",
+  "offer": "25% off lifetime site licenses for agencies buying 5+ sites, with code **BF26**: $89 → $66.75 per site, one payment, no subscription. First 20 agencies",
+  "couponCodes": [
+    "BF26"
+  ],
+  "validity": "Nov 24 to Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

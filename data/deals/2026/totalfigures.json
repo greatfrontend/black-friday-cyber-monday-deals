@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "TotalFigures",
+  "url": "https://totalfigures.app/",
+  "categories": [
+    "finance-tools"
+  ],
+  "description": "Track transactions, spending, and net worth in one view.",
+  "offer": "88% off Premium, no code needed: Lifetime $79.99 → $9.59, or the first year of Yearly $29.99 → $3.59 (new subscribers, then $29.99/year). US prices; local prices vary. Nov 21 – Dec 3, 2026 (Yearly offer until Dec 2)",
+  "couponCodes": [],
+  "validity": "Nov 21 to Dec 3, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

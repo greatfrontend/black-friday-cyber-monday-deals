@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Iruka",
+  "url": "https://iruka.sh/black-friday",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Browse files on a Mac in tabbed, split, or icon views.",
+  "offer": "30% off new licences with code **BF30**. Personal: $19.99 → $13.99, Team: $39.99 → $27.99",
+  "couponCodes": [
+    "BF30"
+  ],
+  "validity": "Ends Dec 3, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

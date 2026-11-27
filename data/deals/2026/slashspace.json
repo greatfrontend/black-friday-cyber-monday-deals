@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Slashspace",
+  "url": "https://www.slashspace.ai/",
+  "categories": [
+    "ai-tools"
+  ],
+  "description": "Organize AI conversations and models in a visual, node-based workspace.",
+  "offer": "51% off with code **BF2026**: Lifetime $249 → $122.01, Yearly $89 → $43.61",
+  "couponCodes": [
+    "BF2026"
+  ],
+  "validity": "Nov 4 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

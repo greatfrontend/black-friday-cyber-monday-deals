@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Citation Rocket",
+  "url": "https://www.citationrocket.com/pricing",
+  "categories": [
+    "marketing-seo"
+  ],
+  "description": "Audit whether a website appears in results and citations from AI search.",
+  "offer": "40% off lifetime licence, no code needed. Lifetime $99 → $59, Agency with white-label PDFs $149 → $89",
+  "couponCodes": [],
+  "validity": "Nov 12 to Dec 2, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

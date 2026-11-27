@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "SnowWall",
+  "url": "https://snowwall.app/black-friday/",
+  "categories": [
+    "utilities"
+  ],
+  "description": "Show live weather effects on the Mac desktop.",
+  "offer": "33% off SnowWall Pro, a one-time in-app purchase: $14.99 → $9.99 in the Mac App Store (about a third off in every storefront), no code needed",
+  "couponCodes": [],
+  "validity": "Nov 27 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

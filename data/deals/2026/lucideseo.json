@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "LucideSEO",
+  "url": "https://www.lucideseo.com/",
+  "categories": [
+    "marketing-seo"
+  ],
+  "description": "Track how sites appear in search engines and AI answers.",
+  "offer": "50% off on Growth and Scale plans for first month. Growth ($99 → $49.50): 40 pages a month, 3 sites. Scale ($299 → $149.50): 60 pages a month, 10 sites, every page reviewed by our team and priority support. Use code **FRIDAY50**",
+  "couponCodes": [
+    "FRIDAY50"
+  ],
+  "validity": "Nov 26 to Dec 6, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

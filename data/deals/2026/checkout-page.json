@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Checkout Page",
+  "url": "https://checkoutpage.com/black-friday",
+  "categories": [
+    "business-tools"
+  ],
+  "description": "Build checkout pages and payment forms for memberships, events, and products.",
+  "offer": "30% off every paid plan, no code needed (applied at checkout): your first 6 months on monthly billing or your first year on yearly billing. Launch $29/mo → $20.30/mo, Scale $99/mo → $69.30/mo. New paid plans only",
+  "couponCodes": [],
+  "validity": "Nov 23 to Nov 30, 2026, 11:59 PM PT",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

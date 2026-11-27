@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "SupaSidebar",
+  "url": "https://supasidebar.com?r=td",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Find and manage browser tabs from a collapsible sidebar.",
+  "offer": "50% off Lifetime · code **SIDEBARBF50**",
+  "couponCodes": [
+    "SIDEBARBF50"
+  ],
+  "validity": "-",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

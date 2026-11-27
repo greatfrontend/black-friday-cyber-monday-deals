@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "SiftMac",
+  "url": "https://siftmac.com/pricing",
+  "categories": [
+    "utilities"
+  ],
+  "description": "Review Mac disk usage and identify files that can be recreated before deleting them.",
+  "offer": "25% off the Founding licence: $12 → $9, no code needed, applied at checkout",
+  "couponCodes": [],
+  "validity": "Nov 27 to Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

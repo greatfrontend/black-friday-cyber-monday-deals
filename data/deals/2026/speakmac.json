@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Speakmac",
+  "url": "https://www.speakmac.app/buy",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Dictate offline and capture meetings without a meeting bot on macOS.",
+  "offer": "35% off one-time licenses: $29 → $18.85 (1 Mac) / $39 → $25.35 (2 Macs), code **BF2026** (auto-applied at checkout)",
+  "couponCodes": [
+    "BF2026"
+  ],
+  "validity": "Nov 26 to Dec 7, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

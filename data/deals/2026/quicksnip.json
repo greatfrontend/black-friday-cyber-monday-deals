@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "QuickSnip",
+  "url": "https://quicksnip.com/pricing",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Record your screen on Mac or Windows and get a shareable link.",
+  "offer": "50% off the first year of Pro or Team with code **BLACKFRIDAY**, through Cyber Monday (Nov 30). Pro is $6/mo or $60/yr, so $3/mo or $30 for the first year",
+  "couponCodes": [
+    "BLACKFRIDAY"
+  ],
+  "validity": "Ends Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

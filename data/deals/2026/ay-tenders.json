@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "AY Tenders",
+  "url": "https://tenders.ayskilllab.com/#pricing",
+  "categories": [
+    "business-tools"
+  ],
+  "description": "Find government tender notices from several countries in one place.",
+  "offer": "50% off the first month on monthly plans, no code needed (applied automatically at checkout): Tenders $19 → $9.50, Tenders + Grants $24 → $12 for the first month, then the normal monthly price",
+  "couponCodes": [],
+  "validity": "Nov 22 to Nov 30, 2026, 11:59 PM US Pacific",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

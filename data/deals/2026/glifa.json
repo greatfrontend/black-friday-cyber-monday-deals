@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Glifa",
+  "url": "https://glifa.app/",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Edit Markdown on macOS with reviewable AI suggestions.",
+  "offer": "33% off, no code needed: $14.99 → $9.99 one-time, up to 3 Macs",
+  "couponCodes": [],
+  "validity": "Nov 20 to Nov 30, 2026, Pacific time",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

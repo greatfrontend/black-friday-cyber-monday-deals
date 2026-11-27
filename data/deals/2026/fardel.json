@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Fardel",
+  "url": "https://fardelapp.com/",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Organize travel packing, itineraries, expenses, and guides in one place.",
+  "offer": "50% off Pro Lifetime (US) — one-time purchase. $79.99 → $39.99 USD. Local prices vary. Discount applies automatically in the app; no code needed",
+  "couponCodes": [],
+  "validity": "Nov 27, 2026 to Jan 1, 2027",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

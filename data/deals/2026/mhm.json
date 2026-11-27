@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "mhm",
+  "url": "https://apps.apple.com/app/mhm-you-too/id6826873538",
+  "categories": [
+    "miscellaneous"
+  ],
+  "description": "Share matching private emoji signals with another person on iPhone.",
+  "offer": "50% off mhm+ Lifetime (one-time purchase). US pricing: $49.99 → $24.99 USD; local prices vary. Applied automatically in the App Store, no code needed. Yearly: 60% off the first year ($29.99 → $11.99 USD, then $29.99/year) with code **BFCM26** ([redeem](https://apps.apple.com/redeem?ctx=offercodes&id=6826873538&code=BFCM26)), new subscribers",
+  "couponCodes": [
+    "BFCM26"
+  ],
+  "validity": "Nov 17 to Dec 2, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

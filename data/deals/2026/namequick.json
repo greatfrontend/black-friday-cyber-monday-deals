@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "NameQuick",
+  "url": "https://namequick.app/#pricing",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Rename files from the contents of receipts, photos, scans, and documents.",
+  "offer": "25% off every paid plan. Applied automatically on namequick.app, or code **BLACKFRIDAY26**. Self-Managed (own AI key, one-time) $69 → $51.75. Managed annual $120 → $90 first year. Managed monthly $12 → $9 first month, after the 14-day free trial",
+  "couponCodes": [
+    "BLACKFRIDAY26"
+  ],
+  "validity": "Nov 23 to Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

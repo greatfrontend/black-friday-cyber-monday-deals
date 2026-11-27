@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Kipzy",
+  "url": "https://kipzy.app/",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Browse on iPhone with blocking for ads, pop-ups, and trackers.",
+  "offer": "50% off Pro Lifetime (one-time purchase). US pricing: $49.99 → $24.99 USD; local prices vary. Applied automatically in the App Store, no code needed",
+  "couponCodes": [],
+  "validity": "Nov 13 to Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

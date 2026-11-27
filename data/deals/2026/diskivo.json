@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Diskivo",
+  "url": "https://diskivo.app/en",
+  "categories": [
+    "utilities"
+  ],
+  "description": "Review which files take up space on a Mac and locate duplicates.",
+  "offer": "€69.99 → €19.00 with code **BLACKFRIDAY2026** at checkout. Diskivo Pro Perpetual, one Mac, including updates within the purchased major version",
+  "couponCodes": [
+    "BLACKFRIDAY2026"
+  ],
+  "validity": "Nov 13 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

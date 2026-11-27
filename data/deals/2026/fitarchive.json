@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "FitArchive",
+  "url": "https://fitarchive.app/",
+  "categories": [
+    "health-and-fitness"
+  ],
+  "description": "Log workouts and meals in a mobile or web fitness tracker.",
+  "offer": "50% off Plus yearly for your first year: $19.99 → $9.99 in the US; local prices vary. iPhone code **BLACKFRIDAY50** ([claim here](https://fitarchive.app/black-friday/)). New subscribers",
+  "couponCodes": [
+    "BLACKFRIDAY50"
+  ],
+  "validity": "Ends Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

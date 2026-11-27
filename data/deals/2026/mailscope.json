@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "MailScope",
+  "url": "https://mailscope.app/blackfriday/",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Catch and inspect development emails locally on macOS.",
+  "offer": "$19 USD one-time (regular $29, save $10). Code **bf2026** is prefilled on the checkout link. Up to two Macs (macOS 14+), with 12 months of updates",
+  "couponCodes": [
+    "bf2026"
+  ],
+  "validity": "Nov 18 to Nov 30, 2026, US Pacific",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

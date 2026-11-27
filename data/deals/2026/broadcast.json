@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Broadcast",
+  "url": "https://sendbroadcast.net/black-friday",
+  "categories": [
+    "marketing-seo"
+  ],
+  "description": "Host your own newsletters, email automations, and transactional sending.",
+  "offer": "$100 off the Regular License (one-time, $250 → $150) with code **BLACKFRIDAY26**",
+  "couponCodes": [
+    "BLACKFRIDAY26"
+  ],
+  "validity": "Ends Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

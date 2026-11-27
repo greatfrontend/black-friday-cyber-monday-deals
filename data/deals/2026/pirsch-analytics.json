@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Pirsch Analytics",
+  "url": "https://pirsch.io/",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Track website usage with a privacy-focused analytics service.",
+  "offer": "20% off for your first payment with code **BLACKFRIDAY26**",
+  "couponCodes": [
+    "BLACKFRIDAY26"
+  ],
+  "validity": "Ends Dec 31, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

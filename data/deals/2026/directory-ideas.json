@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Directory Ideas",
+  "url": "https://directoryideas.ai/",
+  "categories": [
+    "business-tools"
+  ],
+  "description": "Research potential directory sites using search demand.",
+  "offer": "33% off lifetime access, one payment, no code needed: $89 → $59",
+  "couponCodes": [],
+  "validity": "Ends Nov 30, 2026, 11:59 PM PT",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

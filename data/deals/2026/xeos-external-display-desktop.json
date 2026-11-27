@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "XeOS: External Display Desktop",
+  "url": "https://apps.apple.com/us/app/xeos-external-display-desktop/id6758286241",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Use an external monitor to create a desktop workspace for an iPhone or iPad.",
+  "offer": "25% off Lifetime: $39.99 → $29.99 with code **XEOSREDDIT** ([redeem](https://apps.apple.com/redeem?ctx=offercodes&id=6758286241&code=XEOSREDDIT)). Free 7-day trial",
+  "couponCodes": [
+    "XEOSREDDIT"
+  ],
+  "validity": "Nov 27 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Seqora",
+  "url": "https://seqora.dev/blog/black-friday/",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "A desktop SQL client for PostgreSQL, MySQL, MariaDB, SQLite, and SQL Server.",
+  "offer": "Seqora Pro $5.99 → $2.99/month for the first 3 months, then $5.99/month. No code needed, shown at checkout. One per customer",
+  "couponCodes": [],
+  "validity": "Ends Dec 6, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

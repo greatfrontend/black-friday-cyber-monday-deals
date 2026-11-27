@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Options Matrix Pro",
+  "url": "https://www.optionsmatrixpro.com/black-friday",
+  "categories": [
+    "finance-tools"
+  ],
+  "description": "Model and track options strategies from a retail trading dashboard.",
+  "offer": "50% off every plan, no code needed: first year on annual ($100 → $50 / $300 → $150 / $500 → $250) or first 3 months on monthly",
+  "couponCodes": [],
+  "validity": "Nov 23 to Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

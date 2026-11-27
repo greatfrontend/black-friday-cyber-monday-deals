@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "KeyboardStack",
+  "url": "https://keyboardstack.com/",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Navigate Mac windows, pointers, and controls using keyboard shortcuts.",
+  "offer": "50% off Lifetime license ($29.99 → $14.99). Automatically applied at checkout; no code needed",
+  "couponCodes": [],
+  "validity": "Nov 1 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

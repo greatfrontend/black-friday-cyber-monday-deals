@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Vemetric",
+  "url": "https://vemetric.com/",
+  "categories": [
+    "business-tools"
+  ],
+  "description": "Track website usage, product events, and behavior across a user journey.",
+  "offer": "30% off the first year of any yearly plan with code **BF2026**",
+  "couponCodes": [
+    "BF2026"
+  ],
+  "validity": "Ends Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

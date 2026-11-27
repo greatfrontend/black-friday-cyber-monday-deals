@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Gumtrends",
+  "url": "https://gumtrends.com",
+  "categories": [
+    "miscellaneous"
+  ],
+  "description": "Research Gumroad products and estimated sales from a catalog.",
+  "offer": "30% off lifetime membership with code **BF2026** $99 → $69.30",
+  "couponCodes": [
+    "BF2026"
+  ],
+  "validity": "Ends Dec 5, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "AI Toolbox",
+  "url": "https://www.ai-toolbox.co/pricing",
+  "categories": [
+    "ai-tools"
+  ],
+  "description": "Organize AI chats in a browser and add search, folders, and export.",
+  "offer": "50% off Lifetime ($49.50) and All Access Lifetime ($99.50), one-time payment, with code **BLACKFRIDAY**. Monthly, Annual and Teams not included",
+  "couponCodes": [
+    "BLACKFRIDAY"
+  ],
+  "validity": "Ends Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

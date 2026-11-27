@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "GetYouTubeTranscript",
+  "url": "https://getyoutubetranscript.com/pricing",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Fetch YouTube transcripts and channel metadata through an API or MCP server.",
+  "offer": "Lifetime access for $149 one-time: 3,000 credits every month for life, first 100 buyers. Or 30% off the first year of the annual plan ($54 → $37.80), auto-applied at checkout or with code **BF26GYT**",
+  "couponCodes": [
+    "BF26GYT"
+  ],
+  "validity": "Ends Dec 10, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

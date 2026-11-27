@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "RouteSketcher",
+  "url": "https://routesketcher.com/",
+  "categories": [
+    "health-and-fitness"
+  ],
+  "description": "Plan a walking, running, or cycling route in a drawn shape.",
+  "offer": "30% off the lifetime plan ($19.99 → $13.99, one-time payment) with code **BLACKFRIDAY**",
+  "couponCodes": [
+    "BLACKFRIDAY"
+  ],
+  "validity": "Nov 26 to Dec 6, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

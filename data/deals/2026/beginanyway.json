@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "BeginAnyway",
+  "url": "https://apps.apple.com/us/app/beginanyway/id6811712330",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Set an alarm that asks you to do one small task to start the day.",
+  "offer": "37% off Plus Lifetime (one-time purchase). US pricing: $39.99 → $24.99 USD; local prices vary. Discount applied automatically in the App Store, no code needed",
+  "couponCodes": [],
+  "validity": "Nov 27 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

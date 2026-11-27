@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Uptimecheck",
+  "url": "https://uptimecheck.com/pricing/",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Check website, API, server, and cron availability from multiple regions.",
+  "offer": "70% off the first year on yearly plans, no code needed: Start €108 → €29/yr, Professional €348 → €99/yr, Business €828 → €239/yr (excl. VAT)",
+  "couponCodes": [],
+  "validity": "Nov 25 to Dec 4, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

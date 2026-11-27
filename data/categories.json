@@ -27,12 +27,12 @@
     {
       "const": "productivity-tools",
       "title": "Productivity",
-      "description": "Historical productivity tools category."
+      "description": "Task management, notes, calendars, focus tools, and desktop workflows."
     },
     {
       "const": "ai-tools",
       "title": "AI tools",
-      "description": "Historical AI tools category."
+      "description": "AI chat, writing, research, transcription, and automation tools."
     },
     {
       "const": "design-kits",
@@ -61,13 +61,53 @@
     },
     {
       "const": "ai-powered-tools-for-developers",
-      "title": "AI tools",
-      "description": "AI applications and developer APIs."
+      "title": "Developer AI",
+      "description": "AI tools and APIs for software development."
     },
     {
       "const": "design-courses",
       "title": "Design courses",
       "description": "Design and UI/UX courses."
+    },
+    {
+      "const": "design-tools",
+      "title": "Design tools",
+      "description": "Apps for visual design, prototyping, illustration, and design workflows."
+    },
+    {
+      "const": "marketing-seo",
+      "title": "Marketing & SEO",
+      "description": "Email marketing, advertising, search optimization, and audience research."
+    },
+    {
+      "const": "business-tools",
+      "title": "Business tools",
+      "description": "Software for operating a business, including analytics, billing, and customer support."
+    },
+    {
+      "const": "social-media-tools",
+      "title": "Social media",
+      "description": "Social post creation, scheduling, publishing, and analytics."
+    },
+    {
+      "const": "finance-tools",
+      "title": "Finance",
+      "description": "Budgeting, invoicing, investment tracking, and financial research."
+    },
+    {
+      "const": "utilities",
+      "title": "Utilities",
+      "description": "Tools for files, devices, media, privacy, and system maintenance."
+    },
+    {
+      "const": "health-and-fitness",
+      "title": "Health & fitness",
+      "description": "Apps for exercise, sleep, nutrition, and wellness tracking."
+    },
+    {
+      "const": "miscellaneous",
+      "title": "Miscellaneous",
+      "description": "Other consumer and specialty apps, including travel and entertainment."
     }
   ]
 }

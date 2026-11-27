@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "FlexiBackup for Mac",
+  "url": "https://kahsenglee.gumroad.com/l/FlexiBackup/BLACK2026",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Choose where macOS stores local iPhone and iPad backups.",
+  "offer": "50% off ($5.99 → $2.99) one time purchase using promo code **BLACK2026**",
+  "couponCodes": [
+    "BLACK2026"
+  ],
+  "validity": "Nov 8 to Dec 6, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

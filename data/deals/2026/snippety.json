@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Snippety",
+  "url": "https://apps.apple.com/us/app/snippety-snippets-manager/id1530751461?platform=mac",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Expand shortcuts into reusable snippets on Mac and iPhone.",
+  "offer": "40% off lifetime license : $49.99 → $29.99. The new price will be available on the App Store",
+  "couponCodes": [],
+  "validity": "Nov 13 to Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

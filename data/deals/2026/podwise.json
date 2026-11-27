@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Podwise",
+  "url": "https://podwise.ai/pricing",
+  "categories": [
+    "ai-tools"
+  ],
+  "description": "Generate transcripts, notes, and diagrams from podcast episodes.",
+  "offer": "40% off Standard and Pro, monthly or yearly, renewals stay 40% off: Standard $70.80 → $42.48/yr, Pro $142.80 → $85.68/yr, code **BF2026** at checkout on podwise.ai. Also available as Black Friday pricing in the iOS app",
+  "couponCodes": [
+    "BF2026"
+  ],
+  "validity": "Ends Dec 6, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "BatchMark",
+  "url": "https://batchmark.dispatchcat.com/holiday-sale/",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Apply watermarks to batches of photos before sharing them.",
+  "offer": "50% off Lifetime (one-time purchase), November 15 – December 25, 2026. US pricing: $79.99 → $39.99 USD; local prices vary. No code needed, applied automatically in the app. First year of Yearly $19.99 (then $39.99/yr), November 20, 2026 – January 1, 2027",
+  "couponCodes": [],
+  "validity": "Nov 15, 2026 to Jan 1, 2027",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

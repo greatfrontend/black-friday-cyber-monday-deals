@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Highseat",
+  "url": "https://highseat.com/pricing?billing=yearly",
+  "categories": [
+    "business-tools"
+  ],
+  "description": "Track website traffic and net revenue without relying on cookies.",
+  "offer": "40% off the first year of any yearly plan, no code needed (applied automatically at checkout): 10k events $90 → $54/yr, 100k events $290 → $174/yr. New customers only",
+  "couponCodes": [],
+  "validity": "Nov 23 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "ChartScout",
+  "url": "https://chartscout.io/black-friday",
+  "categories": [
+    "finance-tools"
+  ],
+  "description": "Watch for chart patterns and receive alerts on crypto markets.",
+  "offer": "40% off ChartScout Pro for 3 months. Discount automatically applied; no coupon code needed",
+  "couponCodes": [],
+  "validity": "-",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "GEO Grader",
+  "url": "https://geo.nxtg.ai/pricing",
+  "categories": [
+    "marketing-seo"
+  ],
+  "description": "Create branded reports on how businesses appear in AI search.",
+  "offer": "50% off your first 3 months ($44.50/mo instead of $89/mo; up to 30 scans a month during the offer), then $89/mo. New customers only. Code: **GEOCYBER50**",
+  "couponCodes": [
+    "GEOCYBER50"
+  ],
+  "validity": "Nov 27 to Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

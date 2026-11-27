@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "ConnectWizard",
+  "url": "https://apps.apple.com/us/app/asc-analytics-connectwizard/id6747314580",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Explore App Store Connect metrics for your apps.",
+  "offer": "Pro Annual 50% off ($100 → $50)",
+  "couponCodes": [],
+  "validity": "Nov 27 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Calendarly",
+  "url": "https://getcalendarly.com/black-friday",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Put upcoming events and tasks on your iPhone Lock Screen.",
+  "offer": "44% off Lifetime Pro (one-time purchase, no subscription). US pricing: $24.99 → $13.99 USD; local prices vary. Applied automatically in the app, no code needed",
+  "couponCodes": [],
+  "validity": "Nov 27 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

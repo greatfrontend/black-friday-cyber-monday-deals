@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Wiredesk",
+  "url": "https://wiredesk.ai/pricing",
+  "categories": [
+    "ai-tools"
+  ],
+  "description": "Create automated customer support for phone, email, and chat using your own content.",
+  "offer": "30% off your first year of Growth or Scale with code **BLACKFRIDAY2026**. Billed yearly: Growth $39 → $27.30/mo, Scale $159 → $111.30/mo. Billed monthly: Growth $49 → $34.30/mo, Scale $199 → $139.30/mo",
+  "couponCodes": [
+    "BLACKFRIDAY2026"
+  ],
+  "validity": "Ends Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

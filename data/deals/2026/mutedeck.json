@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "MuteDeck",
+  "url": "https://mutedeck.com/pricing",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Control several video meeting apps from common shortcuts or a Stream Deck.",
+  "offer": "35% off lifetime license with code **BFCM2026**: $14 → $9.10 per computer, one-time purchase",
+  "couponCodes": [
+    "BFCM2026"
+  ],
+  "validity": "Nov 22 to Dec 5, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

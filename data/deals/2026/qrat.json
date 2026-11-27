@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "QRat",
+  "url": "https://apps.apple.com/us/app/qrat-qr-code-generator/id1497158638?platform=mac",
+  "categories": [
+    "design-tools"
+  ],
+  "description": "Create custom QR codes from templates on Apple devices.",
+  "offer": "50% off lifetime license: $10 → $4.99. Code **BLACKFRIDAY2026**. Redeem it via [this link](https://apps.apple.com/redeem/?code=BLACKFRIDAY2026&ctx=offercodes&id=1497158638)",
+  "couponCodes": [
+    "BLACKFRIDAY2026"
+  ],
+  "validity": "Nov 16 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

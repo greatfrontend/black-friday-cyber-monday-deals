@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Daily Time Tracking",
+  "url": "https://dailytimetracking.com/",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Log Mac work time through lightweight check-ins.",
+  "offer": "Up to 30% off: Annual US$39.99 → US$29.99 for one upcoming year with code **DAILYBF2026**, then standard renewal; new, existing and expired subscribers subject to Apple's terms. Lifetime US$99.99 → US$69.99 once, no code, in-app purchase. Same numerical EUR prices. Local prices/savings vary; existing subscribers should compare their current rate",
+  "couponCodes": [
+    "DAILYBF2026"
+  ],
+  "validity": "Nov 23 to Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

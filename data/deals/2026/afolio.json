@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Afolio",
+  "url": "https://afolio.app/#black-friday",
+  "categories": [
+    "miscellaneous"
+  ],
+  "description": "Catalog a LEGO collection by set, figure, or part on Apple devices.",
+  "offer": "70% off Afolio Pro (one-time purchase, covers Mac, iPhone and iPad): US$19.99 → US$5.99 with App Store offer code **BF26**. [Redeem in the App Store](https://apps.apple.com/redeem?ctx=offercodes&id=6764484145&code=BF26)",
+  "couponCodes": [
+    "BF26"
+  ],
+  "validity": "Ends Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

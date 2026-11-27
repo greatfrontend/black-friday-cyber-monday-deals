@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Portico",
+  "url": "https://portico.run/lifetime",
+  "categories": [
+    "business-tools"
+  ],
+  "description": "Collect client onboarding details and documents through a single link.",
+  "offer": "25% off lifetime plans, no code needed: Solo $49 → $37, Practice $119 → $89, Firm $229 → $172, one payment",
+  "couponCodes": [],
+  "validity": "Nov 23 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

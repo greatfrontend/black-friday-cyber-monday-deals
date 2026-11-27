@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "LinkShip",
+  "url": "https://linkship.net/pricing",
+  "categories": [
+    "utilities"
+  ],
+  "description": "Share files by link and manage access or replace the linked file later.",
+  "offer": "20% off the first year of any yearly plan with code **BLACKFRIDAY2026** : Tiny $66.99 → $53.59, Solo $124.99 → $99.99, Pro $249.99 → $199.99, Pro Max $499.99 → $399.99",
+  "couponCodes": [
+    "BLACKFRIDAY2026"
+  ],
+  "validity": "Nov 2 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Copy Text Easily",
+  "url": "https://devapt.com/copy-text-easily/",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Copy text with one click and return to it later through clipboard history.",
+  "offer": "30% off lifetime ($29 to $20.30) with code **30BF2026**. Includes future updates",
+  "couponCodes": [
+    "30BF2026"
+  ],
+  "validity": "Nov 12 to Dec 2, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

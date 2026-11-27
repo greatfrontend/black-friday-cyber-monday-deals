@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Treader",
+  "url": "https://www.treader.ca/pricing",
+  "categories": [
+    "miscellaneous"
+  ],
+  "description": "Plan a group trip using shared dates, maps, and daily itineraries.",
+  "offer": "30% off the first year of Pro annual: $49.99 → $34.99 CAD, then renews at $49.99 CAD a year, code **BFRIDAY30**",
+  "couponCodes": [
+    "BFRIDAY30"
+  ],
+  "validity": "Nov 20 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

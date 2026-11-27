@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Milkshake",
+  "url": "https://apps.apple.com/app/apple-store/id1452719910",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Make and publish a small website or link page from a phone.",
+  "offer": "40% off the first year of Pro and Pro Plus. US pricing: Pro Yearly $59.99 → $35.99, Pro Plus Yearly $99.99 → $59.99, then the regular yearly price. Local prices vary. No code needed, the offer appears in the app",
+  "couponCodes": [],
+  "validity": "Nov 27 to Dec 2, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

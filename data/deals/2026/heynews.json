@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "HeyNews",
+  "url": "https://heynews.co/pricing",
+  "categories": [
+    "marketing-seo"
+  ],
+  "description": "Draft a newsletter from publications and feeds you follow.",
+  "offer": "50% off any plan for 12 months with code **BLACKFRIDAY50**, monthly plans and add-ons included: Hobbyist $39 → $19.50/mo, Starter $99 → $49.50/mo, Pro $299 → $149.50/mo, Team $499 → $249.50/mo. New subscriptions",
+  "couponCodes": [
+    "BLACKFRIDAY50"
+  ],
+  "validity": "Nov 24 to Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Helix",
+  "url": "https://tryhelix.app/",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Open apps and commands from a Mac radial shortcut menu.",
+  "offer": "30% off $9 → $6.30 one-time for 2 Macs with code **BLACKFRIDAY30**. 7-day free trial",
+  "couponCodes": [
+    "BLACKFRIDAY30"
+  ],
+  "validity": "Nov 20 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

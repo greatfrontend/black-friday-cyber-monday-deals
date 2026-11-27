@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "RenderPixels",
+  "url": "https://renderpixels.com/",
+  "categories": [
+    "marketing-seo"
+  ],
+  "description": "Generate branded images through a remote MCP connection.",
+  "offer": "20% off any credit pack with code **BF2026** (e.g. 6,000 credits $25 → $20). Credits never expire",
+  "couponCodes": [
+    "BF2026"
+  ],
+  "validity": "Ends Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

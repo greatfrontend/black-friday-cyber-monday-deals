@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Spring Prompt",
+  "url": "https://springprompt.com/plans",
+  "categories": [
+    "ai-powered-tools-for-developers"
+  ],
+  "description": "Test how prompts from an app behave across different language models.",
+  "offer": "40% off the first 3 months of either monthly plan with code **BF2026**: Basic $49 → $29.40/mo, Pro $200 → $120/mo. New subscriptions; USD, excluding tax",
+  "couponCodes": [
+    "BF2026"
+  ],
+  "validity": "Nov 25 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

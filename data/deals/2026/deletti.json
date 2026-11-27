@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Deletti",
+  "url": "https://deletti.app/#black-friday",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Sort photos by file size to find large items to remove from an iPhone.",
+  "offer": "Deletti Single Lifetime: $8.99 USD with code (regular $17.99 without code). Use code **BFCM26**, while redemptions last. US prices shown; local prices and availability may vary",
+  "couponCodes": [
+    "BFCM26"
+  ],
+  "validity": "Ends Dec 1, 2026, Pacific Time",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

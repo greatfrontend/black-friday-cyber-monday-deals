@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "EzClean",
+  "url": "https://apps.apple.com/us/app/ezclean-your-disk-cleaner/id6581486175",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Find and clear rebuildable caches from macOS development tools.",
+  "offer": "80% off Premium yearly: $14.99 → $2.99 with offer code **BLACKFRIDAY2026** ([redeem on the Mac App Store](https://apps.apple.com/redeem?ctx=offercodes&id=6581486175&code=BLACKFRIDAY2026))",
+  "couponCodes": [
+    "BLACKFRIDAY2026"
+  ],
+  "validity": "Ends Dec 31, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

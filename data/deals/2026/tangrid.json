@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Tangrid",
+  "url": "https://tangrid.app/pricing?code=BLACK5D",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Tile windows and arrange workspaces automatically on macOS.",
+  "offer": "20% off lifetime licenses with code **BLACK5D**: 1 Mac $22.99 → $18.39 USD. One-time purchase, lifetime updates",
+  "couponCodes": [
+    "BLACK5D"
+  ],
+  "validity": "-",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

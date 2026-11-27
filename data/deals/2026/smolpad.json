@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Smolpad",
+  "url": "https://smolpad.com/",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Keep Markdown notes on Apple devices with a quick-access Mac menu bar.",
+  "offer": "50% off Smolpad Pro Lifetime: $29.99 → $14.99 with App Store offer code **BLACKFRIDAY**, redeemed through [this link](https://apps.apple.com/redeem?ctx=offercodes&id=6792438749&code=BLACKFRIDAY). One purchase covers Mac, iPhone, iPad and Apple Watch",
+  "couponCodes": [
+    "BLACKFRIDAY"
+  ],
+  "validity": "Ends Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

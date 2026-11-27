@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "WheelClick",
+  "url": "https://wheelclick.app/",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Use a three-finger gesture as middle-click on a Mac trackpad.",
+  "offer": "50% off the one-time unlock, $4.99 → $2.49: the Magic Mouse, fn+click, Force Click, Middle-Drag, Autoscroll and per-app rules. No code needed, on wheelclick.app and the Mac App Store",
+  "couponCodes": [],
+  "validity": "Nov 20 to Dec 3, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

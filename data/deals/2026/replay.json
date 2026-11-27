@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Replay",
+  "url": "https://tryreplay.online/",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Record calls in conferencing apps locally without adding a meeting bot.",
+  "offer": "50% off one-time purchase with code **REPLAYBF50**: $10 → $5. No subscription",
+  "couponCodes": [
+    "REPLAYBF50"
+  ],
+  "validity": "Nov 21 to Dec 31, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Monitorable",
+  "url": "https://monitorable.io/#pricing",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Monitor Linux hosts with an OpenTelemetry agent and hosted alerts.",
+  "offer": "40% off for as long as you stay subscribed with code **BF2026**: Pro $9 → $5.40/mo, Scale $29 → $17.40/mo, Enterprise $79 → $47.40/mo, annual plans too. First 200 subscriptions",
+  "couponCodes": [
+    "BF2026"
+  ],
+  "validity": "Nov 24 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

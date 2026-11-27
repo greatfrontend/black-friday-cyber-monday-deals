@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Oil Studio",
+  "url": "https://studio.oiloil.org/en/",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Record and edit software demos on Apple silicon Macs.",
+  "offer": "20% off one-time license ($39 → $31.20) with code **BFCM2026**",
+  "couponCodes": [
+    "BFCM2026"
+  ],
+  "validity": "Nov 20 to Dec 2, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "ZxClip",
+  "url": "https://zxclip.com/",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Edit video through transcripts and remove pauses with on-device tools.",
+  "offer": "70% off Lifetime license ($80 → $24). Applied automatically at checkout. No code needed",
+  "couponCodes": [],
+  "validity": "Nov 1 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "FileBo",
+  "url": "https://apps.apple.com/us/app/filebo-recent-files-items/id6785596150",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Find recently opened, changed, or saved files from a Mac pop-up.",
+  "offer": "50% off FileBo Unlock, a one-time purchase: $9.99 → $4.99, no code needed (Mac App Store price). Free to download",
+  "couponCodes": [],
+  "validity": "Nov 26 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

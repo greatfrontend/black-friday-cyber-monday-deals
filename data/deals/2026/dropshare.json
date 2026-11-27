@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Dropshare",
+  "url": "https://dropshare.app",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Upload screenshots and files and share them by link.",
+  "offer": "$29 instead of $39 ($10 off) one-time for 3 Macs, deal on the website",
+  "couponCodes": [],
+  "validity": "-",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

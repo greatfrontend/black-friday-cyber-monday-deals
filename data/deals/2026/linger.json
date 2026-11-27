@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Linger",
+  "url": "https://withlinger.com/black-friday/",
+  "categories": [
+    "design-tools"
+  ],
+  "description": "Collect design reference images, links, and notes locally on a Mac.",
+  "offer": "38% off Lifetime ($79→$49), Personal $39→$25 (36% off), no code needed",
+  "couponCodes": [],
+  "validity": "Nov 19 to Dec 1, 2026, 23:59 PST",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

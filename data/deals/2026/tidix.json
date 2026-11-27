@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Tidix",
+  "url": "https://tidix.app/",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Inspect resource use across CPU, GPU, storage, and network on a Mac.",
+  "offer": "69% off one-time license per Mac with code **BLACKFRIDAY2026**. Every update for life, 14-day refund",
+  "couponCodes": [
+    "BLACKFRIDAY2026"
+  ],
+  "validity": "-",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "WP Foreman",
+  "url": "https://wpforeman.com/black-friday/",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Manage updates and backups for multiple WordPress sites from one dashboard.",
+  "offer": "Lifetime deal: 25 sites $199 / 50 $349 / 100 $599 / 250 $899 (regularly $1.99/site/mo)",
+  "couponCodes": [],
+  "validity": "Nov 24 to Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

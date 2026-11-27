@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "FletchShot",
+  "url": "https://fletchshot.app/",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Add quick annotations to screenshots on macOS.",
+  "offer": "50% off Full Unlock $9.99 → $4.99. One-time in-app purchase, no code needed",
+  "couponCodes": [],
+  "validity": "Nov 27 to Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

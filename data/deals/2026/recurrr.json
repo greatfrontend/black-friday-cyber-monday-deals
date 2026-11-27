@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Recurrr",
+  "url": "https://recurrr.com/pricing",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Schedule recurring messages from a Gmail or Outlook mailbox.",
+  "offer": "58% off the yearly plan ($108 → $45/year), kept on every renewal. Applied automatically, no code needed. 14-day free trial",
+  "couponCodes": [],
+  "validity": "Ends Dec 31, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

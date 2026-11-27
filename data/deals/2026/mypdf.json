@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "myPDF",
+  "url": "https://apps.apple.com/app/apple-store/id6751173174",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Edit, combine, convert, and sign PDFs on mobile and Mac.",
+  "offer": "50% off Pro on iPhone, iPad and Mac (one-time purchase, no subscription). US pricing: $6.99 → $3.49 USD; prices vary by country. No code needed",
+  "couponCodes": [],
+  "validity": "Nov 16 to Nov 29, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

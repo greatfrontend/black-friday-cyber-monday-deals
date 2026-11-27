@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "MarsDawn",
+  "url": "https://apps.apple.com/app/apple-store/id6812925073?platform=mac",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Review Markdown, JSON, and YAML from coding agents on Apple devices.",
+  "offer": "50% off the one-time unlock: $4.99 → $2.49 USD, no code needed (App Store price). 14-day free trial; one unlock covers Mac, iPhone and iPad",
+  "couponCodes": [],
+  "validity": "Nov 24 to Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

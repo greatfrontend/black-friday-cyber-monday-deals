@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Becoming",
+  "url": "https://becoming.pics/#plus",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Align progress photos from different dates into a timelapse.",
+  "offer": "40% off Plus Forever (one-time purchase): $39.99 → $23.99 with code **BF2026**, applied by the Get Plus button on becoming.pics",
+  "couponCodes": [
+    "BF2026"
+  ],
+  "validity": "Nov 27 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

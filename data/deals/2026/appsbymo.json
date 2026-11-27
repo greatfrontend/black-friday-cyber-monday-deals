@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "AppsByMo",
+  "url": "https://appsbymo.app/",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Browse a collection of independent Mac and iPhone apps.",
+  "offer": "50% off every paid app. Mac apps bought direct: code **BLACKFRIDAY** at checkout (e.g. Cue $29 → $14.50, Scry $24 → $12). App Store apps half price, no code (e.g. Wick $15.99 → $7.99, Margin for iPhone $5.99 → $2.99)",
+  "couponCodes": [
+    "BLACKFRIDAY"
+  ],
+  "validity": "Nov 9 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

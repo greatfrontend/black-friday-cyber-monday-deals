@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "SocialAPIs",
+  "url": "https://socialapis.io/pricing",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Retrieve public Facebook and Instagram data through a REST API.",
+  "offer": "30% off the first 3 months of monthly plans with code **BLACKDATA30**: Pro $4.99 → $3.49/mo, Ultra $49 → $34.30/mo, Mega $179 → $125.30/mo. Or 17% off the first year of yearly plans with the same code: Pro $53.89 → $44.73/yr, Ultra $529.20 → $439.24/yr, Mega $1,933.20 → $1,604.56/yr. New customers",
+  "couponCodes": [
+    "BLACKDATA30"
+  ],
+  "validity": "Nov 24 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Countless: Push Up Counter",
+  "url": "https://apps.apple.com/app/id6807464779",
+  "categories": [
+    "health-and-fitness"
+  ],
+  "description": "Count push-ups using iPhone and the motion sensors in compatible AirPods.",
+  "offer": "50% off the first year of Pro (yearly plan): $17.99 → $8.99 USD in the US; local prices vary. Code **COUNTLESSBF** ([redeem here](https://apps.apple.com/redeem?ctx=offercodes&id=6807464779&code=COUNTLESSBF)). New subscribers",
+  "couponCodes": [
+    "COUNTLESSBF"
+  ],
+  "validity": "Ends Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

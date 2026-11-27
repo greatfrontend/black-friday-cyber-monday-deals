@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Wavedance",
+  "url": "https://wave.dance/",
+  "categories": [
+    "design-tools"
+  ],
+  "description": "Use generative animated dot patterns as a Mac wallpaper.",
+  "offer": "30% off the one-time purchase with code **BLACKFRIDAY30**",
+  "couponCodes": [
+    "BLACKFRIDAY30"
+  ],
+  "validity": "Nov 19 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

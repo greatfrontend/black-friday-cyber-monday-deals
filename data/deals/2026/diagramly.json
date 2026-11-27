@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Diagramly",
+  "url": "https://diagramly.ai/pricing",
+  "categories": [
+    "ai-tools"
+  ],
+  "description": "Convert text and images into editable diagrams.",
+  "offer": "25% off the usual promotional price for the first year: Basic US$39.60 → US$29.70, Plus US$71.60 → US$53.70, with code **BLACKFRIDAY26**. New annual subscriptions. Basic renews at US$99/year and Plus at US$179/year. Enter the code at Paddle checkout",
+  "couponCodes": [
+    "BLACKFRIDAY26"
+  ],
+  "validity": "Ends Nov 30, 2026, 11:59 P.M ET",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

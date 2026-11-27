@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Smultron",
+  "url": "https://www.peterborgapps.com/smultron",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Edit code and plain text on macOS with Smultron.",
+  "offer": "20% off $9.99 → $7.99 (automatically applied)",
+  "couponCodes": [],
+  "validity": "Nov 23 to Nov 30, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}

@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Juicy Battery",
+  "url": "https://getjuicy.app/",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Set charge notifications and monitor battery health on macOS.",
+  "offer": "40% off Juicy Lifetime: $24.99 → $14.99 one-time. Applied automatically at checkout, or use code **BFCM26**",
+  "couponCodes": [
+    "BFCM26"
+  ],
+  "validity": "Nov 23 to Dec 1, 2026",
+  "latest": true,
+  "addedAt": "2026-11-27T17:41:40+08:00"
+}
