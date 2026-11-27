@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Notra",
+  "url": "https://www.usenotra.com/pricing",
+  "categories": [
+    "marketing-seo"
+  ],
+  "description": "AI visibility (GEO) for brands and agencies: see whether ChatGPT, Claude, Gemini, Copilot and Google AI recommend you, who they name instead, and track AI crawler and referral traffic.",
+  "offer": "**25% off** every paid plan for the first **6 months** on monthly billing, applied automatically at checkout; no code needed. New customers only. Starter $75/mo (regular $100/mo), Growth $187.50/mo (regular $250/mo), Scale $412.50/mo (regular $550/mo).",
+  "couponCodes": [],
+  "validity": "Ends Dec 2, 2026 (GMT)",
+  "latest": true,
+  "addedAt": "2026-11-28T04:53:55+08:00"
+}
