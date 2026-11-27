@@ -86,19 +86,13 @@ export function DealDetail({
             {year < 2026 ? 'This is an archived offer. ' : ''}Offers can change. Confirm pricing and
             eligibility on the seller’s website.
           </p>
-          <div className="flex flex-wrap gap-2 border-t border-border pt-5">
-            <ArrowLink
-              variant="primary"
-              className="min-h-9"
-              href={deal.url}
-              target="_blank"
-              rel="noopener noreferrer sponsored"
-            >
-              Get deal
-              <span className="sr-only">from {deal.name} (opens in a new tab)</span>
-            </ArrowLink>
+          <div className="flex flex-wrap items-center gap-2 max-[359px]:gap-1">
             <a
-              className={buttonVariants({ variant: 'ghost', size: 'sm' })}
+              className={buttonVariants({
+                variant: 'ghost',
+                size: 'sm',
+                className: 'max-[359px]:px-0',
+              })}
               href={buildSuggestionUrl(deal, year)}
               target="_blank"
               rel="noopener noreferrer"
@@ -106,6 +100,16 @@ export function DealDetail({
               <Pencil aria-hidden="true" />
               Suggest an edit
             </a>
+            <ArrowLink
+              variant="primary"
+              className="ml-auto min-h-9"
+              href={deal.url}
+              target="_blank"
+              rel="noopener noreferrer sponsored"
+            >
+              Get deal
+              <span className="sr-only">from {deal.name} (opens in a new tab)</span>
+            </ArrowLink>
           </div>
         </div>
       )}
