@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Vogoo AI",
+  "url": "https://vogoo.ai/black-friday",
+  "categories": [
+    "design-tools",
+    "general-ai-tools"
+  ],
+  "description": "AI image, video and music generation tools.",
+  "offer": "Up to 60% off yearly plans compared with 12 monthly payments at the same tier. Applied automatically.",
+  "couponCodes": [],
+  "validity": "Ends Nov 30, 2026 at 23:59 UTC",
+  "latest": null,
+  "addedAt": "2026-11-28T11:35:40+08:00"
+}

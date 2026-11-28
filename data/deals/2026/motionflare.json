@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Motionflare",
+  "url": "https://motionflare.ai/pricing",
+  "categories": [
+    "design-tools",
+    "general-ai-tools"
+  ],
+  "description": "Tool for generating animated visuals and videos.",
+  "offer": "50% off the first month of Pro or Max. Pro is $14.50 and Max is $49.50 for the first month.",
+  "couponCodes": [],
+  "validity": "Ends Dec 1, 2026 at 11:59 PM PT",
+  "latest": null,
+  "addedAt": "2026-11-28T11:35:40+08:00"
+}

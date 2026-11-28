@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Vector Ink",
+  "url": "https://vectorink.io/black-friday",
+  "categories": [
+    "design-tools"
+  ],
+  "description": "Browser-based vector graphics editor and illustration tool.",
+  "offer": "Lifetime is $49.99 once instead of $79.99.",
+  "couponCodes": [],
+  "validity": "Nov 23 to Dec 1, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T11:38:35+08:00"
+}

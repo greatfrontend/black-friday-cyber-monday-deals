@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Swiper Studio",
+  "url": "https://studio.swiperjs.com/blog/black-friday-sale-2026",
+  "categories": [
+    "ui-kits-starter-kits",
+    "design-tools"
+  ],
+  "description": "Visual builder for responsive Swiper.js sliders and carousels.",
+  "offer": "50% off monthly, annual and lifetime plans for individuals and teams. Subscription discounts carry over at renewal.",
+  "couponCodes": [],
+  "validity": "Ends Nov 30, 2026 PT",
+  "latest": null,
+  "addedAt": "2026-11-28T11:38:35+08:00"
+}

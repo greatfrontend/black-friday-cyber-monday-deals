@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "FramerGeeks",
+  "url": "https://framergeeks.com/black-friday-live",
+  "categories": [
+    "ui-kits-starter-kits",
+    "design-kits"
+  ],
+  "description": "Framer templates, components and plugins.",
+  "offer": "Black Friday pricing on Framer resources. The Everything bundle is $249 once instead of $499 and includes new releases for 12 months.",
+  "couponCodes": [],
+  "validity": "Ends Dec 1, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T11:35:40+08:00"
+}

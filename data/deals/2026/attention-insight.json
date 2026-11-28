@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Attention Insight",
+  "url": "https://attentioninsight.com/cyber-monday/",
+  "categories": [
+    "design-tools"
+  ],
+  "description": "Predictive heatmaps for testing where users may look in a design.",
+  "offer": "30% off for one year on monthly or annual plans with **CM26**.",
+  "couponCodes": [
+    "CM26"
+  ],
+  "validity": "Ends Dec 1, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T11:38:35+08:00"
+}

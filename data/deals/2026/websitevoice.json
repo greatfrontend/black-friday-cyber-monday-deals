@@ -1,0 +1,17 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "WebsiteVoice",
+  "url": "https://websitevoice.com/black-friday",
+  "categories": [
+    "developer-tools",
+    "design-tools"
+  ],
+  "description": "Adds text-to-speech playback to websites.",
+  "offer": "New subscribers get 20% off the first three months on monthly billing or the first year on annual billing with **VOICE20**.",
+  "couponCodes": [
+    "VOICE20"
+  ],
+  "validity": "Nov 23 to Dec 2, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T11:38:35+08:00"
+}

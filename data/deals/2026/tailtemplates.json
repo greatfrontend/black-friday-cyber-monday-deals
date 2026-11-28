@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "TailTemplates",
+  "url": "https://tailtemplates.com/all-access",
+  "categories": [
+    "ui-kits-starter-kits"
+  ],
+  "description": "Tailwind CSS templates for marketing sites, startups and SaaS products.",
+  "offer": "80% off yearly plans with code **BLFCM2026**.",
+  "couponCodes": [
+    "BLFCM2026"
+  ],
+  "validity": "Ends Dec 1, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T11:38:35+08:00"
+}

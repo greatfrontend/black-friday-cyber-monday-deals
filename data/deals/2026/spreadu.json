@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Spreadu",
+  "url": "https://spreadu.com/promo/black-friday-2026",
+  "categories": [
+    "design-tools"
+  ],
+  "description": "Photo album design and client feedback software.",
+  "offer": "$149 instead of $199 for the first year of unlimited album design.",
+  "couponCodes": [],
+  "validity": "Ends Dec 2, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T11:38:35+08:00"
+}

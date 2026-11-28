@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Depost AI",
+  "url": "https://depost.ai/blog/depost-ai-black-friday",
+  "categories": [
+    "social-media-tools",
+    "general-ai-tools"
+  ],
+  "description": "LinkedIn writing, visual design and scheduling assistant.",
+  "offer": "Lifetime access is $399 once, with usage limits.",
+  "couponCodes": [],
+  "validity": "Limited availability",
+  "latest": null,
+  "addedAt": "2026-11-28T11:35:40+08:00"
+}

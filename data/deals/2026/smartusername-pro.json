@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "SmartUsername Pro",
+  "url": "https://smartusername.com/black-friday/",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "WordPress plugin for bulk username changes, exposure checks and login reporting.",
+  "offer": "60% off the first year of yearly plans. The Agency lifetime license is $149 instead of $299. Applied at checkout.",
+  "couponCodes": [],
+  "validity": "Ends Dec 1, 2026 at 11:59 PM IST",
+  "latest": null,
+  "addedAt": "2026-11-28T11:35:40+08:00"
+}

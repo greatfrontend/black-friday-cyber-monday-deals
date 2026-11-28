@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "SpinupWP",
+  "url": "https://spinupwp.com/",
+  "categories": [
+    "developer-infrastructure"
+  ],
+  "description": "Control panel for hosting WordPress on your own servers.",
+  "offer": "50% off the first six months.",
+  "couponCodes": [],
+  "validity": "Ends Nov 30, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T11:38:35+08:00"
+}

@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "BarcodeCraft",
+  "url": "https://www.barcodecraft.com/black-friday",
+  "categories": [
+    "design-tools",
+    "utilities"
+  ],
+  "description": "Barcode and QR code generator for designers and businesses.",
+  "offer": "Lifetime is $4.99 instead of $9.99. No code needed.",
+  "couponCodes": [],
+  "validity": "Ends Dec 4, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T11:35:40+08:00"
+}

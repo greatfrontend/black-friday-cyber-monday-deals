@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Atmos",
+  "url": "https://atmos.style/black-friday",
+  "categories": [
+    "design-tools"
+  ],
+  "description": "Color palette builder with contrast checks and a Figma plugin.",
+  "offer": "50% off Lifetime with code **BF2026**, bringing it to $79.50 before tax.",
+  "couponCodes": [
+    "BF2026"
+  ],
+  "validity": "Nov 23 to Nov 29, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T11:35:40+08:00"
+}

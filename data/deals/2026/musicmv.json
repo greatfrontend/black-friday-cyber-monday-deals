@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "MusicMV",
+  "url": "https://musicmv.ai/black-friday",
+  "categories": [
+    "design-tools",
+    "general-ai-tools"
+  ],
+  "description": "AI video generator for turning songs into music videos.",
+  "offer": "Up to 40% off one-time credit packs. Credits do not expire. No code needed.",
+  "couponCodes": [],
+  "validity": "Ends Dec 1, 2026 PT",
+  "latest": null,
+  "addedAt": "2026-11-28T11:38:35+08:00"
+}

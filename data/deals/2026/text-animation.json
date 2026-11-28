@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Text Animation",
+  "url": "https://textanimation.org/black-friday",
+  "categories": [
+    "design-tools"
+  ],
+  "description": "Browser-based motion typography and animated text generator.",
+  "offer": "Double credits for the first billing period on new plans, and double credits on eligible packs for active subscribers.",
+  "couponCodes": [],
+  "validity": "Ends Dec 1, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T11:35:40+08:00"
+}

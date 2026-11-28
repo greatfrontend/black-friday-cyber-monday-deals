@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Octoparse",
+  "url": "https://www.octoparse.com/black-friday-sale-2026",
+  "categories": [
+    "developer-tools",
+    "business-tools"
+  ],
+  "description": "Visual web data extraction and automation software.",
+  "offer": "Up to 45% off eligible yearly plans. Applied at checkout.",
+  "couponCodes": [],
+  "validity": "Ends Dec 2, 2026 ET",
+  "latest": null,
+  "addedAt": "2026-11-28T11:35:40+08:00"
+}

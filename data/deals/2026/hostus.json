@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "HostUS",
+  "url": "https://my.hostus.us/store/2026-black-friday-end-of-year-specials",
+  "categories": [
+    "developer-infrastructure"
+  ],
+  "description": "Virtual private server hosting across multiple regions.",
+  "offer": "The 1 GB NVMe KVM VPS starts at $18/year with 20 GB storage and 1 TB bandwidth.",
+  "couponCodes": [],
+  "validity": "-",
+  "latest": null,
+  "addedAt": "2026-11-28T11:35:40+08:00"
+}

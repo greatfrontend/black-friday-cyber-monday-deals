@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "AdverseMonitor",
+  "url": "https://adversemonitor.com/black-friday",
+  "categories": [
+    "developer-infrastructure",
+    "business-tools"
+  ],
+  "description": "Threat intelligence monitoring and reporting for security teams.",
+  "offer": "40% to 60% off the first year of annual plans. Applied at checkout.",
+  "couponCodes": [],
+  "validity": "Ends Jan 1, 2027 at 23:59:59 UTC",
+  "latest": null,
+  "addedAt": "2026-11-28T11:35:40+08:00"
+}

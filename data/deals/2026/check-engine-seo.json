@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Check Engine SEO",
+  "url": "https://checkengineseo.com/",
+  "categories": [
+    "marketing-seo",
+    "developer-tools"
+  ],
+  "description": "Desktop app for auditing website SEO and finding technical issues.",
+  "offer": "$19.99 once through December 2, then $39.",
+  "couponCodes": [],
+  "validity": "Ends Dec 2, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T11:35:40+08:00"
+}

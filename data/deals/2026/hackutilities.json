@@ -1,0 +1,17 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "HackUtilities",
+  "url": "https://hackutilities.com/",
+  "categories": [
+    "developer-tools",
+    "ai-powered-tools-for-developers"
+  ],
+  "description": "Desktop workspace with agent terminals and developer utilities.",
+  "offer": "35% off lifetime licenses with code **BFCM2026**.",
+  "couponCodes": [
+    "BFCM2026"
+  ],
+  "validity": "-",
+  "latest": null,
+  "addedAt": "2026-11-28T11:38:35+08:00"
+}

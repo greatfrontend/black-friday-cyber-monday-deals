@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "B2BKing",
+  "url": "https://b2bkingplugin.com/black-friday/",
+  "categories": [
+    "developer-tools",
+    "business-tools"
+  ],
+  "description": "WooCommerce plugin for B2B pricing and wholesale storefronts.",
+  "offer": "Up to 40% off plans, applied automatically.",
+  "couponCodes": [],
+  "validity": "Nov 15 to Dec 15, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T11:38:35+08:00"
+}

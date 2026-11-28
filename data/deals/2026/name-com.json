@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Name.com",
+  "url": "https://www.name.com/promo/cyber-monday",
+  "categories": [
+    "developer-infrastructure"
+  ],
+  "description": "Domain registration and DNS hosting.",
+  "offer": "Discounted new domain registrations, including .com, .dev, .app and .org. First-year pricing applies to most extensions.",
+  "couponCodes": [],
+  "validity": "Ends Nov 30, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T11:35:40+08:00"
+}

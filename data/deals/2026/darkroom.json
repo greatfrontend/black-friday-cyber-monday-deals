@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Darkroom",
+  "url": "https://darkroom.co/black-friday",
+  "categories": [
+    "design-tools"
+  ],
+  "description": "Photo and video editor for iPhone, iPad and Mac.",
+  "offer": "50% off the first year of Darkroom+ Yearly, bringing it to $19.99 instead of $39.99.",
+  "couponCodes": [],
+  "validity": "Ends Dec 3, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T11:35:40+08:00"
+}

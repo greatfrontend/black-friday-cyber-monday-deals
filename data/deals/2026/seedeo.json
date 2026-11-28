@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Seedeo",
+  "url": "https://seedeo.ai/black-friday",
+  "categories": [
+    "design-tools",
+    "general-ai-tools"
+  ],
+  "description": "AI video, image, music and voice generation platform.",
+  "offer": "Annual plans start at $79 for the first year. A one-time pack of 20,000 non-expiring credits is $99. Offers are applied automatically.",
+  "couponCodes": [],
+  "validity": "Ends Nov 30, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T11:35:40+08:00"
+}

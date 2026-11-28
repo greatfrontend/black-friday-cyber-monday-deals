@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "SaaSBold",
+  "url": "https://saasbold.com/pricing",
+  "categories": [
+    "ui-kits-starter-kits"
+  ],
+  "description": "Next.js starter kit with authentication, payments and dashboards.",
+  "offer": "50% off plans with code **BLFCM2026**.",
+  "couponCodes": [
+    "BLFCM2026"
+  ],
+  "validity": "Ends Dec 1, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T11:38:35+08:00"
+}

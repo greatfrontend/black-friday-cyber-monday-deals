@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "SEOPress",
+  "url": "https://www.seopress.org/",
+  "categories": [
+    "developer-tools",
+    "marketing-seo"
+  ],
+  "description": "WordPress SEO plugin for metadata, sitemaps and structured data.",
+  "offer": "SEOPress PRO for unlimited sites is $99, with the same renewal price.",
+  "couponCodes": [],
+  "validity": "-",
+  "latest": null,
+  "addedAt": "2026-11-28T11:38:35+08:00"
+}

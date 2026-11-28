@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Omnisend",
+  "url": "https://www.omnisend.com/bfcm/",
+  "categories": [
+    "marketing-seo"
+  ],
+  "description": "Email and SMS marketing automation for ecommerce.",
+  "offer": "30% off the first three months with code **BLACK-FRIDAY-2026** for new users and Free plan upgrades.",
+  "couponCodes": [
+    "BLACK-FRIDAY-2026"
+  ],
+  "validity": "Ends Dec 1, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T11:35:40+08:00"
+}

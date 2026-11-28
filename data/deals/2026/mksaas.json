@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "MkSaaS",
+  "url": "https://mksaas.com/",
+  "categories": [
+    "ui-kits-starter-kits"
+  ],
+  "description": "Next.js boilerplate for building SaaS products with billing and authentication.",
+  "offer": "Black Friday price is $99.",
+  "couponCodes": [],
+  "validity": "Ends Nov 30, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T11:35:40+08:00"
+}

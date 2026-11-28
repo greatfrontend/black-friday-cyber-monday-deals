@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Social Fetch",
+  "url": "https://www.socialfetch.dev/black-friday",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "API for retrieving public social media data as JSON.",
+  "offer": "New monthly plans get double credits in month one, new annual plans get double credits for the first three months, and the $59 Growth pack includes 25,000 bonus credits. Applied automatically, once per workspace.",
+  "couponCodes": [],
+  "validity": "Ends Dec 1, 2026 at 08:00 UTC",
+  "latest": null,
+  "addedAt": "2026-11-28T11:35:40+08:00"
+}

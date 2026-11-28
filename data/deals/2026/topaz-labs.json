@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Topaz Labs",
+  "url": "https://www.topazlabs.com/sale",
+  "categories": [
+    "design-tools"
+  ],
+  "description": "Photo and video enhancement tools for upscaling, denoising and sharpening.",
+  "offer": "Up to 67% off selected products and bundles.",
+  "couponCodes": [],
+  "validity": "-",
+  "latest": null,
+  "addedAt": "2026-11-28T11:35:40+08:00"
+}

@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Conversion Bridge",
+  "url": "https://conversionbridgewp.com/offer/black-friday/",
+  "categories": [
+    "developer-tools",
+    "marketing-seo"
+  ],
+  "description": "Track conversions from WordPress forms, stores and other plugins in analytics tools.",
+  "offer": "50% off lifetime plans and the first year of annual plans.",
+  "couponCodes": [],
+  "validity": "Nov 23 to Dec 4, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T11:35:40+08:00"
+}

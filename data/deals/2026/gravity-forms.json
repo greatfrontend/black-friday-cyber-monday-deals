@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Gravity Forms",
+  "url": "https://gravity.com/",
+  "categories": [
+    "developer-tools",
+    "design-tools"
+  ],
+  "description": "Form builder for WordPress with integrations and conditional logic.",
+  "offer": "40% off a new Elite license.",
+  "couponCodes": [],
+  "validity": "Nov 23 to Dec 1, 2026 ET",
+  "latest": null,
+  "addedAt": "2026-11-28T11:38:35+08:00"
+}

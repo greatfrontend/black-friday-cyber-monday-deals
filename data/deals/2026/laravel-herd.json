@@ -1,14 +1,14 @@
 {
   "$schema": "../../product.schema.json",
   "name": "Laravel Herd",
-  "url": "https://herd.laravel.com/",
+  "url": "https://beyondco.de/black-friday",
   "categories": [
     "developer-tools"
   ],
   "description": "A local PHP and Laravel development environment for macOS and Windows.",
-  "offer": "Herd Pro is $69/year (was $99), and Herd for Teams is $199/year (was $299) for 10 licenses. A limited-time lifetime license is also available.",
+  "offer": "Herd Pro is $69/year instead of $99, or $199 once for Lifetime. For 10 licenses, Herd for Teams is $199/year instead of $299, or $599 once for Lifetime.",
   "couponCodes": [],
-  "validity": "Through Nov 30, 2026",
+  "validity": "Ends Nov 30, 2026",
   "latest": true,
   "addedAt": "2026-11-27T23:47:24+08:00"
 }

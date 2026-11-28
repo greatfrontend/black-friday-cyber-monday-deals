@@ -1,0 +1,17 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "GripMCP",
+  "url": "https://gripmcp.com/black-friday/",
+  "categories": [
+    "developer-tools",
+    "ai-powered-tools-for-developers"
+  ],
+  "description": "Connect AI assistants to WordPress sites through MCP.",
+  "offer": "50% off the first year of Creator, Operator or Fleet annual plans with code **GRIPBF50**.",
+  "couponCodes": [
+    "GRIPBF50"
+  ],
+  "validity": "Ends Dec 1, 2026 ET",
+  "latest": null,
+  "addedAt": "2026-11-28T11:35:40+08:00"
+}

@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "IPVanish",
+  "url": "https://www.ipvanish.com/black-friday/",
+  "categories": [
+    "utilities"
+  ],
+  "description": "VPN with apps for desktop, mobile and streaming devices.",
+  "offer": "Black Friday two-year plans start at $2.19/mo.",
+  "couponCodes": [],
+  "validity": "-",
+  "latest": null,
+  "addedAt": "2026-11-28T11:35:40+08:00"
+}

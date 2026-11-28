@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "ShadcnStore",
+  "url": "https://shadcnstore.com/pricing",
+  "categories": [
+    "ui-kits-starter-kits",
+    "design-kits"
+  ],
+  "description": "shadcn/ui blocks, templates and a Figma kit.",
+  "offer": "40% off every plan and template, applied at checkout.",
+  "couponCodes": [],
+  "validity": "Ends Dec 1, 2026 at 11:59 PM PT",
+  "latest": null,
+  "addedAt": "2026-11-28T11:35:40+08:00"
+}

@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "CometAPI",
+  "url": "https://www.cometapi.com/campaigns/black-friday/",
+  "categories": [
+    "ai-powered-tools-for-developers"
+  ],
+  "description": "Unified API for accessing multiple AI models.",
+  "offer": "Up to 28% below provider API rates on selected models during the promotion.",
+  "couponCodes": [],
+  "validity": "Nov 24 to Dec 3, 2026 UTC",
+  "latest": null,
+  "addedAt": "2026-11-28T11:38:35+08:00"
+}

@@ -1,0 +1,17 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Siter.io",
+  "url": "https://siter.io/black-friday",
+  "categories": [
+    "design-tools",
+    "ui-kits-starter-kits"
+  ],
+  "description": "Visual website builder for designing and publishing responsive sites.",
+  "offer": "40% off the first monthly or annual payment on Solo, Plus or Pro with code **BLACKFRIDAY40**. Renews at the regular price.",
+  "couponCodes": [
+    "BLACKFRIDAY40"
+  ],
+  "validity": "Ends Dec 3, 2026 at 11:59 PM ET",
+  "latest": null,
+  "addedAt": "2026-11-28T11:35:40+08:00"
+}

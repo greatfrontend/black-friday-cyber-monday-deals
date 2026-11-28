@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Popup Maker",
+  "url": "https://wppopupmaker.com/black-friday-sale-2026/",
+  "categories": [
+    "marketing-seo",
+    "developer-tools"
+  ],
+  "description": "WordPress plugin for creating popups and signup forms.",
+  "offer": "First-year pricing for one site is $49.50 on Pro or $179 on Pro+.",
+  "couponCodes": [],
+  "validity": "Nov 24 to Nov 30, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T11:35:40+08:00"
+}

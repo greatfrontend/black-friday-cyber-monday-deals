@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "BuzzWire",
+  "url": "https://buzzwire.io/black-friday",
+  "categories": [
+    "social-media-tools"
+  ],
+  "description": "Instagram comment-to-DM workflows and campaign automation.",
+  "offer": "Pro Lifetime is $119 once.",
+  "couponCodes": [],
+  "validity": "Ends Dec 2, 2026 at 11:59 PM PT",
+  "latest": null,
+  "addedAt": "2026-11-28T11:35:40+08:00"
+}

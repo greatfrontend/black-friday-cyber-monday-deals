@@ -1,0 +1,17 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "InstaWP",
+  "url": "https://instawp.com/black-friday/",
+  "categories": [
+    "developer-infrastructure",
+    "developer-tools"
+  ],
+  "description": "Hosting, staging and development sandboxes for WordPress.",
+  "offer": "Discounted prepaid hosting credits, including $750 of credits for $499 with code **BF499**.",
+  "couponCodes": [
+    "BF499"
+  ],
+  "validity": "Ends Dec 4, 2026 at 23:59 UTC",
+  "latest": null,
+  "addedAt": "2026-11-28T11:35:40+08:00"
+}

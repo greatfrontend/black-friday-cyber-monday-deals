@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Adobe Firefly",
+  "url": "https://www.adobe.com/products/firefly/plans.html",
+  "categories": [
+    "design-tools",
+    "general-ai-tools"
+  ],
+  "description": "Generative image, video and audio tools for creative work.",
+  "offer": "Eligible first-time US subscribers get promotional pricing for six months. On monthly plans, Pro is $9.99/mo and Pro Plus is $19.99/mo during that period. Annual billed monthly options are also discounted.",
+  "couponCodes": [],
+  "validity": "Ends Dec 6, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T11:38:35+08:00"
+}

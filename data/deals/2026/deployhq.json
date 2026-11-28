@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "DeployHQ",
+  "url": "https://www.deployhq.com/pricing",
+  "categories": [
+    "developer-infrastructure",
+    "developer-tools"
+  ],
+  "description": "Deploy code from Git repositories to servers and other hosting targets.",
+  "offer": "New customers upgrading from a free trial get 50% off the first three monthly payments or 12.5% off the first annual payment. Applied at checkout.",
+  "couponCodes": [],
+  "validity": "Nov 24 to Dec 6, 2026 UTC",
+  "latest": null,
+  "addedAt": "2026-11-28T11:38:35+08:00"
+}

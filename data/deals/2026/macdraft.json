@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "MacDraft",
+  "url": "https://www.microspot.com/featured/black-friday-deals.htm",
+  "categories": [
+    "design-tools"
+  ],
+  "description": "2D drafting and floor plan design software.",
+  "offer": "30% off selected products and upgrades, up to 55% off multi-license purchases, or 50% off eligible PE-to-Pro upgrades.",
+  "couponCodes": [],
+  "validity": "-",
+  "latest": null,
+  "addedAt": "2026-11-28T11:38:35+08:00"
+}

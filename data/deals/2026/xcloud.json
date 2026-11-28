@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "xCloud",
+  "url": "https://xcloud.host/",
+  "categories": [
+    "developer-infrastructure"
+  ],
+  "description": "Hosting and server management for WordPress and other applications.",
+  "offer": "Lifetime server-management panel plans start at $199. Selected hosting plans also have Black Friday pricing.",
+  "couponCodes": [],
+  "validity": "Ends Dec 4, 2026 or when limited stock runs out",
+  "latest": null,
+  "addedAt": "2026-11-28T11:38:35+08:00"
+}

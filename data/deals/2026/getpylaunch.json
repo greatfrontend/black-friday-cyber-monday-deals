@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "getpylaunch",
+  "url": "https://getpylaunch.com/",
+  "categories": [
+    "ui-kits-starter-kits"
+  ],
+  "description": "FastAPI starter kit for SaaS products, with billing and authentication.",
+  "offer": "60% off both one-time licenses. Single project is $22 and Unlimited is $41.60.",
+  "couponCodes": [],
+  "validity": "Ends Dec 1, 2026 at 08:00 UTC",
+  "latest": null,
+  "addedAt": "2026-11-28T11:38:35+08:00"
+}

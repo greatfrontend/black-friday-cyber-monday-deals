@@ -1,0 +1,17 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "ABContents",
+  "url": "https://abcontents.com/",
+  "categories": [
+    "design-tools",
+    "ai-powered-tools-for-developers"
+  ],
+  "description": "Generate videos from text, documents or web pages, with API access.",
+  "offer": "30% off eligible video and API packs with **BLACKFRIDAY**. Videos start at $2.10.",
+  "couponCodes": [
+    "BLACKFRIDAY"
+  ],
+  "validity": "Ends Dec 1, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T11:38:35+08:00"
+}

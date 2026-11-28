@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "MyFonts",
+  "url": "https://www.myfonts.com/a/font/promo/black-friday-cyber-monday-font-sale/",
+  "categories": [
+    "design-kits"
+  ],
+  "description": "Typeface marketplace for desktop, web and other font licenses.",
+  "offer": "Up to 40% off more than 150 fonts, with rotating foundry offers.",
+  "couponCodes": [],
+  "validity": "Through Dec 2, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T11:35:40+08:00"
+}

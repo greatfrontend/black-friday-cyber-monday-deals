@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Brevo",
+  "url": "https://www.brevo.com/black-friday/",
+  "categories": [
+    "marketing-seo"
+  ],
+  "description": "Email marketing and customer communication platform.",
+  "offer": "30% off new annual Starter or Standard subscriptions with 10,000 to 350,000 emails per month. Use **BREVOFRIDAY2026**.",
+  "couponCodes": [
+    "BREVOFRIDAY2026"
+  ],
+  "validity": "Ends Nov 30, 2026 at 23:59 CET",
+  "latest": null,
+  "addedAt": "2026-11-28T11:35:40+08:00"
+}

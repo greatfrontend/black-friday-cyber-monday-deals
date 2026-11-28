@@ -1,0 +1,17 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "TimeCamp",
+  "url": "https://www.timecamp.com/black-friday/",
+  "categories": [
+    "productivity-tools",
+    "business-tools"
+  ],
+  "description": "Time tracking and reporting for individuals and teams.",
+  "offer": "30% off the first year of Ultimate Annual for first-time subscribers with code **TCBF26**.",
+  "couponCodes": [
+    "TCBF26"
+  ],
+  "validity": "Ends Dec 5, 2026 at 23:59 UTC",
+  "latest": null,
+  "addedAt": "2026-11-28T11:35:40+08:00"
+}

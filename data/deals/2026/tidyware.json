@@ -1,0 +1,17 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Tidyware",
+  "url": "https://tidyware.app/",
+  "categories": [
+    "utilities",
+    "productivity-tools"
+  ],
+  "description": "Collection of one-time-purchase Mac utilities.",
+  "offer": "30% off every app with **BF2026**, applied at checkout.",
+  "couponCodes": [
+    "BF2026"
+  ],
+  "validity": "Ends Dec 1, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T11:38:35+08:00"
+}

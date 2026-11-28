@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "GutSlider Pro",
+  "url": "https://gutslider.com/black-friday/",
+  "categories": [
+    "ui-kits-starter-kits",
+    "design-tools"
+  ],
+  "description": "Gutenberg blocks for building responsive sliders and carousels in WordPress.",
+  "offer": "Up to 40% off. Lifetime licenses start at $69 and yearly plans at $17. Applied at checkout.",
+  "couponCodes": [],
+  "validity": "Ends Dec 1, 2026 at 23:59 UTC",
+  "latest": null,
+  "addedAt": "2026-11-28T11:35:40+08:00"
+}

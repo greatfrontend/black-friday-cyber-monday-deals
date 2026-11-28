@@ -1,0 +1,17 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Ad Badger",
+  "url": "https://www.adbadger.com/black-friday/",
+  "categories": [
+    "marketing-seo"
+  ],
+  "description": "Amazon advertising optimization and reporting tools.",
+  "offer": "30% off the first year with **BF30**, or 10% off the first six months with **BF10**.",
+  "couponCodes": [
+    "BF30",
+    "BF10"
+  ],
+  "validity": "Ends Nov 30, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T11:38:35+08:00"
+}

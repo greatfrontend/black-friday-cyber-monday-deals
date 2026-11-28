@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "MagicPost",
+  "url": "https://magicpost.in/blog/magicpost-black-friday",
+  "categories": [
+    "social-media-tools"
+  ],
+  "description": "LinkedIn post writing and scheduling tool.",
+  "offer": "Growth and Creator are 30% off monthly or up to 60% below the monthly rate on yearly billing. Team and Agency are 20% off monthly or 40% below the monthly rate on yearly billing. Sale rates carry over at renewal. No code needed.",
+  "couponCodes": [],
+  "validity": "Ends Dec 6, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T11:35:40+08:00"
+}

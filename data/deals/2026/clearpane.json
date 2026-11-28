@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Clearpane",
+  "url": "https://getclearpane.app/",
+  "categories": [
+    "utilities"
+  ],
+  "description": "Mac activity monitor with resource usage explained in plain language.",
+  "offer": "$9 once instead of $19 for two Macs.",
+  "couponCodes": [],
+  "validity": "Ends Dec 1, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T11:38:35+08:00"
+}

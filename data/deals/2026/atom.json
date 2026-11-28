@@ -1,0 +1,17 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Atom",
+  "url": "https://www.atom.com/black-friday-sale",
+  "categories": [
+    "developer-infrastructure",
+    "business-tools"
+  ],
+  "description": "Domain marketplace and registrar.",
+  "offer": "25% off eligible premium domains. New .com registrations are $5 for the first year with **BFCOM**, then renew at $11.65/year.",
+  "couponCodes": [
+    "BFCOM"
+  ],
+  "validity": ".com offer ends Dec 7, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T11:35:40+08:00"
+}

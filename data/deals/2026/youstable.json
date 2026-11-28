@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "YouStable",
+  "url": "https://www.youstable.com/coupons/black-friday-web-hosting-deals",
+  "categories": [
+    "developer-infrastructure"
+  ],
+  "description": "Shared, cPanel, Windows and VPS hosting.",
+  "offer": "Up to 80% off shared hosting, with an additional 10% off eligible sale prices using **BFCM10**.",
+  "couponCodes": [
+    "BFCM10"
+  ],
+  "validity": "Ends Dec 5, 2026 at 11:59 PM IST",
+  "latest": null,
+  "addedAt": "2026-11-28T11:35:40+08:00"
+}

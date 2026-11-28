@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "FlyWP",
+  "url": "https://flywp.com/black-friday-deals/",
+  "categories": [
+    "developer-infrastructure"
+  ],
+  "description": "Manage WordPress sites on your own cloud servers.",
+  "offer": "Lifetime plans start at $249 for three servers.",
+  "couponCodes": [],
+  "validity": "Limited availability",
+  "latest": null,
+  "addedAt": "2026-11-28T11:35:40+08:00"
+}

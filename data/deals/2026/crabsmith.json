@@ -1,0 +1,17 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Crabsmith",
+  "url": "https://crabsmith.com/",
+  "categories": [
+    "developer-infrastructure",
+    "developer-tools"
+  ],
+  "description": "Hosted control panel for deploying and managing Ubuntu servers.",
+  "offer": "40% off every plan for as long as you stay subscribed with **BLACKFRIDAY40**.",
+  "couponCodes": [
+    "BLACKFRIDAY40"
+  ],
+  "validity": "-",
+  "latest": null,
+  "addedAt": "2026-11-28T11:38:35+08:00"
+}

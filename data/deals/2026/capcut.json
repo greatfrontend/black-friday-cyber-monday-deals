@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "CapCut",
+  "url": "https://www.capcut.com/tools/capcut-black-friday-sale",
+  "categories": [
+    "design-tools"
+  ],
+  "description": "Video editor for desktop, mobile and web.",
+  "offer": "Up to 90% off the first month of CapCut Pro through the offer page. Eligibility and pricing vary by region.",
+  "couponCodes": [],
+  "validity": "-",
+  "latest": null,
+  "addedAt": "2026-11-28T11:38:35+08:00"
+}

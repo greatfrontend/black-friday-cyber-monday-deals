@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Klasio",
+  "url": "https://klasio.com/bfcm/",
+  "categories": [
+    "business-tools",
+    "developer-tools"
+  ],
+  "description": "Platform for hosting online courses and live classes.",
+  "offer": "70% off lifetime plans or 50% off yearly plans. Starter Lifetime is $449.",
+  "couponCodes": [],
+  "validity": "Ends Dec 5, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T11:35:40+08:00"
+}

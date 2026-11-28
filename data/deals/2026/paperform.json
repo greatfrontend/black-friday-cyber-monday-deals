@@ -1,0 +1,17 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Paperform",
+  "url": "https://paperform.com/black-friday/",
+  "categories": [
+    "developer-tools",
+    "business-tools"
+  ],
+  "description": "Form builder for collecting information, signatures and payments.",
+  "offer": "50% off the first 12 months of Pro or Business with code **PFBF26** for new subscriptions.",
+  "couponCodes": [
+    "PFBF26"
+  ],
+  "validity": "Ends Nov 30, 2026 PT",
+  "latest": null,
+  "addedAt": "2026-11-28T11:35:40+08:00"
+}

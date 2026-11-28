@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Creatune",
+  "url": "https://creatune.ai/black-friday",
+  "categories": [
+    "design-tools",
+    "general-ai-tools"
+  ],
+  "description": "AI music generator and editor with stem separation.",
+  "offer": "30% off the first year of annual plans. Applied at checkout, with no code required.",
+  "couponCodes": [],
+  "validity": "Ends Dec 1, 2026 PT",
+  "latest": null,
+  "addedAt": "2026-11-28T11:35:40+08:00"
+}

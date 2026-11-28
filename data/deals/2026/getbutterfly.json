@@ -1,0 +1,17 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "getButterfly",
+  "url": "https://getbutterfly.com/black-friday-wordpress-plugin-deals/",
+  "categories": [
+    "developer-tools",
+    "ui-kits-starter-kits"
+  ],
+  "description": "WordPress plugins and themes for site building and maintenance.",
+  "offer": "40% off the first year of listed plugins and the Saturn theme with code **BF2026**.",
+  "couponCodes": [
+    "BF2026"
+  ],
+  "validity": "Nov 27 to Nov 30, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T11:35:40+08:00"
+}

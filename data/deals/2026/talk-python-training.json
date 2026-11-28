@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Talk Python Training",
+  "url": "https://training.talkpython.fm/black-friday-2026",
+  "categories": [
+    "developer-courses",
+    "books-for-developers-and-software-engineers"
+  ],
+  "description": "Python courses and books for application development and deployment.",
+  "offer": "20% off the Everything Bundle, 58% off the Starter Bundle, 25% off the production book and 30% off memberships.",
+  "couponCodes": [],
+  "validity": "Ends Dec 2, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T11:35:40+08:00"
+}

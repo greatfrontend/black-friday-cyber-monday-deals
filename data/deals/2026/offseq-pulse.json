@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "OffSeq Pulse",
+  "url": "https://pulse.offseq.com/pricing",
+  "categories": [
+    "developer-infrastructure",
+    "developer-tools"
+  ],
+  "description": "Device and infrastructure monitoring with alerts and fleet visibility.",
+  "offer": "New customers get 50% off the first year or month of Pulse or Pulse Managed. Applied automatically.",
+  "couponCodes": [],
+  "validity": "Ends Dec 2, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T11:35:40+08:00"
+}

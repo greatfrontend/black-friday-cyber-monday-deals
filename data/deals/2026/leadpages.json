@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Leadpages",
+  "url": "https://offers.leadpages.com/blackfriday",
+  "categories": [
+    "design-tools",
+    "marketing-seo"
+  ],
+  "description": "Landing page builder with lead capture and testing tools.",
+  "offer": "Up to 60% off the first year of an annual plan.",
+  "couponCodes": [],
+  "validity": "Ends Dec 6, 2026 at 11:59 PM PT",
+  "latest": null,
+  "addedAt": "2026-11-28T11:38:35+08:00"
+}

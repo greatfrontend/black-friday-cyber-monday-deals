@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Windscribe",
+  "url": "https://windscribe.com/vpn-deals/black-friday-cyber-monday",
+  "categories": [
+    "utilities"
+  ],
+  "description": "VPN with desktop, mobile and browser apps.",
+  "offer": "Windscribe Pro is $29/year instead of $69/year. The discounted rate renews while subscribed.",
+  "couponCodes": [],
+  "validity": "Ends Nov 30, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T11:35:40+08:00"
+}

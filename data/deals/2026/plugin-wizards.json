@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Plugin Wizards",
+  "url": "https://pluginwizards.com/black-friday/",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "WooCommerce extensions for storefronts and store operations.",
+  "offer": "40% off the first year of individual plugins and All Access with code **WIZARDS40**.",
+  "couponCodes": [
+    "WIZARDS40"
+  ],
+  "validity": "Ends Dec 1, 2026 at 23:59 UTC",
+  "latest": null,
+  "addedAt": "2026-11-28T11:35:40+08:00"
+}

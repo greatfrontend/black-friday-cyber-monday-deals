@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Pixels71",
+  "url": "https://www.pixels71.com/pricing",
+  "categories": [
+    "ui-kits-starter-kits",
+    "design-kits"
+  ],
+  "description": "Templates for Framer, Webflow and other site builders.",
+  "offer": "The lifetime All-Access Pass is $59 instead of $99.",
+  "couponCodes": [],
+  "validity": "Ends Dec 1, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T11:35:40+08:00"
+}

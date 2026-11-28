@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Linux Foundation Training",
+  "url": "https://training.linuxfoundation.org/blog/black-friday-deals-save-up-to-65-sitewide/",
+  "categories": [
+    "developer-courses"
+  ],
+  "description": "Open-source training and certifications in Linux, Kubernetes and cloud technologies.",
+  "offer": "Up to 65% off eligible certifications, courses, bundles and THRIVE-ONE subscriptions.",
+  "couponCodes": [],
+  "validity": "Nov 27 to Dec 4, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T11:38:35+08:00"
+}

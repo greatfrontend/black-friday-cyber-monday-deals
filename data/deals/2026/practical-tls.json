@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Practical TLS",
+  "url": "https://classes.pracnet.net/courses/practical-tls",
+  "categories": [
+    "developer-courses"
+  ],
+  "description": "Training on TLS, certificates and secure connections.",
+  "offer": "Lifetime course access is $50 instead of $297 with **BF2026TLS**.",
+  "couponCodes": [
+    "BF2026TLS"
+  ],
+  "validity": "Ends Dec 6, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T11:38:35+08:00"
+}

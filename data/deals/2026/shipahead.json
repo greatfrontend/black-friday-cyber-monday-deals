@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "ShipAhead",
+  "url": "https://shipahe.ad/",
+  "categories": [
+    "ui-kits-starter-kits"
+  ],
+  "description": "Nuxt starter kit for building a SaaS product.",
+  "offer": "50% off, applied automatically. Limited quantities.",
+  "couponCodes": [],
+  "validity": "Ends Nov 30, 2026 or when the offer sells out",
+  "latest": null,
+  "addedAt": "2026-11-28T11:35:40+08:00"
+}

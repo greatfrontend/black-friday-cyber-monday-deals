@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "LottieGo",
+  "url": "https://lottiego.com/black-friday",
+  "categories": [
+    "design-tools",
+    "utilities"
+  ],
+  "description": "Mac app for compressing Lottie animations and exporting them as video or GIF.",
+  "offer": "Pro Lifetime is $2.49 instead of $4.99 in the Mac App Store. No code needed.",
+  "couponCodes": [],
+  "validity": "Ends Dec 6, 2026 at 11:59 PM PT",
+  "latest": null,
+  "addedAt": "2026-11-28T11:35:40+08:00"
+}

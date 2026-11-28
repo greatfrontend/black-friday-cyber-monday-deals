@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "ZipWP",
+  "url": "https://zipwp.com/black-friday/",
+  "categories": [
+    "design-tools",
+    "developer-infrastructure"
+  ],
+  "description": "AI website builder for generating editable WordPress sites.",
+  "offer": "Up to 47% off, with one-time plans from $79 and discounted annual plans.",
+  "couponCodes": [],
+  "validity": "Ends Dec 7, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T11:35:40+08:00"
+}

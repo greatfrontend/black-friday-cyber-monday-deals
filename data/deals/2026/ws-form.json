@@ -1,0 +1,17 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "WS Form",
+  "url": "https://wsform.com/offer/black-friday/",
+  "categories": [
+    "developer-tools",
+    "design-tools"
+  ],
+  "description": "Form builder plugin for WordPress.",
+  "offer": "30% off the first year of any PRO edition with code **BF30**.",
+  "couponCodes": [
+    "BF30"
+  ],
+  "validity": "Nov 23 to Dec 4, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T11:35:40+08:00"
+}

@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "PeakHour",
+  "url": "https://peakhour.app/",
+  "categories": [
+    "developer-tools",
+    "utilities"
+  ],
+  "description": "Mac app for monitoring bandwidth and network performance.",
+  "offer": "Lifetime is $34.99 instead of $49.99.",
+  "couponCodes": [],
+  "validity": "-",
+  "latest": null,
+  "addedAt": "2026-11-28T11:38:35+08:00"
+}

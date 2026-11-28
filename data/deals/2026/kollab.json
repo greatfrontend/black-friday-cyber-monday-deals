@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Kollab",
+  "url": "https://kollab.im/black-friday",
+  "categories": [
+    "general-ai-tools",
+    "design-tools"
+  ],
+  "description": "AI workspace for writing, research, slides and media generation.",
+  "offer": "Annual Pro is $168 instead of $216, annual Max is $1,680 instead of $2,160, and credit packs are 15% off.",
+  "couponCodes": [],
+  "validity": "Ends Nov 30, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T11:35:40+08:00"
+}

@@ -1,14 +1,14 @@
 {
   "$schema": "../../product.schema.json",
   "name": "JSON2Video",
-  "url": "https://json2video.com/pricing/blackfriday-2026/?c=github",
+  "url": "https://json2video.com/pricing/blackfriday-2026/",
   "categories": [
     "ai-powered-tools-for-developers"
   ],
   "description": "Render videos from JSON, reusable templates, and programmatic inputs.",
-  "offer": "25% off the first year of the yearly plans with code **BF2026GH**, applied automatically: Professional $399.60 → $299.70 ($24.98/month, half the monthly plan), Hobby $199.50 → $149.63",
+  "offer": "25% off the first year of the Professional and Hobby annual plans with public code **BF2026**. Professional is $299.70 and Hobby is $149.63 for the first year.",
   "couponCodes": [
-    "BF2026GH"
+    "BF2026"
   ],
   "validity": "Nov 24 to Dec 1, 2026",
   "latest": true,

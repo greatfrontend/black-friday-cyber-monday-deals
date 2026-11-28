@@ -1,0 +1,17 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "ExitLoop",
+  "url": "https://www.exitloop.app/black-friday",
+  "categories": [
+    "business-tools",
+    "developer-tools"
+  ],
+  "description": "Subscription cancellation flows and retention analytics.",
+  "offer": "The first year is $74.50 instead of $149 with code **BLACKFRIDAY50**. Renews at $149/year.",
+  "couponCodes": [
+    "BLACKFRIDAY50"
+  ],
+  "validity": "Ends Dec 1, 2026 at 23:59 CET",
+  "latest": null,
+  "addedAt": "2026-11-28T11:35:40+08:00"
+}

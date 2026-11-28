@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "KeygenGo",
+  "url": "https://keygengo.5km.tech/black-friday/",
+  "categories": [
+    "utilities"
+  ],
+  "description": "Mac app for securely generating and organizing keys and tokens.",
+  "offer": "Lifetime is $19.99 instead of $39.99 in the Mac App Store. Annual is $9.99 instead of $19.99 for the first year with App Store offer code **BF2026YEAR**.",
+  "couponCodes": [
+    "BF2026YEAR"
+  ],
+  "validity": "Ends Dec 6, 2026 at 11:59 PM PT",
+  "latest": null,
+  "addedAt": "2026-11-28T11:35:40+08:00"
+}

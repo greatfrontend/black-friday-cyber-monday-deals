@@ -1,14 +1,14 @@
 {
   "$schema": "../../product.schema.json",
   "name": "VueSchool",
-  "url": "https://vueschool.io/",
+  "url": "https://vueschool.io/sales/blackfriday",
   "categories": [
     "developer-courses"
   ],
   "description": "Learn Vue.js and modern, cutting-edge front-end technologies from core-team members and industry experts with our premium tutorials and video courses",
-  "offer": "Black Friday: up to 55% off; Yearly $149 (was $300), Lifetime $499 (was $900)",
+  "offer": "The annual bundle with Vue School Premium and Unlearn.dev is $149 (listed value $600). The $349 Lifetime bundle includes Vue School lifetime access and the complete Mastering Nuxt and Mastering Pinia courses.",
   "couponCodes": [],
-  "validity": "Ends Dec 1",
+  "validity": "Ends Dec 1, 2026",
   "latest": true,
   "addedAt": "2026-11-24T13:29:23+08:00"
 }

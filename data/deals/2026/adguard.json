@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "AdGuard",
+  "url": "https://adguard.com/en/license.html",
+  "categories": [
+    "utilities"
+  ],
+  "description": "Ad and tracker blocking software for desktop and mobile.",
+  "offer": "50% off a one-year license or 45% off a lifetime license.",
+  "couponCodes": [],
+  "validity": "-",
+  "latest": null,
+  "addedAt": "2026-11-28T11:38:35+08:00"
+}

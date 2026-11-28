@@ -6,8 +6,10 @@
     "design-tools"
   ],
   "description": "Split flattened artwork into editable layers with transparent backgrounds.",
-  "offer": "+33%–35% bonus credits (~26% off per layer) on one-time non-expiring packs: Starter $3.90 (45 60 credits), Basic $10 (130 175 credits). Auto-applied, no code needed",
-  "couponCodes": [],
+  "offer": "40% off the first year of Pro or Ultra annual with **BF2026YEAR**, applied at checkout. Pro is $126 instead of $210 and Ultra is $216 instead of $360. An eligible Basic one-time pack also gets 70 bonus credits.",
+  "couponCodes": [
+    "BF2026YEAR"
+  ],
   "validity": "Ends Dec 1, 2026",
   "latest": true,
   "addedAt": "2026-11-27T17:41:40+08:00"

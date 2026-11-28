@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Strong Testimonials",
+  "url": "https://strongtestimonials.com/black-friday-2026/",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "WordPress plugin for collecting and displaying customer testimonials.",
+  "offer": "65% off annual plans and 25% off eligible lifetime licenses.",
+  "couponCodes": [],
+  "validity": "Ends Dec 2, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T11:35:40+08:00"
+}

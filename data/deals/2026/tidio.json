@@ -1,0 +1,17 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Tidio",
+  "url": "https://www.tidio.com/black-friday/",
+  "categories": [
+    "business-tools",
+    "general-ai-tools"
+  ],
+  "description": "Customer support chat and automation with an AI agent.",
+  "offer": "20% off the first monthly or annual payment on Starter or Growth with **BF2026**.",
+  "couponCodes": [
+    "BF2026"
+  ],
+  "validity": "Ends Dec 8, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T11:35:40+08:00"
+}

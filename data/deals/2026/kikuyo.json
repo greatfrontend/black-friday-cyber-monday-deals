@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Kikuyo",
+  "url": "https://kikuyo.app/",
+  "categories": [
+    "developer-tools",
+    "business-tools"
+  ],
+  "description": "Product feedback boards for collecting and prioritizing feature requests.",
+  "offer": "Lifetime Pro is $49 instead of $79 for the first five organizations.",
+  "couponCodes": [],
+  "validity": "Ends Dec 1, 2026 or when all five spots are claimed",
+  "latest": null,
+  "addedAt": "2026-11-28T11:38:35+08:00"
+}

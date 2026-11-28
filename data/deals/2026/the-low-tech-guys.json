@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "The low-tech guys",
+  "url": "https://lowtechguys.com/blackfriday",
+  "categories": [
+    "utilities",
+    "desktop-customization"
+  ],
+  "description": "Mac utilities for display controls, window management and other workflows.",
+  "offer": "Up to 40% off individual apps and an extra 13% off bundles.",
+  "couponCodes": [],
+  "validity": "Ends Dec 1, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T11:38:35+08:00"
+}

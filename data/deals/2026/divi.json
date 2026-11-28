@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Divi",
+  "url": "https://www.elegantthemes.com/black-friday-2026/",
+  "categories": [
+    "design-tools",
+    "ui-kits-starter-kits"
+  ],
+  "description": "Visual site builder and theme for WordPress.",
+  "offer": "Up to 80% off selected Divi products and bundles.",
+  "couponCodes": [],
+  "validity": "-",
+  "latest": null,
+  "addedAt": "2026-11-28T11:35:40+08:00"
+}

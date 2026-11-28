@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "SuperDev Pro",
+  "url": "https://superdevpro.com/",
+  "categories": [
+    "developer-tools",
+    "design-tools"
+  ],
+  "description": "Browser extension for inspecting CSS, testing responsive layouts and extracting page assets.",
+  "offer": "Lifetime is $19 instead of $79. Applied at checkout.",
+  "couponCodes": [],
+  "validity": "-",
+  "latest": null,
+  "addedAt": "2026-11-28T11:35:40+08:00"
+}

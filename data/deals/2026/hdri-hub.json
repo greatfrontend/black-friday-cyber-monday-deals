@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "HDRI Hub",
+  "url": "https://www.hdri-hub.com/shop/hdri",
+  "categories": [
+    "design-kits"
+  ],
+  "description": "HDRI environments and backplates for 3D, VFX and architectural rendering.",
+  "offer": "50% off products and bundles with code **BLACK50**.",
+  "couponCodes": [
+    "BLACK50"
+  ],
+  "validity": "Ends Dec 1, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T11:38:35+08:00"
+}

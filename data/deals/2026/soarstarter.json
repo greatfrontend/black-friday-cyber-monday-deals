@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "SoarStarter",
+  "url": "https://soarstarter.com/",
+  "categories": [
+    "ui-kits-starter-kits"
+  ],
+  "description": "Starter kits for web, mobile and desktop projects.",
+  "offer": "Individual kits start at $59. The All-Access bundle of eight kits is $199 once. No code needed.",
+  "couponCodes": [],
+  "validity": "Ends Dec 1, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T11:35:40+08:00"
+}

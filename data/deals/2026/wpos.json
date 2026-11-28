@@ -1,0 +1,17 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "WPOS",
+  "url": "https://wpos.ai/black-friday/",
+  "categories": [
+    "developer-tools",
+    "design-tools"
+  ],
+  "description": "Visual environment for building and managing WordPress sites.",
+  "offer": "New paying customers get 50% off site licenses for the first two months with **FRIDAY50**. New accounts can start with 15,000 credits.",
+  "couponCodes": [
+    "FRIDAY50"
+  ],
+  "validity": "Ends Nov 30, 2026 at 11:59 PM PT",
+  "latest": null,
+  "addedAt": "2026-11-28T11:35:40+08:00"
+}

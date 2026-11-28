@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Aikeedo",
+  "url": "https://aikeedo.com/black-friday/",
+  "categories": [
+    "ui-kits-starter-kits",
+    "ai-powered-tools-for-developers"
+  ],
+  "description": "Self-hosted kit for building an AI subscription product.",
+  "offer": "50% off the first 12 months of Core, the one-time Commercial License and add-ons. All-Access is $100 off the first year. Applied at checkout.",
+  "couponCodes": [],
+  "validity": "Ends Dec 1, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T11:35:40+08:00"
+}

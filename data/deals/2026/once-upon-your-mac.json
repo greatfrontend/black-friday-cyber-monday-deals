@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Once Upon Your Mac",
+  "url": "https://unclutterapp.com/bundle",
+  "categories": [
+    "productivity-tools",
+    "utilities"
+  ],
+  "description": "Bundle of 12 independent Mac apps for productivity and everyday tasks.",
+  "offer": "All 12 apps for $59.99 once, compared with $239 individually.",
+  "couponCodes": [],
+  "validity": "-",
+  "latest": null,
+  "addedAt": "2026-11-28T11:38:35+08:00"
+}

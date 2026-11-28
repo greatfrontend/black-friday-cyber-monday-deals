@@ -1,0 +1,17 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Genymotion SaaS",
+  "url": "https://www.genymotion.com/blog/black-friday-offer-2026/",
+  "categories": [
+    "developer-tools",
+    "developer-infrastructure"
+  ],
+  "description": "Cloud Android emulators for testing and running apps in a browser.",
+  "offer": "30% off the first billing period of SaaS Unlimited with code **BLACKFRIDAY30**.",
+  "couponCodes": [
+    "BLACKFRIDAY30"
+  ],
+  "validity": "Ends Nov 30, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T11:35:40+08:00"
+}

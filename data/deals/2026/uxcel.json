@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Uxcel",
+  "url": "https://uxcel.com/uxcel-bfcm-live",
+  "categories": [
+    "design-courses"
+  ],
+  "description": "Interactive UI and UX lessons, assessments and certifications.",
+  "offer": "62.5% off the first year of Pro Yearly and up to 60% off certifications. A limited Lifetime Pro offer is also available.",
+  "couponCodes": [],
+  "validity": "Ends Nov 30, 2026 at 11:59 PM ET or when spots sell out",
+  "latest": null,
+  "addedAt": "2026-11-28T11:35:40+08:00"
+}

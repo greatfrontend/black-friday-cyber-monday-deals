@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Doron Supply",
+  "url": "https://www.doronsupply.com/black-friday",
+  "categories": [
+    "design-kits"
+  ],
+  "description": "Illustration and image effects, brushes and other design assets.",
+  "offer": "Black Friday weekend pricing is 25% off DitherTONE Pro 5.0 and 30% off other shop items. No code needed.",
+  "couponCodes": [],
+  "validity": "Ends Nov 29, 2026 at 11:59 PM ET",
+  "latest": null,
+  "addedAt": "2026-11-28T11:38:35+08:00"
+}

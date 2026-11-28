@@ -1,0 +1,17 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "International Society of Automation",
+  "url": "https://programs.isa.org/blackfriday26",
+  "categories": [
+    "developer-courses",
+    "books-for-developers-and-software-engineers"
+  ],
+  "description": "Training and standards for industrial automation and control systems.",
+  "offer": "25% off selected training and standards with code **BFCM26**.",
+  "couponCodes": [
+    "BFCM26"
+  ],
+  "validity": "Nov 17 to Nov 30, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T11:35:40+08:00"
+}

@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Proton Pass",
+  "url": "https://proton.me/pass/black-friday",
+  "categories": [
+    "utilities",
+    "productivity-tools"
+  ],
+  "description": "Encrypted password manager with passkeys, email aliases and vault sharing.",
+  "offer": "60% off Pass Plus or Pass Family for the first year. Pass Plus is $23.88 for that year, then $35.88/year. Pass Family is $33.48, then $59.88/year.",
+  "couponCodes": [],
+  "validity": "-",
+  "latest": null,
+  "addedAt": "2026-11-28T11:35:40+08:00"
+}

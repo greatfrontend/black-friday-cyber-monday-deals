@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Centri",
+  "url": "https://www.centri.org/black-friday",
+  "categories": [
+    "developer-courses"
+  ],
+  "description": "Training and certifications for defensive cybersecurity roles.",
+  "offer": "Up to 40% off eligible certifications.",
+  "couponCodes": [],
+  "validity": "Nov 27 to Dec 4, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T11:35:40+08:00"
+}

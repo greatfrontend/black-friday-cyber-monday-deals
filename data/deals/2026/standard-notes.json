@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Standard Notes",
+  "url": "https://standardnotes.com/plans",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Encrypted notes app with cross-platform sync.",
+  "offer": "50% off annual plans.",
+  "couponCodes": [],
+  "validity": "-",
+  "latest": null,
+  "addedAt": "2026-11-28T11:35:40+08:00"
+}

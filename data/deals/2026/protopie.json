@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "ProtoPie",
+  "url": "https://www.protopie.io/black-friday",
+  "categories": [
+    "design-tools"
+  ],
+  "description": "Tool for building and testing interactive prototypes.",
+  "offer": "40% off Pro Yearly with code **PRO40**. Connect Core and User Testing add-ons are also 40% off.",
+  "couponCodes": [
+    "PRO40"
+  ],
+  "validity": "-",
+  "latest": null,
+  "addedAt": "2026-11-28T11:35:40+08:00"
+}

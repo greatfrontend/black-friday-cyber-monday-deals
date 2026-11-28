@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "WP Rocket",
+  "url": "https://wp-rocket.me/black-friday-2026/",
+  "categories": [
+    "developer-tools",
+    "developer-infrastructure"
+  ],
+  "description": "Caching and performance optimization plugin for WordPress.",
+  "offer": "40% off a new one-year license or 60% off a new three-year license. The license renews at the standard annual rate after the initial term.",
+  "couponCodes": [],
+  "validity": "Through Dec 2, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T11:41:38+08:00"
+}

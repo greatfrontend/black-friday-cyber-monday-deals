@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Bimg AI",
+  "url": "https://bimg.ai/black-friday",
+  "categories": [
+    "design-tools",
+    "general-ai-tools"
+  ],
+  "description": "AI image generation platform with multiple models.",
+  "offer": "50% off the first month on monthly plans or 50% off the first year and renewals on annual plans.",
+  "couponCodes": [],
+  "validity": "Ends Dec 3, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T11:35:40+08:00"
+}

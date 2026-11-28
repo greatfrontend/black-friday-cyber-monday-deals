@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Rocket Validator",
+  "url": "https://rocketvalidator.com/deals/black-friday",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Automated accessibility and HTML validation for websites.",
+  "offer": "40% off the first billing period of a new volume subscription with **BF2026ROCKET**.",
+  "couponCodes": [
+    "BF2026ROCKET"
+  ],
+  "validity": "-",
+  "latest": null,
+  "addedAt": "2026-11-28T11:38:35+08:00"
+}

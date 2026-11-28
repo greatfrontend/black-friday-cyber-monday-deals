@@ -1,0 +1,17 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Framer",
+  "url": "https://www.framer.com/black-friday",
+  "categories": [
+    "design-tools",
+    "ui-kits-starter-kits"
+  ],
+  "description": "Visual site builder with responsive layouts, a CMS and hosting.",
+  "offer": "50% off a new workspace’s first year of Pro Yearly with code **BLACKFRIDAY26**, plus 2,000 Agent credits with a qualifying Pro purchase. Framer Store items are 30% off.",
+  "couponCodes": [
+    "BLACKFRIDAY26"
+  ],
+  "validity": "Ends Dec 1, 2026 at 9:00 AM CET",
+  "latest": null,
+  "addedAt": "2026-11-28T11:35:40+08:00"
+}

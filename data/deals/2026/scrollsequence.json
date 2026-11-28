@@ -1,0 +1,17 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Scrollsequence",
+  "url": "https://beta.scrollsequence.com/black-friday-cyber-monday-deals",
+  "categories": [
+    "design-tools",
+    "developer-tools"
+  ],
+  "description": "Create scroll-driven image sequences for WordPress, React and JavaScript sites.",
+  "offer": "50% off all plans with code **BFCM2026**.",
+  "couponCodes": [
+    "BFCM2026"
+  ],
+  "validity": "Nov 24 to Dec 31, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T11:35:40+08:00"
+}

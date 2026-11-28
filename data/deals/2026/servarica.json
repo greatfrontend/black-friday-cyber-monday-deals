@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "ServaRica",
+  "url": "https://servarica.com/black-friday/",
+  "categories": [
+    "developer-infrastructure"
+  ],
+  "description": "Montreal-based VPS and storage hosting.",
+  "offer": "20% off dedicated-CPU VPS plans with code **BF2026**. The sale price renews at the same rate. Shared Slim 2 starts at $36/year.",
+  "couponCodes": [
+    "BF2026"
+  ],
+  "validity": "Ends Dec 26, 2026 at 8:00 PM ET or when plans sell out",
+  "latest": null,
+  "addedAt": "2026-11-28T11:35:40+08:00"
+}

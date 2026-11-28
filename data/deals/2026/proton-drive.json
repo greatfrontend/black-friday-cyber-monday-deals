@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Proton Drive",
+  "url": "https://proton.me/drive/black-friday",
+  "categories": [
+    "productivity-tools",
+    "utilities"
+  ],
+  "description": "Encrypted file storage, sharing and collaboration.",
+  "offer": "Drive Plus is $29.88 for the first year, then renews at $47.88/year.",
+  "couponCodes": [],
+  "validity": "-",
+  "latest": null,
+  "addedAt": "2026-11-28T11:35:40+08:00"
+}

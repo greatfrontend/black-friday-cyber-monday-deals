@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Practical DevSecOps",
+  "url": "https://www.practical-devsecops.com/black-friday-sale-2026/",
+  "categories": [
+    "developer-courses"
+  ],
+  "description": "Training and certifications in DevSecOps and application security.",
+  "offer": "15% off individual certifications, with additional savings on bundles.",
+  "couponCodes": [],
+  "validity": "Ends Dec 5, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T11:35:40+08:00"
+}

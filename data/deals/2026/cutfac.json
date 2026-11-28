@@ -1,0 +1,17 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Cutfac",
+  "url": "https://cutfac.com/",
+  "categories": [
+    "design-tools",
+    "general-ai-tools"
+  ],
+  "description": "Mac app for creating and editing short-form videos with AI coding assistants.",
+  "offer": "40% off one-time licenses with **BF2026**. One Mac is $29.40, three are $41.40 and five are $59.40.",
+  "couponCodes": [
+    "BF2026"
+  ],
+  "validity": "-",
+  "latest": null,
+  "addedAt": "2026-11-28T11:38:35+08:00"
+}

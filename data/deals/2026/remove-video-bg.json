@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "RemoveVideoBG.com",
+  "url": "https://removevideobg.com/black-friday",
+  "categories": [
+    "design-tools"
+  ],
+  "description": "Browser-based tool for removing backgrounds from video.",
+  "offer": "Double credits on eligible packs and the first month of new monthly plans, or six extra months of credits on new annual plans.",
+  "couponCodes": [],
+  "validity": "Ends Dec 1, 2026 PT",
+  "latest": null,
+  "addedAt": "2026-11-28T11:38:35+08:00"
+}

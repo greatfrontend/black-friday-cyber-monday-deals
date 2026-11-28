@@ -119,7 +119,7 @@ Get a **homepage hero slot**, a **pinned deal** with a Sponsored badge, and a me
 | [Kinsta](https://kinsta.com/black-friday/) | Managed WordPress hosting, also application, database and static site hosting | 50% off monthly plans for 3 months, 3 months free on annual plans | Ends Dec 1 | ✅ |
 | [Cloudways](https://www.cloudways.com/en/) | Managed cloud hosting for WordPress, PHP and Node.js apps. | 80% off the first 2 months for new accounts with code **BFCM802**, up to $200 off per month | Sign up by Dec 4 | ✅ |
 | [Hosting.com](https://hosting.com/) | Managed web hosting, WordPress plans, VPS and dedicated servers. | Up to 89% off web hosting when paying for 12 months (Starter $1.49/mo) | - | ✅ |
-| [Hostinger](https://www.hostinger.com/black-friday) | Web hosting with WordPress, website builder and VPS plans. | Up to 85% off 48-month hosting plans, plus 2x Hostinger credits | - | ✅ |
+| [Hostinger](https://www.hostinger.com/black-friday) | Web hosting with WordPress, website builder and VPS plans. | Up to 85% off 48-month hosting plans, plus 2x Hostinger credits | Oct 19 to Dec 14, 2026 | ✅ |
 | [Pulsetic](https://pulsetic.com/black-friday/) | Uptime monitoring and status pages for websites. | 40% off the first year of a yearly plan or the first month of a monthly plan with code **KEEPITGREEN40** | Ends Tue Dec 1, 11:59 pm PT | ✅ |
 
 <!-- category-link -->
@@ -158,10 +158,10 @@ Get a **homepage hero slot**, a **pinned deal** with a Sponsored badge, and a me
 | **Name** | **Description** | **Deal details** | **Validity** | **Latest** |
 | :- | :- | :- | :- | :- |
 | [daisyUI](https://daisyui.com/store/) | Official templates made by daisyUI | A new code every day; the discount drops 5% a day (25% off on Nov 26). Find the current code in the banner on the store page | Ends Dec 1 (00:00 UTC) | ✅ |
-| [FormBold](https://formbold.com/) | A complete web form solution that includes a form API, backend, and builder. Get website form submissions directly to your inbox, Slack, Sheet, Notion, Telegram and more | **BLFCM2026** - up to 80% off all products | Ends Dec 1, 23:59 UTC | ✅ |
+| [FormBold](https://formbold.com/) | A complete web form solution that includes a form API, backend, and builder. Get website form submissions directly to your inbox, Slack, Sheet, Notion, Telegram and more | 40% off paid plans with code **BLFCM2026**. | Ends Dec 1, 23:59 UTC | ✅ |
 | [MDB Bootstrap Pro/Bundle](https://mdbootstrap.com/) | MDB - Material Design for Bootstrap v5 | MDB AI Bundle $149, 30% off other offers, code **BF2026** | - | ✅ |
 | [Next.js Templates](https://getnextjstemplates.com/) | Next.js Templates for Your Upcoming Projects | **BFCM** - 40% off all templates | Ends about Dec 1 | ✅ |
-| [TailAdmin](https://tailadmin.com/) | Open source Tailwind CSS Admin Dashboard Template | **BLFCM2026** - up to 80% off all products | - | ✅ |
+| [TailAdmin](https://tailadmin.com/) | Open source Tailwind CSS Admin Dashboard Template | 30% off plans with code **BLFCM2026**. | Ends Dec 1, 2026 | ✅ |
 
 <!-- category-link -->
 [View all UI kits & Starter kits deals](https://ctrlfriday.com/?category=ui-kits-starter-kits&year=2026#deals)
@@ -183,7 +183,7 @@ Get a **homepage hero slot**, a **pinned deal** with a Sponsored badge, and a me
 
 | **Name** | **Description** | **Deal details** | **Validity** | **Latest** |
 | :- | :- | :- | :- | :- |
-| [lineicons](https://lineicons.com/) | 5300+ line icons for designers and developers with Pro CDN, multiple variations, an icon editor, and more. Available in WebFont, SVG, React, Vue and Figma files | **BLFCM2026** - up to 80% off all products | Ends about Dec 2 | ✅ |
+| [lineicons](https://lineicons.com/) | 5300+ line icons for designers and developers with Pro CDN, multiple variations, an icon editor, and more. Available in WebFont, SVG, React, Vue and Figma files | 40% off all plans with code **BLFCM2026**. | Ends Dec 1, 2026 | ✅ |
 | [Craftwork](https://craftwork.design) | A marketplace of 3,900+ Figma UI kits, Framer templates, fonts, icons and 3D packs, with one plan that unlocks all of them. | Lifetime Pro for $224 instead of $449, or a year for $74 | Ends Nov 30 | ✅ |
 | [Creative Market](https://creativemarket.com/finds/black-friday-cyber-monday-sale) | A marketplace of fonts, graphics, templates and illustrations sold by independent creators. | Cyber Sale: 10%, 20% and 30% off participating fonts, graphics and templates, up to 30% off select assets Nov 30 to Dec 2 | Nov 24 to Dec 4, 2026 | ✅ |
 | [Envato Elements](https://elements.envato.com/pricing) | A subscription to unlimited downloads of templates, UI kits, fonts, graphics, mockups and stock media. | Up to 40% off all plans (except Enterprise) for the first 12 months, applied automatically | Ends Dec 1, 10:00 AM UTC | ✅ |
@@ -199,6 +199,8 @@ Get a **homepage hero slot**, a **pinned deal** with a Sponsored badge, and a me
 | [Flux Academy](https://www.flux-academy.com) | Web design training; its AI Web Design Collection bundles its AI trainings for web designers with lifetime access. | 75% off the AI Web Design Collection | - | ✅ |
 | [Piccalilli courses](https://piccalil.li/black-friday/) | Courses on CSS, JavaScript and UI design by Andy Bell and others. | 50% off every course | Nov 23 to Dec 4 | ✅ |
 | [Supercharge Design](https://supercharge.design/black-friday) | Video courses and resources on UI/UX design, from fundamentals to design systems. | $400 off Lifetime All-access; courses from $99 | Ends Nov 30, 11:59 PM Pacific | ✅ |
+| [Designlab](https://designlab.com/black-friday-cyber-sale-2026) | Mentor-led training and career programs in UX and UI design. | $200 off eligible courses and Lab Sessions with **BF2026**, or $500 off certification programs with **BFCERT**. Limited program spots. | Ends Dec 2, 2026 |  |
+| [Uxcel](https://uxcel.com/uxcel-bfcm-live) | Interactive UI and UX lessons, assessments and certifications. | 62.5% off the first year of Pro Yearly and up to 60% off certifications. A limited Lifetime Pro offer is also available. | Ends Nov 30, 2026 at 11:59 PM ET or when spots sell out |  |
 
 <!-- category-link -->
 [View all Design courses deals](https://ctrlfriday.com/?category=design-courses&year=2026#deals)

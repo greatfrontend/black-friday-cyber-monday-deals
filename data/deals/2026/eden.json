@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Eden",
+  "url": "https://eden.so/black-friday/",
+  "categories": [
+    "social-media-tools",
+    "business-tools"
+  ],
+  "description": "Tools for planning, researching and publishing social content.",
+  "offer": "35% off yearly Starter, 40% off yearly Pro or 50% off yearly Max while subscribed. Monthly plans are 20% off for 12 months.",
+  "couponCodes": [],
+  "validity": "Ends Nov 30, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T11:38:35+08:00"
+}

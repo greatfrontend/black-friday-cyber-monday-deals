@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Image Hopper",
+  "url": "https://imagehopper.tech/2026-black-friday-and-cyber-monday-sale/",
+  "categories": [
+    "developer-tools",
+    "design-tools"
+  ],
+  "description": "WordPress plugin for uploading, resizing and editing images in forms.",
+  "offer": "50% off an annual license. Applied at checkout.",
+  "couponCodes": [],
+  "validity": "Ends Dec 1, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T11:35:40+08:00"
+}

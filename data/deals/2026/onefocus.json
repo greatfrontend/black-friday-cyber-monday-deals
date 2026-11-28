@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "OneFocus",
+  "url": "https://press.oneapps.studio/black-friday-2026/",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Focus timer and time-tracking app for Apple devices.",
+  "offer": "Free lifetime upgrade during the promotion. Choose the lifetime option in the app.",
+  "couponCodes": [],
+  "validity": "Nov 27 to Nov 30, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T11:38:35+08:00"
+}

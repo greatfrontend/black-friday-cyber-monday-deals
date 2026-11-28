@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Crisp",
+  "url": "https://crispvideo.app/",
+  "categories": [
+    "design-tools"
+  ],
+  "description": "Desktop app for enhancing and upscaling video on Mac and Windows.",
+  "offer": "$9.99 once, then returns to $29.",
+  "couponCodes": [],
+  "validity": "Ends Dec 2, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T11:38:35+08:00"
+}

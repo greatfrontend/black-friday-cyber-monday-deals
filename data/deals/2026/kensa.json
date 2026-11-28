@@ -1,0 +1,17 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Kensa",
+  "url": "https://www.kensa.cc/deals/black-friday",
+  "categories": [
+    "design-tools",
+    "general-ai-tools"
+  ],
+  "description": "AI video generator with several models in one workspace.",
+  "offer": "25% off the first year of Basic, Pro or Ultimate yearly with **KENSABF26**. Applied automatically from the offer page.",
+  "couponCodes": [
+    "KENSABF26"
+  ],
+  "validity": "Ends Dec 1, 2026 UTC",
+  "latest": null,
+  "addedAt": "2026-11-28T11:35:40+08:00"
+}

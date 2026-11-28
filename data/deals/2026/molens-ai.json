@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Molens AI",
+  "url": "https://molensai.com/black-friday",
+  "categories": [
+    "design-tools",
+    "general-ai-tools"
+  ],
+  "description": "AI image and video generation platform.",
+  "offer": "50% off the first year of Starter, Plus or Pro annual plans for accounts without an active subscription. Applied at checkout.",
+  "couponCodes": [],
+  "validity": "Ends Nov 30, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T11:35:40+08:00"
+}

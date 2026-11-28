@@ -1,0 +1,17 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Perfmatters",
+  "url": "https://perfmatters.io/",
+  "categories": [
+    "developer-tools",
+    "developer-infrastructure"
+  ],
+  "description": "WordPress performance plugin for reducing unnecessary assets and requests.",
+  "offer": "30% off with code **BLACKFRIDAY**.",
+  "couponCodes": [
+    "BLACKFRIDAY"
+  ],
+  "validity": "Ends Dec 2, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T11:38:35+08:00"
+}

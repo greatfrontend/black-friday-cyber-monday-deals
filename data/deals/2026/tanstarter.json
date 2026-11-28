@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "TanStarter",
+  "url": "https://tanstarter.dev/",
+  "categories": [
+    "ui-kits-starter-kits"
+  ],
+  "description": "TanStack Start SaaS starter kit for Cloudflare.",
+  "offer": "Black Friday price is $99.",
+  "couponCodes": [],
+  "validity": "Ends Nov 30, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T11:35:40+08:00"
+}

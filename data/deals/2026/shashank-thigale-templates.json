@@ -1,0 +1,17 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Shashank Thigale Framer Templates",
+  "url": "https://shashankthigale.com/templates/",
+  "categories": [
+    "ui-kits-starter-kits",
+    "design-kits"
+  ],
+  "description": "Framer site templates for clinics, therapists and wellness businesses.",
+  "offer": "30% off individual templates and the All-Access Pass with **BFCM30**.",
+  "couponCodes": [
+    "BFCM30"
+  ],
+  "validity": "Ends Dec 1, 2026 at 11:59 PM PT",
+  "latest": null,
+  "addedAt": "2026-11-28T11:38:35+08:00"
+}

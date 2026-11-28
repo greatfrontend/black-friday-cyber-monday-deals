@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Outlier",
+  "url": "https://outlier.host/",
+  "categories": [
+    "general-ai-tools"
+  ],
+  "description": "Mac app for running AI chat and research locally.",
+  "offer": "Outlier Lifetime is $16.99 once, then returns to $39. No code needed.",
+  "couponCodes": [],
+  "validity": "Ends Dec 2, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T11:35:40+08:00"
+}

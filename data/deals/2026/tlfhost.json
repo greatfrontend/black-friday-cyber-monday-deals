@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "TLFHost",
+  "url": "https://tlfhost.com/black-friday-server-deals-2026/",
+  "categories": [
+    "developer-infrastructure"
+  ],
+  "description": "Cloud VPS and dedicated servers in Europe.",
+  "offer": "30% off eligible annual Cloud VPS and dedicated servers. Applied automatically.",
+  "couponCodes": [],
+  "validity": "Ends Nov 30, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T11:35:40+08:00"
+}

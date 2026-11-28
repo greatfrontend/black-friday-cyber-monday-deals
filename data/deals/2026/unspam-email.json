@@ -1,0 +1,17 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Unspam.email",
+  "url": "https://unspam.email/black-friday",
+  "categories": [
+    "developer-tools",
+    "marketing-seo"
+  ],
+  "description": "Email deliverability testing and monitoring for teams.",
+  "offer": "35% off the first invoice of a new Custom subscription with code **BLACKFRIDAY35**. Applies to monthly or annual billing, once per customer.",
+  "couponCodes": [
+    "BLACKFRIDAY35"
+  ],
+  "validity": "Ends Dec 1, 2026 at 23:59 UTC",
+  "latest": null,
+  "addedAt": "2026-11-28T11:35:40+08:00"
+}

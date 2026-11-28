@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "BundleWP",
+  "url": "https://bundlewp.com/complete-business-software-bundle/",
+  "categories": [
+    "business-tools",
+    "developer-tools"
+  ],
+  "description": "Bundle of self-hosted WordPress plugins for business workflows.",
+  "offer": "All 12 products for $129 once, with lifetime access.",
+  "couponCodes": [],
+  "validity": "Ends Dec 1, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T11:38:35+08:00"
+}

@@ -1,0 +1,17 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Designlab",
+  "url": "https://designlab.com/black-friday-cyber-sale-2026",
+  "categories": [
+    "design-courses"
+  ],
+  "description": "Mentor-led training and career programs in UX and UI design.",
+  "offer": "$200 off eligible courses and Lab Sessions with **BF2026**, or $500 off certification programs with **BFCERT**. Limited program spots.",
+  "couponCodes": [
+    "BF2026",
+    "BFCERT"
+  ],
+  "validity": "Ends Dec 2, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T11:35:40+08:00"
+}
