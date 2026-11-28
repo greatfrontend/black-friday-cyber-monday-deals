@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "ScrapingRabbit",
+  "url": "https://scrapingrabbit.com/pricing",
+  "categories": [
+    "developer-tools"
+  ],
+  "description": "Web data API for YouTube, TikTok, Instagram, X, Amazon, Google and SEO data. 100 free credits at sign-up, no card needed, and credits are charged only when a call returns data.",
+  "offer": "40% off the first payment on any plan, monthly or yearly, with code **BLACKFRIDAY40** (applied automatically at checkout): Starter $19 → $11.40 first month or $190 → $114 first year, Pro $49 → $29.40 or $490 → $294, Scale $99 → $59.40 or $990 → $594",
+  "couponCodes": [
+    "BLACKFRIDAY40"
+  ],
+  "validity": "Ends Dec 1, 2026, 23:59 UTC",
+  "latest": null,
+  "addedAt": "2026-11-28T17:21:05+05:30"
+}
