@@ -2,6 +2,7 @@ import assert from 'node:assert/strict';
 import { test } from 'vite-plus/test';
 import { categoryLabels, normalizeCategoryId } from '../src/lib/categories.ts';
 import {
+  buildDealUrl,
   filterDeals,
   getDiscount,
   getOfferLabel,
@@ -57,6 +58,36 @@ const catalog = {
     },
   ],
 };
+
+test('direct deal links use the catalog year and preserve existing query encoding and fragments', () => {
+  const destination = 'https://example.com/pricing?code=BLACK%20FRIDAY&ref=partner&ref=shop#plans';
+  const tagged = buildDealUrl(destination, 2026);
+  assert.equal(
+    tagged,
+    'https://example.com/pricing?code=BLACK%20FRIDAY&ref=partner&ref=shop&utm_source=ctrlfriday.com&utm_medium=referral&utm_campaign=bfcm_2026#plans',
+  );
+  assert.equal(buildDealUrl(tagged, 2026), tagged);
+  assert.equal(
+    buildDealUrl('https://example.com/pricing', 2025),
+    'https://example.com/pricing?utm_source=ctrlfriday.com&utm_medium=referral&utm_campaign=bfcm_2025',
+  );
+});
+
+test('deal links preserve existing UTMs and only fill missing campaign tags', () => {
+  const destination = 'https://example.com/?utm_source=partner&utm_campaign=promo&utm_content=cta';
+  assert.equal(buildDealUrl(destination, 2026), `${destination}&utm_medium=referral`);
+});
+
+test('deal links preserve affiliate redirects and third-party storefront URLs verbatim', () => {
+  for (const destination of [
+    'https://shareasale.com/r.cfm?urllink=&afftrack=',
+    'https://iio.sh/r/deal',
+    'https://apps.apple.com/us/app/example/id123?platform=iphone',
+    'https://seller.gumroad.com/l/deal',
+  ]) {
+    assert.equal(buildDealUrl(destination, 2026), destination);
+  }
+});
 
 test('the latest deal addition compares actual times across offsets and skips undated deals', () => {
   const latest = '2026-11-27T09:00:00Z';

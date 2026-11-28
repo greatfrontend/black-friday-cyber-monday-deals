@@ -1,7 +1,7 @@
 import { categoryLabels } from '../lib/categories';
 import { Copy, Pencil, Ticket } from 'lucide-react';
 import type { Deal } from '../lib/types';
-import { buildSuggestionUrl, getOfferLabel, plainText } from '../lib/deals';
+import { buildDealUrl, buildSuggestionUrl, getOfferLabel, plainText } from '../lib/deals';
 import { ArrowLink } from './ui/arrow-button';
 import { Dialog } from './ui/dialog';
 import { Button, buttonVariants } from './ui/button';
@@ -108,7 +108,7 @@ export function DealDetail({
             <ArrowLink
               variant="primary"
               className="ml-auto min-h-9"
-              href={deal.url}
+              href={buildDealUrl(deal.url, year)}
               target="_blank"
               rel="noopener noreferrer sponsored"
             >

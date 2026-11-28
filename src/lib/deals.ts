@@ -5,6 +5,17 @@ import type { Catalog, Deal, Filters } from './types';
 
 export const repositoryUrl = 'https://github.com/greatfrontend/black-friday-cyber-monday-deals';
 
+const indirectDealHosts = [
+  'apple.co',
+  'apps.apple.com',
+  'apps.microsoft.com',
+  'gumroad.com',
+  'iio.sh',
+  'leanpub.com',
+  'maven.com',
+  'shareasale.com',
+];
+
 export function plainText(value: string) {
   return value.replace(/\[([^\]]+)\]\([^)]+\)/g, '$1').replace(/\*\*/g, '');
 }
@@ -22,6 +33,33 @@ export function getOfferLabel(offer: string) {
 
 export function getDealKey(year: number, id: string) {
   return `${year}/${id}`;
+}
+
+export function buildDealUrl(destination: string, year: number) {
+  let url: URL;
+  try {
+    url = new URL(destination);
+  } catch {
+    return destination;
+  }
+  if (url.protocol !== 'https:' && url.protocol !== 'http:') return destination;
+
+  const hostname = url.hostname.replace(/\.$/, '');
+  if (indirectDealHosts.some((host) => hostname === host || hostname.endsWith(`.${host}`))) {
+    return destination;
+  }
+
+  const missingTags = new URLSearchParams({
+    utm_source: 'ctrlfriday.com',
+    utm_medium: 'referral',
+    utm_campaign: `bfcm_${year}`,
+  });
+  for (const key of url.searchParams.keys()) missingTags.delete(key);
+  if (missingTags.size === 0) return destination;
+
+  // Append to the raw query so existing parameters keep their original encoding.
+  url.search += `${url.search ? '&' : '?'}${missingTags}`;
+  return url.href;
 }
 
 export function filterDeals(catalog: Catalog, filters: Filters, saved: string[]) {

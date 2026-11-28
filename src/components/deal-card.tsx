@@ -1,7 +1,7 @@
 import { categoryLabels } from '../lib/categories';
 import { Bookmark } from 'lucide-react';
 import type { Deal } from '../lib/types';
-import { getOfferLabel, plainText } from '../lib/deals';
+import { buildDealUrl, getOfferLabel, plainText } from '../lib/deals';
 import { cn } from '../lib/utils';
 import { ArrowLink } from './ui/arrow-button';
 import { Button } from './ui/button';
@@ -13,6 +13,7 @@ import { Tooltip } from './ui/tooltip';
 
 interface DealCardProps {
   deal: Deal;
+  year: number;
   view?: 'grid' | 'list';
   sponsored?: boolean;
   saved: boolean;
@@ -24,6 +25,7 @@ interface DealCardProps {
 
 export function DealCard({
   deal,
+  year,
   sponsored = false,
   saved,
   copiedCode,
@@ -147,7 +149,7 @@ export function DealCard({
             {deal.validity === '-' || deal.validity === '–' ? 'End date not listed' : deal.validity}
           </span>
           <ArrowLink
-            href={deal.url}
+            href={buildDealUrl(deal.url, year)}
             target="_blank"
             rel="noopener noreferrer sponsored"
             className="relative z-3 focus-visible:outline-foreground"

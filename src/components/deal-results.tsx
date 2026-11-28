@@ -115,6 +115,7 @@ export function DealResults({
     id: getDealKey(catalog.year, deal.id),
     cardProps: {
       deal,
+      year: catalog.year,
       view,
       sponsored: sponsoredIds.includes(deal.id),
       saved: saved.includes(getDealKey(catalog.year, deal.id)),
