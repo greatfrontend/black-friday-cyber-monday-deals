@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Whizi",
+  "url": "https://whizi.io/pricing",
+  "categories": [
+    "general-ai-tools"
+  ],
+  "description": "Chat with ChatGPT, Claude, Gemini, Grok and DeepSeek models in one app, and import your ChatGPT history.",
+  "offer": "30% off the first year of yearly plans, no code needed: Starter $131.99 → $92.39, Pro $239.99 → $167.99, Powerhouse $419.99 → $293.99 (US prices)",
+  "couponCodes": [],
+  "validity": "Ends Dec 24, 2026, 23:59 PT",
+  "latest": true,
+  "addedAt": "2026-11-28T17:44:23+08:00"
+}
