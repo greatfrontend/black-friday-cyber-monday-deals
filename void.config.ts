@@ -5,7 +5,7 @@ import { themeInitScript } from './src/lib/theme-init';
 export default defineConfig({
   output: 'static',
   head: {
-    title: 'Black Friday & Cyber Monday Deals for Developers | Ctrl Friday',
+    title: 'Black Friday & Cyber Monday Deals for Developers 2026 | Ctrl Friday',
     htmlAttrs: { lang: 'en', 'data-theme': 'dark' },
     script: [{ innerHTML: themeInitScript }],
     meta: [
@@ -18,7 +18,7 @@ export default defineConfig({
           'Find Black Friday and Cyber Monday deals on developer tools, courses, design kits, and more. Search, filter, save your favorites, and share a deal with the community.',
       },
       { name: 'theme-color', content: '#171717' },
-      { property: 'og:title', content: 'Black Friday & Cyber Monday Deals | Ctrl Friday' },
+      { property: 'og:title', content: 'Black Friday & Cyber Monday Deals 2026 | Ctrl Friday' },
       {
         property: 'og:description',
         content:

@@ -60,7 +60,7 @@ export function Hero({ year, catalog, onDetails }: HeroProps) {
             <span className="inline-block">
               Black Friday <span className="text-muted-foreground">&</span>
             </span>{' '}
-            <span className="inline-block">Cyber Monday deals</span>
+            <span className="inline-block">Cyber Monday deals {year}</span>
           </h1>
           <p
             className={cn(
