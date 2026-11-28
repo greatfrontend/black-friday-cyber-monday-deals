@@ -3,9 +3,10 @@
   "name": "Sky OS AI",
   "url": "https://skyrunapp.com/pricing?src=bf-awesome-bfcm",
   "categories": [
-    "general-ai-tools"
+    "general-ai-tools",
+    "ai-powered-tools-for-developers"
   ],
-  "description": "Ask an AI agent to carry out tasks on your own Mac.",
+  "description": "Ask an AI assistant from your phone or browser to edit code, run tests, and use apps on your Mac.",
   "offer": "30% off the first month of a monthly Pro, Max or Ultra plan, no code needed (applied automatically at checkout): Pro $14 the first month (then $20/mo), Max $70 (then $100/mo), Ultra $140 (then $200/mo)",
   "couponCodes": [],
   "validity": "Ends Nov 30, 2026, 11:59 PM ET",
