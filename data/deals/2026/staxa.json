@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Staxa",
+  "url": "https://staxa.dev/#pricing",
+  "categories": [
+    "developer-infrastructure"
+  ],
+  "description": "Hosting for SaaS with an isolated app, database, subdomain and SSL for each customer, provisioned from a dashboard or one API call.",
+  "offer": "50% off the first 3 months of Starter ($49 → $24.50/mo) or Growth ($199 → $99.50/mo) with code **STAXABF50** (monthly billing, new subscriptions, first 100 customers)",
+  "couponCodes": [
+    "STAXABF50"
+  ],
+  "validity": "Ends Nov 30, 2026, 11:59 p.m. US Eastern",
+  "latest": true,
+  "addedAt": "2026-11-28T11:09:20+08:00"
+}
