@@ -108,6 +108,7 @@ Get a **homepage hero slot**, a **pinned deal** with a Sponsored badge, and a me
 | [LocalCan](https://www.localcan.com/) | Develop apps with Public URLs and .local domains | 50% off the first year of Solo or Pro with **BF50**, or Lifetime for $69 (was $99) with **LIFETIME69** | Ends Dec 1 | ✅ |
 | [Proxyman](https://proxyman.com/) | Best-in-class native macOS app to capture, decrypt, and mock your HTTP(s) requests/ responses with powerful debugging tools | 30% off all plans with code **BF2026** | Nov 19 to Dec 3, 2026 | ✅ |
 | [RunJS](https://runjs.app/) | The JavaScript playground for your desktop | **BLACKFRIDAY2026** - 30% off | Ends about Dec 2 | ✅ |
+| [August Cyber](https://august.so?ref=greatfrontend) | Open-source Rust security CLI (Apache-2.0) and isolated cloud sandboxes locked strictly to domains you verify for API, GraphQL, and MCP testing | **24 free cloud sandbox hours** (Small & Default VMs, no credit card, auto-applied) + Apache-2.0 CLI free forever | Nov 28 to Dec 1, 2026 | ✅ |
 
 <!-- category-link -->
 [View all Developer tools deals](https://ctrlfriday.com/?category=developer-tools&year=2026#deals)
