@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "The Cyber Instructor",
+  "url": "https://learn.thecyberinstructor.com/",
+  "categories": [
+    "developer-courses"
+  ],
+  "description": "Cybersecurity training: a live AI for Cybersecurity bootcamp (AI red teaming, securing LLM apps, agents, governance) and the self-paced TCI Pro subscription",
+  "offer": "**BF30** - 30% off courses, the live AI for Cybersecurity bootcamp ($2,099 → $1,469.30) and the TCI Pro subscription",
+  "couponCodes": [
+    "BF30"
+  ],
+  "validity": "Nov 23 to Nov 30, 2026 (11:59 PM PT)",
+  "latest": true,
+  "addedAt": "2026-11-28T11:54:13+08:00"
+}
