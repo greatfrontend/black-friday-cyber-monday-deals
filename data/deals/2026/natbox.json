@@ -3,7 +3,7 @@
   "name": "natbox",
   "url": "https://my.natbox.io/products/nat-vps",
   "categories": [
-    "developer-tools"
+    "developer-infrastructure"
   ],
   "description": "Rent small European Linux VPS instances with forwarded IPv4 ports and routed IPv6.",
   "offer": "50% off for life on yearly plans with code **BLACKFRIDAY**: Nano $9 → $4.50/yr, Box $12 → $6/yr, Box Plus $20 → $10/yr, Box Max $36 → $18/yr, Box CPU $45 → $22.50/yr. Nov 27, 2026 only (UTC), 25 servers, one per account",

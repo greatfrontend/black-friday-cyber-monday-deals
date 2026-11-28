@@ -3,6 +3,7 @@
   "name": "Captureze",
   "url": "https://captureze.com/",
   "categories": [
+    "screen-capture",
     "developer-tools"
   ],
   "description": "Schedule website captures and compare the resulting screenshots over time.",

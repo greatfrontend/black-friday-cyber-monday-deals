@@ -45,6 +45,7 @@ Get a **homepage hero slot**, a **pinned deal** with a Sponsored badge, and a me
 - 🎓 [Technical interviews preparation](#technical-interviews-preparation) <!-- category:technical-interviews-preparation -->
 - 👩‍🏫 [Developer courses](#developer-courses) <!-- category:developer-courses -->
 - 🛠️ [Developer tools](#developer-tools) <!-- category:developer-tools -->
+- 🖥️ [Developer infra](#developer-infra) <!-- category:developer-infrastructure -->
 - 🤖 [Developer AI](#ai-powered-tools-for-developers) <!-- category:ai-powered-tools-for-developers -->
 - 📚 [Developer books](#developer-books) <!-- category:books-for-developers-and-software-engineers -->
 - 💅 [UI kits & Starter kits](#ui-kits-and-starter-kits) <!-- category:ui-kits-starter-kits -->
@@ -54,6 +55,8 @@ Get a **homepage hero slot**, a **pinned deal** with a Sponsored badge, and a me
 - 📖 [Design books](#design-books) <!-- category:design-books -->
 - 🧠 [AI tools](#ai-tools) <!-- category:general-ai-tools -->
 - ⚡ [Productivity](#productivity) <!-- category:productivity-tools -->
+- 🪟 [Desktop setup](#desktop-setup) <!-- category:desktop-customization -->
+- 📸 [Screen capture](#screen-capture) <!-- category:screen-capture -->
 - 🧰 [Utilities](#utilities) <!-- category:utilities -->
 - 💼 [Business tools](#business-tools) <!-- category:business-tools -->
 - 📣 [Marketing & SEO](#marketing-and-seo) <!-- category:marketing-seo -->
@@ -102,12 +105,25 @@ Get a **homepage hero slot**, a **pinned deal** with a Sponsored badge, and a me
 | :- | :- | :- | :- | :- |
 | [BucketMate](https://bucketmate.app/pricing?ref=greatfrontend) | A Finder-style S3-compatible manager for macOS. | **BF2026** - 40% off lifetime licenses | Nov 2 to Dec 1, 2026 | ✅ |
 | [GitKraken](https://www.gitkraken.com/pricing) | Devtools that simplify & supercharge Git | **BLACKFRIDAY2026** - 60% off the first year | - | ✅ |
-| [Kinsta](https://kinsta.com/black-friday/) | Managed WordPress hosting, also application, database and static site hosting | 50% off monthly plans for 3 months, 3 months free on annual plans | Ends Dec 1 | ✅ |
 | [LocalCan](https://www.localcan.com/) | Develop apps with Public URLs and .local domains | 50% off the first year of Solo or Pro with **BF50**, or Lifetime for $69 (was $99) with **LIFETIME69** | Ends Dec 1 | ✅ |
 | [Proxyman](https://proxyman.com/) | Best-in-class native macOS app to capture, decrypt, and mock your HTTP(s) requests/ responses with powerful debugging tools | 30% off all plans with code **BF2026** | Nov 19 to Dec 3, 2026 | ✅ |
+| [RunJS](https://runjs.app/) | The JavaScript playground for your desktop | **BLACKFRIDAY2026** - 30% off | Ends about Dec 2 | ✅ |
 
 <!-- category-link -->
 [View all Developer tools deals](https://ctrlfriday.com/?category=developer-tools&year=2026#deals)
+
+## Developer infra
+
+| **Name** | **Description** | **Deal details** | **Validity** | **Latest** |
+| :- | :- | :- | :- | :- |
+| [Kinsta](https://kinsta.com/black-friday/) | Managed WordPress hosting, also application, database and static site hosting | 50% off monthly plans for 3 months, 3 months free on annual plans | Ends Dec 1 | ✅ |
+| [Cloudways](https://www.cloudways.com/en/) | Managed cloud hosting for WordPress, PHP and Node.js apps. | 80% off the first 2 months for new accounts with code **BFCM802**, up to $200 off per month | Sign up by Dec 4 | ✅ |
+| [Hosting.com](https://hosting.com/) | Managed web hosting, WordPress plans, VPS and dedicated servers. | Up to 89% off web hosting when paying for 12 months (Starter $1.49/mo) | - | ✅ |
+| [Hostinger](https://www.hostinger.com/black-friday) | Web hosting with WordPress, website builder and VPS plans. | Up to 85% off 48-month hosting plans, plus 2x Hostinger credits | - | ✅ |
+| [Pulsetic](https://pulsetic.com/black-friday/) | Uptime monitoring and status pages for websites. | 40% off the first year of a yearly plan or the first month of a monthly plan with code **KEEPITGREEN40** | Ends Tue Dec 1, 11:59 pm PT | ✅ |
+
+<!-- category-link -->
+[View all Developer infra deals](https://ctrlfriday.com/?category=developer-infrastructure&year=2026#deals)
 
 ## AI-powered tools for developers
 
@@ -156,7 +172,7 @@ Get a **homepage hero slot**, a **pinned deal** with a Sponsored badge, and a me
 | :- | :- | :- | :- | :- |
 | [1DesignTool](https://1designtool.com/#pricing) | Give coding agents access to a local design workspace. | 50% off the one-time Pro licence with code **BFDEALS50**: $29 → $14.50 for 1 device, $59 → $29.50 for 3, $89 → $44.50 for 5, first 100 orders | Nov 19 to Nov 29, 2026 | ✅ |
 | [AppScreenPro](https://appscreenpro.com/) | Design App Store and Google Play listing screenshots in a browser. | 30% off the lifetime license ($29 to $20.30) with code **30BF2026** | Nov 12 to Dec 1, 2026 | ✅ |
-| [Backdrop](https://cindori.com/backdrop) | Set interactive live wallpaper on macOS. | 30% off Lifetime $29.99 → $20.99 one-time, no code needed | Nov 24 to Dec 1, 2026 | ✅ |
+| [Bindrik](https://bindrik.com/en) | Prepare book cover and interior print files for Amazon KDP. | 43% off, $39 (was $69), one-time purchase, with code **BLACKFRIDAY2026** | Nov 23 to Nov 30, 2026 | ✅ |
 | [BirdFrame](https://getbirdframe.com/) | Batch-crop and prepare photos of birds on a Mac. | 33% off the one-time unlock: $29.99 → $19.99. No code needed | Nov 20 to Dec 1, 2026 | ✅ |
 | [Control](https://cntrl.site/black-friday-2026) | Design responsive websites on a freeform canvas. | First-year annual pricing with **PRBF30** for Pro ($228 to $156) or **STBF30** for Studio ($468 to $324). Both renew at the regular price | Nov 26 to Dec 1, 2026 | ✅ |
 
@@ -217,14 +233,40 @@ Get a **homepage hero slot**, a **pinned deal** with a Sponsored badge, and a me
 
 | **Name** | **Description** | **Deal details** | **Validity** | **Latest** |
 | :- | :- | :- | :- | :- |
-| [AbcTab](https://solocraft.app/abctab) | Switch Mac apps by typing their first letter in English or Pinyin. | 50% off Lifetime License, one-time purchase, no subscription ($9.99 → $4.99). Code **BF50** | Nov 27 to Dec 2, 2026 | ✅ |
 | [ActionClip](https://actionclip.app/black-friday-deal) | Run custom AI actions on selected text from a floating Mac menu. | 25% off Individual lifetime: $12 → $9 for 1 Mac. Also $15 for up to 3 Macs or $29 for up to 10 Macs. Lifetime access and updates; automatically applied, no code needed | Ends Nov 29, 2026, 23:59 UTC | ✅ |
 | [Aevo](https://aevo.so/en/pricing) | Organize tasks and notes and compare their effort and priority visually. | 25% off Pro Lifetime with code **BLACKFRIDAY26LIFETIME**: €199 → €149 one-time or 30% off for 1 year with code **BLACKFRIDAY26**: €70 → €49 | Nov 27 to Nov 30, 2026 | ✅ |
 | [AI Teleprompter](https://aiteleprompterapp.com) | Record videos with a voice-controlled teleprompter on iPhone or iPad. | 50% off Annual first year and Lifetime. US pricing: Annual first year $39.99 → $19.99, Lifetime $49.99 → $24.99; local prices vary. No code needed, applied automatically in the app. New subscribers only | Nov 20, 2026 to Jan 1, 2027 | ✅ |
-| [AntShot](https://antshot.com/) | Capture full web pages as screenshots in Chrome or Edge. | 35% off Pro Lifetime with code **BLACKFRIDAY26**: $39 → $25.35 one-time, includes all future updates | Nov 12 to Dec 2, 2026 | ✅ |
+| [AppsByMo](https://appsbymo.app/) | Browse a collection of independent Mac and iPhone apps. | 50% off every paid app. Mac apps bought direct: code **BLACKFRIDAY** at checkout (e.g. Cue $29 → $14.50, Scry $24 → $12). App Store apps half price, no code (e.g. Wick $15.99 → $7.99, Margin for iPhone $5.99 → $2.99) | Nov 9 to Dec 1, 2026 | ✅ |
+| [Astrolinks](https://astrolinks.org/black-friday/) | Track time per client and build timesheets on Mac or Windows. | 60% off the first year of Pro (Yearly): $90 → $36/yr with code **BF60YEAR** (applied automatically on Pro Yearly at checkout) | Nov 26 to Dec 1, 2026 | ✅ |
 
 <!-- category-link -->
 [View all Productivity deals](https://ctrlfriday.com/?category=productivity-tools&year=2026#deals)
+
+## Desktop setup
+
+| **Name** | **Description** | **Deal details** | **Validity** | **Latest** |
+| :- | :- | :- | :- | :- |
+| [AbcTab](https://solocraft.app/abctab) | Switch Mac apps by typing their first letter in English or Pinyin. | 50% off Lifetime License, one-time purchase, no subscription ($9.99 → $4.99). Code **BF50** | Nov 27 to Dec 2, 2026 | ✅ |
+| [AppBrisk](https://appbrisk.candyyue.com/en/pricing/) | Open apps or focus their windows with one keyboard shortcut. | 50% off Pro lifetime: US$2.99 (normally US$5.99), tax included, up to 3 devices. Automatically applied at checkout; no code needed: 59 p.m. PT | Nov 19 to Nov 30, 2026, 11:59 | ✅ |
+| [AppGrid](https://appgridmac.com/pricing/) | Group applications and browse them in a customizable Mac launcher. | 50% off lifetime Direct Pro for up to five Macs ($25 → $12.50 USD before tax). Code **BF2026** is applied at checkout | Nov 20 to Nov 30, 2026 | ✅ |
+| [Argon](https://argonmac.com/) | Put media controls, a clipboard, and a file tray in the MacBook notch. | 27% off: €14.99 → €10.99 one-time, no code needed. 48-hour free trial, 2 Macs per license | Ends Nov 30, 2026 | ✅ |
+| [Assignee](https://www.assignee.app) | Switch between running apps from a focused Mac launcher. | 30% off with code **BFCM26** at checkout | Ends Nov 30, 2026 | ✅ |
+
+<!-- category-link -->
+[View all Desktop setup deals](https://ctrlfriday.com/?category=desktop-customization&year=2026#deals)
+
+## Screen capture
+
+| **Name** | **Description** | **Deal details** | **Validity** | **Latest** |
+| :- | :- | :- | :- | :- |
+| [CleanShot X](https://cleanshot.com/pricing) | Screenshot and screen recording app for Mac. | 30% off CleanShot Basic ($35 to $24.50) and 50% off the first year of CleanShot Pro, no code needed | - | ✅ |
+| [ScreenSnap Pro](https://www.screensnap.pro/pricing) | Screenshot and screen recording app for Mac and Windows with annotation tools. | 50% off the lifetime license ($39 to $19.50), no code needed | Ends Nov 30 | ✅ |
+| [AntShot](https://antshot.com/) | Capture full web pages as screenshots in Chrome or Edge. | 35% off Pro Lifetime with code **BLACKFRIDAY26**: $39 → $25.35 one-time, includes all future updates | Nov 12 to Dec 2, 2026 | ✅ |
+| [Captureze](https://captureze.com/) | Schedule website captures and compare the resulting screenshots over time. | Up to 50% off annual plans, no code needed (Starter $190 -> $95/yr, Pro $490 -> $245/yr, Business $1490 -> $1043/yr) | Ends Dec 1, 2026 | ✅ |
+| [CursorClip](https://cursorclip.com/pricing/) | Record Mac tutorials with zoom and cursor effects. | Lifetime for $49, one-time payment, no subscription. Code **BLACKFRIDAY** is applied automatically at checkout | Ends Nov 30, 2026, 11:59 P.M PT | ✅ |
+
+<!-- category-link -->
+[View all Screen capture deals](https://ctrlfriday.com/?category=screen-capture&year=2026#deals)
 
 ## Utilities
 
@@ -260,7 +302,7 @@ Get a **homepage hero slot**, a **pinned deal** with a Sponsored badge, and a me
 | [Airbridge](https://www.airbridge.io/en/black-friday) | Measure app installs, marketing attribution, and paid conversion. | 50% off Core Plan for your first 6 paid months with code **BLACKFRIDAY26** | Ends Nov 30, 2026 | ✅ |
 | [AltTextLab](https://www.alttextlab.com/black-friday) | Generate contextual alt text for website images. | 40% off one-time credit packs (from $6 → $3.60) and the first year of Pro annual (from $48 → $28.80) with code **BF2026** | Ends Dec 1, 2026 | ✅ |
 | [Appfigures](https://appfigures.com/platform/pricing) | Track App Store and Google Play rankings, keywords, and competitors. | 50% off monthly or annual plans for 12 months with code **BF2650**: Monitor $44.99 → $22.49/mo (annual $35.99 → $17.99/mo), Boost 5 $399.99 → $199.99/mo (annual $349.99 → $174.99/mo); up to $200/mo off; upgrade required for existing members | Nov 23 to Nov 30, 2026 | ✅ |
-| [BacklinkGenie](https://backlinkgenie.com/pricing/) | Find potential backlink placements and manage outreach for them. | 30% off monthly or 50% off yearly, kept for as long as you stay subscribed, applied automatically at checkout (codes **BFCM30** / **BFCM50**): Starter $99 → $69.30/mo or $990 → $495/yr, Growth $249 → $174.30/mo or $2,490 → $1,245/yr, Agency $499 → $349.30/mo or $4,990 → $2,495/yr. Black Friday through Dec 1, then continues as the year-end offer until Dec 31, 2026 | Ends Dec 31, 2026 | ✅ |
+| [AppRankHero](https://apprankhero.com/pricing) | Follow app keyword rankings on the App Store and Google Play. | 30% off annual Pro and Studio plans with code **BLACKFRIDAY30**: Pro $49.99 → $34.99, Studio $124.99 → $87.49 for the first year | Nov 27 to Dec 1, 2026 | ✅ |
 
 <!-- category-link -->
 [View all Marketing & SEO deals](https://ctrlfriday.com/?category=marketing-seo&year=2026#deals)
@@ -311,8 +353,8 @@ Get a **homepage hero slot**, a **pinned deal** with a Sponsored badge, and a me
 | [Afolio](https://afolio.app/#black-friday) | Catalog a LEGO collection by set, figure, or part on Apple devices. | 70% off Afolio Pro (one-time purchase, covers Mac, iPhone and iPad): US$19.99 → US$5.99 with App Store offer code **BF26**. [Redeem in the App Store](https://apps.apple.com/redeem?ctx=offercodes&id=6764484145&code=BF26) | Ends Dec 1, 2026 | ✅ |
 | [Baby Monitor: Private Cam](https://apps.apple.com/app/id6785552555) | Use two phones on the same network as a baby monitor. | 50% off the first year of Pro yearly on iPhone with code **BLACKFRIDAY50** ([redeem](https://apps.apple.com/redeem?ctx=offercodes&id=6785552555&code=BLACKFRIDAY50)). US pricing: $14.99 → $7.49 USD; local prices vary. iOS only, Android has no discount | Nov 25 to Dec 1, 2026 | ✅ |
 | [Bilang](https://bilang.org/pricing) | Practice speaking and writing for everyday language situations or interviews. | 20% off all plans with code **BF26**. Learner €4.99 → €3.99/mo, €50.90 → €40.72/yr. Teacher €7.99 → €6.39/mo, €81.50 → €65.20/yr | Nov 15 to Dec 1, 2026 | ✅ |
-| [Bindrik](https://bindrik.com/en) | Prepare book cover and interior print files for Amazon KDP. | 43% off, $39 (was $69), one-time purchase, with code **BLACKFRIDAY2026** | Nov 23 to Nov 30, 2026 | ✅ |
 | [Channel Surfer](https://channelsurfer.tv/upgrade/?code=BLACKFRIDAY50) | Browse YouTube channels in a TV-guide-style interface. | 50% off Supporter Monthly with code **BLACKFRIDAY50** (US$4.50/month for six months, then US$9/month). For accounts without an active paid subscription | Nov 27 to Nov 30, 2026 | ✅ |
+| [Clock Widget+](https://apps.apple.com/us/app/clock-widget/id6664064747) | Put customizable world clock faces on a phone or tablet. | 50% off Lifetime (one-time purchase) on the App Store and Google Play. US pricing: $19.99 → $9.99 USD; local prices vary. Applied automatically, no code needed | Nov 27 to Nov 30, 2026 | ✅ |
 
 <!-- category-link -->
 [View all Miscellaneous deals](https://ctrlfriday.com/?category=miscellaneous&year=2026#deals)

@@ -55,13 +55,16 @@ For 2026, use:
 | `technical-interviews-preparation` | Interview preparation, coding practice, and system design resources |
 | `developer-courses` | Technical courses and learning platforms |
 | `ui-kits-starter-kits` | UI components, templates, starter kits, and boilerplates |
-| `developer-tools` | Developer applications, utilities, and hosting |
+| `developer-tools` | Tools for building, testing, and debugging software |
+| `developer-infrastructure` | Hosting, deployment, managed cloud services, and production monitoring |
 | `books-for-developers-and-software-engineers` | Developer books and related resources |
 | `ai-powered-tools-for-developers` | AI applications and developer APIs |
 | `design-kits` | Icons, design assets, and design systems |
 | `design-courses` | Design and UI/UX courses |
 | `design-books` | Books and ebooks about UI, UX, graphic design, and typography |
 | `productivity-tools` | Notes, tasks, calendars, focus tools, and desktop workflows |
+| `desktop-customization` | Window management, launchers, Dock and menu bar tools, and desktop appearance |
+| `screen-capture` | Screenshots, screenshot annotation and organization, and screen or demo recording |
 | `general-ai-tools` | General-purpose AI chat, writing, research, and automation tools |
 | `design-tools` | Visual design, prototyping, and illustration apps |
 | `marketing-seo` | Email marketing, advertising, audience research, and search optimization |

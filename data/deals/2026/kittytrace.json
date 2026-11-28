@@ -3,7 +3,7 @@
   "name": "KittyTrace",
   "url": "https://kittytrace.com/",
   "categories": [
-    "developer-tools"
+    "developer-infrastructure"
   ],
   "description": "Host a Sentry-compatible error tracker on Cloudflare or your own server.",
   "offer": "34% off: $29 → $19 one-time with code **BF2026**",

@@ -17,7 +17,12 @@
     {
       "const": "developer-tools",
       "title": "Developer tools",
-      "description": "Developer applications, utilities, and hosting."
+      "description": "Tools for building, testing, and debugging software."
+    },
+    {
+      "const": "developer-infrastructure",
+      "title": "Developer infra",
+      "description": "Hosting, deployment, managed cloud services, and production monitoring."
     },
     {
       "const": "books-courses",
@@ -28,6 +33,16 @@
       "const": "productivity-tools",
       "title": "Productivity",
       "description": "Task management, notes, calendars, focus tools, and desktop workflows."
+    },
+    {
+      "const": "desktop-customization",
+      "title": "Desktop setup",
+      "description": "Window and workspace managers, launchers, Dock and menu bar tools, and desktop appearance."
+    },
+    {
+      "const": "screen-capture",
+      "title": "Screen capture",
+      "description": "Tools for taking, annotating, and organizing screenshots or recording screens and software demos."
     },
     {
       "const": "general-ai-tools",

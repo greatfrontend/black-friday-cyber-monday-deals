@@ -3,6 +3,7 @@
   "name": "Super Monitoring",
   "url": "https://www.supermonitoring.com/",
   "categories": [
+    "developer-infrastructure",
     "business-tools"
   ],
   "description": "Monitor the uptime, performance, and behavior of websites and web apps.",

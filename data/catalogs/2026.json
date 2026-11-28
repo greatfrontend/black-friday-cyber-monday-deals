@@ -23,6 +23,11 @@
       "heading": "Developer tools"
     },
     {
+      "id": "developer-infrastructure",
+      "name": "Developer infra",
+      "heading": "Developer infra"
+    },
+    {
       "id": "ai-powered-tools-for-developers",
       "name": "AI-powered tools for developers",
       "heading": "AI-powered tools for developers"
@@ -66,6 +71,16 @@
       "id": "productivity-tools",
       "name": "Productivity",
       "heading": "Productivity"
+    },
+    {
+      "id": "desktop-customization",
+      "name": "Desktop setup",
+      "heading": "Desktop setup"
+    },
+    {
+      "id": "screen-capture",
+      "name": "Screen capture",
+      "heading": "Screen capture"
     },
     {
       "id": "utilities",
