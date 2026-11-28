@@ -1,0 +1,12 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Atris",
+  "url": "https://atris.ai/black-friday",
+  "categories": ["ai-powered-tools-for-developers", "general-ai-tools", "productivity-tools"],
+  "description": "AI workspace with a cloud computer and monthly credits, available on the web, macOS, through CLI and MCP, and in ChatGPT.",
+  "offer": "Up to 75% off Atris Pro Month 1 (negotiate from $20 down to $5 in 5 turns, no code needed)",
+  "couponCodes": [],
+  "validity": "Nov 27 – Dec 1, 2026 (12:01 AM PT)",
+  "latest": true,
+  "addedAt": "2026-11-28T09:14:34+08:00"
+}
