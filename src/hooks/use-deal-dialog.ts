@@ -1,3 +1,4 @@
+import { useRouter } from '@void/react';
 import { useEffect, useState } from 'react';
 
 interface DealSelection {
@@ -23,6 +24,7 @@ export function readBrowseYear(params: URLSearchParams) {
 }
 
 export function useDealDialog(currentYear: number) {
+  const router = useRouter();
   const [selection, setSelection] = useState<DealSelection | null>(null);
 
   useEffect(() => {
@@ -38,7 +40,7 @@ export function useDealDialog(currentYear: number) {
     return () => window.removeEventListener('popstate', restore);
   }, [currentYear]);
 
-  function openDeal(id: string, year: number) {
+  async function openDeal(id: string, year: number) {
     const url = new URL(window.location.href);
     const alreadyOpen = url.searchParams.has('deal');
     const entry: DealDialogEntry = {
@@ -48,10 +50,12 @@ export function useDealDialog(currentYear: number) {
     url.searchParams.set('deal', id);
     url.searchParams.set('year', String(year));
 
-    if (alreadyOpen) {
-      window.history.replaceState(window.history.state, '', url);
-    } else {
-      window.history.pushState({ ...window.history.state, [dialogHistoryKey]: entry }, '', url);
+    // Let Void record the list position before adding the shareable deal URL.
+    await router.visit(url, { replace: alreadyOpen, preserveState: true, preserveScroll: true });
+    if (window.location.href !== url.href) return;
+
+    if (!alreadyOpen) {
+      window.history.replaceState({ ...window.history.state, [dialogHistoryKey]: entry }, '');
     }
     setSelection({ id, year });
   }
