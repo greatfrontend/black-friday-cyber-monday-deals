@@ -31,7 +31,6 @@ import { SponsorSlots } from './sponsor-slots';
 interface DirectoryProps {
   initialCatalog: Catalog;
   index: CatalogIndex;
-  builtAt: string;
 }
 
 function revealDealsHeading() {
@@ -46,7 +45,7 @@ function revealDealsHeading() {
   });
 }
 
-export function Directory({ initialCatalog, index, builtAt }: DirectoryProps) {
+export function Directory({ initialCatalog, index }: DirectoryProps) {
   const { filters, resultsQuery, updateFilters, clearFilters } = useDirectoryFilters(index);
   const { category, savedOnly, sort, year } = filters;
   const { catalog, error, retry } = useCatalog(initialCatalog, year);
@@ -203,12 +202,7 @@ export function Directory({ initialCatalog, index, builtAt }: DirectoryProps) {
       </a>
       <SiteHeader onContribute={() => setContributing(true)} />
       <main>
-        <Hero
-          year={index.currentYear}
-          catalog={initialCatalog}
-          builtAt={builtAt}
-          onDetails={openCurrentDeal}
-        />
+        <Hero year={index.currentYear} catalog={initialCatalog} onDetails={openCurrentDeal} />
         {sponsorship && (
           <SponsorSlots
             catalog={initialCatalog}

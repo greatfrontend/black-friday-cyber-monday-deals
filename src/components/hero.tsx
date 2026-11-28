@@ -1,6 +1,6 @@
-import { useEffect, useState } from 'react';
+import { useEffect, useMemo, useState } from 'react';
 import type { Catalog, Deal } from '../lib/types';
-import { formatCheckedDate, getFeaturedDeals } from '../lib/deals';
+import { formatCheckedDate, getFeaturedDeals, getLatestDealAddedAt } from '../lib/deals';
 import { getActiveSponsorship } from '../lib/sponsors';
 import { cn } from '../lib/utils';
 import { SaleArtwork } from './sale-artwork';
@@ -9,17 +9,24 @@ import { HeroSlots } from './hero-slots';
 interface HeroProps {
   year: number;
   catalog: Catalog;
-  builtAt: string;
   onDetails: (deal: Deal) => void;
 }
 
-export function Hero({ year, catalog, builtAt, onDetails }: HeroProps) {
+export function Hero({ year, catalog, onDetails }: HeroProps) {
   const sponsorship = getActiveSponsorship(catalog);
+  const latestAddedAt = useMemo(() => getLatestDealAddedAt(catalog.deals), [catalog.deals]);
   const [timeZone, setTimeZone] = useState<string>();
 
   useEffect(() => {
     setTimeZone(Intl.DateTimeFormat().resolvedOptions().timeZone);
   }, []);
+
+  const updated = latestAddedAt ? (
+    <>
+      {', updated '}
+      <time dateTime={latestAddedAt}>{formatCheckedDate(latestAddedAt, timeZone)}</time>
+    </>
+  ) : null;
 
   return (
     <section
@@ -62,17 +69,12 @@ export function Hero({ year, catalog, builtAt, onDetails }: HeroProps) {
             )}
           >
             For developers and designers
-            {timeZone ? (
-              <span className="motion-safe:animate-[fade-in_300ms_ease-out_both]">
-                {', updated '}
-                <time dateTime={builtAt}>{formatCheckedDate(builtAt, timeZone)}</time>
-              </span>
-            ) : (
-              <noscript>
-                {', updated '}
-                <time dateTime={builtAt}>{formatCheckedDate(builtAt)}</time>
-              </noscript>
-            )}
+            {updated &&
+              (timeZone ? (
+                <span className="motion-safe:animate-[fade-in_300ms_ease-out_both]">{updated}</span>
+              ) : (
+                <noscript>{updated}</noscript>
+              ))}
             .
           </p>
         </div>

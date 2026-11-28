@@ -7,6 +7,7 @@ import {
   getOfferLabel,
   getDealKey,
   getFeaturedDeals,
+  getLatestDealAddedAt,
 } from '../src/lib/deals.ts';
 import { getFaviconUrl } from '../src/lib/favicon.ts';
 import {
@@ -56,6 +57,15 @@ const catalog = {
     },
   ],
 };
+
+test('the latest deal addition compares actual times across offsets and skips undated deals', () => {
+  const latest = '2026-11-27T09:00:00Z';
+  assert.equal(
+    getLatestDealAddedAt([{}, { addedAt: latest }, { addedAt: '2026-11-27T16:00:00+08:00' }]),
+    latest,
+  );
+  assert.equal(getLatestDealAddedAt([{}]), undefined);
+});
 
 test('search matches all query words across product content, categories, and coupon codes', () => {
   assert.deepEqual(

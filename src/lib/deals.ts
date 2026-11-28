@@ -58,6 +58,22 @@ export function filterDeals(catalog: Catalog, filters: Filters, saved: string[])
   return matching;
 }
 
+export function getLatestDealAddedAt(deals: readonly Pick<Deal, 'addedAt'>[]) {
+  let latestAddedAt: string | undefined;
+  let latestTimestamp = -Infinity;
+
+  for (const { addedAt } of deals) {
+    if (!addedAt) continue;
+    const timestamp = Date.parse(addedAt);
+    if (timestamp > latestTimestamp) {
+      latestAddedAt = addedAt;
+      latestTimestamp = timestamp;
+    }
+  }
+
+  return latestAddedAt;
+}
+
 export function formatCheckedDate(value: string | null, timeZone = 'Asia/Singapore') {
   if (!value) return 'Checking date not recorded';
   const hasTime = value.length > 10;
