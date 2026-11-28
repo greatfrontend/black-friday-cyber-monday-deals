@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "holoform",
+  "url": "https://holoform.cc/pricing?promo=BLACKFRIDAY",
+  "categories": [
+    "design-tools"
+  ],
+  "description": "Browser studio for layered trading cards and photocards with 3D holographic/foil previews, 300 DPI layout exports, and AI line art.",
+  "offer": "20% off all one-time AI credit packs + 10% extra bonus credits with code **BLACKFRIDAY**",
+  "couponCodes": [
+    "BLACKFRIDAY"
+  ],
+  "validity": "Nov 26 - Dec 1, 2026 (UTC)",
+  "latest": null,
+  "addedAt": "2026-11-27T13:18:19Z"
+}
