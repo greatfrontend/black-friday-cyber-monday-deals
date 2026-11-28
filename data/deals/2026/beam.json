@@ -1,0 +1,12 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Beam",
+  "url": "https://www.beam.cloud/pricing",
+  "categories": ["developer-tools", "ai-powered-tools-for-developers"],
+  "description": "Serverless GPUs, sandboxes and VMs for AI apps and agents, billed by usage.",
+  "offer": "2x credits: every credit purchase is matched 1:1, up to $100 in free credits (buy $20, get $20 free). Auto-applied, no code needed, new and existing accounts",
+  "couponCodes": [],
+  "validity": "Nov 27 – Nov 30, 2026, ends 11:59 PM ET",
+  "latest": true,
+  "addedAt": "2026-11-28T09:24:30+08:00"
+}
