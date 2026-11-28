@@ -1,6 +1,6 @@
 ## Summary
 
-<!-- Briefly describe what you're adding or updating. -->
+<!-- Briefly describe the change. For a deal, say whether you make or represent the product or are sharing it independently. -->
 
 ## Checklist
 
