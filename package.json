@@ -13,6 +13,7 @@
     "data:check": "node scripts/deals.mjs check",
     "data:export": "node scripts/deals.mjs export",
     "test": "vp test run",
+    "test:e2e": "playwright test",
     "format": "vp fmt --write .",
     "format:check": "vp fmt --check .",
     "verify": "vp check && vp run typecheck"
@@ -33,6 +34,7 @@
     "tailwind-merge": "^3.7.1"
   },
   "devDependencies": {
+    "@playwright/test": "1.65.1",
     "@tailwindcss/vite": "^4.3.5",
     "@types/react": "^19.2.14",
     "@types/react-dom": "^19.2.3",

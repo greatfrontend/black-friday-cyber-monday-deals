@@ -55,6 +55,7 @@ export function useDealDialog(currentYear: number) {
     if (window.location.href !== url.href) return;
 
     if (!alreadyOpen) {
+      // Keep the underlying collection year with this entry for Back and Forward.
       window.history.replaceState({ ...window.history.state, [dialogHistoryKey]: entry }, '');
     }
     setSelection({ id, year });
@@ -70,7 +71,7 @@ export function useDealDialog(currentYear: number) {
 
     url.searchParams.delete('deal');
     if (url.searchParams.get('year') === String(currentYear)) url.searchParams.delete('year');
-    window.history.replaceState(window.history.state, '', url);
+    void router.visit(url, { replace: true, preserveState: true, preserveScroll: true });
   }
 
   return { selection, openDeal, closeDeal };

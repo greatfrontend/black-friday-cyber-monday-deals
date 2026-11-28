@@ -103,6 +103,13 @@ Commit the product JSON and generated Markdown together. You can edit JSON direc
 
 Do not edit Markdown tables directly or commit `public/data/`. Exports are generated on development startup and before production builds. Pull requests check required fields, category IDs, filenames, URLs, and Markdown synchronization.
 
+For website interaction changes, run the browser tests against a local production build:
+
+```sh
+pnpm exec playwright install chromium
+pnpm run test:e2e
+```
+
 ## Open a pull request
 
 Fill in the [default PR template](.github/pull_request_template.md), or use the [sponsor PR template](.github/PULL_REQUEST_TEMPLATE/sponsor.md) when claiming a slot. If the description starts blank, copy the template into it. Keep the checklist and tick each statement that is true for your submission.
