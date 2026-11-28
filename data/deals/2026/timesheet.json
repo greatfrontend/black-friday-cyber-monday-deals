@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Timesheet",
+  "url": "https://timesheet.io/en/pricing",
+  "categories": [
+    "productivity-tools",
+    "business-tools"
+  ],
+  "description": "Time tracking and reporting for individuals and teams.",
+  "offer": "New customers get 50% off the first year of annual plans. US first-year prices are $29.99 for Plus, $49.99 per user for Pro and $89.99 per user for Business. No code needed.",
+  "couponCodes": [],
+  "validity": "Ends Nov 30, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T13:22:12+08:00"
+}

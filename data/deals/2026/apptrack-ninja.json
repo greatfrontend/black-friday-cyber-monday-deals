@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "AppTrack Ninja",
+  "url": "https://apptrack.ninja/pricing",
+  "categories": [
+    "developer-tools",
+    "marketing-seo"
+  ],
+  "description": "Tracks App Store launches, rankings and keywords.",
+  "offer": "Pro Lifetime is $89 once. The standard Pro subscription is $69.99/year.",
+  "couponCodes": [],
+  "validity": "Ends Nov 30, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T13:22:12+08:00"
+}

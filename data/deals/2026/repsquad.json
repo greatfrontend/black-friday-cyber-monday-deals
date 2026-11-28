@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "RepSquad",
+  "url": "https://www.escapethematrix.app/products/ai-rep-counter/",
+  "categories": [
+    "health-and-fitness"
+  ],
+  "description": "iPhone workout rep counter with on-device motion tracking.",
+  "offer": "20% off Lifetime with App Store code **REP60**, bringing the US price to $39.99 instead of $49.99.",
+  "couponCodes": [
+    "REP60"
+  ],
+  "validity": "-",
+  "latest": null,
+  "addedAt": "2026-11-28T13:22:12+08:00"
+}

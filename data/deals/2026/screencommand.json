@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "ScreenCommand",
+  "url": "https://apps.apple.com/us/app/screencommand-tv-web-browser/id6792524904",
+  "categories": [
+    "productivity-tools",
+    "utilities"
+  ],
+  "description": "Uses an iPhone or iPad as the keyboard and trackpad for a web browser on an external display.",
+  "offer": "25% off the one-time purchase. The US App Store price is $3.69.",
+  "couponCodes": [],
+  "validity": "Ends Nov 30, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T13:22:12+08:00"
+}

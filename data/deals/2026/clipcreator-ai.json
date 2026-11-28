@@ -1,0 +1,17 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "ClipCreator.ai",
+  "url": "https://clipcreator.ai/",
+  "categories": [
+    "social-media-tools",
+    "design-tools"
+  ],
+  "description": "Creates short videos and schedules them for social channels.",
+  "offer": "Discounted first month with code **BF2026**. The Starter plan displays $11 for the first month and $19/mo afterward.",
+  "couponCodes": [
+    "BF2026"
+  ],
+  "validity": "-",
+  "latest": null,
+  "addedAt": "2026-11-28T13:22:12+08:00"
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "VoxWrite",
+  "url": "https://voxwrite.app/",
+  "categories": [
+    "productivity-tools",
+    "general-ai-tools"
+  ],
+  "description": "Browser dictation extension with AI text cleanup.",
+  "offer": "30% off Lifetime with **BF2026**, bringing it to €27.99, or 30% off the first four months of the managed plan with **BF2026SAAS**.",
+  "couponCodes": [
+    "BF2026",
+    "BF2026SAAS"
+  ],
+  "validity": "Ends Dec 31, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T13:22:12+08:00"
+}

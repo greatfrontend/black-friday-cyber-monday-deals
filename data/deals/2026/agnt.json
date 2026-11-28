@@ -1,0 +1,17 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "AGNT",
+  "url": "https://agnt.gg/pricing",
+  "categories": [
+    "ai-powered-tools-for-developers",
+    "developer-tools"
+  ],
+  "description": "Tools for building and running AI workflows locally or in the cloud.",
+  "offer": "40% off the first year of annual plans with code **BLACKFRIDAY**. Pro is $174 instead of $290, and Team is $594 instead of $990.",
+  "couponCodes": [
+    "BLACKFRIDAY"
+  ],
+  "validity": "Ends Nov 30, 2026 at 11:59 PM PT",
+  "latest": null,
+  "addedAt": "2026-11-28T13:22:12+08:00"
+}

@@ -1,0 +1,17 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Snipzr",
+  "url": "https://www.snipzr.com/pricing",
+  "categories": [
+    "marketing-seo",
+    "developer-tools"
+  ],
+  "description": "URL shortener with custom domains and cookieless link analytics.",
+  "offer": "50% off the first year of Pro with **BFCM26**, bringing it to $45 instead of $90.",
+  "couponCodes": [
+    "BFCM26"
+  ],
+  "validity": "Ends Dec 1, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T13:22:12+08:00"
+}

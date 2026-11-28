@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "StockPortfolio.pro",
+  "url": "https://www.stockportfolio.pro/pricing",
+  "categories": [
+    "finance-tools"
+  ],
+  "description": "Stock portfolio tracking and analysis software.",
+  "offer": "Up to 25% off the first subscription payment, applied automatically. Monthly is $59.99 for the first month, and Annual is $487.49 for the first year.",
+  "couponCodes": [],
+  "validity": "Ends Nov 30, 2026 at 11:59 PM ET",
+  "latest": null,
+  "addedAt": "2026-11-28T13:22:12+08:00"
+}

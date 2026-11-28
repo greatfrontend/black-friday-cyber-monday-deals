@@ -1,0 +1,17 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "BlueChimp",
+  "url": "https://www.blue-chimp.com/pricing",
+  "categories": [
+    "marketing-seo",
+    "business-tools"
+  ],
+  "description": "Sales platform for finding accounts and tracking buying intent.",
+  "offer": "50% off Growth for six months or 50% off eligible monthly or yearly Dealflow subscriptions with **BFIntent**.",
+  "couponCodes": [
+    "BFIntent"
+  ],
+  "validity": "Ends Nov 29, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T13:22:12+08:00"
+}

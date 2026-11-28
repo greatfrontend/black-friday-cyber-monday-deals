@@ -1,0 +1,17 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "TaskVille",
+  "url": "https://taskville.co/",
+  "categories": [
+    "general-ai-tools",
+    "business-tools"
+  ],
+  "description": "AI assistant platform for routine business, scheduling and content tasks.",
+  "offer": "55% off the first month of a monthly plan with code **BLACK199**, applied at checkout.",
+  "couponCodes": [
+    "BLACK199"
+  ],
+  "validity": "Ends Nov 30, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T13:22:12+08:00"
+}

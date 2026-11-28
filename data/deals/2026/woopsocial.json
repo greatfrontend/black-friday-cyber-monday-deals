@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "WoopSocial",
+  "url": "https://woopsocial.com/black-friday",
+  "categories": [
+    "social-media-tools"
+  ],
+  "description": "Tool for scheduling and publishing social posts across multiple platforms.",
+  "offer": "30% off eligible paid plans with code **BFCM2026**.",
+  "couponCodes": [
+    "BFCM2026"
+  ],
+  "validity": "-",
+  "latest": null,
+  "addedAt": "2026-11-28T13:22:12+08:00"
+}

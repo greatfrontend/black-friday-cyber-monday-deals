@@ -1,0 +1,17 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Widgets for Notion",
+  "url": "https://widgetsfornotion.com/premium",
+  "categories": [
+    "productivity-tools",
+    "design-kits"
+  ],
+  "description": "Embeddable Notion widgets for calendars, time zones and other workspace data.",
+  "offer": "50% off Lifetime with code **BLACKFRIDAY**, bringing it to $9.50 instead of $19.",
+  "couponCodes": [
+    "BLACKFRIDAY"
+  ],
+  "validity": "-",
+  "latest": null,
+  "addedAt": "2026-11-28T13:22:12+08:00"
+}

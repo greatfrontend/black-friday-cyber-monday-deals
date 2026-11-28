@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "ONE Personal Assistant",
+  "url": "https://brazn.one/en/pricing",
+  "categories": [
+    "general-ai-tools",
+    "productivity-tools"
+  ],
+  "description": "Connects Claude or ChatGPT to work apps for managing messages, meetings and tasks.",
+  "offer": "The first year of Personal is $12, an 80% discount. Collaboration is 70% off and Teams is about 67% off on annual billing.",
+  "couponCodes": [],
+  "validity": "Ends Nov 30, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T13:22:12+08:00"
+}

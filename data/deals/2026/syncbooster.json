@@ -1,0 +1,17 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "SyncBooster",
+  "url": "https://syncbooster.pl/cennik",
+  "categories": [
+    "social-media-tools",
+    "marketing-seo"
+  ],
+  "description": "Polish social publishing tool for businesses and agencies.",
+  "offer": "40% off the first three months of monthly plans with **BLACK40**. Monthly prices during the offer are PLN 77.40 for Start, PLN 149.40 for Business and PLN 269.40 for Business Pro.",
+  "couponCodes": [
+    "BLACK40"
+  ],
+  "validity": "Ends Nov 30, 2026 at 11:59 PM CET",
+  "latest": null,
+  "addedAt": "2026-11-28T13:22:12+08:00"
+}

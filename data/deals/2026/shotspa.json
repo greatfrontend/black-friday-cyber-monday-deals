@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Shotspa",
+  "url": "https://www.anuragsoni.com/shotspa",
+  "categories": [
+    "screen-capture",
+    "design-tools"
+  ],
+  "description": "Mac screenshot tool that adds backgrounds, shadows and perspective effects, with local redaction.",
+  "offer": "$20 once instead of the $24 launch price. The license covers up to two Macs. Applied automatically.",
+  "couponCodes": [],
+  "validity": "Ends Nov 30, 2026 at 11:59 PM PT",
+  "latest": null,
+  "addedAt": "2026-11-28T13:22:12+08:00"
+}

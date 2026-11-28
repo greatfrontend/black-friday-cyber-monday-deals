@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Body Vitals",
+  "url": "https://www.escapethematrix.app/products/body-vitals/",
+  "categories": [
+    "health-and-fitness"
+  ],
+  "description": "iPhone health widgets and Apple Watch readiness dashboards using Apple Health data.",
+  "offer": "60% off Lifetime with App Store code **OFF60**, bringing the US price to $39.99 instead of $99.99.",
+  "couponCodes": [
+    "OFF60"
+  ],
+  "validity": "-",
+  "latest": null,
+  "addedAt": "2026-11-28T13:22:12+08:00"
+}

@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Hushpad",
+  "url": "https://selahsoftware.gumroad.com/l/hushpad/BLACKFRIDAY",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Local Mac dictation app for composing and editing text in other apps.",
+  "offer": "30% off the one-time license with code **BLACKFRIDAY**, bringing it to $14 instead of $20.",
+  "couponCodes": [
+    "BLACKFRIDAY"
+  ],
+  "validity": "Ends Dec 1, 2026 at 11:59 PM PT",
+  "latest": null,
+  "addedAt": "2026-11-28T13:22:12+08:00"
+}

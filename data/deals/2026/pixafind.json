@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "PixaFind",
+  "url": "https://pixafind.com/",
+  "categories": [
+    "productivity-tools",
+    "design-tools"
+  ],
+  "description": "Local semantic search for photos and documents on Mac, Windows and Linux.",
+  "offer": "50% off the first payment. Lifetime is $124.50, Pro Yearly is $48 for the first year, and Pro Monthly is $6 for the first month. Applied at checkout.",
+  "couponCodes": [],
+  "validity": "Ends Nov 30, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T13:22:12+08:00"
+}

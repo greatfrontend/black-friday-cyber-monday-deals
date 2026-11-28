@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "SILVER: Black & White Camera",
+  "url": "https://apps.apple.com/us/app/silver-black-white-camera/id6813106996",
+  "categories": [
+    "design-tools"
+  ],
+  "description": "Black-and-white camera and photo journal app for iPhone and iPad.",
+  "offer": "SILVER Pro is $2.99 as a one-time purchase in the US App Store.",
+  "couponCodes": [],
+  "validity": "-",
+  "latest": null,
+  "addedAt": "2026-11-28T13:22:12+08:00"
+}

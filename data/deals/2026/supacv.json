@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "SupaCV",
+  "url": "https://supacv.com/pricing",
+  "categories": [
+    "productivity-tools",
+    "general-ai-tools"
+  ],
+  "description": "Resume feedback, cover-letter drafting and interview practice tools.",
+  "offer": "80% off the first payment on paid plans. The discount is applied at checkout.",
+  "couponCodes": [],
+  "validity": "Ends Dec 31, 2026 at 23:59 UTC",
+  "latest": null,
+  "addedAt": "2026-11-28T13:22:12+08:00"
+}

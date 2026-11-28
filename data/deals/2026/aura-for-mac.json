@@ -1,0 +1,17 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "aura for Mac",
+  "url": "https://tryaura.eu/",
+  "categories": [
+    "desktop-customization",
+    "utilities"
+  ],
+  "description": "Mac notch controls and a live wallpaper for currently playing music.",
+  "offer": "40% off Pro with code **BLACKFRIDAY**. Lifetime is $10.80 instead of $18, or the first monthly payment is $1.20 instead of $2.",
+  "couponCodes": [
+    "BLACKFRIDAY"
+  ],
+  "validity": "Ends Nov 30, 2026 at 23:00 UTC",
+  "latest": null,
+  "addedAt": "2026-11-28T13:22:12+08:00"
+}

@@ -379,8 +379,6 @@ To add or update a deal, follow the [contribution guide](CONTRIBUTING.md) to ope
 
 If you're submitting your own product, star the repo first. We may remove or reorder low-quality listings.
 
-Additional 2026 offers came from the [Awesome Black Friday / Cyber Monday list](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday).
-
 ---
 
 ## Disclaimer

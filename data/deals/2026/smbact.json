@@ -1,0 +1,17 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "SMBAct",
+  "url": "https://smblob.com/products/smbact/",
+  "categories": [
+    "desktop-customization",
+    "productivity-tools"
+  ],
+  "description": "Window manager and app switcher with keyboard layouts for Windows, macOS and Linux.",
+  "offer": "30% off every license with code **BF2026**. One device is €10.49 and three devices are €20.99, before VAT.",
+  "couponCodes": [
+    "BF2026"
+  ],
+  "validity": "Ends Dec 31, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T13:22:12+08:00"
+}

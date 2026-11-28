@@ -1,0 +1,17 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "DASH",
+  "url": "https://dashcanvas.dev/",
+  "categories": [
+    "developer-tools",
+    "ai-powered-tools-for-developers"
+  ],
+  "description": "Desktop workspace for running coding agents side by side on macOS or Windows.",
+  "offer": "The one-time license is $29.99 instead of $49.99 with code **BLACKFRIDAY**.",
+  "couponCodes": [
+    "BLACKFRIDAY"
+  ],
+  "validity": "Ends Nov 30, 2026 at 11:59 PM PT",
+  "latest": null,
+  "addedAt": "2026-11-28T13:22:12+08:00"
+}

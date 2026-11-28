@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Simply Fluent",
+  "url": "https://www.simplyfluent.com/offer/BLACKFRIDAY30/",
+  "categories": [
+    "miscellaneous"
+  ],
+  "description": "Language-learning reader that provides translations and saves vocabulary from books.",
+  "offer": "30% off the first year of Premium with **BLACKFRIDAY30**, bringing it to €41.99 instead of €59.99. Renews at €59.99/year.",
+  "couponCodes": [
+    "BLACKFRIDAY30"
+  ],
+  "validity": "Ends Nov 30, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T13:22:12+08:00"
+}

@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "KwaFlux",
+  "url": "https://kwaflux.com/pricing",
+  "categories": [
+    "design-tools"
+  ],
+  "description": "Local desktop app for enhancing and upscaling video.",
+  "offer": "Perpetual is $129.99 instead of $199.99. The first year is $59.99 instead of $79.99, or the first month is $19.99 instead of $35.99. No code needed.",
+  "couponCodes": [],
+  "validity": "Nov 17 to Nov 30, 2026 PT",
+  "latest": null,
+  "addedAt": "2026-11-28T13:22:12+08:00"
+}

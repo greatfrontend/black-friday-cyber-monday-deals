@@ -1,0 +1,17 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Tenoa",
+  "url": "https://tenoa.app/",
+  "categories": [
+    "design-tools",
+    "productivity-tools"
+  ],
+  "description": "Local visual library with semantic search for images and documents.",
+  "offer": "$34 once instead of $49 with code **BLACKFRIDAY26**. Covers up to three computers and includes the first year of sync and updates.",
+  "couponCodes": [
+    "BLACKFRIDAY26"
+  ],
+  "validity": "Ends Nov 30, 2026 at 11:59 PM PT",
+  "latest": null,
+  "addedAt": "2026-11-28T13:22:12+08:00"
+}

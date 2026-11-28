@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Diet Tracker",
+  "url": "https://diettracker.me/",
+  "categories": [
+    "health-and-fitness"
+  ],
+  "description": "Food diary for logging meals and reviewing eating habits.",
+  "offer": "60% off Lifetime with **BFCM26**, bringing the one-time price from $50 to $20. Applied at checkout.",
+  "couponCodes": [
+    "BFCM26"
+  ],
+  "validity": "Through Dec 1, 2026 ET",
+  "latest": null,
+  "addedAt": "2026-11-28T13:22:12+08:00"
+}
